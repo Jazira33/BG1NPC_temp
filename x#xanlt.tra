@@ -226,7 +226,7 @@
 @225  = ~Ce sera donc une machine à massacrer, alors. Au moins, plus personne ne me dérangera avec des geignements et remarques incessantes.~
 @226  = ~*renifler* Je l'ai déjà perdue. La vie est tellement insupportable...~
 @227  = ~C'est ce que tu penses. Seul le temps nous le dira, j'imagine, et encore, c'est supposer que nous avons du temps devant nous.~
-@228  = ~Ce ne sera plus mon cas, en tout cas.  Plus maintenant. Excuse-moi.~
+@228  = ~Ce ne sera plus mon cas, en tout cas. Plus maintenant. Excuse-moi.~
 @229  = ~*soupir* C'est vrai. Mais ces derniers temps, elle semble presque vraisemblable. Je me demande si c'est ta compagnie qui me tourne la tête, et la mienne qui te mène au chagrin ?~
 @230  = ~Peut-être... peut-être qu'à l'avenir, tu décideras de renoncer à cette trajectoire autodestructrice, et vivras une longue vie heureuse, comme tu le mérites.~
 @231  = ~Si la chance se présente, je la saisirai.~
@@ -356,7 +356,7 @@
 @355  = ~Comme tu voudras.~
 @356  = ~Peut-être qu'il serait préférable que tu quittes le groupe, alors.~
 @357  = ~Mais tu es près de moi. Tu es tellement proche, et tu te rapproches tellement, que c'est de plus en plus difficile à supporter chaque jour qui passe.~
-@358  = ~Est-ce que ça va ? Je ne me suis jamais senti mieux ! Je vais mourir, ma ville sera en ruine d'ici quelques années, mon esprit sera emprisonné quasiment pour l'éternité dans un morceau de métal enchanté...  tout va parfaitement !~
+@358  = ~Est-ce que ça va ? Je ne me suis jamais senti mieux ! Je vais mourir, ma ville sera en ruine d'ici quelques années, mon esprit sera emprisonné quasiment pour l'éternité dans un morceau de métal enchanté... tout va parfaitement !~
 @359  = ~Oui, tel est mon souhait.~
 @360  = ~C'est ce que je vais faire. Adieu, <CHARNAME>... et pardonne-moi.~
 @361  = ~Je veux mettre fin à ces tourments, une fois pour toutes. Tu ne comprends pas de quoi je parle, n'est-ce pas ? Tu n'as jamais été enlevée et torturée ; des décennies d'errance ne t'ont pas usée ; tu n'as jamais aimé qui que ce soit ; tu conçois cette vie comme un jeu. Tu ne comprends même pas la notion de mourir.~
@@ -393,7 +393,7 @@
 @392  = ~Xan... Je ne peux pas répondre à tes sentiments. Mais je t'en prie, ne pars pas. Je ne mens pas lorsque je te dis que j'ai besoin de toi.~
 @393  = ~Oui, ce sera mieux pour toi comme pour moi. Je te souhaite bonne route, <CHARNAME>.~
 @394  = ~Je ne peux croire que tu sois sourde et aveugle. Viens là. *soupir* Bien que ces sentiments soient regrettables et navrants... non, je ne les calomnierai pas. Je ressens pour toi, <CHARNAME>, tout ce qu'un homme peut ressentir pour une femme. De l'affection, de l'attirance, de l'amour, du désir... mais cela finira par mal se terminer. Cela ne peut en être autrement.~
-@395  = ~Comment ? ! Ah non, tu ne vas pas te sauver ainsi après avoir dit cela.~
+@395  = ~Comment ?! Ah non, tu ne vas pas te sauver ainsi après avoir dit cela.~
 @396  = ~Je... jamais je n'avais osé espérer entendre une telle confession... Moi aussi, je t'aime, Xan.~
 @397  = ~*large sourire* En voilà une révélation. Qui êtes-vous, et qu'avez-vous fait de Xan ?~
 @398  = ~Xan, je suis désolée, mais je ne t'aime pas. Peut-être qu'effectivement, ton départ est nécessaire.~
@@ -467,7 +467,7 @@
 @466  = ~Ce n'est pas vrai. J'apprécie tes conseils, mais je ne suis pas à l'aise avec l'idée de discuter en tête à tête.~
 @467  = ~Xan, si tu souhaites parler en tête à tête, c'est le moment où jamais, puisqu'ils se sont tous éloignés grâce à ma tactique de diversion futée !~
 @468  = ~Non, ce n'était pas du tout mon intention. Je t'en prie, pardonne-moi si je t'ai mise mal à l'aise avec ma frivole requête.~
-@469  = ~Mais comment ai-je pu naïvement espérer que tu m'accordes un seul instant de ton si précieux temps ? !~
+@469  = ~Mais comment ai-je pu naïvement espérer que tu m'accordes un seul instant de ton si précieux temps ?!~
 @470  = ~Peut-être as-tu deviné que je voulais être seul avec toi, mais j'étais trop timide pour te poser la question franchement, et j'ai fait une piètre plaisanterie à la place.~
 @471  = ~Vraiment ?~
 @472  = ~Ou-Oui...~
@@ -826,7 +826,7 @@ Estel de la tranquilité~
 @818  = ~*Xan est en train de dessiner quelque chose sur une feuille qu'il a déchirée dans son livre de sorts. A en juger par les regards furtifs qu'il vous jette de temps à autre, vous parvenez aisément à deviner quelle est la nature de son dessein.*~
 @819  = ~*Il baille, apparemment fatigué, et s'appuie sur sa Lame de Lune.* <CHARNAME>, je ne veux pas insinuer quoi que ce soit, mais quand allons-nous nous reposer ? Il serait regrettable que je vienne à mourir d'épuisement ce soir. Regrettable pour moi, bien sûr.~
 @820  = ~Je repensais à notre première rencontre... et je ne suis pas encore décidé si c'était une bonne ou une mauvaise chose. Tu m'as sauvé des griffes de Mulahey, mais nos derniers combats me font presque regretter que tu m'aies libéré de cette grotte abandonnée.~
-@821  = ~Et bien sûr, il y a une autre raison.... Mais je préfère ne pas en parler.~
+@821  = ~Et bien sûr, il y a une autre raison... Mais je préfère ne pas en parler.~
 @822  = ~Depuis combien de temps es-tu sur les routes, <CHARNAME> ? Des semaines ? Des mois ? Tu sembles presque aussi puissante et expérimentée que moi-même. Je peine à y croire... et cela me fait peur. Je n'ai jamais connu qui que ce soit capable de faire autant de progrès en si peu de temps.~
 @823  = ~*Xan fait un pas dans votre direction, mais ses chaussures, détrempées par la dernière pluie, glougloutent désagréablement. Ses robes en soie sont trempées, elles aussi, et avec ses cheveux humides, il donne une bien pitoyable image. Il a dû lire quelque chose sur votre visage, car Xan tressaille et fait volte-face, serrant sa cape au plus près de lui alors qu'il marche.* ~
 @824  = ~<CHARNAME>, puisque nous allons mourir de toute façon, est-ce que tu...~
@@ -1117,11 +1117,11 @@ Estel de la tranquilité~
 @1109 = ~*Xan pose une main sur votre tête et commence à parler tout doucement, sans jamais quitter les fleurs des yeux.* Elles viennent de ressusciter d'entre les morts. La plus fragile des flammes, le plus subtil des parfums et la fragilité la plus empreinte de vulnérabilité... il est rare de trouver un spectacle aussi merveilleux en ces terres. Je n'ai pas osé les ramasser et ce faisant, les tuer, mais si je pouvais maintenir cette beauté, ne serait-ce qu'un instant, je le ferais. *soupir* En revanche, ce n'est plus faisable que de posséder la lumière des étoiles ou le souffle du vent. Nous ne sommes que des invités et des ombres pâles en ce monde, et lorsque nous ne serons plus là, l'éternité ne le remarquera même pas.~
 @1110 = ~Mais nous avons cet instant, ce bref moment dans l'infini, et je ne le gâcherai pas. Peut-être que je vais mourir aujourd'hui, cette heure-ci, à cet instant. Ou peut-être vais-je vivre. Mais malgré la mort, la vie, le danger, je t'aime. Tu es un miracle encore plus grand que celui de ces fleurs, même si il est tout aussi fugace. Je t'aime, <CHARNAME>.~
 @1111 = ~*soupir* Mais je t'ai gardée suffisamment longtemps. Retournons au camp et faisons face au jour... et prie pour que ce ne soit pas le dernier.~
-@1112 = ~*Vous remarquez qu'Ajantis et Xan soit en train d'avoir une conversation bien animée.  A en juger par la façon dont ils cessent abruptement de parler alors que vous vous approchez, vous devinez que vous êtes à l'origine de ce débat houleux. Leurs visages vous laissent penser qu'ils pourraient bien en venir aux mains, et vous vous rendez compte que les choses ne peuvent pas continuer ainsi.*~ [X#BLANK]
+@1112 = ~*Vous remarquez qu'Ajantis et Xan soit en train d'avoir une conversation bien animée. À en juger par la façon dont ils cessent abruptement de parler alors que vous vous approchez, vous devinez que vous êtes à l'origine de ce débat houleux. Leurs visages vous laissent penser qu'ils pourraient bien en venir aux mains, et vous vous rendez compte que les choses ne peuvent pas continuer ainsi.*~ [X#BLANK]
 @1113 = ~*Connaissant les sentiments qu'Ajantis et Xan ont pour vous, vous décidez que votre coeur penche plutôt pour Ajantis. A partir de maintenant, vous démontrerez votre préférence avec tact.*~
 @1114 = ~*Connaissant les sentiments qu'Ajantis et Xan ont pour vous, vous décidez que votre coeur penche plutôt pour Xan. A partir de maintenant, vous démontrerez votre préférence avec tact.*~
 @1115 = ~*Connaissant les sentiments qu'Ajantis et Xan ont pour vous, vous décidez que vous ne voulez d'aucun de vos prétendants. A partir de maintenant, vous démontrerez votre préférence avec tact.*~
-@1116 = ~*Vous remarquez que Coran et Xan soit en train d'avoir une conversation bien animée.  A en juger par la façon dont ils cessent abruptement de parler alors que vous vous approchez, vous devinez que vous êtes à l'origine de ce débat houleux. Leurs visages vous laissent penser qu'ils pourraient bien en venir aux mains, et vous vous rendez compte que les choses ne peuvent pas continuer ainsi.*~ [X#BLANK]
+@1116 = ~*Vous remarquez que Coran et Xan soit en train d'avoir une conversation bien animée. À en juger par la façon dont ils cessent abruptement de parler alors que vous vous approchez, vous devinez que vous êtes à l'origine de ce débat houleux. Leurs visages vous laissent penser qu'ils pourraient bien en venir aux mains, et vous vous rendez compte que les choses ne peuvent pas continuer ainsi.*~ [X#BLANK]
 @1117 = ~*Connaissant les sentiments que Coran et Xan ont pour vous, vous décidez que votre coeur penche plutôt pour Coran. A partir de maintenant, vous démontrerez votre préférence avec tact.*~
 @1118 = ~*Connaissant les sentiments que Coran et Xan ont pour vous, vous décidez que votre coeur penche plutôt pour Xan. A partir de maintenant, vous démontrerez votre préférence avec tact.*~
 @1119 = ~*Connaissant les sentiments que Coran et Xan ont pour vous, vous décidez que vous ne voulez d'aucun de vos prétendants. A partir de maintenant, vous démontrerez votre préférence avec tact.*~
@@ -1142,7 +1142,7 @@ Estel de la tranquilité~
 @1134 = ~Se faire plaisir. "Mourir et en finir" serait un meilleur conseil pour vous, je pense.~
 @1135 = ~Oui, mais un tel conseil ne serait bon qu'après la survenue de mon inévitable perte. Jusque-là, la vie est peut-être futile, mais elle est assez plaisante la plupart du temps, et je ne vois aucune raison de prétendre le contraire tout simplement parce que sa fin sera obligatoirement déplorable. Pourquoi ne pas en profiter à son propre rythme ?~
 @1136 = ~*soupir* Eldoth, votre incompréhensible bavardage ne fait que me donner la migraine. A quoi cela mène-t-il ?~
-@1137 = ~*Mener* quelque part ?!? <CHARNAME>, vous êtes témoin ! Votre mage domestique déclare que les petits plaisirs doivent avoir un "but" ; ce ne serait plus des petits plaisirs dans ce cas ! Je pense qu'il déshabillerait son épouse le soir de leur mariage dans le seul but de produire *frisson moqueur* une descendance !~
+@1137 = ~*Mener* quelque part ?! <CHARNAME>, vous êtes témoin ! Votre mage domestique déclare que les petits plaisirs doivent avoir un "but" ; ce ne serait plus des petits plaisirs dans ce cas ! Je pense qu'il déshabillerait son épouse le soir de leur mariage dans le seul but de produire *frisson moqueur* une descendance !~
 @1138 = ~Eldoth, CA SUFFIT ! Moi aussi j'ai la migraine maintenant ! Franchement, j'aimerais parfois que vous soyez moins... sophistiqué.~
 @1139 = ~Ah, pour l'amour d'Oghma, Xan, tu es insupportable ! Eldoth ne fait qu'essayer de te remonter le moral.~
 @1140 = ~Les garçons, pourriez-vous être un peu plus aimables l'un avec l'autre ?~
@@ -1173,7 +1173,7 @@ Estel de la tranquilité~
 @1165 = ~Peu-peut-être, mais une lame émoussée n'a jamais fait de mal à personne ; ce n'est que pour s'entraîner, au cas où les compétences seraient nécessaires plus tard.~
 @1166 = ~Xan, j'étais ami avec Gorion, le père adoptif de <CHARNAME>. Il nous a tran-transmis, à Jaheira et moi, son rôle de tuteur. Et je vous demande de prendre en considération votre amitié avec <CHARNAME>. Je crains que votre relation ne fasse plus de b-bien que de mal.~
 @1167 = ~*soupir* Continuez, s'il le faut.~
-@1168 = ~Vous vou-voudriez l'emmener à Evereska. Vous êtes obligé. C'est votre cité, et vous avez juré, à travers votre Lame de Lune, de la dé-défendre. Et pourtant <CHARNAME> y serait rejetée, traitée comme une étrangère...  Je... Je ne sais pas ce que l'avenir lui réserve, mais je sais que son bonheur, et peut-être même sa vie, sont en jeu. Je crains qu'elle soit isolée, appauvrie, assez facilement par vos attentions.~
+@1168 = ~Vous vou-voudriez l'emmener à Evereska. Vous êtes obligé. C'est votre cité, et vous avez juré, à travers votre Lame de Lune, de la dé-défendre. Et pourtant <CHARNAME> y serait rejetée, traitée comme une étrangère... Je... Je ne sais pas ce que l'avenir lui réserve, mais je sais que son bonheur, et peut-être même sa vie, sont en jeu. Je crains qu'elle soit isolée, appauvrie, assez facilement par vos attentions.~
 @1169 = ~Xan ?~
 @1170 = ~*soupir* Je vais réfléchir à vos paroles, Khalid. Mais je pense que vous vous leurrez si vous pensez que mon avis, votre avis ou celui de <CHARNAME> a une quelconque importance : comme vous le savez très bien, nous sommes tous perdus.~
 @1171 = ~Si nous le sommes, pou-pourquoi rechercher la compagnie de <CHARNAME>, alors ?~

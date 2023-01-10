@@ -1,7 +1,7 @@
 // Isaya : correction de sauts de ligne manquants avant @nn
 
 // (toutes les réactions des compagnons sont strictement identiques avec le x#lp1rep.tra)
-// (négociations: identique sauf en 145 / 158 pour les montants - les textes sont légèrement modifiés)
+// (négociations : identique sauf en 145 / 158 pour les montants - les textes sont légèrement modifiés)
 @0 = ~Salutations, voyageurs ! Je vous en prie, laissez-moi me présenter. Je suis Robert, un barde de grand renom, bien qu'assailli de quelques éphémères soucis financiers. Mon malheur fait des heureux, comme on dit, car j'ai le plaisir de pouvoir vous offrir une opportunité normalement réservée aux seuls clients les plus riches et les plus prestigieux. Voulez-vous en entendre davantage ?~
 @1 = ~Cela dépend. Quelle sorte de services pouvez-vous offrir exactement ?~
 @2 = ~Je n'ai pas vraiment assez d'argent pour parrainer les arts rien que pour leurs beaux yeux. Pouvez-vous m'offrir quelque chose d'utile en échange de mon or ?~
@@ -128,7 +128,7 @@
 
 //Dynaheir, en présence de Minsc
 @72 = ~Minsc, jamais une parole prudente n'a fait de mal, mais mes oreilles tintent aux fausses intonations de ce barde. Comment l'on peut espérer être acclamé au-delà de son mérite, je ne sais, mais j'espère que Tu marcheras avec prudence.~
-@73 =  ~Minsc a dit vrai, et pourtant Tu devrais user de prudence. Ne laisse pas nos ennemis deviner notre position grâce à des bardes trop diserts.~
+@73 = ~Minsc a dit vrai, et pourtant Tu devrais user de prudence. Ne laisse pas nos ennemis deviner notre position grâce à des bardes trop diserts.~
 @74 = ~Souhaites-Tu que toute âme sur Féérune soit au courant de Tes affaires ? Prends garde à ne pas perdre plus que de l'or.~
 
 //Dynaheir, sans Minsc
@@ -139,7 +139,7 @@
 //Edwin
 @77 = ~Dépenser son argent en paroles s'avère toujours payant. (Ce ne sont pas ces simiens qui pourraient comprendre les subtilités d'une magistrale manipulation de l'opinion publique.)~
 @78 = ~(Hmmm. Si cela continue, je pourrais bien me faire un nom à rendre fort envieux le reste des Magiciens Rouges. Et alors ils paieront ! Ils paieront tous... ) Nous *pourrions* nous laisser tenter par un peu plus de notoriété, <CHARNAME>, si notre budget le permettait.~
-@79 =  ~On n'est jamais trop riche ou trop célèbre, <CHARNAME>. (Sauf dans le cas présent, où il est nécessaire de devenir moins riche pour devenir plus célèbre, mais peu importe. Les dames aiment les hommes de pouvoir, n'est-ce pas ?)~
+@79 = ~On n'est jamais trop riche ou trop célèbre, <CHARNAME>. (Sauf dans le cas présent, où il est nécessaire de devenir moins riche pour devenir plus célèbre, mais peu importe. Les dames aiment les hommes de pouvoir, n'est-ce pas ?)~
 
 //Branwen
 @80 = ~Imbéciles. Pensez-vous pouvoir tromper le dieu des armes ? Donne ce que tu veux au ménestrel, ce sera donner de l'or pour du cuivre.~

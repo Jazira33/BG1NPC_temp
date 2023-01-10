@@ -244,7 +244,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 757, probablement inutile de traduire ici !
 @116   = ~D'accord. Il faut que je voie ça. Euh, entende.~
 /* Kerrachus, en réaction à l'annonce du monde sphérique et de Maztica (échange à choix multiples avec le PJ) */
-@117   = ~Un nouveau monde !? Waouh ! Ça semble si excitant ! Je voudrais y aller un jour !~
+@117   = ~Un nouveau monde ?! Waouh ! Ça semble si excitant ! Je voudrais y aller un jour !~
 // Réponses à @117
 @118   = ~Allons, Imoen ! Je te croyais plus intelligente que ça ! Il te fait marcher tout simplement.~
 @119   = ~Je dis quand même que ses informations sont quelque peu embrouillées. Il se peut qu'il y ait un nouveau monde, mais son explication est celle d'un lunatique.~
@@ -261,7 +261,7 @@
 // Après @120
 @127   = ~*soupir* Ouais. Je suppose que t'as raison. C'est vraiment dommage, pourtant. Réellement.~
 // Après @127, @131
-@128   = ~J'aimerais vraiment voir ce qu'on pourrait trouver dans une zone inexplorée de ce monde ! Peut-être qu'ils ont une race d'humains avec les cheveux roses ! Ce serait le plus génial, pas vrai !?~
+@128   = ~J'aimerais vraiment voir ce qu'on pourrait trouver dans une zone inexplorée de ce monde ! Peut-être qu'ils ont une race d'humains avec les cheveux roses ! Ce serait le plus génial, pas vrai ?!~
 // Après @121 (les 3 d'Imoen)
 @129   = ~C'est ça l'esprit ! Aucun lieu n'est trop lointain ! Nul endroit trop inconnu ! Aucun lieu trop dangereux pour nous !~
 @130   = ~Enfin, du moment qu'il y a un endroit où une fille peut faire un brin de toilette de temps en temps au moins.~
@@ -374,7 +374,7 @@
 @174   = ~*vous frappe vraiment fort* Espèce d'idiot ! Pour quelle raison as-tu fait ça ? Nous aurions pu l'avoir facilement. La prochaine fois que nous rencontrerons ce genre de bandits, c'est moi qui négocierai, c'est compris ?~
          ~*vous frappe vraiment fort* Espèce d'idiote ! Pour quelle raison as-tu fait ça ? Nous aurions pu l'avoir facilement. La prochaine fois que nous rencontrerons ce genre de bandits, c'est moi qui négocierai, c'est compris ?~
 /* Téthtoril, après qu'il est révélé l'anagramme Sarevok - Korevas */
-@175   = ~Tu as entendu ça !? Sarevok ! Ça me semble plutôt louche, tu crois pas ?~
+@175   = ~Tu as entendu ça ?! Sarevok ! Ça me semble plutôt louche, tu crois pas ?~
 /* Vitiare, si Minsc n'est pas là */
 // Vitiare s'adresse au PJ, accord possible
 // Si PJ voleur
@@ -495,19 +495,19 @@
 @240   = ~Sûr ! C'est le nom idéal pour moi, quelqu'un doté de tant de talents !~
 @241   = ~Bon, allons-y maintenant. Il ne serait pas convenable de gâcher inutilement mon magnifique talent, tu sais ?~
 // Après @225, PJ féminin
-@242   = ~D'ACCORD !? Peut-être que tu ne te rappelles pas combien de fois ils t'ont montré les preuves d'une farce que tu n'avais jamais faite ou les fois où tes affaires disparaissaient pour réapparaître quelque part ailleurs dans ta chambre, ou la fois où ta robe est devenue transparente au centre de la grand-place ? Je suis sûre que les gardes de Château-Suif pourraient se souvenir de celle-là. Probablement même certains des vieux érudits bourrus, aussi. Cela avait nécessité beaucoup de préparation, de stratégie et de finesse...~
+@242   = ~D'ACCORD ?! Peut-être que tu ne te rappelles pas combien de fois ils t'ont montré les preuves d'une farce que tu n'avais jamais faite ou les fois où tes affaires disparaissaient pour réapparaître quelque part ailleurs dans ta chambre, ou la fois où ta robe est devenue transparente au centre de la grand-place ? Je suis sûre que les gardes de Château-Suif pourraient se souvenir de celle-là. Probablement même certains des vieux érudits bourrus, aussi. Cela avait nécessité beaucoup de préparation, de stratégie et de finesse...~
 @243   = ~*pouffe* Rien que d'y penser...~
 // Réponses à @242-243 et @248-243, servent aussi bien pour PJ masculin que féminin
 @244   = ~*rougit* J-Je ne vois pas de quoi tu veux parler. Il doit s'agir de quelqu'un d'autre...~
-@245   = ~*rouge de colère* C'ÉTAIT TOI !? VIENS ICI, AVANT QUE TU NE LE REGRETTES.~
+@245   = ~*rouge de colère* C'ÉTAIT TOI ?! VIENS ICI, AVANT QUE TU NE LE REGRETTES.~
 @246   = ~Ainsi, tu m'as joué quelques tours quand nous étions jeunes. La belle affaire ! Nous sommes adultes maintenant, Imoen, et il nous faut accomplir de *véritables* actions pour nous traiter de Magnifique.~
 @247   = ~Et que dis-tu de la fois où toutes les fourchettes de l'auberge de M. Winthrop avaient disparu et où tout le monde pensait que c'était de ta faute ? Et ton livre préféré, que tu n'arrivais pas à ouvrir quoi que tu essaies ? Ou le tapis qui s'enroulait de lui-même chaque fois que tu essayais de le frapper avec ta tapette ? Ha ! Je t'ai eue à quelques reprises, moi-aussi !~
 // Après @225, PJ masculin
 // A REVOIR : qualificatifs de filles... younger-than-one-hundred-years-old-last-supper girls
-@248   = ~D'ACCORD !? Peut-être que tu ne te rappelles pas combien de fois ils t'ont montré les preuves d'une farce que tu n'avais jamais faite ou les fois où tes affaires disparaissaient pour réapparaître quelque part ailleurs dans ta chambre, ou la fois où tu as perdu ton pantalon au centre de la grand-place ? Je suis sûre que presque tout le monde s'en souvient. Les gardes ont bien rigolé, de même que beaucoup de ces... euh... filles de moins de cent ans ! Même celle dont tu t'étais un peu amouraché... hum... comment s'appelait-elle ? Ah, peu importe.~
+@248   = ~D'ACCORD ?! Peut-être que tu ne te rappelles pas combien de fois ils t'ont montré les preuves d'une farce que tu n'avais jamais faite ou les fois où tes affaires disparaissaient pour réapparaître quelque part ailleurs dans ta chambre, ou la fois où tu as perdu ton pantalon au centre de la grand-place ? Je suis sûre que presque tout le monde s'en souvient. Les gardes ont bien rigolé, de même que beaucoup de ces... euh... filles de moins de cent ans ! Même celle dont tu t'étais un peu amouraché... hum... comment s'appelait-elle ? Ah, peu importe.~
 // Après @225, PJ voleur
-@249   = ~*lance un regard furieux* D'ACCORD !? Ecoute, je sais que tu essayais toujours de me battre, tu sais, mais tu sais pourquoi tu étais toujours celui qu'on blâmait, et jamais moi ? Pourquoi tu étais toujours celui contraint de faire toutes ces corvées supplémentaires et pas moi ? Alors, tu sais ?~
-         ~*lance un regard furieux* D'ACCORD !? Ecoute, je sais que tu essayais toujours de me battre, tu sais, mais tu sais pourquoi tu étais toujours celle qu'on blâmait, et jamais moi ? Pourquoi tu étais toujours celle contrainte de faire toutes ces corvées supplémentaires et pas moi ? Alors, tu sais ?~
+@249   = ~*lance un regard furieux* D'ACCORD ?! Ecoute, je sais que tu essayais toujours de me battre, tu sais, mais tu sais pourquoi tu étais toujours celui qu'on blâmait, et jamais moi ? Pourquoi tu étais toujours celui contraint de faire toutes ces corvées supplémentaires et pas moi ? Alors, tu sais ?~
+         ~*lance un regard furieux* D'ACCORD ?! Ecoute, je sais que tu essayais toujours de me battre, tu sais, mais tu sais pourquoi tu étais toujours celle qu'on blâmait, et jamais moi ? Pourquoi tu étais toujours celle contrainte de faire toutes ces corvées supplémentaires et pas moi ? Alors, tu sais ?~
 // Réponses à @249
 @250   = ~Je me posais un peu la question.~
 @251   = ~Ça n'a plus aucune importance. En plus nous sommes dans la nature et il n'y a pas personne d'autre vers qui aller...~
@@ -575,8 +575,8 @@
 @281   = ~Un autre assassin. C'est le cinquième. J'en ai rencontré deux avant de quitter Château-Suif. Un autre juste après le départ de Château-Suif. Et ce mage sur le pas de la porte de l'auberge de Brasamical...~
 @282   = ~Un autre assassin. C'est le sixième. J'en ai rencontré deux avant de quitter Château-Suif. Un autre juste après le départ de Château-Suif. Et ce mage sur le pas de la porte de l'auberge de Brasamical... Et le nain à la 'Gerbe Rouge'.~
 // Après @279, @280, @281 et @282
-@283   = ~Tu veux dire que tu as été attaqué à l'intérieur même des murs de Château-Suif !? Pourquoi ne me l'as-tu pas dit avant que tu partes ?~
-         ~Tu veux dire que tu as été attaquée à l'intérieur même des murs de Château-Suif !? Pourquoi ne me l'as-tu pas dit avant que tu partes ?~
+@283   = ~Tu veux dire que tu as été attaqué à l'intérieur même des murs de Château-Suif ?! Pourquoi ne me l'as-tu pas dit avant que tu partes ?~
+         ~Tu veux dire que tu as été attaquée à l'intérieur même des murs de Château-Suif ?! Pourquoi ne me l'as-tu pas dit avant que tu partes ?~
 // Réponses à @283
 @284   = ~Je ne voulais pas t'inquiéter et t'avoir dans les pattes, comme tu le fais en ce moment.~
 @285   = ~J'ai essayé, mais tu as dit que tu étais trop occupée.~
@@ -643,7 +643,7 @@
 @320   = ~Alors peut-être que tu ne devrais pas regarder bouche bée et faire des blagues. Allez, séducteur ! *tire la langue*~
 // Après @314 et @315
 @321   = ~Hmff !~
-/* 3: Return to Candlekeep */
+/* 3 : Return to Candlekeep */
 @322   = ~Château-Suif... Je n'avais jamais imaginé que je reviendrais ici, et en particulier aussi vite. Ça fait remonter toutes sortes de souvenirs, n'est-ce pas ?~
 // Réponses à @322
 @323   = ~Oui, en effet.~
@@ -666,7 +666,7 @@
 // REVOIR "à la maison" (hometown)
 @334   = ~Dieux ! Que tu es silencieux aujourd'hui. Je veux dire, ce n'est pas tous les jours que l'on revient chez soi, tu sais.~
          ~Dieux ! Que tu es silencieuse aujourd'hui. Je veux dire, ce n'est pas tous les jours que l'on revient chez soi, tu sais.~
-/* #4: Malar : suite à la mort d'Osmadi (c'est lui qui invoque la vengeance de Malar) */
+/* #4 : Malar : suite à la mort d'Osmadi (c'est lui qui invoque la vengeance de Malar) */
 @335   = ~Qui est ce Malar dont parlait ce mec ?~
 // Réponses à @335
 // Intelligence PJ > 7
@@ -723,7 +723,7 @@
 // Baine parle d'ailleurs de "querelles" quand il choisit son pouvoir
 // Tout changement est à confirmer avec CorrecFr ("discorde" ?)
 @362   = ~Un des incidents les plus connus dans lequel il fut impliqué est aujourd'hui connu comme « L'Histoire des Trois Morts ». Malar rendait visite à Jergal, le Seigneur de la Fin de Toutes Choses et le premier dieu de la mort, de l'anéantissement et des défunts.~
-// Remarque : traduction originale, "Gaste grise" pour "Grey waste" !?
+// Remarque : traduction originale, "Gaste grise" pour "Grey waste" ?!
 @363   = ~Bref, Malar était venu au moment où ceux qui deviendraient connus comme Les Trois Morts, Myrkul, Bhaal et Baine, se disputaient le pouvoir de Jergal, puisqu'il s'était lassé de cette tâche. Ils allaient se partager le pouvoir entre eux. Evidemment, Malar voulait une part du gâteau. Les Trois Morts lancèrent des crânes dans la Gaste Grise et Malar partit chercher un autre crâne pour lui.~
 @364   = ~Manifestement, aucun d'eux ne voulaient partager le pouvoir avec lui. Ainsi, quand il fut parti, ils décidèrent d'un nouveau jeu avec des osselets et, quand Malar revint avec un crâne, leur jeu était terminé. Malar s'en alla furieux de partir sans rien, mais il ne pouvait rien y faire.~
 @365   = ~Enfin, c'est juste un incident parmi tant d'autres, mais c'est assez pour cette fois car je vois que tu t'endors.~
@@ -761,7 +761,7 @@
 @380   = ~Du moment que tu promets que je n'aurais pas à t'enterrer non plus.~
 /* Assassin 2 (après @278), on n'a pas évoqué les autres */
 // Imoen
-@381   = ~Un autre !? J'ai su qu'elle en avait après toi dès qu'elle a attaqué, mais c'est... c'en est trop pour moi. Je veux dire, je n'aime pas ça, pas du tout. Pour commencer tu te fais attaquer devant Château-Suif par une sorte de violent maniaque en quête de ton sang, et Gorion meurt. Ensuite à nouveau devant l'auberge de Brasamical, avant même que nous rencontrions Jaheira et Khalid ! Et maintenant ici, aussi ! Tu t'es fait attaquer et tu as failli mourir sur le pas de porte d'une nouvelle auberge ! C'en est trop !~
+@381   = ~Un autre ?! J'ai su qu'elle en avait après toi dès qu'elle a attaqué, mais c'est... c'en est trop pour moi. Je veux dire, je n'aime pas ça, pas du tout. Pour commencer tu te fais attaquer devant Château-Suif par une sorte de violent maniaque en quête de ton sang, et Gorion meurt. Ensuite à nouveau devant l'auberge de Brasamical, avant même que nous rencontrions Jaheira et Khalid ! Et maintenant ici, aussi ! Tu t'es fait attaquer et tu as failli mourir sur le pas de porte d'une nouvelle auberge ! C'en est trop !~
 // Khalid
 @382   = ~S-si nous avions su qu'un assassin vous attendait devant l'auberge, nous les aurions combattus également, p-pas vrai, Jaheira ?~
 // Jaheira

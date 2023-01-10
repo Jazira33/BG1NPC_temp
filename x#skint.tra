@@ -39,7 +39,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 267, probablement inutile de traduire ici !
 @19 = ~Votre père ne fera rien du tout, Demoiselle Ecudargent. A moins que vous ne trouviez un moyen de le réveiller d'entre les morts.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 268, probablement inutile de traduire ici !
-@20 = ~Quoi ?!? Que... qu'est-ce que vous dites ?~
+@20 = ~Quoi ?! Que... qu'est-ce que vous dites ?~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 269, probablement inutile de traduire ici !
 @21 = ~J'ai bien peur que votre père n'ait malheureusement été patiemment découpé en petits morceaux par une ou plusieurs personnes d'identités inconnues.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 270, probablement inutile de traduire ici !
@@ -47,7 +47,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 271, probablement inutile de traduire ici !
 @23 = ~Ah... Mais, en raison de l'état d'urgence actuel, on a dû les réassigner à des tâches plus importantes.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 272, probablement inutile de traduire ici !
-@24 = ~Quoi ?! Plus IMPORTANTES !?! Qu'est-ce qui peut être plus important pour la ville que la vie d'un Grand-Duc ?~
+@24 = ~Quoi ?! Plus IMPORTANTES ?! Qu'est-ce qui peut être plus important pour la ville que la vie d'un Grand-Duc ?~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 273, probablement inutile de traduire ici !
 @25 = ~Les vies, ainsi que les propriétés de tous les citoyens doivent être sécurisées pour le maintien de l'ordre public. Oh, et nous devons aussi nous protéger de l'invasion venue d'Amn. A moins que vous n'en ayez pas entendu parler, au cours de votre grande expédition avec vos camarades hors-la-loi ?~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 274, probablement inutile de traduire ici !
@@ -108,7 +108,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 589, probablement inutile de traduire ici !
 @47 = ~Mais... mais... j'ai... *tellement* faim...~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 590, probablement inutile de traduire ici !
-@48 = ~Vraiment ?!? Dans ce cas, vous et votre pièce chèrement acquise n'avez rien à craindre de moi. Je ne détrousse pas les gens qui vendent de la viande de rat.~
+@48 = ~Vraiment ?! Dans ce cas, vous et votre pièce chèrement acquise n'avez rien à craindre de moi. Je ne détrousse pas les gens qui vendent de la viande de rat.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 591, probablement inutile de traduire ici !
 @49 = ~Vous êtes une sainte, madame.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 592, probablement inutile de traduire ici !
@@ -148,10 +148,10 @@
 @68 = ~Hmph, habillée comme un rat d'égout, et avec ton sac sur le dos ? J'en doute fort, très chère. Tu nous quittes, c'est ça ? ~
 @69 = ~SAL... oui. Je m'en vais. Euh... vous allez le dire à mon père ?~
 @70 = ~Hmmm... le lui dire ? Mais bien sûr que non ! Les évènements prennent une tournure très intéressante...~
-@71 = ~Quoi...?~
+@71 = ~Quoi... ?~
 @72 = ~Très chère, tu n'es qu'une petite fille gâtée-pourrie. Tu pleurniches dès lors que tu te casses un *ongle*. Tu penses vraiment survivre dans le grand méchant monde ? C'est sans doute l'un des paris les plus stupides auxquels j'ai jamais assistée.~
 @73 = ~Et lorsque tu mourras au cours de tes pérégrinations, *je* serai la seule assise sur la fortune des Ecudargent.~
-@74 = ~Pars, maintenant. Mais... tu pourrais peut-être laisser ton ami ici, hmm...? *sourit à Eldoth*~
+@74 = ~Pars, maintenant. Mais... tu pourrais peut-être laisser ton ami ici, hmm... ? *sourit à Eldoth*~
 // BG1 NPC : texte proche dans le fichier x#ict3.tra au numéro 250, probabilité 60.0
 // BG1 NPC : texte proche dans le fichier x#ict3.tra au numéro 855, probabilité 60.0
 // BG1 NPC : texte proche dans le fichier x#ict3.tra au numéro 925, probabilité 59.4
@@ -203,7 +203,7 @@
 @112 = ~Ehhh... halte ! Qui va là... Et bien, 'moiselle Skie ! Z'êtes pas supposée être dans l'coin ! Vot'père l'a dit !~
 @113 = ~Pourtant, il me semble clair que je *suis* dans le coin, et que je dois m'en aller. J'ai des affaires très urgentes dont je dois m'occuper.~
 @114 = ~M-mais... 'moiselle Skie... vot'père n'a jamais parlé 'd'affaires très urgentes', juste que vous deviez plus faire le mur.~
-@115 = ~Mon père vous a dit quoi faire dans l'éventualité où je 'ferais le mur' encore une fois ?~
+@115 = ~Mon père vous a dit quoi faire dans l'éventualité où je « ferais le mur » encore une fois ?~
 @116 = ~Ehhh... pas aussi clairement, non... j'suppose que je peux toujours aller l'dire à quelqu'un... ou à quelque chose.~
 
 //Eldoth et Skie discutent à propos de Jopha

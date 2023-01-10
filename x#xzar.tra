@@ -116,7 +116,7 @@
 
 // Alora/xzar
 
-@90 = ~Ô petite dame aux doigts agiles, s'il vous plait, racontez-moi une histoire.~
+@90 = ~Ô petite dame aux doigts agiles, s'il vous plaît, racontez-moi une histoire.~
 @91 = ~Qu-quel genre d'histoire veux-tu entendre ?~
 @92 = ~Une petite fable joyeuse sur de gais halfelings qui bavardent, boivent de la bière, égorgent leurs troupeaux, tirant séparément sur chacun des nerfs de leurs victimes afin de prolonger leur extatique agonie, jusqu'à ce que cela devienne une forme d'art.~
 @93 = ~C'est ignoble ! Je... Je ne crois pas que je t'apprécie !~
@@ -144,7 +144,7 @@
 @109 = ~Hauts les coeurs, sorcier. En cas de besoin, tu trouveras ma lame non moins compétente que mon tir d'élite. Un compagnon plutôt rassurant pour vous, je dirais, si jamais nous étions assaillis par le flanc.~
 @110 = ~Vraiment ? Vous vous sacrifieriez pour me sauver ? Alors que nous nous connaissons depuis si peu de temps ? A vrai dire, je ne vous aurais pas cru capable de faire preuve aussi vite d'un tel discernement.~
 @111 = ~Je n'ai pas exactement parlé de 'sacrifice'. Je ne suis pas plus suicidaire que toi.~
-@112 = ~Quoi ?!? Vous refuseriez de mourir pour une cause si noble ? Alors j'avais raison ! <CHARNAME> *est* une andouille !~
+@112 = ~Quoi ?! Vous refuseriez de mourir pour une cause si noble ? Alors j'avais raison ! <CHARNAME> *est* une andouille !~
 
 // Xzar/ Dynaheir
 
@@ -198,7 +198,7 @@
 @150 = ~Quand ? A l'instant même. Qui ? Je ne pourrais le dire, Toril est très vaste... Mais quelqu'un est mort. Une bête, un oiseau, une plante, un homme... Sache-le, nécromant.~
 @151 = ~Ah, je vois. Il est bon de savoir que notre commun compagnon de lit est toujours à l'oeuvre. Et je ne vaux pas plus pour la norme statistique que n'importe quel homme qui se soit jamais déchaîné contre elle mais... Je refuse d'être sa victime !~
 @152 = ~Tu n'auras pas plus ton mot à dire sur la question que n'importe quel autre homme ou éphémère.~
-@153 = ~C'est ce que les pessimistes ont dit au grand Vecna, et pourtant dans ces régions-là on ne peut pas trouver de Chianti décent à moins de trois pièces d'or. Où est l'équilibre de la nature là-dedans !?!~
+@153 = ~C'est ce que les pessimistes ont dit au grand Vecna, et pourtant dans ces régions-là on ne peut pas trouver de Chianti décent à moins de trois pièces d'or. Où est l'équilibre de la nature là-dedans ?!~
 
 // Xzar/Garrick
 
@@ -254,7 +254,7 @@
 
 @192 = ~Hmmm ? Un peu plus fort, ami Bouh. J'ai du mal à... oohooho, ah, ah, ah. Oh oui, c'est ce qu'il est, n'est-ce pas ?~
 @193 = ~... que dis-tu ?~
-@194 = ~AHAHAHAH ! Oh, arrêtez, Bouh, vous êtes en train de me tuer... s'il vous plait, Minsc, ne nous interrompez pas. C'est très grossier.~
+@194 = ~AHAHAHAH ! Oh, arrêtez, Bouh, vous êtes en train de me tuer... s'il vous plaît, Minsc, ne nous interrompez pas. C'est très grossier.~
 @195 = ~C'est TOI qui es grossier. Bouh n'exclurait jamais Minsc pendant qu'il dispense sa sagesse.~
 @196 = ~Oh, bien sûr ! Vous pensez qu'il va *vous* dire ce qu'il dit sur vous ?~
 @197 = ~Tu me fais pitié pitié, Xzar. Tu te remets à écouter des voix dans ta tête, plutôt que Bouh. Crois-en mon expérience, car je connais la différence.~
@@ -273,7 +273,7 @@
 
 @205 = ~... des rêves... pénibles...~
 @206 = ~Alors à quoi que tu pensais, grand Penseur ?~
-@207 = ~Je pensais ... avec quelle effronterie un gilet écarlate se mesure à un pantalon bleu.~
+@207 = ~Je pensais... avec quelle effronterie un gilet écarlate se mesure à un pantalon bleu.~
 @208 = ~A supposer que tu aies raison, garde ça pour ton mercier. Pense à aut' chose.~
 @209 = ~Oh, ça... Je suppose que le fait devrait être communiqué... mais pas tant que notre présente incertitude ne se sera pas considérablement simplifiée.~
 @210 = ~Clair comme de la boue.~
@@ -301,7 +301,7 @@
 @226 = ~Est-ce quelque chose qui me fera ressembler à ta chère et regrettée moman ?~
 @227 = ~En moins repoussant ; il s'agit d'un laboratoire de vivisection - avec *vous* pour objet d'étude.~
 @228 = ~Merci d'avoir pensé à moi, mon cher, mais je ne crois pas que ton petit halfeling pourrait le porter pour toi. Du reste, je peux penser à bien des choses plus... plaisantes.~
-@229 = ~PLAISANTES !? Mercenaire dégénérée, putrescence expectorante du cloaque de la sensualité, considérez-vous que *je* pourrais me souiller de quoi que ce soit que vous jugiez PLAISANT ?! Pour manger, peut-être, ou pour l'étude... mais certainement pas pour le PLAISIR !~
+@229 = ~PLAISANTES ?! Mercenaire dégénérée, putrescence expectorante du cloaque de la sensualité, considérez-vous que *je* pourrais me souiller de quoi que ce soit que vous jugiez PLAISANT ?! Pour manger, peut-être, ou pour l'étude... mais certainement pas pour le PLAISIR !~
 @230 = ~Imaginez... un nécromancien fou proclamant les hautes vertus morales au-dessus de ma pauvre petite personne.~
 @231 = ~Pesez bien vos paroles, si vous voulez mesurer la profondeur de votre chute... chute, chut-hem-hem et boîte à sucre.~
 
@@ -361,7 +361,7 @@ De Nice à Laval.~
 @270 = ~Le nom perd beaucoup à être traduit dans votre langage indigent. Je pense que vous pourriez le qualifier de Cimetière des Perdants.~
 @271 = ~Quoi ?!~
 @272 = ~Peut-être 'Cimetière des Vies Gaspillées' est-il une traduction plus fidèle. En tout cas, c'est l'endroit ignominieux où sont placés les restes de ceux que la Mère Matrone a jugés inaptes.~
-@273 = ~Inaptes !?~
+@273 = ~Inaptes ?!~
 @274 = ~A quelle autre conclusion devrais-je aboutir ? Je vois une personne de ton talent et de ton penchant, et dont pourtant l'esprit a été brisé par l'irrationalité de la vie surfacine, errant sans but sur des sentiers de traverse sombres et poussiéreux, dépourvue d'honneur et de condition.~
 @275 = ~Quel jugement puis-je porter, sinon 'inapte' ?~
 @276 = ~Ah, je remarque que vous ne prenez pas en compte le fait que le monde extérieur est infiniment plus vaste que ses entrailles. Parmi nous, des excursions telles que celle-ci, bien qu'elles soient inévitablement contrariantes, ne sont pas à traiter par le mépris ipso facto.~

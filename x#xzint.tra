@@ -36,12 +36,12 @@
 @31 = ~Pas'que je m'étais imaginé que vous aviez l'air d'un vainqueur ici, dans cette pièce, et que je voulais en sortir en vie. Mais... ah, on n'y peut rien maintenant. Nous parl'rons aux chefs en portant des scalps du Trône à la ceinture, peut-être qu'ils le prendront pas si mal. Surtout si y'a plus personne pour contredire ce qu'on va leur raconter.~
 @32 = ~Ce serait un titre impressionnant si on était plus de dix ici... en comptant les six dans cette pièce.~
 @33 = ~Pas de sentimentalisme inutile ! Y'a pas d'autre espoir pour aucun d'ent' nous. Personne à l'est ne saura rien d'autre que ce que *nous* leur raconterons, de toute manière.~
-@34 = ~RECOMPENSE ??? Est-ce que c'est ça que vous appelez ainsi ? Être manoeuvré à droite et à gauche, ignoré, privé de secours et d'huile de bain ? <CHARNAME>, nous ne sommes pas tous comme ce porc, j'en jurerais ! Enfin, pas tout à fait comme lui...~
+@34 = ~RECOMPENSE ? Est-ce que c'est ça que vous appelez ainsi ? Être manoeuvré à droite et à gauche, ignoré, privé de secours et d'huile de bain ? <CHARNAME>, nous ne sommes pas tous comme ce porc, j'en jurerais ! Enfin, pas tout à fait comme lui...~
 @35 = ~Hum... oh, oui. <CHARNAME>, aidez-moi à tuer ce misérable idiot et je prendrai sa place de Maître, *et* je serai votre ami pour la vie ! Quelle que soit sa longueur...~
 @36 = ~Désolé, Xzar. C'est toi qui as commencé, c'est toi qui vas terminer. Tout seul.~
 @37 = ~Ahhh, mieux vaut un danger qu'on connaît, je suppose... Allons-y, Xzar !~
 @38 = ~AH ! AH ! Je l'ai fait ! Le salaud n'est plus ! Je vais... je vais... <CHARNAME>, qu'avez-vous fait ?~
-@39 = ~Vous avez assassiné le Maître du Zhentarim, et moi... On me le reprochera ! Pourquoi la vie est-elle aussi injuste ?!?~
+@39 = ~Vous avez assassiné le Maître du Zhentarim, et moi... On me le reprochera ! Pourquoi la vie est-elle aussi injuste ?!~
 @40 = ~Aussi injuste, hein ? Alors je vais te délivrer de ce fardeau, c'est le meilleur moyen de faire taire ta langue mensongère.~
 @41 = ~Du calme ! Comment tes patrons en sauraient-ils rien de plus que ce que tu leur diras ?~
 @42 = ~Eh ? ... ça pourrait marcher... Bien sûr ! Je rapporterai que nous sommes venus ici et que nous les avons trouvés dans cet état lamentable. Ce sont sûrement nos ennemis qui ont fait le coup ! Mon génie a encore triomphé ! <CHARNAME>, sus au Trône de Fer !~
@@ -123,7 +123,7 @@
 @88 = ~Ah... un petit échantillon... pour une conférence... et un article que j'avais en tête... Pour la Revue Annuelle des Nécromanciens.~
 @89 = ~Hu-hu. Tu envisages de jeter ça sur quelqu'un, n'est-ce pas, Xzar ? Une petite 'Flaque verte instantanée en bocal' ?~
 @90 = ~Par les dieux ! Une conférence sur le limon... Nous devons y aller, Xzar.~
-@91 = ~Oh... ah... Pas sur VOUS !! Je veux dire... ça m'a juste traversé l'esprit... un projectile... seulement en cas d'extrême urgence ! Et... sur une cible d'extrême valeur. Vous me laisserez le conserver, n'est-ce pas, <CHARNAME> ? Sivoupléééé ?~
+@91 = ~Oh... ah... Pas sur VOUS ! Je veux dire... ça m'a juste traversé l'esprit... un projectile... seulement en cas d'extrême urgence ! Et... sur une cible d'extrême valeur. Vous me laisserez le conserver, n'est-ce pas, <CHARNAME> ? Sivoupléééé ?~
 @92 = ~Génial. Je commençais à peine à m'habituer à l'idée d'avoir un nécromancien fou dans mon dos, et maintenant j'ai un nécromancien fou avec une poignée de limon vert. Toujours dans mon dos. Xzar, je veux que tu me promettes une chose...~
 @93 = ~Tu l'utilises sur Sarevok et seulement sur Sarevok et *seulement* à distance, de sorte qu'aucun d'entre *nous* n'en soit aspergé.~
 @94 = ~Bon... Garde ça hors de ma vue. Je pourrais être tenté, si Jaheira recommence à me harceler...~
@@ -152,8 +152,8 @@
 @109 = ~Vous avez vraiment une jolie installation ici ; dissoudre les esprits et les volontés, mais pas les corps. Fascinant ! Comment vous y preniez-vous malgré votre... condition ?~
 @110 = ~Heehee. L'addmirrration essst rréelle... Je provoque la douleur.. rrrrejoignez-moiiii, et vvous verrrezz.~
 @111 = ~Ne soyez pas absurde ! Si je voulais vous *rejoindre*, je me contenterais de foncer, n'est-ce pas ? Je veux savoir comment *vous* le faites, non y participer moi-même.~
-@112 = ~Les Sssecrets ne peuvent être partagés avec cccceux qui ont une forrrrme ... mais... vos pensssées vrillent... font beaucoup de mal à Ssschlumpssha... comme des Jeannot Lapins roses et vorpals... ne peux le supporrrter... AARRGH ! Je dois vous ACHEVER *maintenant* !~
-@113 = ~Les Sssecrets ne peuvent être partagés avec cccceux qui ont une forrrrme ... mais... vos pensssées vrillent......~
+@112 = ~Les Sssecrets ne peuvent être partagés avec cccceux qui ont une forrrrme... mais... vos pensssées vrillent... font beaucoup de mal à Ssschlumpssha... comme des Jeannot Lapins roses et vorpals... ne peux le supporrrter... AARRGH ! Je dois vous ACHEVER *maintenant* !~
+@113 = ~Les Sssecrets ne peuvent être partagés avec cccceux qui ont une forrrrme... mais... vos pensssées vrillent...~
 
 // Xzar / Arkion (nécromancien de BG)
 
@@ -243,7 +243,7 @@
 @154 = ~Hé, le mage, tu veux du bon temps ? Je connais des sorts dont tu n'as jamais entendu parler.~
 @155 = ~Ah... non... euh... non, merci.~
 @156 = ~Sois pas timide, mago. L'ignorance est une mauvaise chose, et je t'instruirai super doucement.~
-@157 = ~Non... s'il vous plait...~
+@157 = ~Non... s'il vous plaît...~
 @158 = ~Oooh, est-ce que ce garçon aurait peur ? J'suis pas un gros monstre méchant et charognard, non ?~
 @159 = ~Vous... allez... le devenir !~
-@160 = ~*HUUUURRRLLEMENT !!*~
+@160 = ~*HUUUURRRLLEMENT !*~

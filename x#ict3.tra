@@ -210,7 +210,7 @@
 // Ajantis - Ardrouine
 // BG1 NPC : texte identique dans le fichier x#ajint.tra au numéro 57
 @72   = ~N'ayez plus peur, bonne dame ! Il sera pour nous chose facile de tuer ces worgs qui menacent votre fils !~
-@73   = ~Oh, s'il vous plait, aidez-le !~
+@73   = ~Oh, s'il vous plaît, aidez-le !~
 /* Tiber, demande de retrouver son frère disparu et qui craint le chagrin de sa mère */
 // Viconia
 // BG1 NPC : texte identique dans le fichier x#viint.tra au numéro 125
@@ -410,7 +410,7 @@
 @143  = ~Grr ! La mort se lit dans tes yeux ! Quel regard froid ! Restez en arrière, idiots.~
 /* Non utilisé */
 @144  = ~Devons-nous vous montrer ?~
-/* Canticle (cantique: esclave de bois manteau, barde qui a perdu sa voix) */
+/* Canticle (cantique : esclave de bois manteau, barde qui a perdu sa voix) */
 // Viconia
 // BG1 NPC : texte identique dans le fichier x#viint.tra au numéro 42
 @145  = ~La vie est cruelle envers les faibles, faut s'y faire.~
@@ -421,7 +421,7 @@
 @147  = ~Si vous nous libérez... Je chanterai une chanson pour vous, même si je ne devais plus jamais pouvoir parler après.~
 /* Non utilisé */
 @148  = ~There is no 148.~
-/* Peter du nord,  éleveur des wyvernes à Bois Manteau, qui dit faire de la spéléologie */
+/* Peter du nord, éleveur des wyvernes à Bois Manteau, qui dit faire de la spéléologie */
 // Jaheira
 // BG1 NPC : texte identique dans le fichier x#jaint.tra au numéro 50
 @149  = ~Accompagné par une horde de simples bébés wivernes, bien sûr ? Avoue tes intentions, sinon j'obéirai à mon devoir en tant que servante de la nature et les déterminerai par moi-même.~
@@ -666,7 +666,7 @@ L'aventurier se réjouit.~
 @237  = ~Permettez-moi de me présenter, Maire. Je l'aurais fait plus tôt, mais hélas, des kobolds m'ont empêché de rendre visite à votre village. Je suis Xan des Grismanteaux d'Evereska, et j'ai été envoyé par mon peuple pour enquêter sur la pénurie du fer.~
 // BG1 NPC : texte identique dans le fichier x#xaint.tra au numéro 34
 @238  = ~L'aide d'Evereska est la bienvenue, Xan. Merci d'avoir prêté main forte à <CHARNAME>, et de lui avoir permis de réouvrir la mine.~
-// Jaheira  (identique à @245)
+// Jaheira (identique à @245)
 // BG1 NPC : texte identique dans le fichier x#jaint.tra au numéro 91 (et 93)
 @239  = ~Il n'est pas besoin de remerciements, Berrun. Vous aider était notre devoir, comme vous le savez bien. Malgré mes doutes tenaces, <CHARNAME> a fait du bon travail, bien meilleur que ce que j'attendais.~
 // Berrun, après @245
@@ -755,7 +755,7 @@ L'aventurier se réjouit.~
 // BG1 NPC : texte identique dans le fichier x#skint.tra au numéro 19
 @267  = ~Votre père ne fera rien du tout, Demoiselle Ecudargent. A moins que vous ne trouviez un moyen de le réveiller d'entre les morts.~
 // BG1 NPC : texte identique dans le fichier x#skint.tra au numéro 20
-@268  = ~Quoi ?!? Que... qu'est-ce que vous dites ?~
+@268  = ~Quoi ?! Que... qu'est-ce que vous dites ?~
 // BG1 NPC : texte identique dans le fichier x#skint.tra au numéro 21
 @269  = ~J'ai bien peur que votre père n'ait malheureusement été patiemment découpé en petits morceaux par une ou plusieurs personnes d'identités inconnues.~
 // BG1 NPC : texte identique dans le fichier x#skint.tra au numéro 22
@@ -763,7 +763,7 @@ L'aventurier se réjouit.~
 // BG1 NPC : texte identique dans le fichier x#skint.tra au numéro 23
 @271  = ~Ah... Mais, en raison de l'état d'urgence actuel, on a dû les réassigner à des tâches plus importantes.~
 // BG1 NPC : texte identique dans le fichier x#skint.tra au numéro 24
-@272  = ~Quoi ?! Plus IMPORTANTES !?! Qu'est-ce qui peut être plus important pour la ville que la vie d'un Grand-Duc ?~
+@272  = ~Quoi ?! Plus IMPORTANTES ?! Qu'est-ce qui peut être plus important pour la ville que la vie d'un Grand-Duc ?~
 // BG1 NPC : texte identique dans le fichier x#skint.tra au numéro 25
 @273  = ~Les vies, ainsi que les propriétés de tous les citoyens doivent être sécurisées pour le maintien de l'ordre public. Oh, et nous devons aussi nous protéger de l'invasion venue d'Amn. A moins que vous n'en ayez pas entendu parler, au cours de votre grande expédition avec vos camarades hors-la-loi ?~
 // BG1 NPC : texte identique dans le fichier x#skint.tra au numéro 26
@@ -1101,7 +1101,7 @@ L'aventurier se réjouit.~
 // BG1 NPC : texte identique dans le fichier x#gaint.tra au numéro 73
 @389  = ~Hum, tu as dit quelque chose, gamin ?~
 // BG1 NPC : texte identique dans le fichier x#gaint.tra au numéro 74
-@390  = ~Gamin ?!? Je...~
+@390  = ~Gamin ?! Je...~
 // BG1 NPC : texte identique dans le fichier x#gaint.tra au numéro 75
 @391  = ~Je vous assure qu'il me coûte de faire ceci, mais je dois penser à ma bien aimée, Skie ! C'est le seul moyen qu'elle a de pouvoir échapper à la tyrannie qu'est sa vie. Alors, qu'en dites-vous ?~
 /* Non utilisé */
@@ -1650,7 +1650,7 @@ L'aventurier se réjouit.~
 // BG1 NPC : texte identique dans le fichier x#skint.tra au numéro 47
 @589  = ~Mais... mais... j'ai... *tellement* faim...~
 // BG1 NPC : texte identique dans le fichier x#skint.tra au numéro 48
-@590  = ~Vraiment ?!? Dans ce cas, vous et votre pièce chèrement acquise n'avez rien à craindre de moi. Je ne détrousse pas les gens qui vendent de la viande de rat.~
+@590  = ~Vraiment ?! Dans ce cas, vous et votre pièce chèrement acquise n'avez rien à craindre de moi. Je ne détrousse pas les gens qui vendent de la viande de rat.~
 // BG1 NPC : texte identique dans le fichier x#skint.tra au numéro 49
 @591  = ~Vous êtes une sainte, madame.~
 // BG1 NPC : texte identique dans le fichier x#skint.tra au numéro 50

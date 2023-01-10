@@ -101,7 +101,7 @@
 @65 = ~Triste. Nous devons y aller à présent.~
 @66 = ~Nous garderons les yeux ouverts pour votre mari, ma dame.~
 @67 = ~<CHARNAME>, pourquoi cachez-vous l'anneau que nous avons trouvé ? Cette femme attend désespérément des nouvelles de son mari ! Pourquoi la garder dans l'incertitude ?~
-@68 = ~Ma bonne dame, voici un anneau qui correspond à votre description. Nous l'avons trouvé sur un corps... S'il vous plait, acceptez mes condoléances, ma dame, car de toute évidence, votre mari est mort.~
+@68 = ~Ma bonne dame, voici un anneau qui correspond à votre description. Nous l'avons trouvé sur un corps... S'il vous plaît, acceptez mes condoléances, ma dame, car de toute évidence, votre mari est mort.~
 @69 = ~<CHARNAME> ! Votre coeur est de pierre ! Cet anneau a bien plus de valeur pour la veuve qu'il ne pourra jamais en avoir pour vous. Il lui appartient, de droit !~
 @70 = ~Non ! Je dois finir mon travail ! Ellesime !~
 @71 = ~Ainsi soit-il. Puissent les esprits de la forêt vous hanter.~
@@ -289,7 +289,7 @@
 @1002 = ~En avant, mon ami en armure de plates !~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 38, probablement inutile de traduire ici !
 @234 = ~Je Te remercie, champion de la vertu !~
-// BG1 NPC : texte proche dans le fichier x#ict3.tra au numéro 935, probabilité 66.9  ("my good man!" à la fin supprimé dans ict3)
+// BG1 NPC : texte proche dans le fichier x#ict3.tra au numéro 935, probabilité 66.9 ("my good man!" à la fin supprimé dans ict3)
 @1003 = ~Vois cela comme "secourir" une jeune fille, mon brave !~
 @1004 = ~Il en faut de toutes sortes, j'imagine. Un peu plus d'aide aurait été la bienvenue, mais les choses sont comme elles sont.~
 @1005 = ~Il en sera fait ainsi, si vous tuez l'ogre !~

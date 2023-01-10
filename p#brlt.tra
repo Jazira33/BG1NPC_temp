@@ -236,7 +236,7 @@
 @216  = ~Oh ? Et ce kobold que tu as poursuivi jusqu'à la berge de la rivière, en chantant des hymnes guerriers ?~
 @217  = ~Je suis un combattant, et j'écraserai mes ennemis quand et comme il me plaira.~
 @218  = ~Mais tu me soigneras quoiqu'il arrive, n'est-ce pas ?~
-@219  = ~Bien sûr, <CHARNAME>. Mais les blessures peuvent être très différentes. Si un vampire t'attrape ou si un groupe de wivernes te taille en pièces, mes talents seront vains  et inutiles.~
+@219  = ~Bien sûr, <CHARNAME>. Mais les blessures peuvent être très différentes. Si un vampire t'attrape ou si un groupe de wivernes te taille en pièces, mes talents seront vains et inutiles.~
 @220  = ~*glousse* C'est ce que mon père répondait immanquablement à ma mère, lorsqu'elle commençait à se soucier en permanence de sa sécurité. Qu'il en soit ainsi, <CHARNAME>.~
 @221  = ~*rougit* Cette peste essayait de dérober ma pierre porte-bonheur que j'ai amenée de Norheim, en souvenir de ma terre ! Si je l'avais laissé échapper, mon honneur en aurait été entaché !~
 @222  = ~Bon, j'admets que je suis souvent aussi inconsciente et téméraire quand le flot de la bataille me submerge. Nous faisons la paire, <CHARNAME>, hein ?~
@@ -383,7 +383,7 @@
 @348  = ~*sourire narquois* J'aimerais beaucoup jeter un coup d'oeil à ce manuel. Mais pardon de t'avoir interrompu, <CHARNAME>.~
 @349  = ~Continue, je t'en prie.~
 @350  = ~Tes yeux montrent clairement que tu es née de la mer, mais alors que celle-ci est empreinte de mystères et couverte de brume, ceux-ci révèlent douceur et amour...~
-@351  = ~La chevelure de ma dame est un aimant qui attire les hommes aussi bien sages que naïfs ...~
+@351  = ~La chevelure de ma dame est un aimant qui attire les hommes aussi bien sages que naïfs...~
 @352  = ~Tes lèvres sont aussi rouges que le soleil couchant, et tout aussi chaudes...~
 @353  = ~Tes mains sont un modèle de force et d'agilité extraordinaires...~
 @354  = ~L'odeur de tes aisselles est aussi acide et âcre que celle des oignons frais...~
@@ -434,7 +434,7 @@
 @393  = ~Ils ont autant souffert l'un que l'autre, <CHARNAME>. Il est vrai que le corps n'est que le temple qui abrite mon âme et pourtant, être rendue impuissante et immobile tout en étant consciente et capable de penser fut la pire des punitions et des tortures.~
 @394  = ~C'est ma foi et ton amitié qui m'ont permis de rester intacte, <CHARNAME>. Cependant le souvenir de ces horreurs passées reste, mûrit et me remplit d'amertume. C'était un destin épouvantable qui m'attendait, être impuissante mais capable de penser, sans même pouvoir bénéficier de cette béatitude honteuse qu'est l'oubli.~
 @395  = ~Je le sais, <CHARNAME>. Mais Tranzig, lui, ne le savait pas. Il a dit : "une femme au coeur de pierre... devrait être entièrement de pierre..." Et je suis donc devenue la statue que tu as trouvée au festival de Nashkel.~
-@396  = ~Je te relaterai les souvenirs des jours que j'ai passés dans ma prison surnaturelle si tu le souhaites, mais voudras-tu  m'écouter ?~
+@396  = ~Je te relaterai les souvenirs des jours que j'ai passés dans ma prison surnaturelle si tu le souhaites, mais voudras-tu m'écouter ?~
 @397  = ~Oui Branwen, je t'écoute.~
 @398  = ~Non... J'ai peur de ce que je risque d'entendre.~
 @399  = ~Je préfère ne pas prendre le risque. Allons-y, Branwen.~
@@ -445,7 +445,7 @@
 @404  = ~Oui, pourquoi, en fait ?~
 @405  = ~Tu pouvais voir, de l'intérieur de ta prison de pierre ? C'est monstrueux !~
 @406  = ~Parfois, quand une âme trépasse, la pluie pleure et mêle le ciel glacé avec la poussière froide et les braises noircies qui restent après que les arbres ont disparu. Mais il arrive aussi que quand une âme meurt, le soleil brille sur des feuillages rouges, mauves et dorés, et l'univers se retrouve en paix avec lui-même. Quand l'âme disparaît, certains pleurent et d'autres rient. Je ne peux que rester silencieuse. Quand viendra ce jour où mon âme cessera d'exister ? Il fait beau en ce moment, donc il est très probable qu'il fera doux lorsque j'entendrai le dernier battement de mon coeur. Mes lèvres sont scellées, mes lèvres sont blanches, donc je ne rirai ni ne pleurerai. Mon coeur se pétrifie, toujours plus lentement, toujours plus douloureusement. La dernière parcelle de mon corps à se changer en marbre. La toute dernière.~
-@407  = ~C'est horrible, Branwen. Arrête, s'il-te-plait.~
+@407  = ~C'est horrible, Branwen. Arrête, s'il te plaît.~
 @408  = ~Continue.~
 @409  = ~Et ce gnome est resté à tes côtés et n'a rien fait...~
 @410  = ~Il m'appelle "Princesse du Nord". Appelle-moi Reine, Déesse, Dragon. Appelle-moi comme tu veux, bouffon. Il ne te reste plus beaucoup de temps pour trouver un acheteur. Très bientôt, ton pitoyable parchemin ne servira plus à rien. La transformation est presque terminée. Pleuvra-t-il ?~
@@ -479,7 +479,7 @@
 @435  = ~Lorsque j'observais le ciel hier soir, j'ai soudain réalisé que toutes les étoiles me faisaient penser à toi. Alors j'ai compris que tout ce qui est doux et cher à mon coeur est relié à toi d'une manière ou d'une autre. Tu es dans mon souffle glacé au petit matin, et dans l'air que je sifflote quand je me réveille. Tu es mon soleil et mes étoiles... J'ai bien peur que tu sois le centre de mon monde.~
 @436  = ~Oui, tu devrais t'inquiéter de ton amour pour moi. Je sais qu'un jour, nue et sans artifice, tes lèvres me diront de simples "je t'aime". J'attends ce jour avec impatience.~
 @437  = ~Trop de paroles recherchées, Branwen. Parle-moi de manière plus concrète de tes sentiments à mon égard. La nuit est longue, et il va nous falloir du sommeil.~
-@438  = ~Maintenant je me pose la question : à quelle étoile devrais-je donner ton nom ? Je présume que je vais rester éveillé toute la nuit, absorbé par cette tâche . Je me demande pourquoi on trouve autant d'exemplaires de "L'histoire du Nord" dans les bibliothèques des pauvres aussi bien que des riches dans la région ? Je préférerais de loin trouver un ouvrage sur "L'histoire des étoiles" quelque part...~
+@438  = ~Maintenant je me pose la question : à quelle étoile devrais-je donner ton nom ? Je présume que je vais rester éveillé toute la nuit, absorbé par cette tâche. Je me demande pourquoi on trouve autant d'exemplaires de "L'histoire du Nord" dans les bibliothèques des pauvres aussi bien que des riches dans la région ? Je préférerais de loin trouver un ouvrage sur "L'histoire des étoiles" quelque part...~
 @439  = ~Et moi je meurs d'envie d'aller m'étendre dans mon sac de couchage. Tu m'y rejoins ? Cela fait beaucoup trop longtemps que tu ne m'as pas serrée dans tes bras, mon fainéant d'amant.~
 @440  = ~*rit* Elle peut être aussi longue ou aussi courte que tu le souhaites, <CHARNAME>. Mais je me souviens que tu es capable de renoncer à dormir, à l'occasion. Alors, qu'attends-tu ? Tu me rejoins ? Cela fait beaucoup trop longtemps que tu ne m'as pas serrée dans tes bras, mon fainéant d'amant.~
 @441  = ~Par Tempus, j'ai créé un monstre ! Je suppose que si tu souhaites commencer à écrire ton propre ouvrage sur les étoiles dès maintenant, je dois pouvoir t'aider. Si ce n'est pas le cas, je te suggère de me rejoindre dans mon sac de couchage. Je te fais remarquer que cela fait beaucoup trop longtemps que tu ne m'as pas serrée dans tes bras, mon fainéant d'amant.~
@@ -507,7 +507,7 @@
 @460  = ~Est-ce que tu m'aimes vraiment, Branwen ?~
 @461  = ~Branwen, ne perds pas espoir. Nous combattrons tes doutes ensemble, et nous en sortirons victorieux.~
 @462  = ~Ton auto-flagellation fait pitié, Branwen. Un peu de cran !~
-@463  = ~Quoi ?! Tu viens de comparer notre amour à des... vers ?? C'est fini entre nous, Branwen.~
+@463  = ~Quoi ?! Tu viens de comparer notre amour à des... vers ? C'est fini entre nous, Branwen.~
 @464  = ~Ce serait la pire traîtrise qu'on puisse imaginer. Non <CHARNAME>, je t'aiderai à vaincre tes ennemis avec la même ardeur qu'avant. Mais... j'ai des doutes au sujet de notre avenir.~
 @465  = ~<CHARNAME>, mon désir le plus cher est de passer mes journées au combat à tes côtés et mes nuits dans ton sac de couchage. Je pourrais donner ma vie pour toi sur-le-champ et je n'attends ni louanges, ni sacrifice en retour. Si cela n'est pas de l'amour, alors je me demande ce que c'est.~
 @466  = ~Si tu le dis, <CHARNAME>. Je te fais plus confiance qu'à moi-même.~
@@ -517,7 +517,7 @@
 
 //Lovetalk 18 - Au repos
 
-@470  = ~*vous fait la lecture d'un vieux tome* "Et son Altesse le Roi arriva auprès de Sire Chevalier et de la Reine. Ils étaient endormis sur sa cape, protégés par les branches d'un vieux chêne. La grande épée de Sire Chevalier reposait entre leurs deux corps,  et le Roi comprit alors qu'il n'avait pas été déshonoré. Son Altesse s'agenouilla et glissa sa bague au doigt de la Reine, puis il s'éloigna..."~
+@470  = ~*vous fait la lecture d'un vieux tome* "Et son Altesse le Roi arriva auprès de Sire Chevalier et de la Reine. Ils étaient endormis sur sa cape, protégés par les branches d'un vieux chêne. La grande épée de Sire Chevalier reposait entre leurs deux corps, et le Roi comprit alors qu'il n'avait pas été déshonoré. Son Altesse s'agenouilla et glissa sa bague au doigt de la Reine, puis il s'éloigna..."~
 @471  = ~Je ne suis pas très convaincu de l'efficacité de l'épée. Tu n'échapperais pas à mon étreinte, qu'il y ait une épée entre nous ou pas. Mais j'ai entendu parler d'un rôdeur qui, dans la même situation, se servait d'un loup. Cela a l'air plus efficace.~
 @472  = ~C'est quelque chose dont Kivan serait capable si une dame s'imaginait pouvoir se substituer à sa chère Déhériana. Dans le cas de Minsc, je présume que ce serait un hamster.~
 @473  = ~Une épée dans le sac de couchage ? C'est dangereux. Quelqu'un pourrait se blesser.~
@@ -612,7 +612,7 @@
 @548  = ~Fais-le de la manière que tu voudras, en fait. Dans ce cas précis, la fin justifie les moyens.~
 @549  = ~Oui, Branwen. Nous devons conserver notre honneur, et pas nous abaisser à son niveau.~
 @550  = ~Allons trouver Marek, et vite. Je ne voudrais pas qu'il t'arrive quoi que ce soit.~
-@551  = ~Oh Dieux, nous allons mourir, c'est cela ? J'ai si peur... J'ai été EMPOISONNE ! JE VAIS MOURIR ! NON !!!~
+@551  = ~Oh Dieux, nous allons mourir, c'est cela ? J'ai si peur... J'ai été EMPOISONNÉ ! JE VAIS MOURIR ! NON !!!~
 @552  = ~Tes paroles contiennent une part de vérité, <CHARNAME>, mais cependant elles m'inquiètent. Est-il nécessaire que nous nous écartions du droit chemin à la moindre difficulté ?~
 @553  = ~Merci <CHARNAME>. Je me retiendrai donc encore.~
 @554  = ~Cela me réconforte de voir que tu t'inquiètes à ce point, <CHARNAME>. Mais c'est également troublant.~
@@ -681,7 +681,7 @@
 
 // Flirts de Branwen
 
-// Nota : il semble que les phrases suivantes interviennent à des moments quelconques, aléatoirement. Quand une phrase commençait par "She", j'ai choisi pour plus de clarté d'écrire "Branwen" au lieu d' "Elle" .
+// Nota : il semble que les phrases suivantes interviennent à des moments quelconques, aléatoirement. Quand une phrase commençait par "She", j'ai choisi pour plus de clarté d'écrire "Branwen" au lieu d' "Elle".
 
 // En début de romance
 

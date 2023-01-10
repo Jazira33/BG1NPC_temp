@@ -87,7 +87,7 @@
 @65 = ~Skie, j'ignore si les prêtres peuvent... défaire ce qui a été fait, mais... de toute façon... vous ne pouvez pas abandonner la quête maintenant ; vous *vous* devez bien ça.~
 @66 = ~Merci, <CHARNAME>...~
 @67 = ~Vous êtes si... si insensible, <CHARNAME> ! Mais que pouvais-je espérer d'autre de quelqu'un... d'une condition aussi basse que la vôtre ?~
-@68 = ~Je pourrais ? JE POURRAIS ??? Je n'ai même pas pu empêcher que... mon père... PERE !!!~
+@68 = ~Je pourrais ? JE POURRAIS ? Je n'ai même pas pu empêcher que... mon père... PÈRE !!!~
 @69 = ~Moi ? Que puis-je faire ? Vous... vous nous vengerez, <CHARNAME>... vous le ferez ?~
 @70 = ~Oui. Je vous vengerai. Allez en paix, ma dame.~
 @71 = ~Skie, j'ai besoin de vous avec moi... pour m'assurer de ne pas échouer.~
@@ -170,7 +170,7 @@
 @127 = ~Hélas, où sont passés mes jours dorés d'innocence ? Mais une telle chance est rare. En-dehors de la Rashéménie, je veux dire. Vous récupérez d'anciens parchemins véhiculant un savoir non moins ancien, ce qui constitue une occupation qui n'est pas si éloignée de la mienne. Et pourtant, en vous regardant, on a l'impression que vous n'êtes pas dans le besoin, contrairement à l'usage qui veut que les savants errants le soient.~
 @128 = ~Mes propres recherches n'ont rien à voir avec les fortunes de ce bas-monde. Je suis seule à soutenir mon apprentissage ; il ne s'agit là que d'un entraînement à la survie. Rien d'autre.~
 @129 = ~Je n'en doute point. Je m'interroge juste sur le fait qu'au cours de vos pérégrinations, vous vous exposez à toutes sortes de dangers sans comprendre quand et comment un usage judicieux de l'or peut améliorer votre savoir. Et vice-versa, bien entendu.~
-@130 = ~Vraiment ?!? Si je T'ai bien compris, Tu me proposes un 'échange' entre la connaissance et la crasse jaune derrière laquelle tout le monde court en Féérune ?~
+@130 = ~Vraiment ?! Si je T'ai bien compris, Tu me proposes un 'échange' entre la connaissance et la crasse jaune derrière laquelle tout le monde court en Féérune ?~
 @131 = ~Oui. Le métier d'un barde n'est ni plus ni moins que la conversion du premier en le second.~
 @132 = ~Mais pas la conversion de Ton 'second' en le premier. Les Sages ne marchandent pas la connaissance ; et si elle est en vente, alors ce n'est *pas* de la connaissance.~
 @133 = ~Madame, un âne n'est pas plus sage en portant des livres d'instruction qu'en portant des ballots de paille. J'irais même plus loin en avançant que si l'on demandait son avis à la pauvre créature, il préfèrerait porter de la paille ; il la digèrerait mieux. Et, ma Dame, il se trouve que mon destin a été de devenir une sorte d'expert sur les ânes.~
@@ -258,7 +258,7 @@
 @191 = ~Et c'est pourquoi j'ai pensé à vous. Votre robustesse pourrait... ahem... décourager tous ces 'investisseurs' malvenus.~
 @192 = ~Ouais, jusqu'à c'que ma robustesse me fasse tuer.~
 @193 = ~Il est évident que vous devrez embaucher des aides de façon intelligente pour éviter que notre petit arrangement se termine aussi prématurément. Je serais prêt à vous reverser... disons... vingt à trente pour cent de votre investissement. Chaque mois.~
-@194 = ~Mon *investissement* ?!? C'est nouveau, ça. T'es en train d'me dire que j'protègerais *et* financerais l'endroit ? Et quelle serait *ta* contribution, si j'puis m'permettre ?~
+@194 = ~Mon *investissement* ?! C'est nouveau, ça. T'es en train d'me dire que j'protègerais *et* financerais l'endroit ? Et quelle serait *ta* contribution, si j'puis m'permettre ?~
 @195 = ~Je mettrais en *gage* du raffinement, peut-être même un peu d'élégance. Veuillez excuser ma proposition, j'aurais dû me douter que la création d'un tel endroit est... au-delà de vos capacités, dirons-nous.~
 @196 = ~Ouais. Et tu m'excus'ras d'te dire que ces investisseurs que t'espères, ces cochons qui veulent un peu d'action dans leur vie, se vautreront dans leur bonheur aussi longtemps qu'tu les achèteras pour pas cher.~
 @197 = ~Et il ne fait nul doute qu'une minorité dépravée continuera de se vautrer ainsi. La majorité, tous ceux qui sont prêts à à échanger de l'or contre du prestige et un certain statut, sont une population inexploitée en ce moment.~
@@ -270,7 +270,7 @@
 @202 = ~Bien d'accord. Les promesses valent leur pesant d'or, vous ne croyez pas ? Toutefois, j'aurais une proposition à vous faire, si vous voulez l'entendre.~
 @203 = ~J'suis toujours ouvert à tout.~
 @204 = ~J'ai bien observé votre style de combat viril et... ahem... direct. Et il m'est venu à l'esprit qu'avec quelque embellissement, vous pourriez incarner un véritable berserker à s'y méprendre.~
-@205 = ~Un berserker ?!? Certain'ment pas ! Il est hors de question que j'me mette à baver sur ma barbe !~
+@205 = ~Un berserker ?! Certain'ment pas ! Il est hors de question que j'me mette à baver sur ma barbe !~
 @206 = ~J'ai dit *incarner*. Aucune salivation excessive ne serait requise. Il ne suffirait que de quelques hurlements incohérents et de quelques moulinets de hache au hasard une fois le combat terminé. Et vous auriez le choix de vos adversaires : gobelins, petites frappes ou quoi que ce soit d'aussi peu menaçant.~
 @207 = ~Ouais-ouais. Et qu'est-c'qui arriverait *après*, pour voir ?~
 @208 = ~Rien de trop coûteux. J'utiliserai *mes* compétences pour calmer la bête en liberté, vous rendre votre état normal, votre personnalité que nous connaissons et admirons tous.~
@@ -426,7 +426,7 @@
 //////////
 @321 = ~*se pince le nez de dégoût* Tiax, tu REALISES bien qu'un maître du monde a le *droit* de prendre un bain de temps en temps, n'est-ce pas ?~
 @322 = ~Tiax n'a pas besoin de prendre un bain ! Son odeur change à chacun de ses souffles, allant de la fragrance de la plus douce des fleurs à la puanteur la plus horrible et horrifiante ! Pas même les sens ne peuvent échapper au verbe tout-puissant de Tiax !~
-@323 = ~Alors ça veut dire que tu ne te laves jamais !?~
+@323 = ~Alors ça veut dire que tu ne te laves jamais ?!~
 @324 = ~Tiax n'a pas BESOIN de se laver ! N'as-tu pas entendu ? Pas plus qu'il n'a besoin de se peigner les cheveux, de se brosser la barbe, de se couper les ongles des pieds, de s'essuyer les...~
 @325 = ~STOP ! Ca suffit ! Je n'ai pas besoin d'en entendre plus, espèce de petite créature répugnante. Eloigne-toi de moi, et garde ta crasse pour toi ! Et ce soir, tu as intérêt à dormir de l'AUTRE côté du camp ! Par les dieux, parfois, je me demande pourquoi je reste dans un groupe aussi pitoyable...~
 
@@ -456,7 +456,7 @@
 @342 = ~Excellent... ahem... pour des raisons purement personnelles. Vous voyez, j'ai un problème qui nécessite une assistance que vous seul pouvez me fournir.~
 @343 = ~Vous avez bien vu, c'est inhabituel venant de vous. Je serai enchanté de vous aider.~
 @344 = ~C'est très généreux de votre part. Vous voyez, il y a en cette ville une jeune demoiselle que j'aime et qui m'aime. Malheureusement, il se trouve que son père a une vision très fausse de mes intentions, alors...~
-@345 = ~Attendez une minute ! Vous voulez que je tue quelqu'un *d'autre* ? Pas vous ??? Voilà qui change t... euh... si vous voulez bien m'excuser un moment.~
+@345 = ~Attendez une minute ! Vous voulez que je tue quelqu'un *d'autre* ? Pas vous ? Voilà qui change t... euh... si vous voulez bien m'excuser un moment.~
 @346 = ~Oui... oui... euh, noooon... oui... neuf-et-demie... oui... non... non, bien sûr que non... sans aucun doute. Maintenant, dites-moi, barde, quelle était votre question, déjà ?~
 @347 = ~Encore une fois, je vous demande pardon de m'être mal fait comprendre, mais je n'ai aucune question pour vous. (Celle à laquelle tu n'as pas encore répondu, crétin !)~
 

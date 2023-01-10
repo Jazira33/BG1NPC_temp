@@ -9,7 +9,7 @@
 // Alora - Charname
 
 @0 = ~Hé, <CHARNAME>, allons faire la fête dans la prochaine taverne que nous croiserons !~
-@1 = ~Qu'est-ce que t'en dis ? S'il te plaiiiit... faisons la fête !~
+@1 = ~Qu'est-ce que t'en dis ? S'il te plaîîîît... faisons la fête !~
 @2 = ~Bien sûr, pourquoi pas ?~
 @3 = ~Hé, pourquoi veux-tu faire la fête ? ~
 @4 = ~Ne sois pas ridicule.~
@@ -68,7 +68,7 @@
 @53 = ~Bah, ta mère est morte, crétin de mage.~
 @54 = ~Non ! Vous mentez ! Moman est toujours vivante... et elle m'aime, aussi !~
 @55 = ~Ouais ! Ça fait bien longtemps que je n'avais pas entendu de si bonnes paroles ! Amenez la bière... grand temps de nettoyer les toiles d'araignées dans mon gosier !~
-@56 = ~Quelle bonne idée ! On peut, <CHARNAME>, s'il te plait ? S'IL TE PLAIT ?~
+@56 = ~Quelle bonne idée ! On peut, <CHARNAME>, s'il te plaît ? S'IL TE PLAÎT ?~
 
 
 // Alora - Imoen
@@ -185,7 +185,7 @@
 @130 = ~Un maître tel que moi n'a pas besoin de s'astreindre à des exercices si inutiles ! De telles banalités ne servent qu'aux mages demeurés et aux faibles d'esprit ! (Comment a-t-elle trouvé ces parchemins ? Je pensais les avoir bien cachés !)~
 @131 = ~Eh bien... dans ce cas, peut-être pourrais-je te demander une toute petite faveur ?~
 @132 = ~(Bizarrement, je suis curieux de savoir ce qu'elle a derrière la tête) cela dépend de cette "faveur"... euh, et si je suis occupé par d'autres affaires plus importantes, évidemment.~
-@133 = ~Je me demandais... pourrais-tu m'apprendre quelques trucs magiques ? S'il te plait ? S'il te plait ?!!~
+@133 = ~Je me demandais... pourrais-tu m'apprendre quelques trucs magiques ? S'il te plaît ? S'il te plaît ?!~
 @134 = ~Eh bien, un bon mage (et je suis à l'évidence BIEN PLUS qu'un bon mage) doit posséder une solide compréhension des théories derrière les mécanismes intimes des Arts Magiques ainsi qu'un esprit alerte pour être capable de lancer ne serait-ce que le plus simple des sortilèges.~
 @135 = ~Es-tu en train de me dire que je suis trop stupide pour être capable de lancer un sort ? *boude*~
 
@@ -282,7 +282,7 @@
 
 // Alora - Garrick - Eldoth
 
-@198 = ~Joue encore cette chanson, Garrick. Celle-là, je l'aime bien. S'il te plait ?~
+@198 = ~Joue encore cette chanson, Garrick. Celle-là, je l'aime bien. S'il te plaît ?~
 @199 = ~Cessez vos jérémiades, petite femme.~
 @200 = ~Eldoth, ma musique plaît et apaise, contrairement à la vôtre. Ce serait un plaisir de la rejouer, douce Dame.~
 @201 = ~Tout ce que tu voudras, douce Dame. J'ai reçu mon enseignement à l'université de Berdusk, tu sais...~
@@ -319,7 +319,7 @@
 // Alora - Jaheira - Khalid
 
 
-@223 = ~Madame Jaheira ? .~
+@223 = ~Madame Jaheira ?~
 @224 = ~Appelle-moi tout simplement Jaheira, si ça ne te dérange pas.~
 @225 = ~D'accord, Jaheira... Pourquoi es-tu tout le temps si sérieuse ?~
 @226 = ~Parce que la situation dans laquelle nous sommes est grave.~

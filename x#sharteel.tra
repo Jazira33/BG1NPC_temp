@@ -183,12 +183,12 @@
 @127 = ~Je t'interdis de dormir à côté de moi, espèce de dégénéré. C'est déjà assez dur de tolérer ta présence, je ne supporterais pas de te savoir lorgner de mon côté dans mon sommeil.~
 @128 = ~Oh, mais je pourrais vous enseigner tant de choses, ma Princesse au caractère de cochon ! Parmi tous nos soi-disant 'compagnons', vous êtes la seule à pouvoir vous approcher de la sagesse que je détiens ! Je nous vois très bien tous les deux, vous en tant que disciple désireuse d'apprendre, suppliant à mes pieds de vous donner une once du savoir que je pourrais juger utile de vous accorder, et je me vois bien vous entailler dans la joie et la bonne humeur lorsque j'en aurais l'envie soudaine !~
 @129 = ~Espèce de pervers insolent, je t'ai dit de T'ELOIGNER de moi ! Je me fiche de ce que tu as à dire. Tout ce que je veux, c'est dormir le plus loin possible de toi.~
-@130 = ~Mon disciple ose me défier !? Tss, les jeunes n'ont plus aucun respect, de nos jours ! Ah, de mon temps, nos maîtres écorchaient vif jusqu'à l'os pour un tel affront, et ce dans la joie et la bonne humeur, bien sûr. Oh, mais attendez... c'est MOI, le maître maintenant ! Vite, mon couteau.~
+@130 = ~Mon disciple ose me défier ?! Tss, les jeunes n'ont plus aucun respect, de nos jours ! Ah, de mon temps, nos maîtres écorchaient vif jusqu'à l'os pour un tel affront, et ce dans la joie et la bonne humeur, bien sûr. Oh, mais attendez... c'est MOI, le maître maintenant ! Vite, mon couteau.~
 @131 = ~Assez ! ASSEZ ! Je n'en tolèrerai pas plus. Et si jamais tu oses encore une fois me menacer, que ce soit directement ou non, je te jure qu'il ne restera pas assez de ta chair pour les vermines et les charognards ! Seul le serment que j'ai fait à <CHARNAME> retient ta pauvre tête sur tes épaules. Laisse-moi, maintenant !~
 @132 = ~Ahh, des pensées d'une telle violence sont une agréable mélodie pour des oreilles qui savent entendre. Pour une telle douceur à mon égard, j'ai décidé de te pardonner ton manquement de tout à l'heure. Bonne nuit, Princesse ! Et ne laisse pas le monstre de dessous le lit te mordre !~
 @133 = ~*Shar-Teel bout de rage*~
 
-//Avec Alora (trop frais, ce dialogue !!)
+//Avec Alora (trop frais, ce dialogue !)
 @134 = ~Dégage, petite-femme. Ta bonne humeur infernale me casse les pieds.~
 @135 = ~Allez, espèce de petite chatte grincheuse ! Enlève-moi cet air renfrogné de ton visage, et fais-moi un sourire !~
 @136 = ~Je te préviens, petite-femme. Approche-toi encore, et je...~
@@ -205,9 +205,9 @@
 @145 = ~Cela ne m'a pas ébranlée. Tempus teste la foi de tous ses fidèles.~
 @146 = ~Si j'avais été toi, je les aurais tout simplement liquidés. De toute façon, le pouvoir entre les mains des mâles aurait fini par conduire ton village à sa perte. Eliminer ces idiots jusqu'au dernier aurait été le meilleur cadeau que tu aurais pu faire à ton peuple.~
 @147 = ~J'ai bien peur de ne pas être assez puissante pour battre les anciens de ma tribu. Sinon, en effet, je les aurais défiés pour avoir le droit de rester.~
-@148 = ~Qui a parlé de défi ? Il suffit juste de s'arranger pour les empoisonner ou les assassiner dans leur sommeil, et de faire croire à un 'accident' !~
+@148 = ~Qui a parlé de défi ? Il suffit juste de s'arranger pour les empoisonner ou les assassiner dans leur sommeil, et de faire croire à un « accident » !~
 @149 = ~Par le souffle d'Aurile, je n'ai jamais rien entendu d'aussi horrible ! Seuls les enfants de Loki se battent aussi lâchement ! Je suis un serviteur de Tempus, une guerrière, et pas une meurtrière !~
-@150 = ~Et c'est exactement pour ça que tu es à des milliers de lieues de chez toi au beau milieu de nulle part, espérant vainement une 'faveur' de ton dieu, pendant que les anciens sont probablement en train de se reposer dans leurs tentes chaudes et confortables à se remplir la panse de toute la viande et tout le vin qu'ils peuvent engloutir, espèce de gourde !~
+@150 = ~Et c'est exactement pour ça que tu es à des milliers de lieues de chez toi au beau milieu de nulle part, espérant vainement une « faveur » de ton dieu, pendant que les anciens sont probablement en train de se reposer dans leurs tentes chaudes et confortables à se remplir la panse de toute la viande et tout le vin qu'ils peuvent engloutir, espèce de gourde !~
 @151 = ~La fin justifie les moyens. Le jour où tu comprendras enfin cela, alors tu cesseras de t'affaiblir inutilement. Hors de ma vue, maintenant. Une naiveté pareille me donne la nausée.~
 
 //Avec Coran (2), Garrick intervient sur le premier dialogue, ligne 157
@@ -273,7 +273,7 @@
 @201 = ~Assez facilement. Tu n'es qu'une dépense de rations inutile.~
 @202 = ~Et bien, mes chants sont, hum, un atout prépondérant. Vous ne pouvez pas dire le contraire ! En plus, je suis un excellent guerrier, et mes talents magiques sont en train de croître. Et je suis aussi très doué lorsqu'il s'agit de détrousser des bourses. Je me considère comme un membre très utile à notre compagnie.~
 @203 = ~Donc, pour faire court, tes talents ne sont que les variantes médiocres de ceux que l'on pourrait attendre de la part de guerriers, de magiciens et de voleurs. C'est bien ça ?~
-@204 = ~Et bien, je dirais... je veux dire, non ! Attendez, c'est quoi ça, un procès pour mon, euh... 'travail' ? Hé, hé.~
+@204 = ~Et bien, je dirais... je veux dire, non ! Attendez, c'est quoi ça, un procès pour mon, euh... « travail » ? Hé, hé.~
 @205 = ~Non, je me demandais juste pourquoi <CHARNAME> avait choisi un morceau de chair aussi inutile que toi pour compagnon. Moi, ça me dépasse.~
 @206 = ~Et bien, peut-être que <CHARNAME> respecte simplement la bonne musique et les personnalités enjoués plus que vous ne le faites ? C'est *possible*, vous savez.~
 @207 = ~Peut-être bien. Dans tous les cas, je ne ferai même pas semblant d'avoir du respect pour toi, mâle. Même selon les standards de ton genre, tu n'es qu'un ver de terre sans intérêt. Tu ferais mieux de faire attention où tu mets les pieds.~
@@ -303,11 +303,11 @@
 @225 = ~Ohhhh, une telle émotion me submerge ! Planter ma hache dans le crâne de quelqu'un n'est qu'un moyen pour y arriver, rien de plus. Plus un mot, maintenant.~
 @226 = ~Nous sommes peut-être proches pour ce qui est de la bataille, mais j'ai plus de cervelle que toi. Je pense que la tienne s'est ramollie à force de boisson et de ta stupide soif de l'or. Ainsi soit-il. Je te laisse te prélasser dans ta faiblesse, idiot.~
 
-@227 = ~Nan mais c'est pas vrai ! Est-ce que les mâles ignorent tout de la discrétion !? Avec tout le boucan que tu fais, tous les ennemis à cinq lieues à la ronde nous entendront !~
+@227 = ~Nan mais c'est pas vrai ! Est-ce que les mâles ignorent tout de la discrétion ?! Avec tout le boucan que tu fais, tous les ennemis à cinq lieues à la ronde nous entendront !~
 @228 = ~Je sais au moins une chose sur la discrétion : ça ne rend certainement pas service de hurler comme tu le fais, grognasse !~
-@229 = ~Ahhhh, mais qu'est-ce que ça change !? Tous ceux qui peuvent m'entendre ont sans doute déjà entendu ton armure bruyante, ou tes bruits de pas lourds, voire même ta respiration grossière ! C'est typique de l'incompétence des hommes, et dans ton cas, elle est aggravée parce que tu es un nain.~
+@229 = ~Ahhhh, mais qu'est-ce que ça change ?! Tous ceux qui peuvent m'entendre ont sans doute déjà entendu ton armure bruyante, ou tes bruits de pas lourds, voire même ta respiration grossière ! C'est typique de l'incompétence des hommes, et dans ton cas, elle est aggravée parce que tu es un nain.~
 @230 = ~Tu ferais mieux de t'arrêter de parler pour ne rien dire, avant que je te fasse bouffer tes dents. Rien ni personne que nous pourrions rencontrer en ces lieux ne me fait peur, et le fait que vous, les humains, vous préférez vous cacher au lieu de combattre montre à quel point vous n'êtes que des crétins sans cervelle ! Qu'ils viennent ! Comme ça, je les tuerai et je prendrai leur or !~
-@231 = ~Tu oses me traiter de lâche !? Encore une fois, l'engagement que j'ai pris envers <CHARNAME> est mis à rude épreuve ! Je ravalerai ma colère pour le moment, mais sois sûr que nous en reparlerons, nabot...~
+@231 = ~Tu oses me traiter de lâche ?! Encore une fois, l'engagement que j'ai pris envers <CHARNAME> est mis à rude épreuve ! Je ravalerai ma colère pour le moment, mais sois sûr que nous en reparlerons, nabot...~
 @232 = ~Ah, j'tremble dans mes bottes ! Et maintenant, que penserais-tu de te la fermer ? Tu m'as donné un sacré mal au crâne, avec tes salades !~
 
 //Avec Khalid
@@ -402,7 +402,7 @@
 //re-Avec Xzar
 @310 = ~Eloigne-toi de moi, le taré ! Ta seule présence suffit à me rendre malade.~
 @311 = ~Allons, allons, il n'est nul besoin d'être aussi irascible ! Ah, si moman était là, elle serait irritée par le manque de respect dont vous témoignez à l'égard de son fils chéri...~
-@312 = ~Si 'moman' était là, je l'aurais éventrée pour lui apprendre ce qu'est le respect. Je ne tolère pas les faibles, qu'ils se trouvent parmi mes ennemis, ou parmi mes 'compagnons', et ta folie est clairement un signe de faiblesse. Laisse-moi tranquille, maintenant !~
+@312 = ~Si « moman » était là, je l'aurais éventrée pour lui apprendre ce qu'est le respect. Je ne tolère pas les faibles, qu'ils se trouvent parmi mes ennemis, ou parmi mes 'compagnons', et ta folie est clairement un signe de faiblesse. Laisse-moi tranquille, maintenant !~
 @313 = ~Quelle rage ! Moman ne serait pas contente, et Monty et moi nous amusons tellement quand moman n'est pas contente ! Oh oui, je me souviens de la dernière fois que quelqu'un a insulté moman. Monty et moi nous sommes amusés à étaler ses entrailles partout sur le mur pendant des jours ! C'était si amusant pour tous ceux qui étaient présents !~
 @314 = ~Je ne suis pas suffisamment folle pour prétendre comprendre tes motivations, sorcier, mais j'espère pour toi que ce que tu viens de dire n'était pas une menace...~
 @315 = ~Oh, mais bien sûr que non ! Le pauvre garçon qui avait offensé moman s'est autant amusé que tous les autres pendant que nous avons nettoyé ses restes. Oh, il n'était peut-être pas aussi démonstratif dans son enthousiasme, mais quand même...~
@@ -411,7 +411,7 @@
 //Avec Yeslick
 @317 = ~Parfois, nain, je me demande pourquoi <CHARNAME> s'encombre de ta présence à ses côtés. Un homme, c'est déjà pas la joie, mais un *vieil* homme est un vrai fardeau, tout juste bon à aller crever dans un hospice.~
 @318 = ~Par Clangeddin, vous êtes bien cruelle. Vous n'avez donc aucun respect pour mon ancienneté ?~
-@319 = ~Du 'respect' ? Que demandes-tu, au juste ? Que je te porte quand tu es fatigué, ou que je te donne la becquée lors des repas, peut-être ?~
+@319 = ~Du « respect » ? Que demandes-tu, au juste ? Que je te porte quand tu es fatigué, ou que je te donne la becquée lors des repas, peut-être ?~
 @320 = ~Je ne pensais pas du tout à ce genre de choses, femme ! Vous voyez, à côté de moi, vous n'êtes encore qu'une gamine emmaillotée dans ses langes. Vous classez les gens en deux catégories, mais croyez-moi, j'en ai vu beaucoup de ce monde, plus que vos yeux n'en contempleront jamais ! Et *je* dis que les femmes et les hommes doivent être traités sur un pied d'égalité.~
 @321 = ~Avec ta vue qui baisse, je suis surprise que tu puisses être à même de voir où tu mets les pieds, aussi près tes yeux soient du sol. Chacun de tes mots confirme ton état de délabrement. Je sais que dans ta culture, les femmes sont gardées prisonnières sous terre. Tu n'es pas en position de dire quoi que ce soit, ce fait parle pour lui-même !~
 @322 = ~Quoi ?! J'ignore où vous avez entendu de telles fariboles, jeune fille, mais je peux vous dire que ce n'est pas vrai du tout ! Les naines ne sont pas prisonnières. En fait, vous en voyez très souvent. Je pense que vous avez du mal à les distinguer à cause de la barbe, mais elles sont bien là !~

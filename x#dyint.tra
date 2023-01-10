@@ -1,5 +1,5 @@
 //interjection avec Volo
-@0 = ~Maître Volo ? C'est un honneur doublé d'un plaisir. Le 'Guide de la Côte des Epées' m'a beaucoup servi durant mes voyages.~
+@0 = ~Maître Volo ? C'est un honneur doublé d'un plaisir. Le « Guide de la Côte des Epées » m'a beaucoup servi durant mes voyages.~
 @1 = ~Tout le plaisir est pour moi, ma chère. Je ne m'attendais pas à rencontrer une admiratrice dans ce coin perdu.~
 @2 = ~Tout le plaisir est pour moi, ma chère. Je ne pensais pas rencontrer une admiratrice dans ce coin perdu.~
 
@@ -260,7 +260,7 @@
 @108 = ~Mon supérieur incroyablement intelligent pourra sûrement constater que l'on se doit d'élever les esprits de ces sous-barbares. Il ne s'agissait que d'une farce que j'ai voulu faire aux gorilles qui m'accompagnent, et non à vos nobles oreilles. Et pour vous prouver notre loyauté, nous allons massacrer la sorcière de façon exemplaire...~
 @109 = ~Est-ce ainsi que Tu me remercies de ma loyauté, <CHARNAME> ?~
 
-//??? pas de référence dans dyint.d ???
+//? pas de référence dans dyint.d ?
 @110 = ~J'espère que vous avez raison !~
 @111 = ~Merci de venir en aide à une mère.~
 @112 = ~C'est tout ce que j'ai, et j'en suis bien content. Merci.~

@@ -5,13 +5,13 @@
 @3 = ~Le Trône de Fer ne s'occupe pas seulement d'épices, Tiax...~
 @4 = ~Arrête de te plaindre. Tu es ici parce que tu es utile. Cesse de l'être et je t'éventrerai comme un poisson.~
 @5 = ~Tiax suppose que tu vois juste. Rien ni personne, sinon Cyric lui-même, ne peut retarder la destinée de Tiax ! Si vous vous déplacez tous à la vitesse d'escargots, c'est sans doute parce que la destinée de Tiax est plus proche que jamais, et Cyric ne voit pas la nécessité de se presser ! En avant, laquais, pour la gloire de Tiax !~
-@6 = ~Tu oses nier la volonté de Tiax !?! Tiax ne comprendra jamais pourquoi Cyric a pensé nécessaire de le coller avec des imbéciles et des crétins incapables de comprendre que Tiax est DESTINE à régner ! S'ils n'avaient pas été divinement envoyés par Cyric pour l'aider dans sa conquête du monde, Tiax commencerait à se demander s'il est avec les bons esclaves !~
+@6 = ~Tu oses nier la volonté de Tiax ?! Tiax ne comprendra jamais pourquoi Cyric a pensé nécessaire de le coller avec des imbéciles et des crétins incapables de comprendre que Tiax est DESTINE à régner ! S'ils n'avaient pas été divinement envoyés par Cyric pour l'aider dans sa conquête du monde, Tiax commencerait à se demander s'il est avec les bons esclaves !~
 @7 = ~Comme je viens de le dire, nous ne sommes PAS des esclaves. Arrête de nous appeler ainsi.~
 @8 = ~*soupire* Comme tu veux. Nous en arriverons à ta "domination du monde", mais pas maintenant.~
 @9 = ~Assez de bavardages. Retourne en formation avec les autres, ou je vais t'étriper.~
 @10 = ~Oui, oui, Tiax sait. Tiax est certain que ce groupe est impliqué dans quelque chose de très important pour des insectes tels que vous, mais le futur seigneur de toute chose a d'autres chats à fouetter ! Tiax fait ce que tu veux pour l'instant, mais quand le moment sera venu, tu auras intérêt à mettre toutes ces affaires négligeables de côté pour aider Tiax dans sa conquête de toute chose !~
-@11 = ~Tu MENACES Tiax !?! Tu es certainement l'esclave le plus lobotomisé que Tiax ait jamais dû se farcir ! Tu viens de t'offrir une semaine au pilori quand Tiax régnera, mais pour l'heure, Tiax ne tiendra pas compte de ta bêtise et te permettra de continuer à le servir.~
-      ~Tu MENACES Tiax !?! Tu es certainement l'esclave la plus lobotomisée que Tiax ait jamais dû se farcir ! Tu viens de t'offrir une semaine au pilori quand Tiax régnera, mais pour l'heure, Tiax ne tiendra pas compte de ta bêtise et te permettra de continuer à le servir.~
+@11 = ~Tu MENACES Tiax ?! Tu es certainement l'esclave le plus lobotomisé que Tiax ait jamais dû se farcir ! Tu viens de t'offrir une semaine au pilori quand Tiax régnera, mais pour l'heure, Tiax ne tiendra pas compte de ta bêtise et te permettra de continuer à le servir.~
+      ~Tu MENACES Tiax ?! Tu es certainement l'esclave la plus lobotomisée que Tiax ait jamais dû se farcir ! Tu viens de t'offrir une semaine au pilori quand Tiax régnera, mais pour l'heure, Tiax ne tiendra pas compte de ta bêtise et te permettra de continuer à le servir.~
 @12 = ~Désolé, Tiax. Mon tempérament m'a pris par surprise. Tu es trop rigolo pour être tué.~
       ~Désolée, Tiax. Mon tempérament m'a prise par surprise. Tu es trop rigolo pour être tué.~
 @13 = ~Ça suffit. J'en ai assez de ta débilité, espèce de petit...~
@@ -72,7 +72,7 @@
 @55 = ~Donc... Qu'est-ce que tu veux que je fasse, au juste ? Jeter un bébé d'une falaise ?~
 @56 = ~Arracher le coeur de la poitrine des gens, c'est bon pour les amateurs. Les individus grandioses ne sont jamais reconnus que lorsqu'il est trop tard... Nous comprenons-nous, à présent, gnome ?~
 @57 = ~Fiche le camp, imbécile. Ne réalises-tu pas que j'ai des choses plus importantes à l'esprit que le délire mégalomane d'un nabot ?~
-@58 = ~L'objectif ?! L'OBJECTIF !?! L'OBJECTIF est de répandre la volonté de Cyric et de faire ce que t'ordonne Tiax ! Quel meilleur objectif pourrait-il y avoir ? Ton destin est de faire ce qu'ordonne Tiax, de le faire vite, et avec le sourire ! Accepte-le joyeusement, ou accepte-le dans les affres de l'agonie ! Voici ton stupide "objectif" ! Tiax te donne cinq jours pour modifier ton attitude sur cet "objectif", ou Tiax s'en ira, et sa destinée avec lui !~
+@58 = ~L'objectif ?! L'OBJECTIF ?! L'OBJECTIF est de répandre la volonté de Cyric et de faire ce que t'ordonne Tiax ! Quel meilleur objectif pourrait-il y avoir ? Ton destin est de faire ce qu'ordonne Tiax, de le faire vite, et avec le sourire ! Accepte-le joyeusement, ou accepte-le dans les affres de l'agonie ! Voici ton stupide "objectif" ! Tiax te donne cinq jours pour modifier ton attitude sur cet "objectif", ou Tiax s'en ira, et sa destinée avec lui !~
 @59 = ~*soupire* Qui aurait pensé qu'un prêtre de Cyric mégalomane serait aussi désagréable ?~
 @60 = ~J'en ai assez de tes croyances sanguinaires, gnome. Dégage de ma vue.~
 @61 = ~J'en ai assez des tes croyances sanguinaires, gnome. Défends-toi !~
@@ -89,7 +89,7 @@
 //Querelle avec Ajantis
 @69 = ~A chaque heure qui passe, le moment de l'ascension de Tiax est plus proche ! Nous ne devrons plus attendre longtemps, désormais, et tous les ennemis de Tiax trembleront à la mention de son nom ! Ils se baigneront dans des rivières de leur propre sang, et les infidèles crieront pour obtenir le pardon de Tiax mais ne récolteront que sa colère infinie ! Laissons la puissance de Cyric disséminer le pouvoir ténébreux de Tiax jusqu'aux confins de cette planète misérable que Tiax appellera un jour sienne ! Tous louent Tiax ! Que son nom soit béni !~
 @70 = ~<CHARNAME>, nous devons parler. Ce... Tiax... nous inflige ces délires insupportables depuis un certain temps, maintenant. Il empeste le mal, clame sa dévotion au dieu pervers Cyric et c'est clairement un agent des forces obscures.~
-@71 = ~De surcroît, il m'éneeeeerve ! Même si la folie limite la portée de ses dégâts, je n'arrive pas à voir en quoi une créature aussi épouvantable peut faire avancer la cause de Heaum. Pourquoi le gardez-vous avec nous !?~
+@71 = ~De surcroît, il m'éneeeeerve ! Même si la folie limite la portée de ses dégâts, je n'arrive pas à voir en quoi une créature aussi épouvantable peut faire avancer la cause de Heaum. Pourquoi le gardez-vous avec nous ?!~
 
 //Avec Quayle
 @72 = ~Bouge-toi, le malin ! TIAX arrive et tu n'as pas rampé suffisamment pour être admis dans ses parages !~
@@ -122,17 +122,17 @@
 @95 = ~Je le garde pour la même raison que je te garde, Ajantis. J'ai besoin de pions pour accomplir mes objectifs, et vous faites tous les deux très bien l'affaire.~
 @96 = ~Tu sais, tu as tout à fait raison, Ajantis. Pourquoi est-ce que je *garde* ce petit gnome insupportable ? Tiax ! Va t'en ! Ouste, ouste !~
 @97 = ~J'aimerais autant ne pas révéler les raisons pour lesquelles je garde Tiax, Ajantis.~
-@98 = ~Tiax, sans danger !? BAH ! Nous verrons qui est sans danger quand TIAX vous écrabouillera pour votre manque de foi... euh, c'est à dire, quand il régnera !~
-@99 = ~Tu penses que Tiax est un bouffon, présent pour t'amuser ? Voudrais-tu que Tiax danse et porte un costume rigolo, tant que tu y es !? Pourquoi Cyric a fourgué à Tiax des esclaves aussi irrespectueux, Tiax ne le saura jamais, mais il est fatigué de cette impudence ! La conquête du monde approche, et à ce moment-là, le rire de ses esclaves se transformera en larmes sur l'autel sacrificiel !~
+@98 = ~Tiax, sans danger ?! BAH ! Nous verrons qui est sans danger quand TIAX vous écrabouillera pour votre manque de foi... euh, c'est à dire, quand il régnera !~
+@99 = ~Tu penses que Tiax est un bouffon, présent pour t'amuser ? Voudrais-tu que Tiax danse et porte un costume rigolo, tant que tu y es ?! Pourquoi Cyric a fourgué à Tiax des esclaves aussi irrespectueux, Tiax ne le saura jamais, mais il est fatigué de cette impudence ! La conquête du monde approche, et à ce moment-là, le rire de ses esclaves se transformera en larmes sur l'autel sacrificiel !~
 @100 = ~De plus grands mots de sagesse n'ont jamais été prononcés ! Grâce à ta foi et ton obéissance, tu as gagné ta place dans la garde d'honneur de Tiax, quand Tiax régnera et tu auras l'honneur d'embrasser les pieds de Tiax quotidiennement, en hommage à sa gloire ! Tous louent la puissance de Tiax, car seuls les fidèles survivront à sa colère !~
-@101 = ~L'esclave de Tiax OSE référer à lui comme à un simple pion !? Tiax est le ROI, bien qu'il puisse toujours bouger jusqu'à n'importe quelle case de son choix et ne sera jamais mis mat ! Une telle impudence te rapportera l'ire de Cyric lui-même, si tu as la chance de survivre à celle de Tiax quand il régnera !~
+@101 = ~L'esclave de Tiax OSE référer à lui comme à un simple pion ?! Tiax est le ROI, bien qu'il puisse toujours bouger jusqu'à n'importe quelle case de son choix et ne sera jamais mis mat ! Une telle impudence te rapportera l'ire de Cyric lui-même, si tu as la chance de survivre à celle de Tiax quand il régnera !~
 @102 = ~Tiax est satisfait de son esclave.~
 @103 = ~Tiax est en route vers la grandeur !~
 @104 = ~Tiax est satisfait de son esclave. Il n'est pas nécessaire de partager les plans de conquête de Tiax avec les paladins obtus.~
 @105 = ~Cette décision irrite ma conscience et ma patience, mais je me plierai à votre jugement, <CHARNAME>. Sachez, cependant, que je n'émettrai pas d'objection le jour où vous expulserez ce gnome une bonne fois pour toute ! En avant !~
 @106 = ~J'ai peur, <CHARNAME>, que nous ne partagions pas le même sens de l'humour. Je serai très heureux le jour où ce gnome quittera notre groupe. Pour l'instant, cependant, je me plie à votre jugement.~
 @107 = ~<CHARNAME>, soit vous êtes devenu aussi fou que ce gnome cinglé, soit vous vous moquez de moi. Je prie, pour notre bien à tous, que la seconde possibilité soit la bonne.~
-@108 = ~Un pion, c'est cela !? Apparemment, j'ai fait une erreur de jugement en me joignant à vous ! Adieu, <CHARNAME>. Quand nous nous rencontrerons à nouveau, si vous n'avez pas remédié à votre comportement pervers, nous ne serons plus qu'ennemis !~
+@108 = ~Un pion, c'est cela ?! Apparemment, j'ai fait une erreur de jugement en me joignant à vous ! Adieu, <CHARNAME>. Quand nous nous rencontrerons à nouveau, si vous n'avez pas remédié à votre comportement pervers, nous ne serons plus qu'ennemis !~
 @109 = ~Loué soit Heaum ! A présent, peut-être, ma migraine va-t-elle disparaître en paix et en silence. Merci, <CHARNAME>, pour votre bon jugement.~
 @110 = ~Je vais me plier à vos ordres, <CHARNAME>, mais je ne prétendrai pas le faire avec joie. Si ce Tiax devait jamais mettre à exécution ses pensées perverses, je serai forcé de l'abattre, je vous en préviens dès aujourd'hui. En avant !~
 
@@ -195,13 +195,13 @@
 @157 = ~Je n'ai rien à dire à propos de ma patrie à quelqu'un dans Ton genre, en particulier d'informations de nature aussi importante.~
 @158 = ~Tiax ne demande pas d'informations. Tiax EXIGE ces informations !~
 @159 = ~Alors Tiax devra être déçu. Tu n'extirperas pas un mot de mes lèvres tant que je respirerai.~
-@160 = ~Pourquoi les serviteurs de Tiax le défient-ils constamment !? Cyric le provoque-t-il avec des esclaves aussi peu coopératifs !?!~
+@160 = ~Pourquoi les serviteurs de Tiax le défient-ils constamment ?! Cyric le provoque-t-il avec des esclaves aussi peu coopératifs ?!~
 @161 = ~Quand Tiax régnera, il FORCERA la sorcière rashémi à parler, et elle lui dira joyeusement ce qu'il veut avec le SOURIRE !~
 @162 = ~Jusque là, cependant, la conquête de la Rashéménie et son culte absolu du puissant Tiax devront attendre... mais Tiax devient impatient, avec tous ces traîtres et ces imbéciles qui l'entourent !~
 
 //Banters avec Edwin
 @163 = ~Tiax pense que les Mages Rouges feraient des esclaves parfaits à sa gloire. Un jour, le restant de votre organisation pliera le genou devant ma majesté, comme tu l'as fait, serviteur ! Quel jour glorieux cela sera ! Un millier de mages en robe rouge, rendant tous hommage à leur seigneur, et priant pour que son ire ne les frappe pas ! Tiax se tiendra devant eux, et ils TREMBLERONT au moindre mot prononcé !~
-@164 = ~(Une fois de plus, je suis arraché à mes pensées par les délires d'inférieurs décérébrés...) Ne peux-tu pas voir que je suis en train de réfléchir, gnome !? Si tu veux discourir sur je ne sais quelle stupidité dont tu viens de rêver, alors va le faire à en endroit où je ne peux plus t'entendre, te voir... ou te sentir, tant qu'on y est.~
+@164 = ~(Une fois de plus, je suis arraché à mes pensées par les délires d'inférieurs décérébrés...) Ne peux-tu pas voir que je suis en train de réfléchir, gnome ?! Si tu veux discourir sur je ne sais quelle stupidité dont tu viens de rêver, alors va le faire à en endroit où je ne peux plus t'entendre, te voir... ou te sentir, tant qu'on y est.~
 @165 = ~... et quand Tiax se tiendra devant cette congrégation d'esclaves-mages dévoués à son service, il n'oubliera pas d'arracher ton coeur à ta poitrine et de le donner aux chiens sauvages, de sorte que tous sachent quelle est la punition lorsque l'on désobéit à ses ordres ! Si tu refuses de me servir avec obéissance en tant que mage, alors tu serviras d'exemple sinistre du destin de tous les incroyants !~
 @166 = ~(Tout ce qu'il faudrait c'est un couteau précautionneusement passé sur la gorge, dans son sommeil, ou un sortilège "mal visé", et je pourrais être débarrassé de ce fou délirant pour toujours. Tellement tentant... tellement tentant...)~
 
@@ -224,7 +224,7 @@
 //Banter avec Garrick
 @180 = ~Toi ! Tiax exige une chanson. Joue un hymne à la gloire et au pouvoir de Tiax, et sur l'inévitable règne sur toute chose de Tiax, et rends-le entraînant ! Tiax n'a pas de patience pour la mauvaise musique.~
 @181 = ~Euh... J'ai peur de ne pas avoir ce genre de chansons à ma disposition comme ça, Tiax.~
-@182 = ~Esclave insolent ! Tu n'as pas de chansons dédiées à Tiax !? Quand Tiax régnera, une telle incompétence sera punie du fouet et de l'arrachage de la langue de l'esclave coupable ! Quand Tiax régnera, il n'y aura pas de chansons SINON celles qui sont dédiées à Tiax, et tous chanteront sa gloire à travers le pays ou devront affronter son ire ! Ainsi le proclame Tiax. Sa volonté sera faite !~
+@182 = ~Esclave insolent ! Tu n'as pas de chansons dédiées à Tiax ?! Quand Tiax régnera, une telle incompétence sera punie du fouet et de l'arrachage de la langue de l'esclave coupable ! Quand Tiax régnera, il n'y aura pas de chansons SINON celles qui sont dédiées à Tiax, et tous chanteront sa gloire à travers le pays ou devront affronter son ire ! Ainsi le proclame Tiax. Sa volonté sera faite !~
 @183 = ~Je pourrais toujours vous jouer une autre chanson. J'en connais un bon nombre, et plus d'une ferait déborder votre coeur d'une telle joie que vous oublieriez cette fixation sur la conquête du monde !~
 @184 = ~BAH ! Tiax s'en moque ! Il n'est pas de musique plus douce que les esclaves rendant hommage à la gloire de Tiax, et Tiax ne se contentera pas de moins ! Va t'en, maintenant, et compose une chanson louant la taille merveilleuse du nez de Tiax, ou décrivant la majesté avec laquelle il annihile ses ennemis !~
 @185 = ~Si cela vous va, Tiax, je pense que je vais passer mon tour sur ce coup.~
@@ -233,9 +233,9 @@
 //Banter avec Imoen
 @187 = ~Tiax exige que tu lui témoignes du respect ! Tiax ne supportera pas d'être ridiculisé plus longtemps !~
 @188 = ~Oh, arrête de faire ta vache gémissante ! Je m'amuse, simplement, Tiax ! Tu sais que nous sommes amis !~
-@189 = ~Amis !? Tiax n'a pas d'amis, seulement des esclaves et des laquais et des béni-oui-oui qui se dorent dans la gloire de Tiax, espérant que son ire ne les frappe pas ! Tu risques la colère de Tiax en imaginant que tu es l'égale de Tiax !~
+@189 = ~Amis ?! Tiax n'a pas d'amis, seulement des esclaves et des laquais et des béni-oui-oui qui se dorent dans la gloire de Tiax, espérant que son ire ne les frappe pas ! Tu risques la colère de Tiax en imaginant que tu es l'égale de Tiax !~
 @190 = ~Oh, très bien, comme tu veux. Je sais que TU ME considères comme une amie aussi, cela dit ! Est-ce que Cyric lui-même ne l'a pas dit ?~
-@191 = ~Quoi !?! Cyric n'a rien dit de tel, et Tiax est la seule créature qui mérite d'entendre les mots de Cyric ! Comment pourrais-TU savoir ce que Cyric désire !?~
+@191 = ~Quoi ?! Cyric n'a rien dit de tel, et Tiax est la seule créature qui mérite d'entendre les mots de Cyric ! Comment pourrais-TU savoir ce que Cyric désire ?!~
 @192 = ~Oh, Cyric me parle aussi, idiot. Cela doit vouloir dire que je suis destinée à régner sur le monde avec toi, et que, du coup, je suis ton égale ! Ça va être chouette, non ?~
 @193 = ~Serais-ce toi, ma Reine ? NON ! TU MENS ! BLASPHEME !!! Cyric parle à Tiax, et seulement à Tiax !!!~
 @194 = ~Que dis-tu, Cyric ? Tu dis que Tiax n'est plus ton élu, et que donc, je dois régner sur le monde seule ? Et bien, merci !~
@@ -245,7 +245,7 @@
 //Banter avec Jaheira
 @197 = ~Tiax EXIGE que tu lui témoignes le respect qui lui est dû !~
 @198 = ~Seuls les imbéciles exigent le respect. Les sages le gagnent, et je n'ai encore rien vu de ta part sinon de la folie et des discours dérangés.~
-@199 = ~Tu oses !? TIAX a la sagesse ABSOLUE, car rien n'OSE échapper à son savoir !~
+@199 = ~Tu oses ?! TIAX a la sagesse ABSOLUE, car rien n'OSE échapper à son savoir !~
 @200 = ~Tiax a déjà résolu cette "quête" entière ; il sait précisément où les ennemis de <CHARNAME> rôdent et complotent et planifient, mais il ne partage pas son savoir, car si l'esprit de Tiax devait être révélé à des créatures moins évoluées, elles pourraient se FLETRIR sous l'assaut de sa pure brillance !~
 @201 = ~Oh ? Pourrais-tu au moins partager avec nous, pauvres mortels, le nom de la crapule en armure qui a tué Gorion, ô sage Tiax ? Nous ne nous flétrirons certainement pas devant cette parcelle de savoir !~
 @202 = ~Euh... Tiax sait, mais ne partagera PAS cette information ! Ce... euh... n'est pas tant l'information que le POUVOIR qui est derrière elle qui est bouleversant ! Si Tiax prononçait ce nom, avant qu'il ne soit révélé de manière appropriée à ses pions, ils pourraient s'écrouler en poussière face à une telle sagesse prophétique !~
@@ -270,7 +270,7 @@
 @218 = ~Ceux qui obéissent à la volonté de Tiax seront élus parmi tous, mais TU ne feras clairement pas partie de ce groupe. Va t'en, et prépare-toi au jour où la punition de Tiax s'abattra sur toi !~
 
 //Banters avec Khalid
-@219 = ~AÏE ! Quel moustique OSERAIT piquer Tiax !?! Cette forêt brûlera pour son manque d'hospitalité, quand Tiax régnera ! Sa population animale et insectoïde sera passée par l'épée pour son incapacité à prévenir cet outrage, et son sol sera semé de sel de manière à ce que rien n'y pousse plus jamais !!! Ainsi l'exige Tiax, et ainsi cela sera-t-il fait !~
+@219 = ~AÏE ! Quel moustique OSERAIT piquer Tiax ?! Cette forêt brûlera pour son manque d'hospitalité, quand Tiax régnera ! Sa population animale et insectoïde sera passée par l'épée pour son incapacité à prévenir cet outrage, et son sol sera semé de sel de manière à ce que rien n'y pousse plus jamais !!! Ainsi l'exige Tiax, et ainsi cela sera-t-il fait !~
 @220 = ~A-Allons, Tiax, c'est juste une piqûre de m-moustique. Cela nous arrive à tous. Vous ne devez pas le prendre p-personnellement.~
 @221 = ~Pas le prendre personnellement ?! L'un des esclaves mécréants de Tiax lui a causé de la DOULEUR ! Une telle action est une insulte faite à toutes les choses vivantes de cette planète, et lorsque Tiax régnera, cela sera un crime puni par le tourment éternel ! Que toutes les créatures hurlent de terreur quand Tiax est piqué, car il mènera la ruine sur leurs terres et exigera que les serviteurs qui le trahissent soient massacrés à des lieues à la ronde, comme punition pour cette insulte !~
 @222 = ~La seule p-personne que votre colère va blesser, c'est vous-même. Si vous continuez à c-crier ainsi, vous allez faire une crise d'ap-poplexie.~
@@ -331,7 +331,7 @@
 @269 = ~Ahhhh, Tiax se réjouit de voir l'appétit sanguinaire de ses serviteurs ! Tiax sait que tu en viendras à voir la sagesse de son plan. Jusque là, feins ton indépendance et prie pour que Tiax ne change pas d'avis ! Sa volonté sera faite !~
 
 //Banter avec Safana
-@270 = ~Pourquoi Tiax doit-il supporter l'odeur de cette ville !? Quand Tiax régnera, une armée de serviteurs balaieront sa route lorsqu'il se déplacera, ôtant tout ce qui pourrait offenser le nez de Tiax ! Les rues brilleront et etincèleront là où voyagera Tiax, car les villes qui manquent de satisfaire Tiax seront brûlées et leurs habitants emmenés comme esclaves ! Ainsi le clame Cyric !~
+@270 = ~Pourquoi Tiax doit-il supporter l'odeur de cette ville ?! Quand Tiax régnera, une armée de serviteurs balaieront sa route lorsqu'il se déplacera, ôtant tout ce qui pourrait offenser le nez de Tiax ! Les rues brilleront et etincèleront là où voyagera Tiax, car les villes qui manquent de satisfaire Tiax seront brûlées et leurs habitants emmenés comme esclaves ! Ainsi le clame Cyric !~
 @271 = ~Qu'est-ce qu'une ville sans un peu de saleté et de poussière ? Personnellement, j'apprécie un peu de dégénérescence. Cela... m'excite.~
 @272 = ~Bah ! Tiax a eu assez de saleté pour lui durer toute une vie sans devoir gérer l'odeur de l'urine croupie et des paysans crottés.~
 @273 = ~D'après mon expérience, Tiax, un lieu trop soucieux de sa propreté tend à être un endroit qui m'ennuie à mourir. On trouve toutes les choses les plus divertissantes dans des lieux qui ne craignent pas un peu de négligence et de crasse.~
@@ -356,16 +356,16 @@
 
 @288 = ~Ahhhh, les cheveux blancs de neige et l'âme aussi noire que le charbon ! Le nez aurait pu être plus grand mais... Cyric, et par extension Tiax lui-même, apprécieraient des servantes telles que toi ! Pourquoi t'es-tu dévouée à la fausse déesse Shar, alors que le Soleil Noir t'aurait accueillie à son service ?~
 @289 = ~Je sers Shar, yingil, et Shar seule. Ne risque pas sa colère ou la mienne avec tes faibles tentatives de faire conversation.~
-@290 = ~Shar n'est qu'une esclave destinée à Cyric ! Aucun autre soi-disant "Dieu" ne pourra affronter la puissance de Cyric, et pourtant, tu n'embrasses pas son pouvoir, sa majesté !?~
+@290 = ~Shar n'est qu'une esclave destinée à Cyric ! Aucun autre soi-disant "Dieu" ne pourra affronter la puissance de Cyric, et pourtant, tu n'embrasses pas son pouvoir, sa majesté ?!~
 @291 = ~Imbécile ! Ton Cyric défaillant n'est rien devant la Déesse Sombre. Et que pourrait proposer Cyric que Shar ne peut m'offrir ? Elle m'a montré l'étreinte des ténèbres et m'offre les doux rêves de la non-existence. Qu'est-ce que Cyric pourrait m'offrir qui m'arracherait à ma déesse ?~
 @292 = ~Et bien, une vie entière d'esclavage aux mains de Tiax, bien sûr !~
-@293 = ~Non seulement ça, mais tu serais aussi autorisée à chanter les louanges de Cyric, à sacrifier les infidèles à sa gloire et éventuellement à trouver la mort en combattant ses ennemis ! Quelle récompense plus grande pourrait-on demander que de vivre et mourir au nom de Cyric et de son plus grand champion !?~
+@293 = ~Non seulement ça, mais tu serais aussi autorisée à chanter les louanges de Cyric, à sacrifier les infidèles à sa gloire et éventuellement à trouver la mort en combattant ses ennemis ! Quelle récompense plus grande pourrait-on demander que de vivre et mourir au nom de Cyric et de son plus grand champion ?!~
 @294 = ~Tu crois vraiment que je trahirais ma déesse pour un esclavage éternel aux mains d'un yingil dérangé ? N'essaie plus de me convertir à ton faible dieu mâle, og'elend, ou Shar pourrait me demander d'agir d'une manière qui ne te serait pas vraiment bénéfique...~
 
 //Banter avec Xan
 @295 = ~Tiax aime ton obsession pour le désespoir et le destin funeste, elfe. Il pense que toi seul parmi ses esclaves prend conscience du grand malheur qui s'approche de ce monde, car bientôt Tiax s'élèvera au-dessus des masses et réclamera le monde comme sien ! Quand Tiax régnera, tu seras son prophète maudit officiel, annonçant partout l'approche des armées de Tiax et déplorant à grands renforts de gémissements la destruction qu'il apportera !~
 @296 = ~Je ne pense pas que vous me compreniez du tout, Tiax. Tout ce que nous faisons est sans espoir, y compris votre quête de la domination du monde. Vos rêves d'empire deviendront cendres, quand nos ennemis nous écraseront comme les insectes que nous sommes.~
-@297 = ~Tu oses nier l'inévitable victoire de Tiax sur toute chose !? Ton manque de foi ne t'apportera que de la tristesse quand Tiax régnera ! Cyric lui-même a proclamé la victoire de Tiax, et personne ne peut contester sa volonté !~
+@297 = ~Tu oses nier l'inévitable victoire de Tiax sur toute chose ?! Ton manque de foi ne t'apportera que de la tristesse quand Tiax régnera ! Cyric lui-même a proclamé la victoire de Tiax, et personne ne peut contester sa volonté !~
 @298 = ~Votre Cyric se vautre dans la folie pour l'instant, donc je pense que sa parole ne compte pas beaucoup.~
 @299 = ~BAH ! Quelle impudence ! Tiax croit qu'il t'a sans doute surestimé, esclave. Très bien, alors ! Tu te déplaceras quand même avec ses armées, mais tu le feras en tant que carcasse pourrissante suspendue à la bannière de Tiax, de manière à ce que tous puissent te voir et comprendre quel est le prix de la désobéissance ! Ainsi l'exige Tiax et ainsi cela sera-t-il fait !~
 
@@ -386,21 +386,21 @@
 @312 = ~Tu parles de la marmotte qu'on a mangé hier soir ?~
 @313 = ~Oh oui ! Vous le connaissez, alors ?~
 @314 = ~Tiax n'est PAS de la NOURRITURE ! Essaie de manger Tiax, et tu souffriras grandement quand il conquerra tout ! Tu t'es déjà privé de la position future de chef coq royal de Tiax, avec tes fantasmes cinglés !~
-@315 = ~Vous manger ?!? Quelle idée révoltante ! Je suggérais juste qu'on vous cuise un peu... et nous vous goûterions, bien sûr. Oh, bon. Peut-être une autre fois. De toute façon, votre conversation est moins amusante que la sienne...~
+@315 = ~Vous manger ?! Quelle idée révoltante ! Je suggérais juste qu'on vous cuise un peu... et nous vous goûterions, bien sûr. Oh, bon. Peut-être une autre fois. De toute façon, votre conversation est moins amusante que la sienne...~
 
 //Banters avec Yeslick
-@316 = ~Clangeddin !? Bah ! Quelle stupidité ! Cyric est le seul vrai dieu, et Clangeddin a intérêt à se tirer de son chemin, quand il viendra pour élever Tiax à la position qui lui revient, en tant que seigneur de toute chose !~
+@316 = ~Clangeddin ?! Bah ! Quelle stupidité ! Cyric est le seul vrai dieu, et Clangeddin a intérêt à se tirer de son chemin, quand il viendra pour élever Tiax à la position qui lui revient, en tant que seigneur de toute chose !~
 @317 = ~J'ai dû mal à croire que votre dieu cinglé soit sur le point de conquérir le monde dans l'immédiat. N'est-il pas un dément complètement délirant ?~
-@318 = ~Cyric, fou !? AH ! Cyric n'est pas plus fou que Tiax lui-même, futur maître de toute chose ! Les autres prétendent simplement que leur véritable seigneur est fou à cause de la PEUR paralysante dans laquelle les plonge son inévitable pouvoir à venir sur toute chose ! Quand Cyric régnera sur tous avec Tiax à ses côtés, leurs rangs apeurés seront nettoyés par le feu et la fureur la plus terrible et *alors* nous verrons qui sont les véritables fous !~
+@318 = ~Cyric, fou ?! AH ! Cyric n'est pas plus fou que Tiax lui-même, futur maître de toute chose ! Les autres prétendent simplement que leur véritable seigneur est fou à cause de la PEUR paralysante dans laquelle les plonge son inévitable pouvoir à venir sur toute chose ! Quand Cyric régnera sur tous avec Tiax à ses côtés, leurs rangs apeurés seront nettoyés par le feu et la fureur la plus terrible et *alors* nous verrons qui sont les véritables fous !~
 @319 = ~Je n'ai pas peur de votre dieu traître. Laissez donc venir ses esclaves ; ils seront massacrés par de l'acier nain, au nom de Clangeddin, avant la fin du jour ! Et avec des prêtres cinglés comme *vous*, je pense que la tâche ne sera pas difficile. ~
 @320 = ~Tiax est ENTOURE de traîtres ! Pourquoi ses esclaves osent-ils défier sa volonté alors qu'il leur fait le don rare d'une existence préservée de servitude idiote ?~
 @321 = ~Tiax te fera fouetter puis jeter aux sangliers quand il régnera sur tous, mais jusque là, prie pour ne pas l'offenser à nouveau, sinon il te soumettra à une punition encore plus terrible !~
 
 @322 = ~Tiax exige que tu te retires ! Ton attitude devient fatigante et Tiax n'a pas envie de pouponner des esclaves désobéissants !~
 @323 = ~Ah ! Comme si qui que ce soit se souciait de ce que vous pensez, Tiax. La dernière fois que j'ai vérifié, c'était <CHARNAME> qui décidait de qui restait et de qui partait... et croyez-moi, je ne suis pas plus ravi de votre présence que vous de la mienne...~
-@324 = ~Ne comprends-tu rien, esclave !? La parole de Tiax est LOI. Tu quitteras ce groupe et prieras pour que son ire ne s'abatte pas sur toi, quand le monde tombera sous l'inévitable domination de Tiax ! Tiax ne tolérera pas la moindre opposition à sa volonté toute puissante !~
+@324 = ~Ne comprends-tu rien, esclave ?! La parole de Tiax est LOI. Tu quitteras ce groupe et prieras pour que son ire ne s'abatte pas sur toi, quand le monde tombera sous l'inévitable domination de Tiax ! Tiax ne tolérera pas la moindre opposition à sa volonté toute puissante !~
 @325 = ~File, sinon Tiax sera forcé de te frapper !~
 @326 = ~Alors vous m'dites qu'vous aimeriez vous jeter dans une bonne vieille bagarre avec moi, c'est ça ? Comment voudriez-vous me *faire* partir, Tiax ? Je n'ai jamais d'objection à fracasser le crâne d'un chéri de Cyric.~
 @327 = ~En fait, maintenant que j'y pense, la plupart de ces gardes du Trône de Fer, dans la mine, étaient des chéris de Cyric, aussi ; du coup, ce serait vraiment un plaisir pour moi de vous faire crier comme une tapette d'elfe, si vous êtes prêt !~
-@328 = ~L'esclave *menace* Tiax !?! BAH ! Quelle folie ! Tiax pourrait te casser en deux en utilisant seulement son petit doigt, mais heureusement pour toi, son petit doigt est fatigué, aujourd'hui ! Rampe hors de ma vue, espèce de crétin, et prie pour que le petit doigt de Tiax ne se sente pas mieux trop vite !~
+@328 = ~L'esclave *menace* Tiax ?! BAH ! Quelle folie ! Tiax pourrait te casser en deux en utilisant seulement son petit doigt, mais heureusement pour toi, son petit doigt est fatigué, aujourd'hui ! Rampe hors de ma vue, espèce de crétin, et prie pour que le petit doigt de Tiax ne se sente pas mieux trop vite !~
 @329 = ~Je le savais. Du blabla et rien dans le ventre. Si vous êtes jamais intéressé par une bonne raclée, parlez-moi à nouveau, Tiax. En attendant, tant que <CHARNAME> ne dit pas le contraire, je n'ai pas la moindre intention de partir, donc habituez-vous à moi !~

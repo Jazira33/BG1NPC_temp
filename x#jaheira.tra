@@ -63,9 +63,9 @@
 @44 = ~Tu voudrais... que nous nous séparions ? Mais nous sommes si proches de la résolution de notre quête et d'infliger la vengeance qu'il mérite au meurtrier de Gorion !~
 @45 = ~Certaines des choses que tu as commises par le passé ont été difficiles à accepter et à tolérer, l'idée de nous séparer a donc peut-être fait son chemin. Je ferai néanmoins en sorte que le meurtrier de Gorion soit livré à la justice. Il est sans doute préférable que Khalid et moi ne le recherchions pas en ta compagnie.~
 @46 = ~Certaines des choses que tu as faites par le passé ont été difficiles à accepter et à tolérer, l'idée de nous séparer a donc peut-être fait son chemin. Je veillerai cependant à ce que le meurtrier de Gorion soit livré à la justice. Il est sans doute préférable que je ne le recherche pas en ta compagnie.~
-@47 = ~Cela m'attriste de savoir que je n'ai pas réussi à gagner ta confiance, <CHARNAME>. Tu es une personne de valeur et j'aurais aimé pouvoir rester en ta compagnie... S'il te plait, je vais te le demander une toute dernière fois... réfléchis et laisse-moi rester dans le groupe. Je n'ai rien à me reprocher dans la manière dont je t'ai traité, mais je voudrais une dernière chance de gagner ta confiance.~
-      ~Cela m'attriste de savoir que je n'ai pas réussi à gagner ta confiance, <CHARNAME>. Tu es une personne de valeur et j'aurais aimé pouvoir rester en ta compagnie... S'il te plait, je vais te le demander une toute dernière fois... réfléchis et laisse-moi rester dans le groupe. Je n'ai rien à me reprocher dans la manière dont je t'ai traitée, mais je voudrais une dernière chance de gagner ta confiance.~
-@48 = ~Cela m'attriste de savoir que j'ai échoué à gagner ta confiance, <CHARNAME>. Tu es une personne de qualité et j'aurais voulu rester dans ton groupe... S'il te plait, je vais te le demander une toute dernière fois... réfléchis, et laisse-moi rester avec vous.~
+@47 = ~Cela m'attriste de savoir que je n'ai pas réussi à gagner ta confiance, <CHARNAME>. Tu es une personne de valeur et j'aurais aimé pouvoir rester en ta compagnie... S'il te plaît, je vais te le demander une toute dernière fois... réfléchis et laisse-moi rester dans le groupe. Je n'ai rien à me reprocher dans la manière dont je t'ai traité, mais je voudrais une dernière chance de gagner ta confiance.~
+      ~Cela m'attriste de savoir que je n'ai pas réussi à gagner ta confiance, <CHARNAME>. Tu es une personne de valeur et j'aurais aimé pouvoir rester en ta compagnie... S'il te plaît, je vais te le demander une toute dernière fois... réfléchis et laisse-moi rester dans le groupe. Je n'ai rien à me reprocher dans la manière dont je t'ai traitée, mais je voudrais une dernière chance de gagner ta confiance.~
+@48 = ~Cela m'attriste de savoir que j'ai échoué à gagner ta confiance, <CHARNAME>. Tu es une personne de qualité et j'aurais voulu rester dans ton groupe... S'il te plaît, je vais te le demander une toute dernière fois... réfléchis, et laisse-moi rester avec vous.~
 @49 = ~Je n'ai rien à me reprocher dans la manière dont je t'ai traité, mais je te demande une dernière chance de gagner ta confiance.~
       ~Je n'ai rien à me reprocher dans la manière dont je t'ai traitée, mais je te demande une dernière chance de gagner ta confiance.~
 @50 = ~Très bien, Jaheira. Je vais te donner cette chance, tu m'as eu l'air sincère.~
@@ -75,7 +75,7 @@
 @53 = ~Khalid, viens avec moi. Laissons celui-ci sur la voie qu'il s'est choisie, pleine d'amertume et de colère. Nous observerons comment il se comporte en route... mais de loin.~
       ~Khalid, viens avec moi. Laissons celle-ci sur la voie qu'elle s'est choisie, pleine d'amertume et de colère. Nous observerons comment elle se comporte en route... mais de loin.~
 @54 = ~Merci, <CHARNAME>... tu ne peux pas savoir comme je suis soulagée ! Je ne te décevrai pas, je le promets... Mon serment à Gorion et ma loyauté envers toi seront indéfectibles, à jamais.~
-@55 = ~*soupire* Adieu dès lors, <CHARNAME>. J'espère que nous nous rencontrerons à nouveau et  que l'image que tu as de moi se sera améliorée d'ici là. Je te souhaite bien du succès dans ta quête de vengeance... que tout aille bien, <CHARNAME>.~
+@55 = ~*soupire* Adieu dès lors, <CHARNAME>. J'espère que nous nous rencontrerons à nouveau et que l'image que tu as de moi se sera améliorée d'ici là. Je te souhaite bien du succès dans ta quête de vengeance... que tout aille bien, <CHARNAME>.~
 @56 = ~Oui, je vous en prie, <CHARNAME>... nous nous soucions de vous et de votre bien-être, nos coeurs se b-briseraient de vous abandonner aujourd'hui. S'il vous plaît, ne f-faites pas ceci. Laissez-nous rester pour vous ai-aider et ho-honorer le serment que nous avons fait à Gorion.~
 @57 = ~Très bien, Khalid. Très bien, Jaheira. Je vous laisserai cette chance, vous avez l'air sincères.~
 @58 = ~Oui, m-merci, <CHARNAME>... nous f-ferons tous les deux de notre mieux pour vous aider. Cela nous aurait b-brisé le coeur si vous aviez pris une autre d-décision...~
@@ -241,7 +241,7 @@
 @189 = ~Tu sais, Minsc, Khalid et moi avons rencontré beaucoup de sortes de créatures sauvages et apprivoisées au cours de nos voyages, et pourtant nous n'avons jamais entendu parler d'un Hamster de l'Espace Géant Miniature.~
 @190 = ~Doutes-tu du caractère de Bouh ? Bouh peut parler pour lui-même. Voici, tu es une druidesse, et tu devrais comprendre ce qu'il dit.~
 @191 = ~Minsc, il y a des limites à ce qu'un druide sait faire.~
-@192 = ~Quoi !?! Tu doutes de la parole de Minsc et Bouh ? Quelle sorte de druide es-tu donc ?~
+@192 = ~Quoi ?! Tu doutes de la parole de Minsc et Bouh ? Quelle sorte de druide es-tu donc ?~
 
 @193 = ~Il y a des choses dans Féérune que je n'aurais jamais imaginé rencontrer, peu importe la distance, la fréquence ou la durée de mes voyages ! Mais j'aime voir de nouvelles choses et apprendre sans cesse.~
 @194 = ~Bouh vient de me dire qu'il aimerait apprendre quelque chose venant de toi.~
@@ -342,7 +342,7 @@
 @273 = ~J'peux imaginer Khalid trop heureux si tu te donnais l'apparence d'une statue qui marche... Mais j'ai entendu que certains druides ont trouvé un remède pour ça aussi, qui les transforme en beauté attirant *tous* les regards.~
 @274 = ~Une t-tâche aisée pour ma femme, maître nain.~
 @275 = ~Oui, mais j'parie qu'elle serait pas mal avec une barbe.~
-@276 = ~Une *barbe* ?!?~
+@276 = ~Une *barbe* ?!~
 @277 = ~Ouais ! Sans vouloir vous offenser, m'zelle, vous êtes pas mal selon les critères des gens communs... mais il manque un p'tit quéqu'chose aux damoiselles sans barbe, pour un oeil de nain.~
 
 //Encore quelques répliques si Ajantis est en romance (renvoie au dialogue qu'ils ont en début de fichier) ou si Khalid est mort.

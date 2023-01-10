@@ -83,7 +83,7 @@
 @75 = ~Mariés ? *tousse* J'ai bien peur que l'entêtement de ton père ne fasse obstacle à une telle union. Jamais je n'oserais passer outre la bénédiction de ton père, et ce même s'il me traite avec l'injustice la plus aveugle et la plus cruelle. Mais, Skie, ma chérie, ton coeur sait que nous nous marierons, un jour. Et puisqu'il en est ainsi, pourquoi attendre ? Notre amour...~
 @76 = ~Non, Eldoth. Je suis désolée, mais... je ne peux pas.~
 @77 = ~HAH ! La jalil t'a rejeté, mâle. Tu fais honte à tous les hommes, impotent.~
-@78 = ~'Non' ça veut dire 'non', Eldoth. Et ça veut dire qu'il est temps pour toi de laisser tomber.~
+@78 = ~« Non » ça veut dire « non », Eldoth. Et ça veut dire qu'il est temps pour toi de laisser tomber.~
 @79 = ~Hé, aller au pieu avec une limace comme toi, c'est pas vraiment terrible, tu vois ?~
 @80 = ~Ne te ronge pas les sangs, Eldoth. Dans la nature, les femelles rejettent très souvent les mâles inférieurs. Et tu es terriblement inférieur.~
 @81 = ~Tu n'es qu'un arriéré, un malappris, Eldoth. Laisse la demoiselle tranquille une fois pour toutes !~
@@ -178,7 +178,7 @@
 @157 = ~Un accident qui aurait pu coûter des vies.~
 @158 = ~Mais personne n'est mort ! Nous sommes tous sortis avant que les flammes n'arrivent sur nous. Et vous m'en voulez à cause des traces de brûlé sur vos robes !~
 @159 = ~Non, mon enfant. Ce qui me met en colère, c'est la confiance aveugle que Tu places en Toi, ainsi que Ton attitude irresponsable envers le danger. Tu as mal présumé des risques, et Tu as surestimé tes propres capacités.~
-@160 = ~Mes 'capacités' ne sont peut-être pas parfaites, mais je ne cesse de m'améliorer, Dynahéir. Donnez-moi une chance ! Laissez-moi le temps d'apprendre !~
+@160 = ~Mes « capacités » ne sont peut-être pas parfaites, mais je ne cesse de m'améliorer, Dynahéir. Donnez-moi une chance ! Laissez-moi le temps d'apprendre !~
 @161 = ~Souviens-Toi, mon enfant, que l'aventurier le plus expérimenté dispose d'une certaine mesure de compétence avant d'accepter la responsabilité de risquer la vie de ses compagnons. Tes semblables t'offriront peut-être une seconde chance, mais les pièges, eux, n'auront pas tant de savoir-vivre.~
 
 //Banters avec Edwin (3), Eldoth peut intervenir dans le troisième
@@ -266,7 +266,7 @@
 @236 = ~Et c'était quand, la dernière fois que nous sommes tombés sur un lac et que nous avons eu le temps d'y prendre un bain ? En ce qui me concerne, il est hors de question de me laver dans l'une de ces baignoires hideuses que vous trouvez dans les auberges que vous affectionnez tant. Et tous ces machins savonneux que vous utilisez par kilos ! *frissonne* Vos cheveux gardent l'odeur de ces choses pour plusieurs jours à chaque fois !~
 @237 = ~Mais, Faldorn...~
 @238 = ~Pas étonnant que les mouffettes préfèrent ma couche à la tienne. Tu dois leur donner un complexe d'infériorité rien qu'en t'approchant d'elles ! Cela étant, je pourrais peut-être en convaincre une ou deux de passer une nuit avec toi. Alors, et seulement alors, tu pourras apprécier l'odeur de la nature.~
-@239 = ~Quoi ?!?~
+@239 = ~Quoi ?!~
 @240 = ~Peut-être ce soir, peut-être demain... On ne peut jamais savoir quand une mouffette viendra.~
 @241 = ~Gloups !~
 
@@ -297,7 +297,7 @@ Elle est si près pourtant,
 La douce fleur éclot,
 Entend-elle mes chants ?
 Ou à mon amour seules les ténèbres feront écho ?~
-@261 = ~'Les ténèbres' ?~
+@261 = ~« Les ténèbres » ?~
 @262 = ~Oui, ahem, c'est encore à retravailler.~
 @263 = ~Non non, c'est parfait comme ça. Merci de l'avoir partagé avec moi.~
 @264 = ~Tout le plaisir est pour moi... Et Eldoth, est-ce qu'il vous traite avec respect ?~
@@ -382,7 +382,7 @@ Ou à mon amour seules les ténèbres feront écho ?~
 @335 = ~Vous... *tousse* vous m'avez vue, Jaheira ? Vous... vous m'avez vue porter des coups à ce...~
 @336 = ~Je t'ai surtout vue en train d'essayer de te faire tuer. Maintenant, tiens toi tranquille, j'essaye de te soigner !~
 @337 = ~Je... *gasp* C'est... exactement ce que j'ai lu. Le combat... Le sang qui court dans mes veines.~
-@338 = ~Ton sang est surtout en train de se répandre entre mes mains, pour le moment. Alors, maintenant, fais ce que je te dis et tiens-toi TRANQUILLE !!~
+@338 = ~Ton sang est surtout en train de se répandre entre mes mains, pour le moment. Alors, maintenant, fais ce que je te dis et tiens-toi TRANQUILLE !~
 @339 = ~Je ne savais pas que l'aventure, ça ferait si mal... *respire avec difficulté*~
 @340 = ~Skie, promets-moi de repenser à cette journée dans dix ans. Si tu ne t'es pas faite tuer d'ici là...~
 
@@ -469,7 +469,7 @@ Ou à mon amour seules les ténèbres feront écho ?~
 @409 = ~Et pourquoi je vous rappelle cette époque ?~
 @410 = ~*son regard semble s'éclaircir un peu* Tiax a vécu une vie recluse et luxueuse, tout comme toi. Le père de Tiax était riche et puissant, tout comme le tien. Tiax ne se souvient pas très bien de cette époque, mais Tiax se rappelle qu'on l'a forcé à entrer dans le monde réel de manière aussi soudaine et dure que toi. Et cela n'a pas plu à Tiax.~
 @411 = ~Et... et qu'est-ce que ça a donné ?~
-@412 = ~*son regard redevient complètement fou* Ce que ça a donné !? Cela a donné que Tiax est Tiax, le seigneur de toute chose vivante et futur maître du monde ! Quel genre de question idiote est-ce là !?~
+@412 = ~*son regard redevient complètement fou* Ce que ça a donné ?! Cela a donné que Tiax est Tiax, le seigneur de toute chose vivante et futur maître du monde ! Quel genre de question idiote est-ce là ?!~
 @413 = ~Oh. Je... je vois. Et bien, tout est bien qui finit bien, je suppose...~
 
 @414 = ~Ouille ! J'ai une épine dans le pied.~

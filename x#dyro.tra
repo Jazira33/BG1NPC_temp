@@ -586,7 +586,7 @@
 @560  = ~La plupart des jeunes nobles y voient une excuse pour voyager où bon leur semble, pour passer leur temps en beuveries et débauches, plutôt que d'en apprendre plus sur les autres pays, et sur eux-mêmes. Le véritable but du dajemma est de découvrir sa propre âme, de voir de quel bois l'on est fait... et néanmoins, ils sont tant à oublier le sens et la finalité de ce voyage.~
 @561  = ~<CHARNAME>, en Toi, je vois comment cela devrait agir sur les jeunes gens.~
 @562  = ~Soit, mais ne crois pas que ceux qui dévient du chemin soient des héros. L'esprit de rebellion sied bien à la jeunesse, mais ne saurait se substituer à la connaissance de soi. Car tel est l'objectif du dajemma.~
-@563  = ~Il est vrai que j'ai fait selon les règles, lorsque j'ai fait mon dajemma... d'aucuns diraient même trop....~
+@563  = ~Il est vrai que j'ai fait selon les règles, lorsque j'ai fait mon dajemma... d'aucuns diraient même trop...~
 @564  = ~Je ne doute pas que Tu sois en mesure de suivre ce chemin aussi bien que tout autre. *Elle prend votre main et en trace les lignes avec le doigt, pensive.* Je vois ici que Tu rencontreras le vrai amour... un amour qui triomphera de la tristesse et de la douleur, et qui en sortira grandi et plus pur... telle une lame en mithral qui acquiert sa puissance par le feu et la suie des forges naines.~
 @565  = ~*sourit faiblement* Ne T'inquiète pas, Tu verras... il viendra à Toi.~
 @566  = ~J'en conviens. *Ses yeux s'illuminent alors qu'elle regarde votre visage.* J'en conviens.~
@@ -776,7 +776,7 @@ Que des réprimandes et sortilèges !~
 @726  = ~Vous imaginez un homme qui n'est pas moi, Dynahéir. Vous lui imposez toutes sortes de qualités et de devoirs, et pour je ne sais quelles raisons, vous vous figurez que cet homme, c'est moi. Ce n'est pas le cas.~
 @727  = ~En l'an de grâce 1358, Baine et Myrkul ont subtilisé les Tablettes du Destin au Seigneur Ao.~
 @728  = ~Euh... Dynahéir, je sais déjà tout ça. Nous devrions nous remettre en route.~
-@729  = ~Et les Tablettes du Destin sont...?~
+@729  = ~Et les Tablettes du Destin sont... ?~
 @730  = ~C'est pourquoi le Seigneur Ao a condamnés les dieux à vivre dans des enveloppes mortelles... jusqu'à ce que les Tablettes soient retrouvées. C'est ainsi qu'a commencé la Guerre des Avatars.~
 @731  = ~Il me semble me souvenir que Labelas Enoreth n'est pas resté impartial, face à la débâcle des dieux "humains". Cette histoire devrait Te toucher même au plus profond de Ton coeur, elfe. En l'an de grâce 1358, Baine et Myrkul ont subtilisé les Tablettes du Destin au Seigneur Ao.~
 @732  = ~Euh... Dynahéir, je sais déjà tout ça. Nous devrions nous remettre en route.~
@@ -784,7 +784,7 @@ Que des réprimandes et sortilèges !~
 @734  = ~Ah, maintenant je me souviens qu'Enoreth a combattu Barbedargent à Ruathym. Mais, vraiment, Dynahéir, je crois que Vartan Hai Sylvar et vous-même êtes les deux seules personnes à vous souvenir de ça !~
 @735  = ~En effet ; cette époque était celle où toutes les peurs les plus anciennes venaient à la vie... un monde sans ordre. Tout à commencé lorsqu'en l'an de grâce 1358, Baine et Myrkul ont subtilisé les Tablettes du Destin au Seigneur Ao.~
 @736  = ~En tant qu'étudiante traditionnelle de l'Art, je sais ce que Tu as pu ressentir ; nous autres, magiciens, avon souffert grandement, l'année où Baine et Myrkul ont subtilisé les Tablettes du Destin au Seigneur Ao.~
-@737  = ~Je suppose, mais  tout est redevenu normal. Baine et Myrkul sont morts, et la Toile a été restaurée. Alors quel est le problème ? Nous avons des préoccupations plus urgentes à traiter, pour le moment.~
+@737  = ~Je suppose, mais tout est redevenu normal. Baine et Myrkul sont morts, et la Toile a été restaurée. Alors quel est le problème ? Nous avons des préoccupations plus urgentes à traiter, pour le moment.~
 @738  = ~Je sais ce que Tu as pu ressentir ; étant une sorcière, moi aussi. Le monde de l'Art, qui nous était si familier, s'est trouvé grandement changé, l'année où Baine et Myrkul ont subtilisé les Tablettes du Destin au Seigneur Ao.~
 @739  = ~T'en souviens-Tu ? Dis-moi, alors, quel fut le plus grand changement, une fois que l'ordre fut restauré ?~
 @740  = ~Dynaaaaahéir, je ne suis vraiment pas d'humeur pour une énigme... nous devrions... aller combattre quelque chose, d'accord ?~
@@ -1097,14 +1097,14 @@ Elle me traitera en grand dadais !~
 A parler bijoux et rubans.
 Mais ma sauvage et douce fleur
 Trouve cela inintéressant...~
-@1031 = ~Pour qui vous prenez-vous, pour clamer savoir mieux que tout le monde ce que veut <CHARNAME> , Dynahéir ? Continue, Minsc.~
+@1031 = ~Pour qui vous prenez-vous, pour clamer savoir mieux que tout le monde ce que veut <CHARNAME>, Dynahéir ? Continue, Minsc.~
 @1032 = ~*doucement* Je croyais que vous vouliez que j'en sache plus sur l'histoire et les coutumes des autres, Dynahéir. Cela a-t-il donc changé ?~
 @1033 = ~Dynahéir, j'aimerais en savoir plus sur mon propre peuple.~
 @1034 = ~Cela me rappelle le festival du Solstice d'Eté de Rashéménie, où les jeunes femmes mettent des rubans à leurs cheveux, et dansent et sautent par-dessus des feux de joie avec les garçons.~
 @1035 = ~Ah, mais les traditions des peuples sont assez similaires, de par Féérune ; je ne devrais pas T'ennuyer avec les particularités des fêtes Rashémi.~
 @1036 = ~En fait, je trouve cela fascinant ! Dites-m'en plus, Dynahéir.~
 @1037 = ~Je pense que je devrais vous acheter un ruban, Dynahéir. Et si nous devions aller en Rashéménie le jour du Solstice d'Eté ? Je serais le seul homme dont la fille à son bras ne porterait aucun ruban. Ce serait inconvenant.~
-@1038 = ~Pour qui vous prenez-vous, pour clamer savoir mieux que tout le monde ce que veut <CHARNAME> , Dynahéir ? Continuez.~
+@1038 = ~Pour qui vous prenez-vous, pour clamer savoir mieux que tout le monde ce que veut <CHARNAME>, Dynahéir ? Continuez.~
 @1039 = ~*doucement* Je croyais que vous vouliez que j'en sache plus sur l'histoire et les coutumes des autres, Dynahéir. Cela a-t-il changé ?~
 @1040 = ~L'hydromel coule à flots, et les scaldes chantent des chants anciens jusqu'à ce qu'ils en perdent la voix. C'est aussi le temps des demandes en fiançailles. Les cérémonies de mariage sont célébrées à l'automne, après les récoltes et avant que l'hiver ne vienne.~
 @1041 = ~Mmmh... très intéressant. Mais nous devrions nous remettre en route. En plus, nous devrions laisser cette jeune marchande repartir, si nous n'achetons rien.~
@@ -1244,13 +1244,13 @@ Trouve cela inintéressant...~
 @1172 = ~Vous avez raison. Allez-y. Peut-être nous reverrons-nous à l'avenir.~
 @1173 = ~Je suis suffisamment grand pour savoir que nous séparer ne me fera pas arrêter de vous aimer. Et peu importe la distance que vous mettrez entre nous, vos rêves ne cesseront guère. A ce titre, pourquoi résister ?~
 @1174 = ~Je vous aime, et vous m'aimez. Vous voulez vous en aller. Cela n'a aucun sens, Dynahéir.~
-@1175 = ~Restez. Contentez-vous de...  restez avec moi, Hathran, et attendons de voir ce qu'il se passe.~
+@1175 = ~Restez. Contentez-vous de... restez avec moi, Hathran, et attendons de voir ce qu'il se passe.~
 @1176 = ~Parce que Tu ne vois pas le danger, pas encore... Je Te supplie de me laisser partir.~
 @1177 = ~Je le vois bien. J'avais espéré que nous puissions duper le destin ensemble, mais vous avez raison. Personne ne peut le tromper. Partez. Peut-être... peut-être que nous nous reverrons, lorsque je contrôlerai mieux ma destinée.~
 @1178 = ~Et vous, que voyez-vous, Hathran ?~
 @1179 = ~Si je vous fais peur à ce point... alors partez.~
 @1180 = ~J'attends juste que Tu me laisses partir, seigneur. Si Tu ne m'aimes point, fais-le par ressentiment. Si Tu m'aimes, fais-le par amour.~
-@1181 = ~Restez. Contentez-vous de...  restez avec moi, Hathran, et attendons de voir ce qu'il se passe.~
+@1181 = ~Restez. Contentez-vous de... restez avec moi, Hathran, et attendons de voir ce qu'il se passe.~
 @1182 = ~Vous ne me laissez pas beaucoup le choix, Hathran.~
 @1183 = ~Tu comprendras plus tard... tout comme Tu comprendras pourquoi je Te demande de me laisser partir. Maintenant, reprends-Toi, et souhaite-moi au revoir comme il sied à un homme de Ton âge et de Ta stature.~
 @1184 = ~Je suis suffisamment grand pour savoir que nous séparer ne me fera pas arrêter de vous aimer. Et peu importe la distance que vous mettrez entre nous, vos rêves ne cesseront guère. A ce titre, pourquoi résister ?~
@@ -1619,7 +1619,7 @@ La rose à épines est prête à faire des reproches...~
 
 //avant un repos, Dynahéir se plaint de ne pas avoir le droit de créer des objets magiques
 @1529 = ~*Emmitoufflée dans les couvertures, Dynahéir se niche douillettement contre vous. Elle est en train d'étudier un tome qu'elle a pu récupérer en ville, ou sur le corps de quelque monstre.*~
-@1530 = ~*Soudainement, la magicienne ferme le livre avec une pointe de colère, et murmure un juron...* Espèce de pourriture de...!~
+@1530 = ~*Soudainement, la magicienne ferme le livre avec une pointe de colère, et murmure un juron...* Espèce de pourriture de... !~
 @1531 = ~*paresseusement* Vous disiez, Dynahéir ?~
 @1532 = ~*Caresser de vos doigts ses cheveux détachés sur votre épaule.* Chhhut... ça ne peut pas être si terrible que cela.~
 @1533 = ~*Se tenir sur un coude.* Qu'est-ce qui ne va pas, Dynahéir ?~

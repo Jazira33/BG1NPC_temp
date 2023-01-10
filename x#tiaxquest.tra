@@ -39,7 +39,7 @@ J'ai rencontré un gnome énigmatique. Il semble être à la recherche d'un autr
 @32 = ~Je pense qu'il parlait d'un autre de nos congénères, Quayle... mais peu importe. Peut-être trouverons-nous quelqu'un à vous ramener plus tard.~
 @33 = ~Peu importe. J'ai des choses plus importantes à faire.~
 @34 = ~Si je n'oublie pas.~
-@35 = ~Par Baervan ! Cela ne se peut ! Soit je suis devenu fou en plus de tous mes autres problèmes, soit Baervan lui-même doit m'avoir béni de la meilleure des manières ! Telliax ? Est-ce vraiment toi !?~
+@35 = ~Par Baervan ! Cela ne se peut ! Soit je suis devenu fou en plus de tous mes autres problèmes, soit Baervan lui-même doit m'avoir béni de la meilleure des manières ! Telliax ? Est-ce vraiment toi ?!~
 @36 = ~Tiax exige que tu cesses de baver sur son visage, esclave ! Ecarte-toi ! Tiax ne tolérera pas que l'on gêne son passage !~
 @37 = ~"Tiax" ? Qu'est-ce que tu racontes, mon garçon ? Viens avec moi ! Tu es ma seule chance de me débarrasser de ces maudits chasseurs de primes !~
 @38 = ~Excusez-moi, messire ? Qui êtes-vous, au juste, et pourquoi appelez-vous Tiax par ce nom ?~
@@ -69,9 +69,9 @@ J'ai rencontré un gnome énigmatique. Il semble être à la recherche d'un autr
 @62 = ~Tout ceci me fatigue. Je vais vous tuer à présent. Si j'étais vous, je courrais.~
 @63 = ~Un gnome nommé Belgin l'Errant nous a dérangés, aujourd'hui. Je l'ai aidé à comprendre que les intrusions malvenues convenaient aux imbéciles et aux hommes morts. Je suis certain qu'il ne nous ennuiera plus.~
 @64 = ~Mais... ah, très bien. Je vais m'expliquer, mais ensuite, je vous supplie de m'aider !~
-@65 = ~Cyric !? Par les enfers, que t'est-il arrivé, mon garçon !?~
+@65 = ~Cyric ?! Par les enfers, que t'est-il arrivé, mon garçon ?!~
 @66 = ~Tiax a vu la lumière... euh, les ténèbres du Soleil Noir ! Le règne de Tiax sur toute chose sera garanti par Cyric le tout-puissant, maître de tout ! Les armées de Tiax apporteront la ruine sur le pays et ses ennemis ramperont à la vue de sa bannière ! Tout le monde loue Tiax, le plus grand serviteur de Cyric et maître de toute chose !~
-@67 = ~Quel est ce délire !? Telliax, je savais que tu étais un idiot arrogant, mais par Baervan, tu divagues comme un fou ! Bah, peu importe !? Fou ou pas, le fait que tu respires toujours me sauvera ! Viens ! Nous n'avons pas de temps à perdre !~
+@67 = ~Quel est ce délire ?! Telliax, je savais que tu étais un idiot arrogant, mais par Baervan, tu divagues comme un fou ! Bah, peu importe ?! Fou ou pas, le fait que tu respires toujours me sauvera ! Viens ! Nous n'avons pas de temps à perdre !~
 @68 = ~S'il vous plaît, expliquez-vous. Si vous avez besoin d'aide, demandez-nous. Nous sommes prêts à vous aider si votre cause est juste.~
 @69 = ~Il ne va nulle part tant que vous ne répondez pas à nos questions. De quoi parlez-vous ? Vite !~
 @70 = ~Partez, vieil homme, ou affrontez-en les conséquences ! Nous n'avons pas de temps pour vous.~
@@ -84,7 +84,7 @@ J'ai rencontré un gnome énigmatique. Il semble être à la recherche d'un autr
 @76 = ~Bah ! Cette histoire n'est qu'un délire fantasmagorique ! Tiax est né de Cyric lui-même, lâché en ce monde pour le plier à sa volonté et insuffler la peur dans le coeur de ses ennemis ! Tiax se soucie peu des marchands et de leurs colifichets inutiles, pas plus qu'il ne craint le moindre petit voleur ! Va t'en, vieil homme, à moins que tu ne veuilles rejoindre la longue liste de ceux qui paieront quand Tiax régnera sur toute chose !~
 @77 = ~Changez le nom et ajoutez une bonne dose de folie, la personnalité reste apparemment la même, hélas. Il était arrogant, geignard et gâté ! Ce petit mioche est l'apprenti le plus imbuvable que j'ai jamais eu en tutelle ! Aucun des endroits où nous logions ou de nos repas n'étaient jamais à la hauteur de ses critères. Il m'appelait "le gueux" et me rappelait sans cesse combien j'étais inférieur à lui vu mon manque de richesse.~
 @78 = ~Vers la fin, je ressentais une douloureuse tentation de tordre son cou maigrelet moi-même, bien que, loué soit Baervan, les choses n'en arrivèrent jamais jusque là. Alors que nous voyagions avec une caravane, nous fûmes pris en embuscade par des bandits. Je me suis échappé, mais pas Telliax, et j'ai logiquement supposé que les bandits l'avaient tué.~
-@79 = ~Tiax, arrêté par de simples bandits !? BAH ! Quelle idiotie ! Tiax pense que tu es devenu fou, vieil ho...~
+@79 = ~Tiax, arrêté par de simples bandits ?! BAH ! Quelle idiotie ! Tiax pense que tu es devenu fou, vieil ho...~
 @80 = ~...~
 @81 = ~Tiax... a du mal à se souvenir...~
 @82 = ~Bandits ? Cyric ? Tiax... se souvient de l'autel noir...~
@@ -125,7 +125,7 @@ J'ai rencontré un gnome énigmatique. Il semble être à la recherche d'un autr
 @113 = ~Que Baervan bénisse vos âmes ! Tout ce que vous devez faire est de trouver les chasseurs de primes. Baervan m'a révélé, grâce à la bénédiction d'un sort de divination, qu'ils se trouvent à la taverne de la Lame et Les Etoiles. S'il vous plaît, je vous en supplie, ne leur faites pas de mal ! Montrez-leur simplement Tiax afin qu'ils me laissent tranquille une bonne fois pour toute ! Revenez, et je vous paierai 1000 pièces d'or pour votre bonne action. Merci ! Soyez bénis ! Je serai au Heaume et la Cape, quand vous serez parvenus à les convaincre.~
 @114 = ~J'ai accepté d'aider un homme appelé Belgin l'Errant à prouver que "Telliax", son apprenti et autrefois compagnon, n'était pas mort. Il est poursuivi par des chasseurs de primes, et j'ai besoin de Tiax avec moi pour convaincre les chasseurs de primes qu'il est toujours vivant. Ils se sont posés à la Lame et les Etoiles.~
 @115 = ~Bien sûr, je vous paierai. Ma vie vaut plus que quelques pièces, donc si vos intérêts sont purement mercantiles, n'ayez pas peur. Je vous offre 1000 pièces d'or pour votre action, malheureusement je ne peux vous en donner plus. S'il vous plaît, rendez-vous à la taverne de la Lame et les Etoiles. Baervan m'a révélé qu'ils s'y trouvaient, préparant leur fouille de la cité pour me trouver ! Dépêchez-vous, je vous en prie ! Je serai au Heaume et la Cape, quand vous les aurez convaincus, avec votre paiement !~
-@116 = ~Très bien, mais quand vous aurez le temps, je vous en prie, aidez-moi ! Il y a aura une récompense de 1000 pièces d'or pour votre aide, si vous le faites. Les chasseurs de primes devraient se trouver à la taverne La Lame et les Etoiles, s'il vous plait, recherchez-les aussi vite que possible ! Quand vous les aurez convaincus de me laisser tranquille, rejoignez-moi au Heaume et la Cape, et vous serez récompensés.~
+@116 = ~Très bien, mais quand vous aurez le temps, je vous en prie, aidez-moi ! Il y a aura une récompense de 1000 pièces d'or pour votre aide, si vous le faites. Les chasseurs de primes devraient se trouver à la taverne La Lame et les Etoiles, s'il vous plaît, recherchez-les aussi vite que possible ! Quand vous les aurez convaincus de me laisser tranquille, rejoignez-moi au Heaume et la Cape, et vous serez récompensés.~
 @117 = ~Que dites-vous ? Avez-vous réussi à blanchir mon nom ?~
 @118 = ~J'attends avec angoisse depuis des jours, à présent.~
 @119 = ~Je ne vois pas Telliax avec vous, j'espère que tout s'est bien terminé.~
@@ -245,15 +245,15 @@ J'ai rencontré un gnome énigmatique. Il semble être à la recherche d'un autr
 @230 = ~Transportez-vous cet or avec vous ? <CHARNAME>, peut-être ces chasseurs de primes devraient-ils se délester de ce poids. Cela peut être dangereux de transporter une telle charge. C'est même parfois fatal.~
 @231 = ~(Simiens.) <CHARNAME>, tue ces insectes ou prends leur or. Mieux, fais les deux.~
 @232 = ~Cet homme a raison. La nature ne marchande pas. Elle agit. Si nous sommes plus forts, nous devrions tuer cet homme et prendre ce que la Nature nous alloue de droit. Si nous sommes égaux, prenons son or et partons.~
-@233 = ~Ooooh... plus de batailles, s'il vous plait. Ne pouvons-nous pas prendre l'argent et partir ?~
+@233 = ~Ooooh... plus de batailles, s'il vous plaît. Ne pouvons-nous pas prendre l'argent et partir ?~
 @234 = ~Tais-toi, Skie. N'imagine pas parler alors que <CHARNAME> travaille.~
 @235 = ~Nous pourrions toujours vous débarrasser de ce problème, pour peut-être 2000 pièces d'or ? La Guilde vous en demanderait beaucoup plus...~
 @236 = ~Je prends ! Allez au Heaume et la Cape. Il attend de nos nouvelles là-bas.~
 @237 = ~Je laisse. Au revoir, Karris. Amusez-vous bien à fouiller la ville.~
 @238 = ~Ecoutez, c'est stupide. Tiax, euh... je veux dire "Telliax" est clairement, complètement, parfaitement vivant. Et très, très agaçant.~
 @239 = ~Je suis désolé, mais j'ai besoin de quelque chose de plus substantiel que votre parole. Si Telliax est bel et bien vivant, amenez-le moi. Il a été décrit avec nombre détails par son père. D'ici là, nous n'avons rien à nous dire.~
-@240 = ~Dément !? Qui OSERAIT se moquer de Tiax devant lui !? Tu dois certainement te languir d'avoir les membres arrachés à ta carcasse pour provoquer ainsi le destin ! Cyric exige un paiement pour toutes les insultes dirigées à l'encontre de son champion, et Tiax le *réclamera* !~
-@241 = ~C'est impossible ! Par les dieux, vous voulez dire que *c'est* le fils de notre employeur, Telliax !? Que lui est-il arrivé ? La description correspond, bien qu'il me paraisse un peu plus... débraillé que je ne l'aurais imaginé de la part du fils d'un riche marchand.~
+@240 = ~Dément ?! Qui OSERAIT se moquer de Tiax devant lui ?! Tu dois certainement te languir d'avoir les membres arrachés à ta carcasse pour provoquer ainsi le destin ! Cyric exige un paiement pour toutes les insultes dirigées à l'encontre de son champion, et Tiax le *réclamera* !~
+@241 = ~C'est impossible ! Par les dieux, vous voulez dire que *c'est* le fils de notre employeur, Telliax ?! Que lui est-il arrivé ? La description correspond, bien qu'il me paraisse un peu plus... débraillé que je ne l'aurais imaginé de la part du fils d'un riche marchand.~
 @242 = ~Hélas, il semble avoir souffert d'une sorte de traumatisme inconnu. Quand nous l'avons découvert, il délirait à propos d'une conquête du monde au nom de Cyric.~
 @243 = ~Je vous ai dit qu'il était fou. Je ne sais pas ce qu'il lui est arrivé, mais vous avez votre preuve. Il est clairement toujours en vie.~
 @244 = ~Non, j'ai bien peur que ce gnome ne soit pas celui que vous recherchez. C'est Tiax, pas Telliax. Bon, maintenant, combien me paieriez-vous pour vous guider jusqu'à Belgin ?~
@@ -271,7 +271,7 @@ J'ai rencontré les chasseurs de primes qui poursuivaient Belgin, et nous les av
 @252 = ~Encore des chasseurs de primes
 
 J'ai rencontré les chasseurs de primes qui poursuivaient Belgin et leur ai dit où il se cachait. J'ai fait un joli profit dans cette affaire ! Belgin paie, les chasseurs de primes paient, et avec un peu de chance, ils pendront Belgin avant que quiconque en Amn n'apprenne la vérité.~
-@253 = ~Cyric !? Conquérir le monde !? Quelque chose doit l'avoir changé grandement, en effet ! Cependant, c'est un mystère que nous pourrons résoudre une autre fois. Pour l'heure, notre chasse a été inutile, car notre cible est innocente. Nous allons rentrer en Amn et rapporter ceci au père de Telliax. Je doute qu'il en soit heureux. Adieu, amis. Vous pouvez dire à Belgin qu'il ne craint plus rien.~
+@253 = ~Cyric ?! Conquérir le monde ?! Quelque chose doit l'avoir changé grandement, en effet ! Cependant, c'est un mystère que nous pourrons résoudre une autre fois. Pour l'heure, notre chasse a été inutile, car notre cible est innocente. Nous allons rentrer en Amn et rapporter ceci au père de Telliax. Je doute qu'il en soit heureux. Adieu, amis. Vous pouvez dire à Belgin qu'il ne craint plus rien.~
 @254 = ~Tiax et Karris
 
 J'ai prouvé au groupe de Karris que Tiax est sain et sauf. Il va rentrer en Amn et Belgin devait être tiré d'affaire. Ce dernier nous attend à la taverne, nous ferions mieux d'aller l'y trouver pour réclamer notre récompense.~
@@ -348,22 +348,22 @@ J'ai prouvé au groupe de Karris que Tiax était en bonne santé. Il a remis le 
 @321 = ~Par les dieux, sera-t-il jamais silencieux ?~
 @322 = ~Tiax, est-ce que ça va ? Que se passe-t-il ?~
 @323 = ~Nous t'avons prévenu, Tiax. Cela a intérêt à te valoir la vie sauve.~
-@324 = ~Peux-tu te taire une seconde, au moins !? Mon dieu, ce que tu es agaçant.~
+@324 = ~Peux-tu te taire une seconde, au moins ?! Mon dieu, ce que tu es agaçant.~
 @325 = ~Une bénédiction ! Une bénédiction du Soleil Noir ! TIAX, champion élu de Cyric et futur maître de toute chose, a été informé du prochain pas vers la domination !~
 @326 = ~Une bénédiction serait que ton dieu t'informe que le prochain pas que tu dois faire est un grand pas en avant depuis le sommet de l'un de ces bâtiments.~
 @327 = ~Monty, tuez-nous cette chose cinglée et faites-le vite. Non, attendez. Faites-le lentement.~
 @328 = ~Oh, blasphémateurs ! Que tous ceux qui ne plient pas le genou devant Tiax se repentent car Tiax va bientôt dominer toute chose ! Nous devons nous hâter de gagner le Heaume et la Cape, car la destinée de Tiax l'y attend !~
 @329 = ~Pourquoi le Heaume et la Cape ? Est-ce que c'est lié à Belgin ?~
-@330 = ~Oh, parfait. A présent tu entends des voix en plus d'être un mégalomane paranoïde. Tiax, s'il te plait, garde tes délires pour toi.~
+@330 = ~Oh, parfait. A présent tu entends des voix en plus d'être un mégalomane paranoïde. Tiax, s'il te plaît, garde tes délires pour toi.~
 @331 = ~Cyric sait TOUT !~
 @332 = ~*soupire* Cyric sait peut-être tout, mais tu n'as pas été attentif, Tiax. Nous avons déjà éliminé Belgin de l'équation.~
 @333 = ~BAH ! Quelle impudence ! S'il n'était de bonne humeur, Tiax t'écraserait comme une fourmi, mais Tiax a en tête des affaires bien trop importantes pour gaspiller ses efforts sur toi ! Nous devons aller au Heaume et à la Cape pour massacrer le mécréant nommé Belgin ! Cyric l'a ordonné !~
 @334 = ~Pourquoi tuer Belgin ? Nous venons de le sauver, et maintenant tu me dis que Cyric le veut mort ?~
-@335 = ~Tuer Belgin !? Es-tu fou ? ... Ah, oui.~
+@335 = ~Tuer Belgin ?! Es-tu fou ? ... Ah, oui.~
 @336 = ~Hé, Cyric est mon genre de mec. Allons tuer ce petit bâtard !~
 @337 = ~*soupire* Tiax, tu n'as pas été attentif. C'est le plan depuis le début. Prendre son argent, le vendre aux chasseurs de primes, peut-être tuer et dépouiller les chasseurs après avoir reçu leur argent, retourner voir Belgin, prendre son argent, le tuer. Un plan simple, pourtant. Allons-y.~
 @338 = ~Belgin le mécréant doit MOURIR ! Ainsi l'a ordonné Cyric, et ainsi obéira Tiax, afin que le jour de son ascension s'approche encore !~
-@339 = ~Tu veux que nous tuions Belgin !? Mais pourquoi "Cyric" le voudrait-il mort alors que nous venons de le sauver ?~
+@339 = ~Tu veux que nous tuions Belgin ?! Mais pourquoi "Cyric" le voudrait-il mort alors que nous venons de le sauver ?~
 @340 = ~Ainsi, nous nous sommes cassés la tête pour essayer de le sauver, et maintenant, tu veux que nous le tuions ? Tu dois te payer ma tête.~
 @341 = ~Ça m'a l'air d'un plan. En route.~
 @342 = ~TIAX n'a pas le temps pour ces questions ! Cyric l'a ordonné et ainsi cela en sera-t-il fait, et vite ! En avant, esclaves ! Nous nous baignerons dans le sang et Tiax en deviendra plus grand !~

@@ -5,10 +5,10 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 207, probablement inutile de traduire ici !
 @2     = ~Voyons, voyons... le fou s'est évadé, n'est-ce pas ? Voyons voir de qui la tombe va se remplir !~
 
-//Yeslick qui rencontre Rieltar à Chateausuif
+//Yeslick qui rencontre Rieltar à Château-Suif
 @3     = ~Les bonnes manières, c'est ça ? Comme la politesse de ne pas entrer chez un nain sans y être invité ? Ou la bienséance de ne pas piétiner la tombe d'autrui ? Et la simple politesse de ne pas enfermer quelqu'un pour le torturer pendant des jours alors, Rieltar ? C'est ça les bonnes manières que tu prônes ? C'est ça, mécréant ?~
-@4     = ~Yeslick ?!? Alors Bois-Manteau *a* échoué... Maudis sois-tu, Nain ! Cette bibliothèque vous garantit peut-être la sécurité mais je t'assure qu'une fois dehors, tu ne pourras plus te cacher.~
-@5     = ~C'est pas à ma sécurité que je pense en ce moment, vermine ! Je dis, dégaine ton épée maintenant, et par la volonté de Clangeddin, viens t'faire occire comme le chien que t'es ! A la charge, <CHARNAME> !~
+@4     = ~Yeslick ?! Alors Bois-Manteau *a* échoué... Maudis sois-tu, Nain ! Cette bibliothèque vous garantit peut-être la sécurité mais je t'assure qu'une fois dehors, tu ne pourras plus te cacher.~
+@5     = ~C'est pas à ma sécurité que je pense en ce moment, vermine ! Je dis, dégaine ton épée maintenant, et par la volonté de Clangeddin, viens t'faire occire comme le chien que t'es ! A la charge, <CHARNAME> !~
 @6     = ~Non, Yeslick ! Ce n'est pas ainsi que vous vengerez qui que ce soit !~
 @7     = ~Nous sommes avec vous, Yeslick !~
 @8     = ~Oui... non... mais...~
@@ -87,7 +87,7 @@
 @69    = ~Par les dieux, vous avez raison ! Qui a besoin de tout ça ? Prépare-toi à mourir, Rieltar !~
 @70    = ~Je préfère tuer dans le feu de l'action que de sang froid comme *ce* vaurien ! La vengeance est arrivée, Rieltar ! POUR LE CLAN OROTHIAR !~
 @71    = ~Vous... vous n'allez pas m'aider ? Je... j'avais une plus haute estime de vous, <CHARNAME>, mais soit ! La vengeance est arrivée, Rieltar ! POUR LE CLAN OROTHIAR !~
-@72    = ~Ouais ! La vengeance est arrivée, Rieltar ! POUR LE CLAN OROTHIAR !!~
+@72    = ~Ouais ! La vengeance est arrivée, Rieltar ! POUR LE CLAN OROTHIAR !~
 @73    = ~*crache* Pourris en enfer, ordure de marchand ! Gloire à Clangeddin, mon travail est accompli, mes dettes ont été payées... et pas grâce à vous, <CHARNAME>, ni à aucun d'entre vous !~
 @74    = ~Ce que vous avez commis s'appelle un meurtre, Yeslick, purement et simplement.~
 @75    = ~De quoi vous plaignez-vous ? Vous vous êtes très bien débrouillé tout seul.~
@@ -99,7 +99,7 @@
 @81    = ~Espèce de dérangé ! Nous aurons de la chance si nous parvenons à sortir de la bibliothèque maintenant, sans parler des portes !~
 @82    = ~Ouais, ça ne ferait du bien à aucun d'entre nous de finir à nouveau en cellule... venez, allons trouver les maîtres de ces lieux et leur expliquer pourquoi nous avons fait ça.~
 @83    = ~Meurtre ? Nan, c'est de la justice, <CHARNAME>. Ce criminel a torturé, tué et semé la ruine pour rien d'autre que de l'or. Je dormirai sur mes deux oreilles le sachant mort. Vous devriez en faire autant. Maintenant, je pense que nous devrions trouver les responsables du monastère pour leur expliquer pourquoi nous avons fait ça, avant que les moines aient le temps de nous arrêter !~
-@84    = ~Que... que croyiez-vous que j'allais faire, <CHARNAME> ? Lui souhaiter une bonne journée ? Serrer la main de ce monstre ? Vous pensez qu'il ne m'aurait pas reconnu si je l'avais fait ? Ce rat nous aurait tous tués sans hésitation si nous nous étions tenus devant lui. Mieux vaut l'avoir tué maintenant plutôt que de nager dans une marée d'assassins d'ici à la Porte de Baldur ! Venez, nous ferions mieux d'expliquer aux responsables de cet endroit ce que nous avons fait et pourquoi.~
+@84    = ~Que... que croyiez-vous que j'allais faire, <CHARNAME> ? Lui souhaiter une bonne journée ? Serrer la main de ce monstre ? Vous pensez qu'il ne m'aurait pas reconnu si je l'avais fait ? Ce rat nous aurait tous tués sans hésitation si nous nous étions tenus devant lui. Mieux vaut l'avoir tué maintenant plutôt que de nager dans une marée d'assassins d'ici à la Porte de Baldur ! Venez, nous ferions mieux d'expliquer aux responsables de cet endroit ce que nous avons fait et pourquoi.~
 @85    = ~Vous savez enfin quelle main a mis fin aux jours de Gorion, <CHARNAME>. Hâtons-nous, et retrouvons ce mécréant qui partage votre sang ! Votre Clan demande vengeance !~
 @86    = ~Mais s'il est mon frère... que disent les lois naines sur le fratricide ?~
 @87    = ~Mon 'clan' n'est plus qu'une simple affaire de sang, Yeslick.~
@@ -114,7 +114,7 @@
 @96    = ~Vous dites la vérité. Qu'il en soit ainsi.~
 @97    = ~Non. Gorion n'aurait pas voulu que je tue en son nom.~
 @98    = ~Nous ferons ce qui s'impose.~
-@99    = ~Si vous le dites... Je me demande ce qu'il dirait s'il pouvait encore parler. Enfin, si ce Sarevok est le monstre que tout le monde craint, qu'il tient la Côte des Epées en son pouvoir, et qu'il est au centre de tout ce mal, <CHARNAME>... alors quoi ? Il ne mérite pas d'mourir ??~
+@99    = ~Si vous le dites... Je me demande ce qu'il dirait s'il pouvait encore parler. Enfin, si ce Sarevok est le monstre que tout le monde craint, qu'il tient la Côte des Epées en son pouvoir, et qu'il est au centre de tout ce mal, <CHARNAME>... alors quoi ? Il ne mérite pas d'mourir ?~
 @100   = ~La seule chose qui compte maintenant, c'est notre héritage. Il veut la couronne du Dieu du Meurtre - il devra me passer sur le corps !~
 @101   = ~Oui... si c'est lui qui a fait tout ça, alors nous le tuerons - et l'enverrons dans les Abysses !~
 @102   = ~Vous ou moi ne pouvons juger de cela, Yeslick. Si je le tue, je le tue car il le faut... pas parce que j'en ai envie.~

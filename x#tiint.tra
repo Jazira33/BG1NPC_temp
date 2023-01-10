@@ -21,7 +21,7 @@
 
 //Taverne Lame et Etoiles : on ne veut pas de Tiax.
 @9 = ~Oh non ! Tu n'es pas le bienvenu ici, Tiax. Merci, trouve-toi à loger ailleurs, s'il te plaît, au revoir !~
-@10 = ~On refuse de servir Tiax !? Blasphème ! Tiax ne sera pas jeté dehors par un homme de ton engeance ! Seul Cyric en personne pourrait le faire bouger de cet endroit, s'il désirait rester !~
+@10 = ~On refuse de servir Tiax ?! Blasphème ! Tiax ne sera pas jeté dehors par un homme de ton engeance ! Seul Cyric en personne pourrait le faire bouger de cet endroit, s'il désirait rester !~
 @11 = ~Si je dois faire appel à la garde, je le ferai. Tu n'es plus le bienvenu dans mon auberge.~
 @12 = ~Qu'est-ce que Tiax a fait, exactement ?~
 @13 = ~Il est le bienvenu aussi longtemps que je suis ici. Je ne me laisserai pas jeter à la rue par un tavernier minable, et j'ai le pouvoir de défendre mon envie de rester.~
@@ -33,13 +33,13 @@
 @19 = ~Bah ! Ce crétin impudent a prétendu que Tiax serait trop petit pour torturer qui que ce soit au-dessus des rotules ! Une telle stupidité sera punie de manière appropriée quand Tiax régnera, mais sur le moment, Tiax n'avait pas d'autre choix que de distribuer la justice à ses ennemis ! Personne n'OSE se moquer de Tiax !~
 @20 = ~Personnellement, je m'interroge sur la santé mentale de quiconque voyage avec ce cinglé. Chacun son style, j'imagine. Cependant, je vous suggérerais amicalement de l'emmener HORS de mon auberge, merci !~
 @21 = ~Je regrette qu'il ait causé tout ces problèmes. Pour combien y en a-t-il eu de dégâts ? Je paierai pour lui.~
-@22 = ~Vous nous jetez dehors à cause de quelques marchands geignards qui ne savent pas gérer une bagarre de taverne ? S'il vous plait. Servez-nous ou recevoir une masse sur la tête ressemblera à une bénédiction lorsque nous en aurons fini avec vous.~
+@22 = ~Vous nous jetez dehors à cause de quelques marchands geignards qui ne savent pas gérer une bagarre de taverne ? S'il vous plaît. Servez-nous ou recevoir une masse sur la tête ressemblera à une bénédiction lorsque nous en aurons fini avec vous.~
 @23 = ~Et bien, je peux comprendre pourquoi vous êtes en colère. Nous trouverons simplement un autre endroit où nous poser.~
 @24 = ~On ne me menacera pas dans mon propre établissement. Votre capital de sympathie est épuisé, comme celui de votre ami. Dehors ! Dehors !~
 @25 = ~Je suis heureux que vous fassiez preuve de plus de compréhension que votre petit ami. Bonne journée.~
 @26 = ~Au total, cela fait 300 pièces d'or. A prendre ou à laisser, mais jusqu'à ce que cela soit payé, quiconque voyage avec ce gnome ne pourra pas rester ici.~
 @27 = ~J'ai assez. Voici, prenez les 300 pièces d'or et mes excuses de la part de Tiax.~
-@28 = ~300 pièces d'or !?! Pour quelques verres cassés ! Vous êtes un arnaqueur de première !~
+@28 = ~300 pièces d'or ?! Pour quelques verres cassés ! Vous êtes un arnaqueur de première !~
 @29 = ~Au-dessus de mes moyens. Merci, cela dit, tavernier. Nous trouverons un autre endroit pour nous poser.~
 @30 = ~Je n'ai plus rien à vous dire. Aussi longtemps que ce gnome est avec vous, vous n'êtes pas les bienvenus. Sortez gentiment.~
 @31 = ~Et bien, je suis heureux de voir qu'il reste toujours quelques personnes honorables en ce bas monde. Ce pour quoi elles voyagent avec LUI, m'échappe. Vous êtes les bienvenus ici aussi longtemps que vous garderez le gnome en laisse, et merci pour votre aide !~

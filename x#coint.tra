@@ -76,7 +76,7 @@
 @25 = ~Gaaardes !~
 
 
-//Canticle (cantique: esclave de bois manteau, barde qui a perdu sa voix)
+//Canticle (cantique : esclave de bois manteau, barde qui a perdu sa voix)
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 146, probablement inutile de traduire ici !
 @26 = ~Asservir un barde pour le faire creuser ? Ce Davaëorn a un cerveau de la taille d'une noix ! Ne sois pas inquiet, troubadour, nous sommes ici pour vous libérer tous, et pour tuer Davaëorn.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 147, probablement inutile de traduire ici !
@@ -177,7 +177,7 @@
 @76 = ~Mais tu n'as pas le temps. Ce qui fait que le nom du p'tit oiseau est hors de propos. Maintenant, allons-y.~
 @77 = ~Excusez-moi, vraiment, douce dame, mais je dois vous dérober mon camarade...~
 
-//coran/Ajantis - willia et jessup racontent des anecdotes embarrassantes sur le PJ à château suif
+//coran/Ajantis - willia et jessup racontent des anecdotes embarrassantes sur le PJ à Château-Suif
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 193, probablement inutile de traduire ici !
 @78 = ~Il n'y a même plus besoin de lui tourner le dos, maintenant, pour que ça arrive.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 194, probablement inutile de traduire ici !
@@ -227,7 +227,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 220, probablement inutile de traduire ici !
 @97 = ~Merci pour la suggestion, mais votre propre prédisposition à la solennité suffit à me maintenir à l'aise.~
 
-//Keeper (le gardien du portail de château suif)
+//Keeper (le gardien du portail de Château-Suif)
 @98 = ~<CHARNAME>, <CHARNAME> ! Je t'en prie, jette un coup d'oeil à mes oreilles. Est-ce qu'elle se racornissent, flétries comme des fleurs sous les rudes vents de l'hiver ? Pourquoi les idiots les plus pompeux ont-ils toujours les voix les plus fortes et les plus puantes ?~
 
 //Gerde
@@ -242,7 +242,7 @@
 @104 = ~Vous faites un nain pathétique, Coran.~
 @105 = ~Un bien meilleur que toi !~
 @106 = ~Je suis ravi de voir que vous êtes fier de cette... performance.~
-@107 = ~Avec ma hache, j' te fendrai la tête comme un melon pourri !~
+@107 = ~Avec ma hache, j'te fendrai la tête comme un melon pourri !~
 @108 = ~Ceci est votre arc, Coran. Sont-ce les vapeurs qui vous montent à la tête ?~
 @109 = ~*secouant la tête* Tu es un cas désespéré, Kivan.~
 
@@ -311,7 +311,7 @@
 //en voyant le squelette de dragon (tosc)
 @147 = ~C'est énorme... Regardez ça ! Je n'ai jamais vu de dragon de cette taille. Je parie que c'est un de ces anciens... Je suppose qu'il est mort de vieillesse. Je me demande combien il donneraient pour son scalp à la Maison des Merveilles ?~
 
-//chaîne: coran cook
+//chaîne : coran cook
 @148 = ~Bonjour, ma belle. Nous nous sommes rencontrés et nous nous séparons, comme deux papillons dans une nuit venteuse...~
 @149 = ~*glousse*~
 @150 = ~Semblerait que not' mine attire les nobles, maintenant... Je ferais mieux d'arranger ma coiffure... et d'acheter de nouvelles chaussures.~

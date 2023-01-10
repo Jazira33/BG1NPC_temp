@@ -161,7 +161,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 389, probablement inutile de traduire ici !
 @73 = ~Hum, tu as dit quelque chose, gamin ?~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 390, probablement inutile de traduire ici !
-@74 = ~Gamin ?!? Je...~
+@74 = ~Gamin ?! Je...~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 391, probablement inutile de traduire ici !
 @75 = ~Je vous assure qu'il me coûte de faire ceci, mais je dois penser à ma bien aimée, Skie ! C'est le seul moyen qu'elle a de pouvoir échapper à la tyrannie qu'est sa vie. Alors, qu'en dites-vous ?~
 
@@ -487,7 +487,7 @@
 //Avec Volo le barde
 @191 = ~N'êtes-vous pas Volo, messire, le célèbre barde ?~
 @192 = ~C'est le cas, en effet, jeune homme. Et si je ne suis barde, je suis au moins un colporteur d'histoires. Et qui, dites-moi, êtes-vous ? Je doute d'être suffisamment célèbre pour être connu de tous... et comprenez-moi bien, c'est quelque chose dont je suis reconnaissant. Donc, aurais-je raison de penser que vous aussi avez une âme de conteur ?~
-@193 = ~Mon nom est Garrick, messire, et je me considère, effectivement, comme un barde, en quelque sorte. Mais j'imagine que je, euh, suis encore en train d'apprendre... C'est un honneur de vous rencontrer ! S'il vous plait, régalez-nous d'une de vos célèbres histoires !~
+@193 = ~Mon nom est Garrick, messire, et je me considère, effectivement, comme un barde, en quelque sorte. Mais j'imagine que je, euh, suis encore en train d'apprendre... C'est un honneur de vous rencontrer ! S'il vous plaît, régalez-nous d'une de vos célèbres histoires !~
 
 //Toujours cette peau d'ours de Theodon
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 197, probablement inutile de traduire ici !
@@ -520,7 +520,7 @@
 @1002 = ~Bonne chance !~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 584, probablement inutile de traduire ici !
 @1003 = ~MEURS !~
-@1004 = ~Par ici, s'il vous plait !~
+@1004 = ~Par ici, s'il vous plaît !~
 @1005 = ~Astucieux, non ?~
 @1006 = ~Avancez !~
 @1007 = ~Je veux juste m'en débarrasser... Je vous en prie !~

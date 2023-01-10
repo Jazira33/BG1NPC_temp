@@ -188,7 +188,7 @@
 @165 = ~Peut-être bien que tu veux aussi récupérer ces billes ?~
 @166 = ~Eh bien, je m'apprêtais à te laisser les porter encore quelques temps, mais j'imagine que je vais les reprendre.~
 @167 = ~Eh bien il me semble que toi et moi, à nous deux, on s'rait plutôt bien équipés pour faire face à toute éventualité.~
-@168 = ~Je vois. Et qu'est-ce que tes employeurs diraient de ce, euh, partenariat potentiel* ?~
+@168 = ~Je vois. Et qu'est-ce que tes employeurs diraient de ce, euh, partenariat potentiel ?~
 @169 = ~Employeur, c'est un mot qui a du corps. Mais il perd vachement de son poids quand on en est loin...~
 @170 = ~Hmmm. Il est clair pour quelqu'un d'aussi sage que moi que nous pourrions faire bien pire que de nous soucier chacun l'un de l'autre.~
 /* Safana */
@@ -199,7 +199,7 @@
 @175 = ~... et j'm'en fiche aussi qu'tu t'serves en premier dans l'butin, en plus. Tu fais une mule tout à fait acceptable jusqu'à c'qu'on arrive dans un coin où on peut dépenser...~
 @176 = ~Tu oses...~
 @177 = ~... mais j'en ai TELLEMENT ma claque que tu blablates dans mes oreilles tout le temps, que je vais oublier tous ces bénéfices te concernant, et te la fermer une bonne fois pour toute, si tu m'adresses encore UN seul mot. T'as pigé ?!~
-@178 = ~<CHARNAME>, si tu dois détacher cette créature de sa laisse, peux-tu s'il-te-plait la museler* ? La laisser baver ainsi en liberté est tellement... peu hygiénique.~
+@178 = ~<CHARNAME>, si tu dois détacher cette créature de sa laisse, peux-tu s'il te plaît la museler ? La laisser baver ainsi en liberté est tellement... peu hygiénique.~
 /* Shar-Teel */
 @179 = ~Hé, fais gaffe où tu marches !~
 @180 = ~Ecarte-toi de mon chemin, mâle. Je fais des grands pas.~

@@ -18,9 +18,9 @@
 @17 = ~Nous reviendrons quand nous aurons 500 pièces d'or.~
 @18 = ~Mais bien sûr, chers amis, j'ai en ma possession les objets les plus rares et les plus merveilleux. Jetez-y un coup d'oeil.~
 @19 = ~Errk ! Ce répugn... euh... c'est admirablement conservé cela dit. Une dryade, non ?~
-@20 = ~Vous voyez !?!? Vous voyez, <CHARNAME>,je vous l'avais dit, je vous l'avais dit ! ... ahem. Maintenant, cher monsieur, vu que ma carrière d'aventurier passe en premier (évidemment), il me manque les ingrédients triviaux nécessaires à une convenable réalisation de cet enchantement. Pouvez-vous m'apprendre quels autres produits pourraient être requis afin de distiller cette magnifique essence en un anneau, un bel anneau, mon précieuuuux ?~
+@20 = ~Vous voyez ?! Vous voyez, <CHARNAME>,je vous l'avais dit, je vous l'avais dit ! ... ahem. Maintenant, cher monsieur, vu que ma carrière d'aventurier passe en premier (évidemment), il me manque les ingrédients triviaux nécessaires à une convenable réalisation de cet enchantement. Pouvez-vous m'apprendre quels autres produits pourraient être requis afin de distiller cette magnifique essence en un anneau, un bel anneau, mon précieuuuux ?~
 @21 = ~Hé bien, un anneau de mithral pourrait servir de réceptacle à la magie de votre... euh... échantillon. Malheureusement, je n'ai rien de tel en stock en ce moment, pour ma part. Si vous pouviez fournir un réceptacle aussi parfait, hé bien... voyons... le parchemin, mon temps... pour... neuf cent... disons pour mille pièces d'or, je pourrais fabriquer un anneau magique capable de résister aux enchantements - peut-être même en lancer un mineur - en quatre... mettons cinq jours. Etes-vous intéressés ?~
-@22 = ~Oooh ! Faisons ça ! Il le faut ! On peut ? On peut, <CHARNAME> ? Sivouplééé ?!?~
+@22 = ~Oooh ! Faisons ça ! Il le faut ! On peut ? On peut, <CHARNAME> ? Sivouplééé ?!~
 @23 = ~Je ne sais pas. Si nous trouvons un tel... réceptacle, on pourra y réfléchir.~
 @24 = ~On le trouvera ! Même si nous devons dépouiller la Côte des Epées tout entière jusqu'à son fondement de pierre nue, NOUS LE FERONS !!!~
 @25 = ~Euh... bien sûr, Xzar. Mais... euh... ça ressemble à un sacré gros boulot, donc le mieux c'est d'y aller. D'accord ?~
@@ -39,7 +39,7 @@
 @38 = ~Quelle est votre décision ?~
 @39 = ~Pas question. Ça n'en vaut pas la peine, et nous avons déjà du meilleur matériel.~
 @40 = ~Tireli-dada, mon radieux garçon ! C'est fait ! Et c'est à moi !~
-@41 = ~OUBLIER ça !?! JAMAIS !!! Votre mesquinerie est sans égale, <CHARNAME> ! Jamais je n'avais été aussi injustement frustré depuis que l'on m'a refusé la récompense du Premier Etudiant au laboratoire des Globes Oculaires !~
+@41 = ~OUBLIER ça ?! JAMAIS !!! Votre mesquinerie est sans égale, <CHARNAME> ! Jamais je n'avais été aussi injustement frustré depuis que l'on m'a refusé la récompense du Premier Etudiant au laboratoire des Globes Oculaires !~
 @42 = ~Ça brille si joliment, comme de petits poissons morts qui puent sur le rivage.~
 @43 = ~Arrh ! Je ne peux pas attendre ! Je ne peux pas attendre plus longtemps !~
 @44 = ~AHA ! La démonstration de mon génie, ENFIN !~
@@ -91,11 +91,11 @@
 @87 = ~Hé hé hé ! On ne me fera jamais croire que vous aimez à nouveau les gazons, cher ami.~
       ~Hé hé hé ! On ne me fera jamais croire que vous aimez à nouveau les gazons, chère amie.~
 @88 = ~C'est idiot ! Les mendiants se charment grâce à leur misère, dans tous les cas. Et un lampadaire ? *Peut-on* charmer un lampadaire ? Peut-être pour créer l'obscurité sur commande ? * Ça* c'est une idée... ~
-@89 = ~Très bien. 'Etudiez-le rapidement' ; tel serait mon conseil, très *cher* <CHARNAME> !~
-      ~Très bien. 'Etudiez-le rapidement' ; tel serait mon conseil, très *chère* <CHARNAME> !~
+@89 = ~Très bien. « Etudiez-le rapidement » ; tel serait mon conseil, très *cher* <CHARNAME> !~
+      ~Très bien. « Etudiez-le rapidement » ; tel serait mon conseil, très *chère* <CHARNAME> !~
 @90 = ~*Ça* c'est une promesse que je n'oublierai pas, <CHARNAME>.~
 @91 = ~Hmm ? Oh, oui. C'est aussi inerte que la pierre, maintenant. S'il ne se recharge pas d'ici demain, je vous en tiendrai pour pleinement responsable, <CHARNAME>.~
-@92 = ~Moi ?!? Qui a attaqué Montaron, toi ou moi ?~
+@92 = ~Moi ?! Qui a attaqué Montaron, toi ou moi ?~
 @93 = ~Moi. Mais *vous* auriez dû savoir que je tenterais quelque sottise de ce genre et m'en empêcher. Vraiment, <CHARNAME>, je m'interroge quelquefois sur votre manque de sens pratique. C'est un handicap grave chez un meneur.~
 @94 = ~Stupide dryade.~
 @95 = ~Pourquoi ne m'a-t-elle pas dit qu'elle était si faible ? Sa mort n'était pas du tout nécessaire.~
@@ -157,8 +157,8 @@ Mon compagnon Xzar a tiré le sang d'une dryade des Pics Brumeux. Cette stupide 
 @149 = ~Hum, hum. Quand - et en quoi - proposes-*tu* de l'enchanter ?~
 @150 = ~Humff ! Le voilà, alors ! Soyez seulement assuré - vraiment assuré - qu'il sera disponible au moment voulu, *cher* <CHARNAME> !~
        ~Humff ! Le voilà, alors ! Soyez seulement assurée - vraiment assurée - qu'il sera disponible au moment voulu, *chère* <CHARNAME> !~
-@151 = ~Le 'quoi' se manifestera de lui-même. Nous rencontrons tant de délicieuses créatures, telles que celle dont les restes éparpillés souillent ma chaussure en ce moment même.~
-@152 = ~'Quand' dépendra d'un peu plus de silence de votre part : une interruption de vos habituelles questions stupides et remarques inutiles. Honnêtement, <CHARNAME>, la plupart du temps je ferais mieux de parler à mes chaussettes. Particulièrement la gauche, qui est en train de devenir assez humide en ce moment.~
+@151 = ~Le « quoi » se manifestera de lui-même. Nous rencontrons tant de délicieuses créatures, telles que celle dont les restes éparpillés souillent ma chaussure en ce moment même.~
+@152 = ~« Quand » dépendra d'un peu plus de silence de votre part : une interruption de vos habituelles questions stupides et remarques inutiles. Honnêtement, <CHARNAME>, la plupart du temps je ferais mieux de parler à mes chaussettes. Particulièrement la gauche, qui est en train de devenir assez humide en ce moment.~
 @153 = ~Alors bouge ton stupide pied. D'accord ?~
 @154 = ~C'est plutôt à moi que je ferais confiance pour ça. *Tu* le laisserais tomber dans une oreille de leprechaun pour le mettre en lieu sûr.~
 @155 = ~Prenez-le, alors. En fait je suis curieux de voir ce que *vous* allez en faire.~

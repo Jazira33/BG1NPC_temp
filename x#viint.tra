@@ -80,7 +80,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 322, probablement inutile de traduire ici !
 @51 = ~De pitoyables dandys en robe rouge ne m'effraieront pas !~
 @52 = ~Ah, enfin des sous-sols. Je pense que je vais aimer cet endroit.~
-@53 = ~Fauché ? Impertinence ? Quoi ?!? <CHARNAME>, nous devons donner une leçon à ces imbéciles !~
+@53 = ~Fauché ? Impertinence ? Quoi ?! <CHARNAME>, nous devons donner une leçon à ces imbéciles !~
 @54 = ~Et de telles scènes, <CHARNAME>, expliquent pourquoi je trouve les surfacins faibles.~
 @55 = ~Un autre balourd malotru, qui va rapidement aller à sa perte !~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 642, probablement inutile de traduire ici !
@@ -102,7 +102,7 @@
 @67 = ~Rah ! Butors et goujats ! N'avez-vous pas idée du travail que demande l'entretien d'un jardin ?!~
 @68 = ~Et c'est ainsi que le faible finit toujours par tomber.~
 @69 = ~Si tu pars *maintenant*, alors peut-être l'un d'entre vous aura-t-il la chance de rester un homme !~
-@70 = ~Personne ne menace les Démolisseurs de Montprofond !! Emparez-vous d'eux !~
+@70 = ~Personne ne menace les Démolisseurs de Montprofond ! Emparez-vous d'eux !~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 710, probablement inutile de traduire ici !
 @71 = ~S'il peut lier la créature à lui, laisse-le garder l'esclave.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 711, probablement inutile de traduire ici !
@@ -197,20 +197,20 @@
 @135 = ~Peut-être le devrions-nous. Bien qu'une telle pitié me soit... inhabituelle, la pétrification est un terrible sort.~
 @136 = ~On dirait que la mort n'a pas développé les facultés de celui-là.~
 @137 = ~Merci !~
-@138 = ~Toi d’abord !~
+@138 = ~Toi d'abord !~
 @1001 = ~Aucune utilité.~
-@1002 = ~Vous ne pourrez pas dire qu’on ne vous aura pas prévenu.~
+@1002 = ~Vous ne pourrez pas dire qu'on ne vous aura pas prévenu.~
 @1003 = ~Quelles épreuves ne faut-il pas endurer !~
 @1004 = ~Je vais vous tuer aussi !~
 @1005 = ~Noooonn !~
-@1006 = ~Je n’ai pas peur de vous !~
+@1006 = ~Je n'ai pas peur de vous !~
 @1007 = ~Ma foi me protège !~
 @1008 = ~Heaum me protégera de vos semblables !~
 @1009 = ~Allons-y maintenant. On parlera plus tard.~
 
-@143 = ~Elle ne te sera d’aucune utilité maintenant !~
-@144 = ~C’est ce qu’on verra !~
+@143 = ~Elle ne te sera d'aucune utilité maintenant !~
+@144 = ~C'est ce qu'on verra !~
 @145 = ~Je crois que ça va être ta fin !~
 @146 = ~Prends ça, enfant.~
-@150 = ~Qu’Ursa nous protège !~
+@150 = ~Qu'Ursa nous protège !~
 @152 = ~Ah !~

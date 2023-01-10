@@ -287,7 +287,7 @@
 @239 = ~J'adorerais entendre votre chanson, Garrick.~
 @240 = ~Ah, je savais qu'il y avait un amateur de musique dans ce groupe ! Très bien, dans ce cas, celle-ci vous est dédiée, ma chère Skie...~
 @241 = ~Ah, mais la musique a le pouvoir de détendre même la bête la plus sauvage ! Celle-ci vous est dédiée, ma chère Shar-Teel...~
-@242 = ~Est-ce que je n'ai pas été claire, mâle ?!? Il n'y aura *pas de musique*. Si je dois même entendre une unique note, je ferai des cordes de violon avec tes cordes vocales. Est-ce qu'on se comprend ?~
+@242 = ~Est-ce que je n'ai pas été claire, mâle ?! Il n'y aura *pas de musique*. Si je dois même entendre une unique note, je ferai des cordes de violon avec tes cordes vocales. Est-ce qu'on se comprend ?~
 @243 = ~*gloups* Euh, oui, ma da... euh, oui. Je vais aller jouer ma composition par là. Dans le coin.~
 
 //Banter avec Skie (intervention possible d'Eldoth)
@@ -302,7 +302,7 @@
 //Banter avec Tiax (interventions possibles d'Edwin, Xan et Quayle)
 @251 = ~Ah, quelle belle journée pour partir à l'aventure ! Les oiseaux chantent, l'air est frais et clair, les arbres sont grands et majestueux. Que pouvons-nous demander de plus aux Dieux, nous humbles mortels, que d'être en vie en une telle journée ?~
 @252 = ~Tiax pourrait demander bien plus. Par exemple, Tiax pourrait demander que sa destinée soit réalisée, et qu'il lui soit permis d'enfourcher le monde armé de son pouvoir et de sa gloire !~
-@253 = ~Oh, pourquoi est ce que cet idiot doit continuer à cheminer avec nous ? Pourquoi suis-je entouré de crétins tels que celui-ci ?!?~
+@253 = ~Oh, pourquoi est ce que cet idiot doit continuer à cheminer avec nous ? Pourquoi suis-je entouré de crétins tels que celui-ci ?!~
 @254 = ~Tiax pourrait demander à Cyric d'abattre ses ennemis et d'apporter la ruine aux hérétiques, douleur et misère à tous ces imbéciles qui ne plient pas les genoux devant la puissance de Tiax !~
 @255 = ~Rappelez-moi d'émigrer avant que cela ne se produise.~
 @256 = ~Tu sais, Tiax, je pense vraiment que tu devrais aller voir un spécialiste de la santé mentale, ou quelque chose du genre. Tu donnes mauvaise réputation aux gnomes, espèce de bouffon !~
@@ -358,7 +358,7 @@
 //Banter avec Xan (intervention d'Ajantis, Montaron & Xzar)
 @299 = ~Comment allez-vous, Xan ?~
 @300 = ~Eh bien, je ne me sentais pas particulièrement mal. Cela dit, maintenant que vous avez commencé à parler, cela signifie probablement que vous allez vous mettre à chanter quelque chose, ce qui veut probablement dire que je vais avoir la migraine. Donc, pas si bien, finalement.~
-@301 = ~Ma musique vous offense tant que ça ?!?~
+@301 = ~Ma musique vous offense tant que ça ?!~
 @302 = ~Pas la musique, j'imagine. Le bruit en lui-même, qui a l'effet supplémentaire d'avertir n'importe qui de notre présence dans un rayon d'une lieue, lui donnant l'ample opportunité de planifier notre trépas.~
 @303 = ~Et qu'ils viennent ! Avec Heaum pour me guider, nous vaincrons une telle vilenie !~
 @304 = ~Oh.~

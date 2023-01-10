@@ -102,7 +102,7 @@ Qu'elle nous guide encore...~
 @71 = ~Pouvez-vous entendre le refrain que le vent de <MONTHNAME> siffle aux feuilles dansantes ?~
 @72 = ~Maintenant que vous le dites, oui, on dirait un refrain. C'est beau.~
 @73 = ~Ce doit être Shaundakul chantant pour la belle Aerdrie Faenya.~
-@74 = ~Kivan, quand je vous ai rencontré, je vous croyais du genre fort et *silencieux* . Les premières impressions peuvent être tellement trompeuses !~
+@74 = ~Kivan, quand je vous ai rencontré, je vous croyais du genre fort et *silencieux*. Les premières impressions peuvent être tellement trompeuses !~
 @75 = ~Je crois... Je crois que je peux répéter le refrain... c'est très... facile à fredonner... *fredonne à voix basse*~
 @76 = ~Lle merna salk ? Voudriez-vous danser avec les feuilles ?~
 @77 = ~Jamais de la vie !~
@@ -278,7 +278,7 @@ rester, mon prince, rester, mon prince...~
        ~Nos anciens nous ont souvent parlé des monstres et nous ont préparés à affronter le Mal, tôt ou tard. Pourtant, j'ai peine à imaginer que quelqu'un puisse être préparé à affronter les horreurs que vous avez traversées. Sarevok, l'homme qui a tué votre père adoptif et tout fait pour vous tuer également, est votre demi-frère ! Le Mal ne peut être plus proche de vous que cela. Est-ce pour cela que vous êtes si silencieuse et si triste ?~
 @231 = ~Mon demi-frère a tué mon père adoptif - ce qui fait de l'affaire une affaire de famille, Kivan. Je ne veux pas voir les yeux fureteurs d'un rôdeur s'en mêler.~
 @232 = ~Oui, c'est perturbant. J'ai vécu si longtemps en me croyant orphelin et seul au monde... Maintenant j'ai découvert qui est mon véritable père, et que j'ai un demi-frère. Ni l'une ni l'autre de ces découvertes ne m'ont fait plaisir.~
-      ~Oui, c'est perturbant. J'ai vécu si longtemps en me croyant orpheline et seule au monde... Maintenant j'ai découvert qui est mon véritable père, et que j'ai un demi-frère. Ni l'une ni l'autre de ces découvertes ne m'ont fait plaisir.~
+       ~Oui, c'est perturbant. J'ai vécu si longtemps en me croyant orpheline et seule au monde... Maintenant j'ai découvert qui est mon véritable père, et que j'ai un demi-frère. Ni l'une ni l'autre de ces découvertes ne m'ont fait plaisir.~
 @233 = ~Et s'il n'y avait que Sarevok... la lettre mentionnait qu'il y en avait d'autres. J'ai probablement une famille très nombreuse ! Toute entière de l'engeance de Bhaal. Je sens que je n'en ai pas fini avec les surprises désagréables.~
 @234 = ~Je ne considère pas Sarevok comme un de mes parents, Kivan. Et encore moins mon frère ! Nous ne partageons que quelque bizarre héritage spirituel, par le caprice d'une divinité morte, voilà tout. Tout ce que je veux, c'est venger la mort de mon vrai père - Gorion.~
 @235 = ~Le Mal peut être plus proche, Kivan. Regardez-moi. Ma propre âme est un terrain de jeu ; la partie a commencé il y a déjà longtemps, mais je ne savais pas que je faisais partie des joueurs. Mon adversaire le savait, et il a quelques tours d'avance sur moi.~
@@ -379,7 +379,7 @@ rester, mon prince, rester, mon prince...~
 @313 = ~Après la fin de la guerre nous avons enterré nos morts avec les honneurs... Ma mère était inconsolable dans sa douleur d'avoir perdu mon père et mes frères qui étaient tombés.~
 @314 = ~Elle persuada le reste de ma famille de partir pour Éternelle Rencontre. Je restai en arrière, car après l'hiver gelé je voyais arriver le printemps nouveau, et Déhériana souriait à chaque fois qu'elle me rencontrait et que je lui souhaitais une bonne journée.~
 @315 = ~Si Déhériana était vivante, vous l'aimeriez pour davantage que son talent, <CHARNAME>.~
-@316 = ~*en souriant* Un archer suit toujours le même processus au combat, <CHARNAME>. Encocher. Tendre. Lâcher. Bien sûr, je n'avais pas le temps de jeter un coup d'oeil à la dérobée sur elle au coeur de la bataille, et la plupart du temps elle était hors de mon champ de vision ... Mais quelquefois j'avais de la chance.~
+@316 = ~*en souriant* Un archer suit toujours le même processus au combat, <CHARNAME>. Encocher. Tendre. Lâcher. Bien sûr, je n'avais pas le temps de jeter un coup d'oeil à la dérobée sur elle au coeur de la bataille, et la plupart du temps elle était hors de mon champ de vision... Mais quelquefois j'avais de la chance.~
 @317 = ~<CHARNAME>, je ne comprends pas comment mes paroles ont réussi à vous bouleverser de la sorte. Mais il est vrai que je songeais à voyager là-bas après la mort de Tazok.~
 @318 = ~Une année dure aussi longtemps pour un elfe que pour un nain, un gnome, un halfeling ou un humain, <CHARNAME>. Le temps et la distance apportent la guérison... Oui, mais seul l'amour ranime.~
 @319 = ~L'amour ? Pensez-vous que vous pourriez aimer à nouveau ?~
@@ -790,7 +790,7 @@ A la solitaire et majestueuse multitude.~
 
 
 @608 = ~Votre dévotion envers Cyric me fait douter de votre fiabilité.~
-@609 = ~Aveugle et fou ! Ne peux-tu pas voir que réprouver Cyric est inviter à ta destruction !? Quand Tiax règnera, la campagne sera couverte des tombes de ceux qui n'auront pas abjuré leurs fausses divinités !~
+@609 = ~Aveugle et fou ! Ne peux-tu pas voir que réprouver Cyric est inviter à ta destruction ?! Quand Tiax règnera, la campagne sera couverte des tombes de ceux qui n'auront pas abjuré leurs fausses divinités !~
 @610 = ~Nan, Tiax ne leur accordera pas même la tombe, car leur stupidité contaminerait la terre elle-même ! Les Infidèles seront mis en pièces membre après membre et incinérés sous les yeux des esclaves loyaux de Tiax, afin qu'ils puissent apprendre quel est le prix de la rébellion !~
 @611 = ~Le fait que vous partagiez la démence de votre dieu ne vous rend que plus pitoyable. Gardez vos distances avec moi, car bien que <CHARNAME> puisse souhaiter avoir commerce avec vous, ce n'est pas mon cas.~
 @612 = ~Tiax a pris note de ta désobéissance. Quand Tiax règnera, tu seras traîné derrière son char comme trophée de sa victoire ! Tous acclameront Tiax, car seuls ceux qui le serviront pourront vivre ! Ce qui, ô idiot aux oreilles pointues, ne t'inclut PAS !~

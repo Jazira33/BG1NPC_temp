@@ -227,7 +227,7 @@ Dans un torrent de violence..."~
 @153   = ~Hum. Quel dommage. Je dois admettre que tes faiblesses limitent quelque peu tes capacités à certaines... activités physiques... J'avais l'intention de te soulager de tes gémissements d'auto-apitoiement. Je trouve ta vigueur assez fascinante. Cela dit, si tu ne supportes pas l'excitation, alors je présume qu'il n'y a rien à faire.~
 @154   = ~Oh la la !~
 @155   = ~Branwen, tu es un peu plus directe que je ne le pensais...~
-@156   = ~Hé là, attends une minute... Je ne suis pas si vieux et frêle que ça !! Tiens, je suis fort comme un boeuf et aussi solide qu'un cheval !~
+@156   = ~Hé là, attends une minute... Je ne suis pas si vieux et frêle que ça ! Tiens, je suis fort comme un boeuf et aussi solide qu'un cheval !~
 @157   = ~J'en suis certaine, barbe grise. Alors mets tes paroles en adéquation avec tes actes et plains-toi un peu moins souvent, hein ?~
 @158   = ~Oh, va te faire voir.~
 
@@ -408,7 +408,7 @@ Dans un torrent de violence..."~
 // discussion avec Tiax (279-281), Quayle (282-284)
 
 @278   = ~En général, <CHARNAME>, quand les guerriers de Tempus rencontrent les ignobles serviteurs de Cyric, ces derniers se font immanquablement massacrer. Il n'existe pas de manière honorable d'agir face à leur cruauté hormis le combat, car toute autre méthode conduirait seulement à une traîtrise de leur part. C'est une leçon que tu ferais bien de retenir.~
-@279   = ~Crois-tu que Tiax est idiot !? Il comprend parfaitement à qui tu fais référence et pour tes insultes, il s'offrira ta tête blasphématoire sur un plateau quand il règnera ! Tu tentes le sort avec cette hérésie, espèce d'idiote, car seul CYRIC est promis à régner sur toute chose, avec Tiax à ses côtés !~
+@279   = ~Crois-tu que Tiax est idiot ?! Il comprend parfaitement à qui tu fais référence et pour tes insultes, il s'offrira ta tête blasphématoire sur un plateau quand il règnera ! Tu tentes le sort avec cette hérésie, espèce d'idiote, car seul CYRIC est promis à régner sur toute chose, avec Tiax à ses côtés !~
 @280   = ~Silence, cinglé ! Ta présence est une infamie, et nous conduira tous inévitablement au désastre. Plus tôt <CHARNAME> m'autorisera à t'éliminer du groupe, mieux ce sera.~
 @281   = ~Bah ! Tiax ne sera JAMAIS éliminé ; c'est lui qui éliminera ! Avec qui penses-tu que <CHARNAME> s'alliera : avec celui qui lui offrira le règne céleste sur toute chose, ou avec une amazone puante qui répugne à raser ses aisselles ?~
 @282   = ~A vrai dire, je crois même que *je* choisirais ce pitoyable ersatz de gnome plutôt que les aisselles de Branwen... Je veux dire que vraiment, un gnome de mon envergure ne devrait pas avoir à supporter une vision et une odeur si repoussantes.~
@@ -442,11 +442,11 @@ Dans un torrent de violence..."~
 // et qui s'apparente au "merde pour ton spectacle" français. 
 // Faute de mieux, c'est la traduction que j'ai choisie, mais ça m'a obligé à modifier la ligne 301
 // car on ne pouvait pas récupérer le jeu de mots original.
-// Si le relecteur a une meilleure idée, qu'il n'hésite pas à modifier....
+// Si le relecteur a une meilleure idée, qu'il n'hésite pas à modifier...
 
 @299   = ~Pourquoi t'acharnes-tu à être si morose, petit mage ? Relève ta large robe et danse joyeusement la gigue sur les cadavres de nos ennemis ! Tu n'as aucune raison d'être maussade.~
 @300   = ~Ainsi dit la fourmi à la cigale : "concentre-toi sur ta tâche, tu en seras plus heureuse et l'hiver venu, tu ne connaîtras pas la faim". Je vous laisse danser la gigue. Et merde pour votre petit spectacle.~
-@301   = ~Comment ? Tu m'insultes, petit mage ? .~
+@301   = ~Comment ? Tu m'insultes, petit mage ?~
 @302   = ~Hé, c'est juste une façon de parler.~
 @303   = ~Oh oui, euh... bien sûr, je, euh... c'était pour rire, évidemment.~
 

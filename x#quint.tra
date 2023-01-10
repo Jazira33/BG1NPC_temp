@@ -1,7 +1,7 @@
 @0     = ~Il y a tant de gens qui veulent te parler... Pourquoi pas moi ? Je suis plus intelligent que toi.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 548, probablement inutile de traduire ici !
 @1     = ~C'est agréable qu'on reconnaisse mon importance, pour une fois !~
-@2     = ~Stupidité ?!? Vous avez peut-être l'avantage maintenant, mais à plus long terme je vous montrerai qui est stupide !~
+@2     = ~Stupidité ?! Vous avez peut-être l'avantage maintenant, mais à plus long terme je vous montrerai qui est stupide !~
 @3     = ~Silence ! Ou je pourrais bien me divertir en t'arrachant la langue !~
 // BG1 NPC : texte proche dans le fichier x#ict3.tra au numéro 575, probabilité 62.5
 @4     = ~En fait, euh, je pense que l'odeur vient de moi. Mais je suis heureux qu'elle vous plaise !~
@@ -32,7 +32,7 @@
 @24    = ~Eh bien, vous avez absolument raison à ce sujet.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 359, probablement inutile de traduire ici !
 @25    = ~Tout-à-fait mon type de femme !~
-@26    = ~Vagabonder ?!? Je vous en prie ! Il est scientifiquement prouvé que, euh, dormir à la belle étoile peut être bénéfique au niveau des capacités mentales ! Et s'il vous prenait l'envie de le tester, eh bien j'en suis la preuve évidente, espèce de grosse tête de fer blanc !~
+@26    = ~Vagabonder ?! Je vous en prie ! Il est scientifiquement prouvé que, euh, dormir à la belle étoile peut être bénéfique au niveau des capacités mentales ! Et s'il vous prenait l'envie de le tester, eh bien j'en suis la preuve évidente, espèce de grosse tête de fer blanc !~
 @27    = ~Hé... que je ne t'y reprenne pas, minus.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 340, probablement inutile de traduire ici !
 @28    = ~Oh, je suis tout-à-fait d'accord avec vous ! Il y a tant de rustres qui réclament des réponses immédiates à leurs questions, alors que les vrais érudits comme moi savent qu'il faut de la patience, car il faut examiner individuellement tous les paramètres variables...~

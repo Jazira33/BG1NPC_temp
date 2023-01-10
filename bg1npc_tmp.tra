@@ -155,7 +155,7 @@ Sans doute Imoen ne deviendra jamais un maître joaillier mais le collier est as
 @66    = ~Bentley Ombremiroir prête beaucoup de qualités à ce bouclier ; principalement sur la base des violences auxquelles il a survécu, au vu des preuves visibles d'utilisation. Bien entendu, on ne peut pas dire de même, selon toute certitude, de ces précédents propriétaires et ce bouclier a été réparé et renforcé à si maintes reprises qu'il semble particulièrement encombrant.~
 @67    = ~Armure cabossée~
 @68    = ~Cette armure, jadis digne de n'importe quel chevalier, a connu des jours meilleurs.~
-@69    = ~Bentley Ombremiroir fait remarquer qu'avec "la pénurie de fer et tout et tout, une armure de *cette* qualité n'est tout simplement *plus* disponible". Vous lui faites confiance mais hésitez beaucoup sur le sens exact du terme '*cette* qualité'. Cette armure est cabossée à certains endroits et rongée par la rouille ailleurs. Dans l'ensemble, elle est tellement lourde qu'elle ressemble davantage à un golem de fer défunt qu'à quoi que ce soit d'adéquat pour un aventurier. On pourrait donc vous pardonner de penser qu'une armure de 'cette qualité' n'est plus disponible aujourd'hui. Pas davantage que par le passé ; en tout cas, pas pour un usage effectif.~
+@69    = ~Bentley Ombremiroir fait remarquer qu'avec "la pénurie de fer et tout et tout, une armure de *cette* qualité n'est tout simplement *plus* disponible". Vous lui faites confiance mais hésitez beaucoup sur le sens exact du terme '*cette* qualité'. Cette armure est cabossée à certains endroits et rongée par la rouille ailleurs. Dans l'ensemble, elle est tellement lourde qu'elle ressemble davantage à un golem de fer défunt qu'à quoi que ce soit d'adéquat pour un aventurier. On pourrait donc vous pardonner de penser qu'une armure de « cette qualité » n'est plus disponible aujourd'hui. Pas davantage que par le passé ; en tout cas, pas pour un usage effectif.~
 // Translation Retriever: perfect match found in file dialog ToB En.tra at Id 3307
 @70    = ~Bouteille de potion vide~
 @71    = ~Bouteille de potion vide, ébréchée~
@@ -284,7 +284,7 @@ Non utilisable par :
 @125   = ~Cru la Dame Ogre~
 // Ensemble de sons présents dans BG II et aussi BG, à conserver tel quel
 @126   = ~ Unh ? Qu'est que vous voulez ?~ [HUMAN01]
-@127   = ~ Nooooooooon !!~ [HUMAN09]
+@127   = ~ Nooooooooon !~ [HUMAN09]
 @128   = ~ RAAAAHHHHR ! Vous allez mourir ! Mourir !~ [HUMAN05]
 @129   = ~ Je vais vous écraser !~ [HUMAN06]
 @130   = ~[HUMAN 07]~ [HUMAN07]
@@ -378,7 +378,7 @@ Utilisable par :
  Barde~
 @176   = ~Archibald~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@177   = ~Hmm?~ [GENMG03]
+@177   = ~Hmm ?~ [GENMG03]
 // Ensemble de sons présents dans BG, à conserver tel quel
 @178   = ~[READR 05]~ [READR05]
 @179   = ~[READR 06]~ [READR06]
@@ -615,7 +615,7 @@ Il n'est possible de discerner aucun motif, ni rime ou autre raison à ces symbo
                        Ai-je besoin d'en dire davantage !~
 @311   = ~Ce liquide pâle, légèrement fluorescent, est l'essence mortelle de la Dryade des Pics Brumeux qui vous a fait confiance et a en retour été assassinée par le nécromancien dément, Xzar.~
 @312   = ~Anneau de Mithral~
-@313   = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Au premier abord il semble n'être qu'un simple anneau d'argent mais n'importe quel nain pourrait remarquer une bonne douzaine de qualités qui vous indiqueraient que l'anneau est fait de mithral, aussi appelé 'argent véritable' et sous bien d'autres noms, du reste. Ce métal remarquable est souple et facile à travailler. On peut le polir pour le faire briller comme de l'argent qui ne ternirait jamais, et il est plus solide que l'acier. Bien qu'il ne soit pas encore enchanté, ce pourrait n'être qu'une question de temps. Les sorciers aiment les objets en mithral à cause de la durabilité supérieure de ce métal. Il pourrait valoir la peine de garder cet anneau précieusement.~
+@313   = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Au premier abord il semble n'être qu'un simple anneau d'argent mais n'importe quel nain pourrait remarquer une bonne douzaine de qualités qui vous indiqueraient que l'anneau est fait de mithral, aussi appelé « argent véritable » et sous bien d'autres noms, du reste. Ce métal remarquable est souple et facile à travailler. On peut le polir pour le faire briller comme de l'argent qui ne ternirait jamais, et il est plus solide que l'acier. Bien qu'il ne soit pas encore enchanté, ce pourrait n'être qu'une question de temps. Les sorciers aiment les objets en mithral à cause de la durabilité supérieure de ce métal. Il pourrait valoir la peine de garder cet anneau précieusement.~
 @314   = ~Anneau de Défense Mentale~
 @315   = ~Enchanté avec le sang de la Dryade assassinée, cet anneau protège le porteur des sorts et des effets de Charme-personne. Il permet également à son porteur de lancer Charme-personne une fois par jour. Cependant, le sang de la créature assassinée, peut-être agité par son âme ensorcelée, se tord dans d'atroces souffrances sous la surface du métal, rendant l'anneau si répugnant que les individus Bons ne peuvent supporter de le mettre.
 
@@ -656,7 +656,7 @@ Utilisable uniquement par :
 @336   = ~ Je vais vous planter ma lame dans l'estomac !~ [HVILLM05]
 @337   = ~~ [HVILLM06]
 @338   = ~~ [HVILLM07]
-@339   = ~ Préparez-vous à  finir en patée pour chiens.~ [HVILLM01]
+@339   = ~ Préparez-vous à finir en patée pour chiens.~ [HVILLM01]
 // Fin sons
 @340   = ~Zosya~
 // Ensemble de sons présents dans BG II, à conserver tel quel
@@ -679,7 +679,7 @@ Utilisable uniquement par :
 ~ [%tutu_var%FLAMN01]
 @351   = ~[FLAMING FIST SOLDIER 5]~ [%tutu_var%FLAMN05]
 @352   = ~[FLAMING FIST SOLDIER 6]~ [%tutu_var%FLAMN06]
-@353   = ~[FLAMING FIST SOLDIER 4] Eh là !  Faites-moi cinquante pompes !~ [%tutu_var%FLAMN04]
+@353   = ~[FLAMING FIST SOLDIER 4] Eh là ! Faites-moi cinquante pompes !~ [%tutu_var%FLAMN04]
 @354   = ~[MALE THREAT 2] Alors là, vous l'aurez cherché, camarade. Attendez un peu...~ [%tutu_var%GENMT02]
 // Fin sons
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 13833
@@ -688,7 +688,7 @@ Utilisable uniquement par :
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 11169
 @357   = ~Mage de Bataille du Poing Enflammé~
 // Ensemble de sons présents dans BG II et aussi BG, manifestement transférés par Tutu, à conserver tel quel
-@358   = ~[FLAMING FIST SOLDIER 4] Eh là !  Faites-moi cinquante pompes !~ [%tutu_var%FLAMN04]
+@358   = ~[FLAMING FIST SOLDIER 4] Eh là ! Faites-moi cinquante pompes !~ [%tutu_var%FLAMN04]
 // Fin sons
 //
 // Fin des éléments liés à la quête de Xzar
@@ -806,7 +806,7 @@ Inutilisable par :
 @400   = ~Etranger~
 // Ensemble de sons présents dans BG II, à conserver tel quel
 @401   = ~ Vous n'avez aucune chance de me vaincre !~ [IRENIC03]
-@402   = ~ Vous allez tous mourir, TOUS !!~ [IRENIC04]
+@402   = ~ Vous allez tous mourir, TOUS !~ [IRENIC04]
 @403   = ~~ [IRENIC05]
 @404   = ~~ [IRENIC06]
 @405   = ~ Vous n'êtes qu'un moucheron comparé à mon pouvoir.~ [IRENIC01]
@@ -858,7 +858,7 @@ Inutilisable par :
 @438   = ~Roublard~
 @439   = ~Madame Nell~
 // Ensemble de sons présents dans BG II et aussi BG, manifestement transférés par Tutu, à conserver tel quel
-@440   = ~[FEMALE GREETING 12]  Salut.~ [%tutu_var%GENFG12]
+@440   = ~[FEMALE GREETING 12] Salut.~ [%tutu_var%GENFG12]
 @441   = ~[FEMALE THREAT 7] Vos cris seront doux à mes oreilles.~ [%tutu_var%GENFT07]
 @442   = ~[FEMALE GREETING 7] Que puis-je pour vous ?~ [%tutu_var%GENFG07]
 // Fin sons
@@ -920,7 +920,7 @@ Et moi, le moine Dominique, ai écrit cette charte à la demande de la susnommé
 //
 @475   = ~Vous vous trouvez dans une ancienne caverne profondément enfouie, avec des esquisses d'anciens dieux depuis longtemps oubliés peintes sur les murs. Bleu et orange ; votre sens du goût grimace à la vue de ces couleurs criardes. Vous suivez l'étroit couloir, en fouillant plus profondément le labyrinthe, et vous savez qu'il y a une vraie possibilité de ne pas en revenir. Vous n'en avez pas l'intention.
 
-Dans votre rêve, il n'y a pas de 'retour'.
+Dans votre rêve, il n'y a pas de « retour ».
 
 Il y a des pièges à proximité de l'entrée et un de vos compagnons, une silhouette indistincte en arrière-plan, s'occupe d'eux, vite et en douceur. Maintenant vous vous glissez le long d'un tunnel court, grossièrement taillé, en croisant en chemin des blêmes et autres morts-vivants. Dans votre rêve, ils ne présentent aucun danger. Il y a quelqu'un d'autre, le montreur des marionnettes...
 
@@ -928,7 +928,7 @@ Une lourde double porte empêche votre passage. Un mouvement de la main et elle 
 
 Morts-vivants. Des chauves-souris au plafond, des guerriers et archers squelettes le long des murs, des silhouettes en décomposition en simulacre de gardes à l'entrée. Leur chef se tient de l'autre côté de la pièce, à moitié caché dans l'ombre. Vous avancez, en vous efforçant de distinguer son visage... à 'elle'...
 
-A ce moment précis, la silhouette se met à rire, le rire charnel, triomphant d'un prédateur rassasié et ses bras montrent le sol. Vous vous rappelez soudain son nom, 'Bodhi' ; puis vous le voyez : un corps dans le coin opposé de la pièce, effondré en une masse, comme un tas de détritus. Le sang elfique en vous se met à bouillir et à geler en même temps, vous murmurant d'une glaçante irrévocabilité : il est mort au-delà de tout espoir de résurrection, son âme partie, perdue. Et même la Seldarine ne pourrait le ramener.
+A ce moment précis, la silhouette se met à rire, le rire charnel, triomphant d'un prédateur rassasié et ses bras montrent le sol. Vous vous rappelez soudain son nom, « Bodhi » ; puis vous le voyez : un corps dans le coin opposé de la pièce, effondré en une masse, comme un tas de détritus. Le sang elfique en vous se met à bouillir et à geler en même temps, vous murmurant d'une glaçante irrévocabilité : il est mort au-delà de tout espoir de résurrection, son âme partie, perdue. Et même la Seldarine ne pourrait le ramener.
 
 Vous savez de qui il parle mais vous n'avez pas le temps de prononcer son nom à haute voix. Au contraire, la pièce devient noire et vous plongez dans les profondeurs sombres d'un sommeil sans rêve, tandis que la vision s'efface lentement de votre mémoire.~
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4707
@@ -977,7 +977,7 @@ Parle même quand on ne lui parle pas
 Quand elle regarde dans ce miroir, <CHARNAME> paraît plus belle qu'elle n'est~
 //
 // Challenges relatifs à Coran et Ajantis
-// Font appel notamment à des doubles, "Coran the  Peerless Archer" et "Ajantis, The Knight"
+// Font appel notamment à des doubles, "Coran the Peerless Archer" et "Ajantis, The Knight"
 // Elhan, Ellesime et les deux dragons font partie de cet élément également
 //
 @491   = ~Maître des Défis~
@@ -1080,7 +1080,7 @@ Quand elle regarde dans ce miroir, <CHARNAME> paraît plus belle qu'elle n'est~
 // Fin sons
 @564   = ~Drizzt~
 // Ensemble de sons présents dans BG, manifestement transférés par Tutu, à conserver tel quel
-@565   = ~[DRIZZT DO'URDEN 1] Tout ce que je désire, c'est continuer ma route ! Les amis, attendez ! Pourquoi subirai-je cette danse assommante ?!! Le seul fait de mentionner Drizzt ne vous émeut-il donc pas ?!!~ [%tutu_var%DRIZT01]
+@565   = ~[DRIZZT DO'URDEN 1] Tout ce que je désire, c'est continuer ma route ! Les amis, attendez ! Pourquoi subirai-je cette danse assommante ?! Le seul fait de mentionner Drizzt ne vous émeut-il donc pas ?!~ [%tutu_var%DRIZT01]
 @566   = ~[DRIZZT DO'URDEN 2]~ [%tutu_var%DRIZT02]
 @567   = ~[DRIZZT DO'URDEN 3] C'est votre vie que vous gâchez !~ [%tutu_var%DRIZT03]
 @568   = ~[DRIZZT DO'URDEN 8]~ [%tutu_var%DRIZT08]
@@ -1147,7 +1147,7 @@ Le 15 Alturiak 1368 : Winski est un imbécile. Il ne s'agissait pas du tout de l
 
 Le 16 Alturiak 1368 : Je quitte à présent Château-Suif, et il est plus que temps, car je suis sûr que Gorion connaît à présent mes origines. J'aimerais pouvoir m'en débarrasser, mais je ne crois pas qu'il soit possible de l'assassiner dans cette damnée bibliothèque. Une chose est certaine : <CHARNAME> est, en réalité, aussi un enfant de Bhaal. Tous les stigmates sont présents et cela pourrait expliquer la curiosité que Gorion manifeste pour mes études, ainsi que la mention de <CHARNAME> dans la prophétie. Je ne peux rien faire maintenant, mais il faudra absolument que je retourne là-bas pour tuer ce môme. Ce serait de la folie de laisser la vie sauve à l'un de mes frères et soeurs, surtout quelqu'un élevé par les Ménestrels (et je suis sûr que Gorion en est un). Et je m'attends à ce que le pouvoir de Bhaal soit partagé entre tous ses enfants encore en vie, aussi je dois évidemment m'assurer que je sois le dernier survivant. Si je dois hériter du Trône de Bhaal, je le veux pour moi tout seul.
 
-Le 19 Alturiak 1368 : Le dernier de notre petit culte de Cyric est mort mais je pense que nous leur avions extorqué à temps tout ce qui était utile. Winski partage amplement mon opinion à propos de <CHARNAME> ; la mort de l'enfant est presque certainement nécessaire, mais il me conseille de me retenir de l'assassiner jusqu'à ce qu'il puisse déterminer exactement quel rôle le 'pupille de Gorion' est supposé jouer. Très bien, je peux attendre. La santé de Winski semble lui faire défaut, alors il a chargé Semaj de reprendre la tâche de découvrir des enfants de Bhaal potentiels dans la région et de les attirer au Trône de Fer sous le prétexte de raisons d'affaires. Ceux que j'estimerai être une menace potentielle, je devrai m'en occuper moi-même ; le reste, je laisserai Semaj s'en occuper d'une façon ou d'une autre. J'ai discrètement passé commande d'une belle armure complète et d'une épée, dignes du prochain Seigneur du Meurtre, et j'ai repoussé mes activités fratricides jusqu'à ce que je puisse les porter.
+Le 19 Alturiak 1368 : Le dernier de notre petit culte de Cyric est mort mais je pense que nous leur avions extorqué à temps tout ce qui était utile. Winski partage amplement mon opinion à propos de <CHARNAME> ; la mort de l'enfant est presque certainement nécessaire, mais il me conseille de me retenir de l'assassiner jusqu'à ce qu'il puisse déterminer exactement quel rôle le « pupille de Gorion » est supposé jouer. Très bien, je peux attendre. La santé de Winski semble lui faire défaut, alors il a chargé Semaj de reprendre la tâche de découvrir des enfants de Bhaal potentiels dans la région et de les attirer au Trône de Fer sous le prétexte de raisons d'affaires. Ceux que j'estimerai être une menace potentielle, je devrai m'en occuper moi-même ; le reste, je laisserai Semaj s'en occuper d'une façon ou d'une autre. J'ai discrètement passé commande d'une belle armure complète et d'une épée, dignes du prochain Seigneur du Meurtre, et j'ai repoussé mes activités fratricides jusqu'à ce que je puisse les porter.
 
 Le 17 Ches 1368 : Tout se passe bien. Le minerai extrait de Nashkel a commencé à se détériorer et les mercenaires ont fait du bon travail en s'emparant de tous les convois qui acheminaient du métal vers la Porte de Baldur. Bien que certains de mes hommes aient été capturés, l'histoire des Zhents a l'air de bien tenir, ainsi aucun problème n'est retombé sur le Trône de Fer. Mais il faudra que je me méfie des agents Zhents dans les prochains mois.
 A vrai dire, je suis un peu déçu par Rieltar : en dépit de son talent pour tirer profit de toute cette intrigue autour du fer, il n'y voit rien de plus qu'une autre manière de faire de l'argent et d'accroître sa position personnelle dans la hiérarchie du Trône de Fer. Bah ! Qui se soucie des intrigues insignifiantes d'une pathétique organisation marchande quand il peut contrôler les armées de nations entières ? Bon. Son aveuglement est à mon avantage.
@@ -1168,7 +1168,7 @@ Le 9 Kythorn 1368 : De retour à la Porte de Baldur, brièvement, pour la réuni
 
 Le 12 Kythorn 1368 : <CHARNAME> a finalement rejoint la Porte de Baldur et a tissé des liens très amicaux avec La Balafre, mais il n'a pas encore entrepris d'action directe contre le Trône de Fer. D'après le ton de sa lettre, Rieltar est à la limite de la panique, et s'attend à ce que des assassins sortent de son lit à tout instant. Il me presse de venir immédiatement en ville et fait part de sa volonté que je sois présent à un entretien important dans un endroit sûr. Quelque chose me dit que le lâche cherche toutes les excuses pour rester hors de portée de <CHARNAME>. Heureusement Tazok est désormais complètement rétabli et a de nouveau la force de se battre, alors il pourra reprendre ses anciennes responsabilités tandis que je retournerai à la ville pour reprendre les choses en main.
 
-Le 14 Kythorn 1368 : Je connaissais depuis longtemps les tendances des plus pacifistes de Rieltar mais je ne me serais jamais attendu à ce qu'il organise vraiment un rendez-vous avec les Chevaliers de l'Ecu pour EMPÊCHER une guerre qui lui serait très profitable. Personne ne reprocherait à mon 'père' mortel d'être un homme charmant, mais il peut certainement se montrer mielleux lorsque c'est nécessaire, alors il faut que j'intervienne. Mais le secret et la tromperie sont cruciaux à présent : si je veux que la Roue du Destin tourne librement sous mon contrôle, il me faudra être très rusé. Par conséquent j'ai informé Rieltar que la petite bande de mercenaires de <CHARNAME> a été exécutée et adroitement remplacée par une équipe de doppelgangers comme convenu. Par conséquent, quand ils feront soudainement irruption dans la réunion, sa réaction de panique ne fera que favoriser un résultat sanglant. Mais il y a trop en jeu pour laisser quoi que ce soit dans les mains de la chance : il faudra que les doppelgangers et moi soyons présents également, mais sous une fausse apparence. Je vais demander à mes acolytes de préparer quelque chose de convenable. Heureusement, la secte de Cyric a quelques vieux textes qui satisferont sans doute les exigences d'entrée à Château-Suif, et Winski et Semaj ont déjà recopié tout ce qui était pertinent.
+Le 14 Kythorn 1368 : Je connaissais depuis longtemps les tendances des plus pacifistes de Rieltar mais je ne me serais jamais attendu à ce qu'il organise vraiment un rendez-vous avec les Chevaliers de l'Ecu pour EMPÊCHER une guerre qui lui serait très profitable. Personne ne reprocherait à mon « père » mortel d'être un homme charmant, mais il peut certainement se montrer mielleux lorsque c'est nécessaire, alors il faut que j'intervienne. Mais le secret et la tromperie sont cruciaux à présent : si je veux que la Roue du Destin tourne librement sous mon contrôle, il me faudra être très rusé. Par conséquent j'ai informé Rieltar que la petite bande de mercenaires de <CHARNAME> a été exécutée et adroitement remplacée par une équipe de doppelgangers comme convenu. Par conséquent, quand ils feront soudainement irruption dans la réunion, sa réaction de panique ne fera que favoriser un résultat sanglant. Mais il y a trop en jeu pour laisser quoi que ce soit dans les mains de la chance : il faudra que les doppelgangers et moi soyons présents également, mais sous une fausse apparence. Je vais demander à mes acolytes de préparer quelque chose de convenable. Heureusement, la secte de Cyric a quelques vieux textes qui satisferont sans doute les exigences d'entrée à Château-Suif, et Winski et Semaj ont déjà recopié tout ce qui était pertinent.
 
 Le 19 Kythorn 1368 : J'ai à peine le temps d'écrire, mais je ne dois pas négliger mon journal pour autant. Les morts à venir doivent savoir comment le Seigneur du Meurtre vint à nouveau à eux. Peut-être devrais-je engager un scribe, quand le temps le permettra. En fin de compte, je n'ai même pas eu besoin de manoeuvrer pour qu'un des livres des Cyriquistes finisse entre les mains de <CHARNAME>, puisque le Duc Eltan a été plus que disposé à donner un de ses propres textes à mon petit bouc émissaire. Il y a quelques instants, j'ai vu <CHARNAME> pénétrer entre les murs de Château-Suif et je m'attends à ce que notre petit drame commence à tout moment. Mon soi-disant père, Rieltar, est dans les étages avec deux représentants des Chevaliers de l'Ecu. Comme je m'y attendais, il a bloqué toutes mes tentatives visant à intensifier les hostilités à la frontière. Vraiment désolé, « père », mais ma véritable parenté m'appelle et tu me bloques le passage. Au cas où la rencontre à venir ne tourne pas immédiatement au bain de sang, il faut que je pense à donner des instructions aux dopplegangers sur la manière exacte dont Rieltar doit mourir. Je pense qu'un garrot serait parfait pour cette tâche.
 
@@ -1221,9 +1221,9 @@ Inutilisable par :
 @712 = ~[VOIC1L]~ [%tutu_var%VOIC1L]
 @713 = ~[VOIC1M]~ [%tutu_var%VOIC1M]
 // BGEE @5193
-@714 = ~[NEREID 01] Se baigner dans nos eaux ! Oh, comme ce serait bon...~ [%tutu_var%NERED01]
+@714 = ~[NEREID 01] Se baigner dans nos eaux ! Oh, comme ce serait bon...~ [%tutu_var%NERED01]
 // BGEE @5194
-@715 = ~[NEREID 02] Laissez-moi, espèce de crustacé insolent !~ [%tutu_var%NERED02]
+@715 = ~[NEREID 02] Laissez-moi, espèce de crustacé insolent !~ [%tutu_var%NERED02]
 // BGEE @5195
 @716 = ~[NEREID 03] Vous autres, les hommes, ne pouvez m'atteindre.~ [%tutu_var%NERED03]
 // BGEE @5197
@@ -1282,7 +1282,7 @@ Inutilisable par :
 
 PARAMÈTRES
 
-Capacités d'équipement :
+Capacités d'équipement :
 - Classe d'Armure : +1
 - TAC0 : +1
 - 1 sort supplémentaire du 2ème, 3ème et du 4ème niveau de mage
@@ -1310,10 +1310,10 @@ Poids : 1~
 
 PARAMÈTRES :
 
-Capacité de charge :
+Capacité de charge :
 - Confusion trois fois par jour (à moins de réussir un jet de sauvegarde contre les sorts)
-  Durée : 1 tour
-  Zone d'effet : toutes les créatures à portée d'oreille, le barde et ses compagnons ne sont pas affectés
+  Durée : 1 tour
+  Zone d'effet : toutes les créatures à portée d'oreille, le barde et ses compagnons ne sont pas affectés
 
 Poids : 6~
 @768 = ~Harpe d'Azlaer~
@@ -1325,7 +1325,7 @@ Les serviteur de Heaum finirent par ne plus tolérer Azlaer et ses pratiques sad
 
 PARAMÈTRES :
 
-Capacité de charge :
+Capacité de charge :
 - Dissipation de la terreur
   Portée : 7,5 mètres
   Zone d'effet : 9 mètres de rayon
@@ -1338,7 +1338,7 @@ A mesure qu'il jouait, il concentra d'abord son attention sur le roi. Sous l'inf
 
 PARAMÈTRES :
 
-Capacité de charge :
+Capacité de charge :
 - Dissipation des effets de type immobilisation trois fois par jour
   Portée : 7,5 mètres
   Zone d'effet : 1 créature

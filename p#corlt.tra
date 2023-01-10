@@ -90,7 +90,7 @@ Et non courir les routes avec des vagabonds.~
 @69 = ~Coran, t'es-tu introduit dans le jardin d'un mage ?~
 @70 = ~La glace... pourquoi ne fond-elle pas de la branche ?!~
 @71 = ~*Soupirer et permettre à Coran de poursuivre son récital.*~
-@72 = ~Mais tu *as* les fleurs en ta possession ! Je pensais que c'était un rêve !?~
+@72 = ~Mais tu *as* les fleurs en ta possession ! Je pensais que c'était un rêve ?!~
 @73 = ~Je suis heureux que tu me penses assez doué pour voler des mages dans mon sommeil, mais hélas, il n'en est rien. Veux-tu savoir ce qu'il s'est passé ou veux-tu simplement prendre les fleurs et m'embrasser ?~
 @74 = ~Eh bien, Bouh n'a presque plus de nourriture et d'accessoires de toilette... Ceci sera probablement utile dans les deux registres. Préfères-tu donner ce balai directement à Minsc, ou dois-je servir d'intermédiaire ?~
 @75 = ~L'histoire, Coran, l'histoire ! Je ne t'interromprai plus... enfin, j'essaierai.~
@@ -735,7 +735,7 @@ Femme tu aurais en ton foyer.~
 @686 = ~Alors soupirons, caressons et écoutons... le temps des mots est révolu.~
 @687 = ~Je ne sais pas quelle folie m'a pris. Je retourne au camp. Traîne ici, si tu le désires.~
 @688 = ~Un homme... et une femme peuvent souhaiter bien plus que courir à travers la nuit ensemble. Je... Je peux te montrer... A'maelamin, l'herbe est comme de la soie, et le silence nous permettra d'entendre chaque soupir, chaque caresse et chaque...~
-@689 = ~Ed' i'ear ar' elenea! Dina arí tula sinome, Coran. (Par la mer et les étoiles, tais-toi et viens ici, Coran.)~
+@689 = ~Ed' i'ear ar' elenea ! Dina arí tula sinome, Coran. (Par la mer et les étoiles, tais-toi et viens ici, Coran.)~
 @690 = ~Cela importe-t-il ce soir ? Laissons demain trouver ses propres réponses. Ici et maintenant... L'herbe est comme de la soie, et le silence nous permettra d'entendre chaque soupir, chaque caresse et chaque...~
 @691 = ~J'aurai besoin d'un peu de temps pour trouver quelque chose... Oh, attends ! Reste là où tu es... Je reviens tout de suite !~
 @692 = ~*Coran s'enfuit puis revient avec quelque chose qui ressemble à un seau dégoulinant d'eau.*~
@@ -1403,14 +1403,14 @@ Femme tu aurais en ton foyer.~
 @1354 = ~Pourtant, tu as insisté pour que je fasse quelque chose de... bien. J'ai eu de la chance que ce soit toi qui étais à mes côtés ce jour-là sinon, comme le sait la Seldarine, j'aurais agi comme un gamin égoïste.~
 @1355 = ~C'était... tentant. Mais cela n'aurait rien résolu, et il y avait là un enfant en manque de père.~
 @1356 = ~Je ne suis pas de la Seldarine, mais je sais que tu n'aurais pas agi comme un gamin égoïste, Coran. Il y a de l'honneur en toi. Tôt ou tard, tu aurais fait la chose à faire.~
-@1357 = ~C'est le bouquet ! La paternité t'a transformé en un crétin ! Tu me rends malade, à parler de la sorte. Vas-tu refuser de voler, maintenant ????!!!~
+@1357 = ~C'est le bouquet ! La paternité t'a transformé en un crétin ! Tu me rends malade, à parler de la sorte. Vas-tu refuser de voler, maintenant ?!~
 @1358 = ~Pourquoi devrais-je me fâcher à propos de quelque chose que tu as fait il y a si longtemps ? J'ai toujours su que tu ne venais pas à moi entier, et je l'ai accepté. Simplement, ne me donne pas de *réelle* raison de me fâcher contre toi.~
 @1359 = ~Non, ma douce, ce n'est pas le cas. La chance n'est pas une combinaison de choses. C'est une entité... entière. Elle est aux côtés d'un homme, ou pas.~
 @1360 = ~Je suis heureuse que tu le comprennes.~
 @1361 = ~Je n'ai aucune idée de ce que tu veux dire.~
 @1362 = ~Coran, si tu ne fermes pas cette fontaine de mots dénués de sens, je serai forcée de clore ta bouche d'un baiser.~
 @1363 = ~Pourquoi parais-tu si incertaine ? Ne penses-tu pas que traverser ce petit pont près de la Cabane, alors que j'étais justement en train de regarder les eaux noires de la Crique de Bois-Manteau, était un coup de chance ?~
-@1364 = ~Un coup de chance !? Depuis que je t'ai rencontré, j'ai dû empêcher tes crises de témérité, ton gaspillage d'argent et ta tentative d'abandonner ton propre enfant. *soupir* Et qu'est-ce que j'ai reçu en échange de tout ça, hein ?~
+@1364 = ~Un coup de chance ?! Depuis que je t'ai rencontré, j'ai dû empêcher tes crises de témérité, ton gaspillage d'argent et ta tentative d'abandonner ton propre enfant. *soupir* Et qu'est-ce que j'ai reçu en échange de tout ça, hein ?~
 @1365 = ~Oui-oui. *Te *rencontrer a certainement été une compensation pour être exilée de ma ville natale, avoir vu mon père adoptif être tué par un taré et avoir des assassins à mes trousses, et tout le sang que j'ai dû répandre en essayant de rester en vie. Si c'est ainsi que la vie nous récompense, je m'en sortirais sans doute mieux en mourant à l'instant.~
 @1366 = ~Moi... puisque, c'est ma chance, tu me veux. Et, si j'ose le dire, je suis un plat plus doux aujourd'hui que le jour où tu m'as croisé sur ce pont près de la Cabane de Bois-Manteau.~
 @1367 = ~Je pense que tu es un plat bien plus banal aujourd'hui, en fait, mais on ne peut rien y faire. Un homme ne peut pas à la fois être un charmant casse-cou et prendre soin de son rejeton.~
@@ -1575,7 +1575,7 @@ Femme tu aurais en ton foyer.~
 @1526 = ~En effet. *Il se tourne, mais ses mains s'arrêtent à un cheveu de vos épaules. Il s'agenouille, lentement, gracieusement, ses mains caressant l'air, autour de votre corps, sans jamais le toucher.~
 @1527 = ~Il a les doigts d'un voleur. Vous ne sentez pas sa caresse, vous n'avez pas vu la dague, mais dans la glace argentée, les vêtements glissent de votre reflet, les lacets et les étoffes tranchées, précisément et rapidement.*~
 @1528 = ~Tu es sans pitié, ma douce. *Il traverse la pièce et saute par dessus le bord de la fenêtre, dans la rue.*~
-@1529 = ~....et je n'ai pensé qu'à toi tout ce temps. Toutes, peu importe à quoi elles ressemblaient, ont évoqué ta douce image en mon coeur. On appelle ça l'amour de substitution, Dame Chance, et je n'ai jamais ressenti cela auparavant. Et je n'ai plus envie, non plus.~
+@1529 = ~...et je n'ai pensé qu'à toi tout ce temps. Toutes, peu importe à quoi elles ressemblaient, ont évoqué ta douce image en mon coeur. On appelle ça l'amour de substitution, Dame Chance, et je n'ai jamais ressenti cela auparavant. Et je n'ai plus envie, non plus.~
 @1530 = ~*Il s'approche de vous, mais ses mains s'arrêtent à un cheveu de vos épaules. Il s'agenouille, doucement, gracieusement, ses mains caressant l'air autour de votre corps, sans jamais le toucher.*~
 @1531 = ~Un argument de poids, Dame Chance. Mais tu n'as nul besoin de menaces pour me garder hors des bras d'autres femmes.~
 @1532 = ~Ma fierté masculine ? Oh, il y a une ou deux choses que je sais plutôt bien faire !~

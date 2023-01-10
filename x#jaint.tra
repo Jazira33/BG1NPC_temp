@@ -70,7 +70,7 @@
 //Le mage Ramazith demande qu'on lui livre la nymphe Abela
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 833, probablement inutile de traduire ici !
 @36 = ~Sois prudent, <CHARNAME>. Je nous suggérerais de libérer cette nymphe, mais pas pour l'échanger contre une récompense minable... La place de cette créature est parmi les siens, dans la nature. Les nymphes sont très proches de la nature, et entre les murs de cette cité, elles ne peuvent que périr très rapidement.~
-        ~Sois prudente, <CHARNAME>. Je nous suggérerais de libérer cette nymphe, mais pas pour l'échanger contre une récompense minable... La place de cette créature est parmi les siens, dans la nature. Les nymphes sont très proches de la nature, et entre les murs de cette cité, elles ne peuvent que périr très rapidement.~
+      ~Sois prudente, <CHARNAME>. Je nous suggérerais de libérer cette nymphe, mais pas pour l'échanger contre une récompense minable... La place de cette créature est parmi les siens, dans la nature. Les nymphes sont très proches de la nature, et entre les murs de cette cité, elles ne peuvent que périr très rapidement.~
 
 //Jaheira, Khalid et Kivan se retournent contre Charname qui veut monnayer la nymphe plutôt que de la libérer (et variations autour du thème)
 @37 = ~Je n'ai pas encore saisi si tu étais vraiment maléfique ou juste complètement stupide. Mais il n'est plus temps de spéculer. Quelle que soit ta nature, tu n'as jamais été l'enfant de Gorion... et c'est ici que s'arrête ta route.~
@@ -130,7 +130,7 @@
 //Le vieux Théodon, la peau d'Ours et Charname dans le plus simple appareil...
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 29, probablement inutile de traduire ici !
 @57 = ~*ricane* Je ne peux pas me souvenir d'avoir jamais autant ri... petit <CHARNAME> sur sa peau d'ours... Je DOIS voir de quoi notre figure d'autorité omnipotente avait l'air, adorable bébé...~
-        ~*ricane* Je ne peux pas me souvenir d'avoir jamais autant ri... petite <CHARNAME> sur sa peau d'ours... Je DOIS voir de quoi notre figure d'autorité omnipotente avait l'air, adorable bébé...~
+      ~*ricane* Je ne peux pas me souvenir d'avoir jamais autant ri... petite <CHARNAME> sur sa peau d'ours... Je DOIS voir de quoi notre figure d'autorité omnipotente avait l'air, adorable bébé...~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 30, probablement inutile de traduire ici !
 @58 = ~P-peut-être qu'en échange je p-pourrais laisser <CHARNAME> jeter un oeil à certaines des peintures qui te r-représentent, ma c-chérie... surtout celle que je t-transporte toujours avec moi.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 31, probablement inutile de traduire ici !
@@ -312,7 +312,7 @@
 
 //Entillis le Ménestrel raconte des choses sur Jaheira
 @142 = ~*rougit* Vraiment, Entillis... tu devais vraiment mentionner cela ?~
-@143 = ~Oh ! Mwouhahaha ! S'il vous plait, pouvons-nous avoir d'autres histoires embarrassantes sur le passé de Jaheira ?~
+@143 = ~Oh ! Mwouhahaha ! S'il vous plaît, pouvons-nous avoir d'autres histoires embarrassantes sur le passé de Jaheira ?~
 @144 = ~Bien, malgré tout mon amour pour ces réunions de famille, nous n'avons vraiment pas le temps pour ceci.~
 @145 = ~Hum, aussi triste que cela soit, nous avons des choses importantes à faire ailleurs... Je regrette, Entillis, mais nous devons vraiment y aller. Nous nous reverrons bientôt, je l'espère.~
 @146 = ~Oui, bien que j'adore ces réunions de famille, nous n'avons vraiment pas le temps pour ceci.~
