@@ -27,7 +27,7 @@
 //rencontre avec Aldeth Sashenstar, Eldoth réagit en @14
 @13 = ~*Psst*... <CHARNAME>, je reconnais cet homme. Il est déjà venu chez mon père à plusieurs reprises... et je ne lui fais pas confiance.~
 @14 = ~Et ce que tu as *appris* chez ton père est tout ce qu'il y a de plus fiable, n'est-ce pas, ma chérie ? Et moi, alors ?~
-@15 = ~M... mais, Eldoth, je voulais juste aider... désolée... ~
+@15 = ~M... mais, Eldoth, je voulais juste aider... désolée...~
 
 //rencontre avec Angelo Dosan
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 264, probablement inutile de traduire ici !
@@ -145,7 +145,7 @@
 @65 = ~Brilla, *attendez* ! C'est moi...~
 @66 = ~Quoi... Skie ? Mais qu'est-ce que tu fais ?~
 @67 = ~Je.. je suis juste en train de... de partir faire une balade. Hé hé...~
-@68 = ~Hmph, habillée comme un rat d'égout, et avec ton sac sur le dos ? J'en doute fort, très chère. Tu nous quittes, c'est ça ? ~
+@68 = ~Hmph, habillée comme un rat d'égout, et avec ton sac sur le dos ? J'en doute fort, très chère. Tu nous quittes, c'est ça ?~
 @69 = ~SAL... oui. Je m'en vais. Euh... vous allez le dire à mon père ?~
 @70 = ~Hmmm... le lui dire ? Mais bien sûr que non ! Les évènements prennent une tournure très intéressante...~
 @71 = ~Quoi... ?~
@@ -168,14 +168,14 @@
 @81 = ~Ohh, comme c'est charmant... Hmmm... On lui dit, Slythie ?~
 @82 = ~On lui dit comment papa a hurlé comme un goret lorsque je lui ai plongé ma lame dans le gosier ? Ou comment il a chialé comme une fillette lorsque je lui ai dit que je pourchasserais sa précieuse petite fille et que je la saignerais comme un porc ?~
 @83 = ~Chéri...~
-@84 = ~Ou alors, on pourrait lui raconter le *piteux* bruit d'agonie que le courageux et terrifiant Grand-Duc a fait lorsque j'ai remonté ma lame jusqu'à sa gorge ! Ou comment... ~
-@85 = ~Slythe, chéri... assez parlé, contentons-nous de lui *montrer*, maintenant. Je meurs de faim... ~
+@84 = ~Ou alors, on pourrait lui raconter le *piteux* bruit d'agonie que le courageux et terrifiant Grand-Duc a fait lorsque j'ai remonté ma lame jusqu'à sa gorge ! Ou comment...~
+@85 = ~Slythe, chéri... assez parlé, contentons-nous de lui *montrer*, maintenant. Je meurs de faim...~
 
 //rencontres avec Dora
 @86 = ~Skie ? C'est... c'est toi ? Oui... oui, c'est toi... Je t'ai enfin retrouvée...~
 @87 = ~Dora ? Que fais-tu ici ? Père t'a envoyée me retrouver ?~
 @88 = ~Non... Skie, il y a quelque chose que tu dois savoir...~
-@89 = ~Parce que s'il t'a envoyée, tu peux aller lui dire que je ne reviendrai pas dans cette prison. J'en ai assez de toutes ses leçons, de tous ces... ~
+@89 = ~Parce que s'il t'a envoyée, tu peux aller lui dire que je ne reviendrai pas dans cette prison. J'en ai assez de toutes ses leçons, de tous ces...~
 @90 = ~Ton père est mort, Skie.~
 @91 = ~Qu... mo... mort ?~
 @92 = ~Mais... mais comment ? Je veux dire... mort... Je ne... je ne comprends pas... comment c'est...~
@@ -189,7 +189,7 @@
 @100 = ~Je... je suis désolée, mon enfant... Je dois... J'ai peur que le mal qui a pris la vie de ton père vienne bientôt pour moi. Je dois partir... tant que je le peux encore... Je suis désolée, Skie...~
 @101 = ~Tiens, mon enfant, je veux que tu aies ce collier... C'est ta mère qui me l'a donné, il y a plusieurs années... Je... j'ai toujours rêvé qu'un jour, je le transmettrais à *ma* propre fille... Quelqu'un que j'aimerais plus... que...~
 @102 = ~Je... je... je ne sais pas quoi dire...~
-@103 = ~Alors ne dis rien. Je n'ai pas besoin d'entendre quoi que ce soit, mon enfant... Je... dois m'en aller, maintenant... Prend soin de toi, Skie... Que les dieux protègent ta route... Adieu... ~
+@103 = ~Alors ne dis rien. Je n'ai pas besoin d'entendre quoi que ce soit, mon enfant... Je... dois m'en aller, maintenant... Prend soin de toi, Skie... Que les dieux protègent ta route... Adieu...~
 @104 = ~Dora ? Attends... où est père ? Angelo a dit que... qu'il était mort... c'est vrai ?~
 @105 = ~*soupir* J'ai bien peur que ce serpent ne t'ait pas menti, mon enfant. Ton père est mort.~
 @106 = ~Mais... mais comment ? Je veux dire... mort... Je ne... je ne comprends pas... comment c'est...~

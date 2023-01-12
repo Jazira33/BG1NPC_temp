@@ -20,7 +20,7 @@
 @14 = ~N'aie crainte, ô mentor de mes jeunes années. <CHARNAME> connait bien cette chanson. Et... euh... voici un petit quelque chose pour prolonger votre agonie.~
 
 /*dialogue avec Bentley Ombremiroir (voir aussi @31 à @33)*/
-@15 = ~Bien le bonjour, voyageurs. Que puis-je pour... VOUS !!! Gardes ! GARDES !!!~
+@15 = ~Bien le bonjour, voyageurs. Que puis-je pour... VOUS ! Gardes ! GARDES !~
 @16 = ~Ce n'est pas un 'besoin', non, c'est un plaisir que je me fais !~
 @17 = ~Euh... est-ce que quelqu'un voudrait bien me dire qu'est-ce que tout ça signifie ?~
 @18 = ~Ce... ce vaurien !... m'a offert "un récital pour payer son dîner". Vous voyez, nous essayons de maintenir une certaine ambiance, ici, alors j'ai crû que c'était une bonne occasion. Ah ! Il lui a suffi de deux chants outrageants pour que l'anarchie s'installe dans mon auberge ! Il m'a fallu deux semaines pour réparer tous les dégâts !~
@@ -89,4 +89,4 @@ Viens voir briller les illustres lueurs du Temps.~
 @57 = ~Il paraît que Port-Ponant est superbe en cette saison. Pourquoi n'iriez-vous pas là-bas, ou n'importe où ailleurs, pour constater par vous-même ?~
 @58 = ~Les clients que vous attirez ne valent en rien ceux que vous faites fuir, sans parler des dégâts.~
 @59 = ~Allez-vous en !~
-@60 = ~FOUTEZ-MOI LE CAMP !!!~
+@60 = ~FOUTEZ-MOI LE CAMP !~

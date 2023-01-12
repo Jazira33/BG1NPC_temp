@@ -25,7 +25,7 @@
 // Faldorn - Ajantis
 
 @13    = ~J'aimerais en savoir plus au sujet des paladins, Ajantis.~
-@14    = ~Hum... heureux de vous rendre service, madame. Tenez, je pense que la devise que l'un des nobles frères de mon ordre porte sur son bouclier décrit parfaitement un paladin. Écoutez-la, Faldorn : “inébranlable, incorruptible, inarrêtable”.~
+@14    = ~Hum... heureux de vous rendre service, madame. Tenez, je pense que la devise que l'un des nobles frères de mon ordre porte sur son bouclier décrit parfaitement un paladin. Écoutez-la, Faldorn : « inébranlable, incorruptible, inarrêtable ».~
 @15    = ~A mon avis, "malpoli, mal lavé, mal rasé" serait plus approprié ; ceci dit, tu es le seul paladin que je connaisse.~
 @16    = ~A mon avis, "malpoli, mal lavé, mal rasé" serait plus approprié ; ceci dit, <CHARNAME> et toi êtes les seuls paladins que je connaisse.~
 @17    = ~Vous êtes trop sévère, Faldorn ! Il est vrai qu'un juron peut parfois s'échapper de mes lèvres en plein coeur du combat, mais ce n'est que pour extérioriser ma rage devant le Mal auquel nous faisons face.~
@@ -202,8 +202,8 @@
 @140   = ~Je n'ai jamais compris le penchant des poètes à comparer en permanence les lèvres des femmes humaines à des coraux. Le gosier de cette petite grenouille des bois est tout aussi rouge, si ce n'est plus.~
 @141   = ~Le gosier ? Oui, cela peut être tout aussi rouge mais c'est tellement... pfff... vaseux. Alors que les coraux sont si romantiques, si...~
 @142   = ~Banals ?~
-@143   = ~Même si la métaphore est assez commune, ça vaut quand même mieux que de dire “tes lèvres sont aussi rouges que le gosier de la grenouille des bois"...~
-@144   = ~Je ne suis pas experte en poésie, mais en quoi cela est-il pire que “tes lèvres sont aussi rouges que des squelettes de polypes"...~
+@143   = ~Même si la métaphore est assez commune, ça vaut quand même mieux que de dire « tes lèvres sont aussi rouges que le gosier de la grenouille des bois »...~
+@144   = ~Je ne suis pas experte en poésie, mais en quoi cela est-il pire que « tes lèvres sont aussi rouges que des squelettes de polypes »...~
 @145   = ~Faldorn, quel manque de raffinement ! Vous n'êtes même pas capable d'apprécier les cris de guerre des gobelins, alors que dire des chansons sur l'amour et la beauté ! Comment osez-vous donner votre opinion sur des sujets auxquels vous ne connaissez rien ?~
 @146   = ~*éclate de rire* Et ça de la part d'un type qui a confondu les empreintes d'un RENARD et d'un LAPIN ? Empreintes fraîches et profondes, qui plus est !~
 
@@ -358,7 +358,7 @@ Où trouver l'autre moitié...~
 @248   = ~Cela ne risque pas d'arriver, Faldorn. Il est évident que t'imprégner d'une prodigieuse source de sagesse telle que moi te serait très profitable. Je pourrais développer un modèle théorique qui prouverait que tes suppositions sont complètement fausses.~
 @249   = ~Sans rire, grande femme, avec un cerveau aussi actif que le mien, les mots d'esprit me viennent tout naturellement.~
 @250   = ~Tu vois cette femelle corbeau, Quayle ? Je peux communiquer avec mon animal esprit, et elle vient juste de me dire que si j'arrachais ta langue, elle aurait juste assez de place...~
-@251   = ~C'est faux. Premièrement, il est théoriquement impossible de loger ce corbeau dans ma bouche. Deuxièmement... ~
+@251   = ~C'est faux. Premièrement, il est théoriquement impossible de loger ce corbeau dans ma bouche. Deuxièmement...~
 @252   = ~Tu veux tenter l'expérience ?~
 
 // Faldorn - Quayle
@@ -477,7 +477,7 @@ Où trouver l'autre moitié...~
 @331   = ~Quand Tiax gouvernera, tout le bois de cette forêt ne sera juste qu'un pied de son trône !~ [%tutu_var%TIAXX12]
 @332   = ~Gnome, une fourmi pourrait grimper au sommet de l'Epine Dorsale du Monde avant que tu n'escalades un pied fait de ces arbres sentinelles. De plus, je n'hésiterai pas à mutiler quiconque essaierait de briser ne serait-ce qu'une de leurs branches.~
 @333   = ~L'Epine Dorsale du Monde n'est guère plus haute qu'une fourmilière pour le grand Tiax ! Quand Tiax gouvernera, il t'obligera à raser toutes ces stupides forêts pour te punir de ton insolence !~
-@334   = ~*le regarde de travers* Vraiment ? ~
+@334   = ~*le regarde de travers* Vraiment ?~
 @335   = ~Oui ! Le puissant Tiax te châtiera ! Chaque arbre ! Chaque daim ! Chaque brin d'herbe ! Tout cela sera détruit quand Tiax gouvernera ! C'est une bonne idée d'ailleurs, car ce sera plus facile pour Tiax de surveiller ses esclaves dans un monde aride.~
 @336   = ~Alors je dois m'assurer que tu ne gouverneras jamais, gnome.~
 @337   = ~Trahison ! Haute trahison !~
@@ -570,7 +570,7 @@ Où trouver l'autre moitié...~
 
 // Faldorn - Yeslick
 
-@399   = ~Yeslick, ton clan a saccagé la nature, et il l'a laissée dans un état terrible et mauvais sur son passage. Ne veux-tu pas transmettre ce message aux autres nains ? ~
+@399   = ~Yeslick, ton clan a saccagé la nature, et il l'a laissée dans un état terrible et mauvais sur son passage. Ne veux-tu pas transmettre ce message aux autres nains ?~
 @400   = ~Par la barbe de Clangeddin ! Jeune fille, mon clan n'a jamais fait le moindre tort à la nature !~
 @401   = ~Il n'existe pas de race plus cupide que la tienne, et c'est la nature qui fournit les richesses. Vous brûlez les arbres comme combustible, creusez des galeries et de profonds tunnels, et transformez le corps de notre Mère en jouets de métal brillant.~
 @402   = ~Pourquoi la nature a-t-elle créé les métaux alors ? Pour les cacher en son sein ?~

@@ -2,7 +2,7 @@
 @1     = ~Je suppose que vous avez nettoyé ce donjon de tout ce qui ressemblait à un trésor ? Je vais devoir chercher d'autres ruines. Merci de m'avoir sauvé !~
 @2     = ~Un « Merci » ne fournit ni le pain ni le vin. Ne voudriez-vous pas exprimer votre gratitude d'une manière plus... concrète ?~
 @3     = ~Attendez, qu'est-ce que les roses ont à voir là-dedans ?~
-@4     = ~Bonne route à vous, Natan... Et tenez-vous à l'écart des ennuis, voulez-vous ? Je pourrais ne pas me trouver dans les parages, la prochaine fois... ~
+@4     = ~Bonne route à vous, Natan... Et tenez-vous à l'écart des ennuis, voulez-vous ? Je pourrais ne pas me trouver dans les parages, la prochaine fois...~
 @5     = ~Qu'avez-vous fait ! Cette femme est une succube, une démone ! Il y a longtemps, un mage qui avait survécu à la chute de l'école d'Ulcaster a inventé un moyen de voyager à travers les plans - à savoir, ces diverses poudres. La succube qu'il avait invoquée pour le distraire durant ses travaux lui a volé le manuel, mais, avant qu'elle ne puisse poser ses griffes sur les poudres, le mage a protégé le donjon de son atteinte. A présent elle est libre de voyager à travers les plans... Oh, bon... ce sont des choses qui arrivent, je suppose. Au moins suis-je libéré de son sortilège, maintenant. Maudites roses !~
 @6     = ~Je n'ai aucun argent sur moi - la succube m'a pris presque tout ce que j'avais trouvé. J'ai quelques potions, mais j'espérais les vendre pour subvenir à mes besoins... quelques temps...~
 @7     = ~Les potions feront l'affaire.~
@@ -191,7 +191,7 @@ J'ai rencontré une femme étrange mais extrêmement belle, Amélia. Elle nous a
 @181   = ~Les hommes... Ne m'en parlez pas ! Prêts à inventer n'importe quoi, s'ils pensent qu'on leur a marché sur la queue. Ne vous inquiétez pas, soeur, je veillerai à ce qu'il reçoive vos roses !~
 @182   = ~N'y a-t-il pas quelque autre moyen de délivrer le message à Natan ? Peut-être un simple « Je ne vous aime pas, et ne vous épouserai pas » sur un parchemin scellé de votre chevalière ? Je n'ai pas vraiment envie d'aller au temple.~
 @183   = ~Malheur à moi ! Combien de temps devrai-je errer sans secours, désespérée, en larmes... *elle sanglote*~
-@184   =~Amélia
+@184   = ~Amélia
 
 J'ai rencontré une femme étrange mais extrêmement belle, Amélia. Elle nous a demandé de ramener à la vie des roses fanées et de les donner à Natan - un voleur, qui se cache apparemment quelque part dans les ruines de Flammevin. Son histoire avait l'air bizarre et, de toute façon, je n'avais pas le temps de livrer des fleurs, alors j'ai refusé de l'aider.~
 @185   = ~J'aimerais bien le savoir, mon bon seigneur. Quelque protection m'empêche d'entrer. Si je tente de le faire, je suis téléportée en quelque endroit éloigné de Féérune. J'ai fini au Turmish, la dernière fois... c'est pourquoi je n'ose essayer à nouveau.~ ~J'aimerais bien le savoir, ma bonne dame. Quelque protection m'empêche d'entrer. Si je tente de le faire, je suis téléportée en quelque endroit éloigné de Féérune. J'ai fini au Turmish, la dernière fois... c'est pourquoi je n'ose essayer à nouveau.~
@@ -240,7 +240,7 @@ Nous avons rencontré une jeune fille, apparemment fiancée à un voleur qui se 
 @222   = ~Belle dame, salut ! Que faites-vous en ce lieu désolé ?~
 @223   = ~*soupir* Pour l'instant, Coran, je te prierai de te contenter de courtiser des femmes réelles. Bonté divine ! Ai-je vraiment dit ça ?~
 @224   = ~Des ruines désolées ! Elles vont tous nous rendre fous ! Coran, viens, aucune femme vivante n'errera jamais dans cet endroit... Mais il y a de nombreux fantômes dans les ruines de Flammevin...~
-@225   = ~Je... Je ne vois personne. Et toi, Coran ? ~
+@225   = ~Je... Je ne vois personne. Et toi, Coran ?~
 @226   = ~Elle est réelle... ou surnaturelle... Je l'ai vue disparaître dans les brumes et l'ai entendue chanter. Elle semblait triste. Peut-être a-t-elle besoin d'aide. Cherchons-là - elle allait dans cette direction, vers l'est.~
 @227   = ~Coran, quand nous aurons besoin d'aller à l'est, j'en donnerai l'ordre. Maintenant, retourne dans le rang.~
 @228   = ~Hé béh, voilà ce que sont des yeux et des oreilles d'elfe chez toi ! A l'est, as-tu dit ! C'est parti !~

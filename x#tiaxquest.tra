@@ -140,7 +140,7 @@ J'ai rencontré un gnome énigmatique. Il semble être à la recherche d'un autr
 @127 = ~Ce n'est pas ce que nous avions prévu ! Je vous ai demandé de m'aider.~
 @128 = ~A présent, je vais devoir fuir à la fois pour Telliax et pour avoir arrangé la mort des chasseurs de primes qui me poursuivaient !~
 @129 = ~Vous avez déjà pris tout ce que j'avais. Je n'ai plus rien à donner.~
-@130 = ~Etant donné la manière dont nous nous sommes rencontrés, j'étais préparé à votre traîtrise. Je suis heureux que mon nom soit blanchi, car maintenant, je peux retourner chez mon employeur avec des informations sur votre nature. Méfiez-vous lorsque vous visiterez l'Amn, <CHARNAME>... Je m'assurerai que le récit de vos actes vous précède.~
+@130 = ~Étant donné la manière dont nous nous sommes rencontrés, j'étais préparé à votre traîtrise. Je suis heureux que mon nom soit blanchi, car maintenant, je peux retourner chez mon employeur avec des informations sur votre nature. Méfiez-vous lorsque vous visiterez l'Amn, <CHARNAME>... Je m'assurerai que le récit de vos actes vous précède.~
 @131 = ~Et bien, mon ami Belgin, il y a toujours un prix à payer pour être aidé.~
 @132 = ~Vous avez déjà pris tout ce que j'avais. Je n'ai pas beaucoup plus, mais ce que j'ai est à vous.~
 @133 = ~Les tarifs de la Guilde auraient été bien trop élevés, de toute façon. Peut-être avez-vous du matériel à nous donner ?~
@@ -176,7 +176,7 @@ J'ai rencontré un gnome énigmatique. Il semble être à la recherche d'un autr
        ~De charmantes dernières paroles, mais je suis certaine que vous en prononcerez plus avant de nous quitter. Viconia, il est à toi. Tue-le. Lentement.~
 @163 = ~Belgin, vous n'avez pas l'air de comprendre l'humour de potence. Bien sûr que nous n'allons pas vous tuer. Donnez-moi l'argent et finissons-en.~
 @164 = ~J'apprécie ce que vous avez fait. Je peux reprendre ma vie normale et je vous en suis reconnaissant.~
-@165 = ~Etant donné la manière dont nous nous sommes rencontrés, je m'attendais à ce que vous me doubliez. Je suis heureux que vous ayez choisi de m'aider, plutôt.~
+@165 = ~Étant donné la manière dont nous nous sommes rencontrés, je m'attendais à ce que vous me doubliez. Je suis heureux que vous ayez choisi de m'aider, plutôt.~
 @166 = ~Le tarif de la Guilde aurait été trop élevé, de toute façon. Peut-être avez-vous quelque chose de matériel pour nous récompenser ? Vos oreilles m'ont vraiment l'air d'objets de collection.~
 @167 = ~C'est un plaisir de faire des affaires avec vous.~
 @168 = ~Je suis heureux que nous ayons pu vous aider.~
@@ -338,7 +338,7 @@ J'ai prouvé au groupe de Karris que Tiax était en bonne santé. Il a remis le 
 @311 = ~Et Karris, arrêtez-vous. Cette récompense était bien trop petite. Peut-être pourriez-vous immédiatement vider vos poches ? Sinon, nous serons forcés de vous détruire.~
 @312 = ~Bon, tout s'est bien passé. Nous avons tué le minable, ensuite blanchi son nom, et nous nous en tirons blancs comme neige.~
 @313 = ~J'ai dit au groupe de Karris que Tiax était vivant et en bonne santé. Il s'en retourne en Amn et Belgin serait tiré d'affaire... si son nouveau métier n'était de manger les pissenlits par la racine. Simple détail.~
-@314 = ~GAAAAHHHHH !!!~
+@314 = ~GAAAAHHHHH !~
 @315 = ~Aïe. Tiax... Cyric ! LOUE SOIT CYRIC !~
 @316 = ~Pas d'louanges pour celui-ci. Et maintenant ?~
 @317 = ~Nous devrions vous réduire d'environ un pied à partir de la tête. Moins à nourrir. Moins à surveiller.~

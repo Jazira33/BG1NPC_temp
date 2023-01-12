@@ -4,38 +4,38 @@
 // -Le 'tu' paternaliste : Coran, Immy, Ajantis, Alora, Garrick, Jaheira, Minsc, Xan (ok, là j'avoue que j'ai juste suivi le choix fait dans la traduction de Xan, moi je l'aurais plutôt fait vouvoyer).
 // -Le 'vous' d'indifférence ou de politesse : Branwen, Dynahéir (politesse), Edwin, Faldorn, Khalid (politesse), Kivan, Shar-teel, Skie (politesse)
 // -Le 'vous' d'agacement : Quayle, Safana, Tiax, Xzar
-@0    = ~Ça t'apprendra à pas t'essuyer les pieds, sale vaurien ! *crache* Oui... c'est bien ici. ~
-@1    = ~Quel est cet endroit ? ~
+@0    = ~Ça t'apprendra à pas t'essuyer les pieds, sale vaurien ! *crache* Oui... c'est bien ici.~
+@1    = ~Quel est cet endroit ?~
 @2    = ~Quelle direction à présent, Yeslick ?~
 @3    = ~Vous dites qu'un clan entier de Nains vivait ici ? Cet endroit est minuscule !~
-@4    = ~Ce sont qu'les salles de garde. J'ai entraîné ma milice ici, y a longtemps... tous des gars déterminés, doués avec la hache. Je m'attends à ce que le Trône les ait remplis d'hobgobelins et d'vauriens du même genre, alors attentions où vous mettez les pieds. ~
+@4    = ~Ce sont qu'les salles de garde. J'ai entraîné ma milice ici, y a longtemps... tous des gars déterminés, doués avec la hache. Je m'attends à ce que le Trône les ait remplis d'hobgobelins et d'vauriens du même genre, alors attentions où vous mettez les pieds.~
 @5    = ~Pour trouver Davaeorn c'est vers le Sud, par les forges... mais au Nord y avait les armureries, ça pourrait valoir le coup d'oeil si le Trône les a pas déjà complètement pillées.~
 @6    = ~Oui, maintenant, p't'être. Quand l'eau s'est engouffrée, la majorité du soutènement d'la mine a été emportée, écrasant les tunnels, les quartiers d'habitation et la fort'resse principale. Le maudit Trône a ouvert ce qui l'intéressait et a laissé le reste enseveli sous les rochers.~
-@7    = ~Alors... où sommes-nous exactement ? ~
-@8    = ~Par où, maintenant ? ~
+@7    = ~Alors... où sommes-nous exactement ?~
+@8    = ~Par où, maintenant ?~
 @9    = ~Nan... ! Comment ont-ils pu... ces bouffes-fange, ces porcs de la pire espèce finiront droit dans l'Abysse pour ça !~
-@10   = ~Qu'est-ce qui ne va pas ? ~
+@10   = ~Qu'est-ce qui ne va pas ?~
 @11   = ~Oh là, du calme...~
 @12   = ~Alors qu'est-ce qu'on attend ?~
 @13   = ~Qu'est-ce qui ne va pas ? Qu'est-ce qui ne va pas ?! Regardez autour de vous ! Les rats ont envahi mon temple... le temple de Clangeddin... et ils l'ont dédié à Cyric le fou ! De toute la crasse qui s'est introduite dans ma maison, amener le culte du Dieu Fou ici... ils vont payer, retenez mes paroles. Ils vont tous le payer cher !~
 @14   = ~N'y a-t-il pas quelque chose que nous puissions faire ici ?~
-@15   = ~Dans ce cas, nous ferions bien de continuer... et de les faire *payer*.~ 
+@15   = ~Dans ce cas, nous ferions bien de continuer... et de les faire *payer*.~
 @16   = ~Me calmer ? Comment je peux m'calmer dans une situation pareille ? Les rats ont envahi mon temple... le temple de Clangeddin... et ils l'ont dédié à Cyric le fou ! De toute la crasse qui s'est introduite dans ma maison, amener le culte du Dieu Fou ici.. ils vont payer, retenez mes paroles. Ils vont tous le payer cher !~
 @17   = ~Nan... consacrer c'temple prendrait bien plus de temps que nous avons devant nous, et j'aurais aussi besoin de tout un tas de trucs sacrés spéciaux pour ce faire. Sans compter qu'il faudrait au moins une semaine de récurrage et d'encens pour enlever la puanteur d'Cyric. Par Clangeddin, quel désastre !~
-@18   = ~Alors nous ferions mieux de continuer, n'est-ce pas ? ~
+@18   = ~Alors nous ferions mieux de continuer, n'est-ce pas ?~
 @19   = ~Nous leur ferons payer ce blasphème, Yeslick... n'ayez crainte.~
 @20   = ~Toute cette religion me donne mal au crâne. Allez, allons en tuer d'autres.~
 @21   = ~Ouais... Ouais ! DAVAEORN ! Ta fin est proche !~
 @22   = ~Ouais, c'est bon d'être sorti de cette cellule... bon d'être en chemin pour venger les miens.~
 @23   = ~Cela me semble triste que vous ne parliez de votre famille qu'en termes de vengeance.~
-@24   = ~Est-ce votre seule raison de vivre, Yeslick ? ~
+@24   = ~Est-ce votre seule raison de vivre, Yeslick ?~
 @25   = ~Je suis heureux que vous soyez des nôtres, aussi lugubre que vous soyez.~
         ~Je suis heureuse que vous soyez des nôtres, aussi lugubre que vous soyez.~
 @26   = ~Oh, la ferme, vieux nain.~
 @27   = ~Content que vous l'appréciez. Je suis heureux de vous avoir libéré.~ 
         ~Contente que vous l'appréciez. Je suis heureuse de vous avoir libéré.~
 @28   = ~Je ne peux que vous remercier pour ça. J'ai juré qu'je tiendrais aussi longtemps que possible... mais j'ai peur de ne pas savoir combien de temps cela pourrait durer. Le vieux nain que je suis n'est plus aussi jeune que fût un temps. Et si les brutes de Rieltar avaient suivi leurs envies, le vieux Yeslick s'rait déjà parti rejoindre les siens sans avoir plus que du chagrin à leur apporter. Et plutôt me damner que d'laisser ça se produire !~
-@29   = ~Pourquoi s'attacher autant à venger ceux qui sont morts depuis si longtemps ? ~
+@29   = ~Pourquoi s'attacher autant à venger ceux qui sont morts depuis si longtemps ?~
 @30   = ~En attendant, ne pouvez-vous pas profiter un peu plus de la vie ? Toutes ces histoires de vengeance sont... déprimantes.~
 @31   = ~Et bien, on peut difficilement exiger un membre plus dévoué pour sa famille.~
 @32   = ~C'est tout ce que vous avez à espérer ? Une mort digne ou une mort indigne ?~
@@ -45,9 +45,9 @@
 @36   = ~Oui... mon père adoptif m'a appris deux ou trois choses sur les coutumes de notre race.~
 @37   = ~Hum... j'ai grandi dans un monastère d'Oghma, Yeslick. Le seul nain là-bas était Reevor, et il n'était que magasinier.~
 @38   = ~N'avez-vous pas d'autre raison de vivre ?~
-@39   = ~Toutes les familles naines sont-elles aussi solidaires que la vôtre ? ~
+@39   = ~Toutes les familles naines sont-elles aussi solidaires que la vôtre ?~
 @40   = ~On ne peut pas trouver plus morbide. Tous les nains sont-ils si lugubres ?~
-@41   = ~Oh, vous méprenez pas, j'aime Féérune comme elle est, et j'accueille avec plaisir un r'pas et une chope, de même qu'un bon lit... mais la rancune me t'naille. Je suppose que quelque chose comme ça peut vous turlupiner, nan ? ~
+@41   = ~Oh, vous méprenez pas, j'aime Féérune comme elle est, et j'accueille avec plaisir un r'pas et une chope, de même qu'un bon lit... mais la rancune me t'naille. Je suppose que quelque chose comme ça peut vous turlupiner, nan ?~
 @42   = ~Vous ne pouvez pas penser sans cesse à votre famille, Yeslick. Cela va vous rendre fou.~
 @43   = ~Les choses se finiront bien. J'en ai la certitude.~
 @44   = ~Oui... Je ne le sais que trop bien.~
@@ -65,8 +65,8 @@
         ~Vous parlez comme si vot' monde s'était écroulé... écoutez-moi, <CHARNAME>. Là où il y a de la vie, il y a de la volonté, des promesses et vot' dieu... et les trois peuvent vous garder sur vot' chemin, peu importe les tremblements de vot' coeur. Ayez foi en ça, ma fille - y'a peut-être plus d'espoir, mais l'vieux Yeslick sera pas enterré avant qu'les siens reposent en paix.~
 @53   = ~On devrait continuer jusqu'à ce que les choses s'améliorent ou qu'on meure ? Par les Dieux, c'est une perspective bien sombre.~
 @54   = ~C'est ce que je dois faire, moi aussi.~
-@55   = ~N'avez-vous jamais songé que vous ne faites que mettre des jolis mots sur une folie suicidaire ? ~
-@56   = ~P't'être. P't'être pas. *soupire*. Mais de toutes façons, je suppose que ça peut qu'aller vers le bas à partir d'ici ! ~
+@55   = ~N'avez-vous jamais songé que vous ne faites que mettre des jolis mots sur une folie suicidaire ?~
+@56   = ~P't'être. P't'être pas. *soupire*. Mais de toutes façons, je suppose que ça peut qu'aller vers le bas à partir d'ici !~
 @57   = ~Vers le bas ?~
 @58   = ~Qu'avez-vous dit ?~
 @59   = ~Sommes-nous *si* mauvais ?~
@@ -76,7 +76,7 @@
 @63   = ~J'ai assisté au meurtre de mon père adoptif... et je ne sais toujours pas pourquoi. Il me faut des réponses.~
 @64   = ~Je n'ai pas envie d'en parler.~
 @65   = ~Je me fiche de mon 'clan', nain. Je veux juste trouver qui a essayé de *me* tuer.~
-@66   = ~Je suis peiné de l'apprendre. Je vous le dis, alors, <CHARNAME>. Vous m'aidez à trouver Rieltar et ses voyous et m'laissez prendre ma rétribution dans son sang, et je jure, au nom d'Clangeddin la Double-Hache, au nom d'Moradin le Forgeur d'Ames, et j'invoque la dame Purargent pour témoigner de mon serment solennel, que j'vous aiderai à trouver cet homme... et j'ferai tout mon possible pour m'assurer qu'il soit puni. Entendu ? ~
+@66   = ~Je suis peiné de l'apprendre. Je vous le dis, alors, <CHARNAME>. Vous m'aidez à trouver Rieltar et ses voyous et m'laissez prendre ma rétribution dans son sang, et je jure, au nom d'Clangeddin la Double-Hache, au nom d'Moradin le Forgeur d'Ames, et j'invoque la dame Purargent pour témoigner de mon serment solennel, que j'vous aiderai à trouver cet homme... et j'ferai tout mon possible pour m'assurer qu'il soit puni. Entendu ?~
 @67   = ~J'accepte.~
 @68   = ~Entendu.~
 @69   = ~Non.~
@@ -116,7 +116,7 @@
 @96   = ~Alors, comment penses-tu tuer une wiverne, elfe ? J'espère qu'tu prévois pas de lui chanter un air.~
 @97   = ~Tu me blesses, Yeslick ! Personne ne part en chasse d'un gibier si gros sans un plan de chasse... C'est normal, après tout. Elle a pour elle sa taille, ses écailles et une méchante queue, et moi j'ai mon arc, et ma répartie toujours acérée. J'ai demandé conseil par-ci par-là, et j'ai eu quelques tuyaux. 'Vise la tête' m'a-t-on dit. L'oeil, ou le dessous de la mâchoire dans le crâne... une flèche juste ici et en un éclair, tu rapportes ta récompense à la maison, ils ont dit ! Aucun problème pour un archer tel que moi.~
 @98   = ~Tu me surprends, vraiment.~
-@99   = ~Oh ? Tu ne me crois pas assez intelligent ou brave pour battre une wiverne ? Je suis déçu, Yeslick. Comment ai-je pu te faire une telle impression ? ~
+@99   = ~Oh ? Tu ne me crois pas assez intelligent ou brave pour battre une wiverne ? Je suis déçu, Yeslick. Comment ai-je pu te faire une telle impression ?~
 @100  = ~Oh, non, bien sûr, j'ai aucun doute là-dessus... c'est juste qu'avec ton choix habituel d'cibles, Coran ; j'attendais qu'tu vises le coeur, comme d'habitude.~
 @101  = ~Par la Rose d'Or d'Hanali Celanil ! Yeslick - c'était... une blague ? Et une bonne en plus ! Tu es toi-même plein de surprises, Nain.~
 
@@ -156,7 +156,7 @@
 @132  = ~Avec plaisir, pauvre trouillard de rat de caniveau !~
 
 //Ajantis
-@133  = ~Tu te bats à l'épée, et pourtant t'agis comme l'adorateur le plus pur dont un dieu pourrait rêver, Ajantis. Pourquoi ne pas utiliser un bon marteau, plus solide, comme moi ? ~
+@133  = ~Tu te bats à l'épée, et pourtant t'agis comme l'adorateur le plus pur dont un dieu pourrait rêver, Ajantis. Pourquoi ne pas utiliser un bon marteau, plus solide, comme moi ?~
 @134  = ~J'ai toujours trouvé que les marteaux et autres armes du genre manquaient... d'une certaine finesse. Certains dans mon Ordre les utilisent avec la plus grande efficacité, mais je me suis entraîné toute ma vie à l'escrime, et une épée bien maniée ne peut être parée.~
 @135  = ~J'sais pas... les épées sont acceptables, ouais, j'en ai forgé assez moi-même. Mais il y a quelque chose de satisfaisant dans un marteau, ou dans une masse métallique ou un gros morceau de métal de la sorte. C'est une arme bien faite pour aplatir le mal et réduire en miettes les os des créatures pécheresses. Ça fait du bien à l'âme.~
 @136  = ~Une épée est pétrie de noblesse et de volonté, Yeslick. C'est plus qu'une arme ; c'est un puissant symbole de la loi. Sa portée est longue, son équilibrage est précis, son tranchant est aiguisé, et elle peut couper en deux sens. Je ne peux imaginer une arme qui me soit plus adaptée. Une masse, c'est simple, irréfléchi, brutal. Cela ne convient pas aux enseignements de Heaum.~
@@ -175,7 +175,7 @@
 
 //Branwen + Tiax en 152
 @147  = ~Votre dieu est bien irréfléchi, je trouve.~
-@148  = ~Irréfléchi ? Que... quel venin est-ce là, ô nain ? Tempus n'est pas plus irréfléchi qu'il n'est lâche ! Je pensais que ton Clangeddin était lié au Seigneur des Batailles, comment peux-tu dire... ~
+@148  = ~Irréfléchi ? Que... quel venin est-ce là, ô nain ? Tempus n'est pas plus irréfléchi qu'il n'est lâche ! Je pensais que ton Clangeddin était lié au Seigneur des Batailles, comment peux-tu dire...~
 @149  = ~Clangeddin Barbedargent, oui, aime la valeur, la bravoure et le talent... sur ça, lui et Tempus sont d'accord. Mais le Rocher de Bataille nous enseigne à nous réjouir dans la destruction des ennemis des nains et dans la défense de nos clans par-dessus tout... pas dans le massacre pour son propre plaisir.~
 @150  = ~Ce n'est pas un massacre barbare, Yeslick ! Tempus nous enseigne qu'il n'y a qu'une loi, et s'assure que le plus fort survive ! Il y a toujours eu des guerres, et il y aura toujours des guerriers. Nous devons tester notre force contre eux... encore et encore, jusqu'à la fin. Là seulement se trouve la victoire.~
 @151  = ~Arh, vous êtes humaine, jeune fille, et vous voyez pas bien loin. Un jour, les vôtres ne s'ront peut-être plus aussi nombreux qu'aujourd'hui... un jour, peut-être, quand moi et tous les miens auront enfin rejoint le Forgeur d'Ames, et que les humains s'accrocheront à rester en vie, vous verrez peut-être la sagesse de Clangeddin.~
@@ -204,7 +204,7 @@
 
 //Edwin
 @170  = ~Par les haches jumelles de Clangeddin !~
-@171  = ~Quoi ? Pourquoi jures-tu à mon adresse, nain ? ~
+@171  = ~Quoi ? Pourquoi jures-tu à mon adresse, nain ?~
 @172  = ~Vos mains ! *Regardez* vos mains ! Y a pas un cal ou une cicatrice dessus ! Elles sont lisses comme celle d'un nourrisson ! Par le marteau de Moradin, Edwin, avez-vous jamais vécu un jour de travail ?!~
 @173  = ~Nain, un homme sophistiqué et bien éduqué tel que moi, ne laissera jamais ses mains trahir des signes de labeur manuel. En effet, j'ai le sentiment de devoir les garder dans un état parfait, si je veux que mes gestes incantatoires soient tout aussi parfaits !~
 @174  = ~Mon 'jour de travail' est bien plus ésotérique, bien plus subtil et puissant que de frapper des cailloux avec des bâtons ou transporter ceci-cela, et il y a plein de gens dont le but dans la vie est d'accomplir de telles tâches après tout. (Oh oui, il y aura... un jour)~
@@ -230,13 +230,13 @@
 @190  = ~Tu ne feras pas une chose pareille, si tu tiens à ta misérable vie, pilleur !~
 @191  = ~Non, laissez-moi finir, femme. Mettons que je m'apprête à couper un arbre, un petit arbre, et creuser la terre autour jusqu'à trouver un minerai de fer, et que je l'exploite jusqu'à en tirer une bonne quantité.~
 @192  = ~Je ne vois pas où tu veux en venir si ce n'est illustrer les méthodes que ton peuple civilisé et répugnant utilise pour rapiner la Nature.~
-@193  = ~J'utilise l'arbre pour allumer un feu, et le feu pour fondre mon métal, et j'en fais dix épées. J'donne les dix épées à dix chevaliers dignes de mes armes, et ils tuent dix orques chacun. Ces orques avaient eux-mêmes brulé un millier d'arbres. Vous me dites que la Nature ne peut pas sacrifier un arbrisseau et un peu de métal pour un tel résultat ? ~
+@193  = ~J'utilise l'arbre pour allumer un feu, et le feu pour fondre mon métal, et j'en fais dix épées. J'donne les dix épées à dix chevaliers dignes de mes armes, et ils tuent dix orques chacun. Ces orques avaient eux-mêmes brulé un millier d'arbres. Vous me dites que la Nature ne peut pas sacrifier un arbrisseau et un peu de métal pour un tel résultat ?~
 @194  = ~Un arbrisseau ? Grrr ! Pour nourrir ta forge. Combien d'autres arbres devront bruler pour pouvoir fondre assez de métal pour dix épées ? Et es-tu en train de me dire que toi, un nain, tu vas t'arrêter de miner une fois que tu auras assez de métal pour dix épées ? Mensonges !~
 @195  = ~*soupire* Au temps pour ma logique...~
 @196  = ~J'aimerais voir des chevaliers chasser des bois les ennemis de la Nature... Mais certains de ses chevaliers pourrait eux-mêmes être des citadins. Leur engeance servirait mieux la Nature comme nourriture que comme 'protecteurs'. Laisse les Druides de l'Ombre défendre la Nature, nain. Si tu veux te racheter aux yeux de la Grande Mère, fais ce que j'ordonne, plutôt que de m'offrir d'inutiles énigmes.~
 
 //Garrick+Shar-Teel en 198
-@197  = ~Par Clangeddin, mon garçon, qu'est-ce que tu espères faire en furetant à l'arrière-garde quand y a des crânes à fracasser, hein ? ~
+@197  = ~Par Clangeddin, mon garçon, qu'est-ce que tu espères faire en furetant à l'arrière-garde quand y a des crânes à fracasser, hein ?~
 @198  = ~Oui, il est temps que cette mauviette nous offre la chance de le voir se faire tuer ! Je serais déjà bien contente s'il arrive à empêcher une hache ou deux de se planter dans mon bouclier.~
 @199  = ~Et bien, mon esprit se concentre en général sur deux choses, monseigneur... C'est à dire collecter de l'inspiration pour ma prochaine ballade, et rester en vie afin de pouvoir la composer.~
 @200  = ~S'il y a une chose que j'ai apprise au fil des ans, jeune troubadour, c'est que si tu veux la gloire, tu finis en général par devoir sortir et aller la chercher toi-même. T'entends pas l'appel d'un bon combat ? Ton coeur ne bondit pas au son des hymnes de bataille ?~
@@ -459,7 +459,7 @@
 @377  = ~Ça t'apprendra, vermine-à-gages obsédée par l'or ! Présente tes excuses à Clangeddin ! Ouais... j'considère tous les nains comme mes frères, mais celui-là va pas m'manquer. Venez, <CHARNAME>. Laissons-le aux chacals.~
 @378  = ~ Ça t'apprendra, vermine-à-gages obsédée par l'or ! Présente tes excuses à Clangeddin ! Maint'nant... si vous voulez bien m'excuser, 'camarades', j'ai encore une ou deux histoires à régler. Hors de mon ch'min !~
 @379  = ~Je suis désolé, <CHARNAME>, mais j'peux pas supporter c't'infâme... païen plus longtemps !~
-@380  = ~J'peux pas non plus t'supporter, chien galeux d'esclave ! ~
+@380  = ~J'peux pas non plus t'supporter, chien galeux d'esclave !~
 @381  = ~J't'avais dit de pas remettre ça sur l'tapis - maintenant tu vas payer ! CLANGEDDIN !~
 @382  = ~Tu vas crever, grande-gueule !~
 @383  = ~Bien... c'est ce qu'on va faire, alors. Kagain, c'est ici qu'ça s'termine ! CLANGEDDIN !~

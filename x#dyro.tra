@@ -627,7 +627,7 @@
 Toutes les gentes demoiselles
 Sont des blanches roses les soeurs.
 Celle qui se tient avec moi, elle,
-Est une rouge et sauvage fleur... ~
+Est une rouge et sauvage fleur...~
 @595  = ~Alors que je passais par la Voie Dorée en la direction de Thesk, je fis halte dans une petite colonie. Nous étions tous deux partis de Rashéménie à peu près au même moment, et nous cherchâmes tous deux un compagnon de route. Il n'était pas aisé pour lui de trouver quelqu'un... du fait de sa condition. Je fus moi-même quelque peu gênée, au tout début, mais l'homme avait coeur preux, à défaut d'esprit affûté. Il m'accompagna donc en Sembie pour que je ne voyage pas seule, cette fois-ci.~
 @596  = ~*sourire* <CHARNAME> de Château-Suif a bien besoin d'un Minsc à ses côtés... ainsi que d'une Dynahéir. Le Fyrra peut bien se trouver d'autres berserkers et d'autres sorcières pour le servir.~
 @597  = ~Donc, vous avez été en Sembie. Par quelles contrées avez-vous voyagé, Hathran ?~
@@ -1111,7 +1111,7 @@ Trouve cela inintéressant...~
 @1042 = ~J'aimerais vous acheter un ruban, Dynahéir. Et si nous devions aller en Rashéménie le jour du Solstice d'Eté ? Je serais le seul homme dont la fille à son bras ne porterait aucun ruban.~
 @1043 = ~Mais la Rashéménie est à plus d'une saison de voyage d'ici, et de toute façon, si nous y allons, ce ne sera pas pour le festival.~
 @1044 = ~Et si je vous demandais de m'y accompagner ? Vous savez, je serais un étranger, dans votre pays.~
-@1045 = ~Et pourquoi ? Vous avez honte de mon 'magnifique' visage ?~
+@1045 = ~Et pourquoi ? Vous avez honte de mon « magnifique » visage ?~
 @1046 = ~Vous avez raison, comme d'habitude. En plus, je pourrais toujours vous en trouver un sur place, une fois là-bas. Nul besoin de nous disputer pour cela maintenant.~
 @1047 = ~Je vous achète un ruban, un point c'est tout. Vous pouvez participer en choisissant celui qui vous plaît, ou vous pouvez vous risquer à faire confiance à mes goûts.~
 @1048 = ~Je ne crois pas une seconde que Tu préfèrerais me voir discuter robes et rubans plutôt que de pratiquer l'art de la magie, Maître Barde...~
@@ -1290,7 +1290,7 @@ Trouve cela inintéressant...~
 @1218 = ~C'est parce que je n'en ai aucun à Te donner.~
 @1219 = ~*vous lance un sourire attendri* Petit idiot. Tu ne sais pas...~
 @1220 = ~C'est vrai... Tu essaierais de me protéger... toujours.~
-@1221 = ~*Elle murmure quelques mots, parmi lesquels vous arrivez à comprendre 'présages' et 'destin'.*~
+@1221 = ~*Elle murmure quelques mots, parmi lesquels vous arrivez à comprendre « présages » et « destin ».*~
 @1222 = ~Je... je resterai, <CHARNAME>. Ce qui arrivera, arrivera.~
 @1223 = ~Ne craignez pas ce que le futur nous réserve. Nous profiterons de tout ce que la vie a à nous offrir ! Ensemble.~
 @1224 = ~Oh, non, sorcière. J'ai bien compris que vous *savez* que votre départ m'évitera des problèmes. Partez, femme, et ne vous approchez plus jamais de moi !~
@@ -1306,7 +1306,7 @@ Trouve cela inintéressant...~
 @1231 = ~Un conte ? J'aimerais beaucoup l'écouter, Dynahéir.~
 @1232 = ~L'heure est la bienvenue pour les histoires. La journée est finie, mais le souper n'est pas encore prêt, et si nettoyer nos capes et polir nos armures gardent nos mains occupées, ce n'est pas le cas de nos esprits. Voulez-vous partager ce conte avec vos camarades, ma dame ?~
 @1233 = ~<CHARNAME>, j'aimerais que Tu écoutes ce conte, avant que Tu ne Te retires pour Te reposer.~
-@1234 = ~Il est bien peu fortuit que les mots 'destinée' et 'destination' soient si proches ; un homme peut retarder son heure d'arrivée, mais jamais il ne pourra l'éviter.~
+@1234 = ~Il est bien peu fortuit que les mots « destinée » et « destination » soient si proches ; un homme peut retarder son heure d'arrivée, mais jamais il ne pourra l'éviter.~
 @1235 = ~Souviens-Toi de ceci, et ne Te blame pas lorsque ce que Tu cherches à prévenir se produira.~
 @1236 = ~Moi, je dis que si notre destin ne nous réserve que l'échec, au moins, on peut lui offrir une bonne bataille !~
 @1237 = ~Vous vous inquiétez par trop inutilement, Dynahéir. J'ai été élevé au son du Chant des Prophéties Inaccomplies, à Château-Suif. Je sais reconnaître les oeuvres du destin lorsque j'y assiste, et maintenant, elles se rient de nos intentions.~
@@ -1345,7 +1345,7 @@ Trouve cela inintéressant...~
 @1270 = ~Et quelle est-elle ?~
 @1271 = ~Ce que votre histoire m'évoque, c'est que si le destin n'a que l'échec en réserve pour nous, ça peut valoir la peine de lui offrir une bonne bataille !~
 @1272 = ~J'ai entendu des contes tels que celui-là, sorcière. J'ai été élevé au son du Chant des Prophéties Inaccomplies, à Château-Suif. Je sais reconnaître les oeuvres du destin lorsque j'y assiste, et maintenant, elles se rient de nos intentions...~
-@1273 = ~Eh bien, Helg n'aurait pas dû aller voir ces ossements. Ce n'était pas hygiénique. Même sans ce serpent, il aurait pu attrapper une grippe en haut de cette colline, ou se briser la nuque dans une avalanche. Ce n'est pas le 'destin' ! On reporte toujours la faute sur la malchance, alors qu'en fait, ce n'est que combinaison d'incompétence et de mauvaise préparation.~
+@1273 = ~Eh bien, Helg n'aurait pas dû aller voir ces ossements. Ce n'était pas hygiénique. Même sans ce serpent, il aurait pu attrapper une grippe en haut de cette colline, ou se briser la nuque dans une avalanche. Ce n'est pas le « destin » ! On reporte toujours la faute sur la malchance, alors qu'en fait, ce n'est que combinaison d'incompétence et de mauvaise préparation.~
 @1274 = ~C'est faux, nous chérissons nos bardes, et je connais l'étendue de Tes talents.~
 @1275 = ~Mais pour le moment, laisse-moi usurper Ta place et Te raconter cette histoire. C'est important.~
 @1276 = ~Les proverbes ne se réclament pas de pure vérité. Cependant, ils nous enseignent à tous quelque chose. Permets-moi de te conter cette histoire, <CHARNAME>. C'est important...~
@@ -1602,8 +1602,8 @@ La rose à épines est prête à faire des reproches...~
 @1513 = ~Je vous ferai savoir que je ne suis guère un ogre. Je suis un orc... un demi-orc !~
 @1514 = ~Mais Tu as tort, héros. *sourire énigmatique* C'est Toi que je regarde, lorsque j'ai le nez plongé dans mon journal...~
 @1515 = ~Je T'aurais bien appelé 'extraordinairement séduisant', <CHARNAME>, mais je ne voulais pas surdimensionner Ton égo.~
-@1516 = ~'Impétueux' ? Si Tu veux... Tu es conteur, après tout. Je T'aurais bien appelé 'extraordinairement séduisant', <CHARNAME>, mais je ne voulais pas surdimensionner Ton égo.~
-@1517 = ~Les écritures disent que les pouvoirs des Hathran Rashémi sont 'bienveillants', si ce n'est 'absolus', Dynahéir. Mon coeur sait que votre emprise sur mon égo est bienveillante et absolue... N'est-ce pas ?~
+@1516 = ~« Impétueux » ? Si Tu veux... Tu es conteur, après tout. Je T'aurais bien appelé « extraordinairement séduisant », <CHARNAME>, mais je ne voulais pas surdimensionner Ton égo.~
+@1517 = ~Les écritures disent que les pouvoirs des Hathran Rashémi sont « bienveillants », si ce n'est « absolus », Dynahéir. Mon coeur sait que votre emprise sur mon égo est bienveillante et absolue... N'est-ce pas ?~
 @1518 = ~*Hume votre gorge.* Ah, oui, c'est effectivement très agréable. Cela change beaucoup de Ton 'Eau de Sueur'.~
 @1519 = ~J'aurais bien aimé capturer ceci, aussi.~
 @1520 = ~J'ai bien peur qu'au contraire, je n'ai été que par trop prodigue en compliments sur Ton apparence. *Elle jette un coup d'oeil rapide à son journal et sourit énigmatiquement.*~
@@ -1684,7 +1684,7 @@ La rose à épines est prête à faire des reproches...~
 @1592 = ~Je pense qu'il s'agit-là d'une tentation qui vaut la peine que l'on y cède, Dynahéir... *Se tourner sur le côté et faire semblant de dormir.*~
 @1593 = ~Je comprends bien, mais je serais quand même tenté d'y céder...~
 @1594 = ~Tu as peut-être raison. *Elle vous embrasse et se glisse sous les couvertures.* Mais la loi est la loi... M'aideras-Tu à lutter contre la tentation ? Je vais avoir besoin de me changer les idées.~
-@1595 = ~*Elle murmure doucement.* Le problème, ce n'est pas 'quand' je reviendrai, c'est 'si'... *Elle se rend compte que vous l'avez entendue.* Avec toutes les batailles que nous menons, certains d'entre nous pourraient mourir demain...~
+@1595 = ~*Elle murmure doucement.* Le problème, ce n'est pas « quand » je reviendrai, c'est « si »... *Elle se rend compte que vous l'avez entendue.* Avec toutes les batailles que nous menons, certains d'entre nous pourraient mourir demain...~
 @1596 = ~Et la mortalité, comme toujours, figure la plus grande alliée de la tentation.~
 @1597 = ~Tu as une haute opinion de ma personne, <CHARNAME>. J'y accorde beaucoup d'importance.~
 @1598 = ~Et Tu as raison. *Elle vous embrasse et se glisse sous les couvertures.* M'aideras-Tu à lutter contre la tentation ? Je vais avoir besoin de me changer les idées.~
@@ -1853,7 +1853,7 @@ La rose à épines est prête à faire des reproches...~
 @1740 = ~Mettez un terme à cet interrogatoire !~
 @1741 = ~Si vous insistez... Dans mon rêve, je marchais dans le camp des bandits, victorieux, et la voix s'est mise à se moquer de moi. Elle me disait que cette victoire n'était pas la mienne. Puis j'ai vu une statue, ma réplique exacte, sauf que la pierre était entamée par la dague en os dont j'avais rêvé. J'ai ressenti la douleur... et j'ai entendu quelqu'un dire : "Tu as été créé tel que tu es, mais tu peux aussi être détruit."~
 @1742 = ~*En silence, vous vous essuyez le visage avec un pan de votre couverture resté miraculeusement sec et ignorez la question de Dynahéir.*~
-@1743 = ~Tes cauchemars Te mettent bien des mensonges dans la tête, mais c'est à ce dernier que je prêterai le moins de crédit. Tu es la personne que Tu es, et que Tu T'es fabriquée. Tu as été 'créé' comme toute autre personne, et Tu ne peux être 'détruit' autrement que comme tout le monde.~
+@1743 = ~Tes cauchemars Te mettent bien des mensonges dans la tête, mais c'est à ce dernier que je prêterai le moins de crédit. Tu es la personne que Tu es, et que Tu T'es fabriquée. Tu as été « créé » comme toute autre personne, et Tu ne peux être 'détruit' autrement que comme tout le monde.~
 @1744 = ~Et comment savez-vous tout cela, Dynahéir ?~
 @1745 = ~Vous avez raison. Je vous remercie de me l'avoir dit, Dynahéir. Cela me rassure beaucoup.~
 @1746 = ~N'avez-vous rien d'autre à dire que ce genre de platitudes ?~
@@ -1964,7 +1964,7 @@ Au lieu de voler en rond dans les cimetières ?~
 @1833 = ~Je ne suis pas Sarevok, Dynahéir. Je ne trahis pas ceux que j'aime.~
 @1834 = ~Ce n'est rien... Non, c'est faux. C'est cette femme que nous venons de rencontrer, Tamoko. Elle m'a fait penser que Tu es bien différent de Ton frère, en ce que Tu aimes Tes compagnons.~
 @1835 = ~Ainsi que vous. Je suis loyal envers vous, mon amie... mon amour. Et je le resterai toujours, peu importe ce que le destin nous réserve.~
-@1836 = ~Je vous demande pardon, ma dame, mais mon 'frère' n'est qu'un tas de fumier ; son esprit est retors et ses actes vils.~
+@1836 = ~Je vous demande pardon, ma dame, mais mon « frère » n'est qu'un tas de fumier ; son esprit est retors et ses actes vils.~
 @1837 = ~Vous me flattez, ma dame.~
 @1838 = ~Bien entendu. *Un petit sourire mauvais se dessine sur vos lèvres, et vous murmurez :* Les femmes sont si naïves...~
 @1839 = ~*Petit à petit, l'humeur de Dynahéir retourne à la normale, mais il semble qu'une ride d'inquiétude se soit taillée pour toujours sur son front. Vous avez laissé passer votre chance de l'effacer.*~

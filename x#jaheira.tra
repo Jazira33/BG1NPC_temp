@@ -116,7 +116,7 @@
 @84 = ~Dynahéir, est-ce que Minsc et toi avez besoin d'un peu d'intimité ?~
 @85 = ~Non, Jaheira. Les plans que nous faisons ne sont pas d'une nature secrète.~
 @86 = ~Je voulais juste te dire, à présent que nous avons davantage de personnes dans le groupe, qu'il n'est pas nécessaire que Minsc monte la garde pendant que tu dors. Vous pouvez dormir ensemble... en même temps, je veux dire, tandis que Khalid et moi montons la garde, et à votre tour, Minsc et toi pouvez monter la garde quand Khalid et moi, euh, dormons...~
-@87 = ~C'est très gentil à Toi, Jaheira. Tu es toujours si attentive aux besoins des *autres*. ~
+@87 = ~C'est très gentil à Toi, Jaheira. Tu es toujours si attentive aux besoins des *autres*.~
 @88 = ~En effet. Khalid et moi pouvons vous donner des conseils pour monter une aire de repos offrant l'intimité nécessaire à la méditation, à la préparation de sortilèges et autres choses du genre, tout en restant raisonnablement en contact avec tous les autres. Nous avons beaucoup d'expérience de terrain dans le domaine.~
 @89 = ~J'apprécie Tes conseils, mais en même temps, nous en resterons à nos vigies passées. Cependant, je voudrais Te demander une faveur.~
 @90 = ~Oui ?~
@@ -270,7 +270,7 @@
 @211 = ~Qu'en est-il du temps qu'il fait ? Tu ne peux certainement pas transformer le temps en...~
 @212 = ~Quand Tiax régnera sur tous, des nuages de tonnerre et de pluie salueront son émergence en tant que champion de Cyric et les éclairs craqueront dans l'air pour que tous puissent voir la silhouette puissante de Tiax se détacher sur le décor et désespérer !~
 @213 = ~Très éloquent, même si ça n'a aucun sens. Comment était ton dernier repas ? Je doute vraiment que tu puisses trouver une connexion entre la conquête du monde et ÇA !~
-@214 = ~Quand Tiax régnera sur tous, TOUS ses repas seront délicieux, et tous resteront tranquilles dans son estomac, car Cyric ne tolérera pas que son champion souffre d'indigestion ! Tiax dévorera seul d'immenses festins et mangera sur le dos de ses esclaves, les fouettant lorsqu'ils oseront bouger et renverser la boisson de Tiax ! Tiax organisera d'impressionnants banquets pour ses serviteurs les plus dévoués, nourrissant ceux qui l'ont servi avec obéissance et affamant ceux qui ont osé FAILLIR à Tiax ! CELA SERA FAIT !!!~
+@214 = ~Quand Tiax régnera sur tous, TOUS ses repas seront délicieux, et tous resteront tranquilles dans son estomac, car Cyric ne tolérera pas que son champion souffre d'indigestion ! Tiax dévorera seul d'immenses festins et mangera sur le dos de ses esclaves, les fouettant lorsqu'ils oseront bouger et renverser la boisson de Tiax ! Tiax organisera d'impressionnants banquets pour ses serviteurs les plus dévoués, nourrissant ceux qui l'ont servi avec obéissance et affamant ceux qui ont osé FAILLIR à Tiax ! CELA SERA FAIT !~
 @215 = ~Mais... euh... mon dernier repas n'était pas trop mal.~
 @216 = ~Une seule pensée cohérente arrachée à ce torrent de n'importe quoi. Malheureusement, ce n'est pas récompense suffisante pour que je persévère avec ces idioties.~
 
@@ -283,7 +283,7 @@
 @222 = ~Comment oses-tu ! Si je découvre jamais que <CHARNAME> a eu tort de t'accueillir, drow, rien ne m'empêchera d'avoir ta tête.~
 @223 = ~Vraiment ? Comme c'est amusant. *siffle* Essaie de me couper la tête, elg'caress, et je jure que la tienne sera la première à rouler dans la poussière.~
 
-@224 = ~Viconia, je suis... curieuse. Tu dis que tu as rejeté Lloth, mais pourquoi vénérer Shar, une déesse humaine, plutôt qu'une autre divinité drow... Comme Vhaeraun ou Vendargolth ?~
+@224 = ~Viconia, je suis... curieuse. Tu dis que tu as rejeté Lolth, mais pourquoi vénérer Shar, une déesse humaine, plutôt qu'une autre divinité drow... Comme Vhaeraun ou Vendargolth ?~
 @225 = ~*siffle* Vhaeraun ? Vendargolth ? Ton ignorance de notre politique et de notre culture est manifeste.~
 @226 = ~Comment ça ?~
 @227 = ~Je suis forcée d'admettre que j'adhère à certains de leurs idéaux, ils sont alliés à Shar, mais je ne m'inclinerai pas devant un mâle inférieur ! Leurs croyants prêchent qu'un mâle peut s'élever aussi haut qu'une femme ! Aucun vrai drow ne tolérerait une telle bêtise. Je suis Viconia de la Maison DeVir, pas un *mâle* renégat iblith !~

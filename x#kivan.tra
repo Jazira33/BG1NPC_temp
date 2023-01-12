@@ -92,8 +92,8 @@ Qu'elle nous guide encore...~
 @64 = ~Cela paraît si beau, Kivan. Quant à la tristesse que je perçois dans votre voix - j'ai un nom pour elle : la nostalgie. Vous avez le mal du pays, voilà tout.~
 @65 = ~Ce n'est pas l'endroit qui me manque, <CHARNAME>. Cependant, me manquent ceux dont les ombres s'attardent encore là-bas. Ma chère Déhériana, mes frères, mon père... Vous avez vos propres fantômes, cela dit, <CHARNAME>, et vous n'avez pas besoin de rencontrer les miens.~
 @66 = ~Khila amin - suivez-moi, nous devrions rattraper les autres.~
-@67 = ~De telles choses vous fascinent ? Connaissez-vous vraiment votre coeur, mon jeune ami ? Attendez de leur devenir intimement familier ; peut-être alors apprendrez-vous à être terrifié par ces mots. ~
-      ~De telles choses vous fascinent ? Connaissez-vous vraiment votre coeur, ma jeune amie ? Attendez de leur devenir intimement familier ; peut-être alors apprendrez-vous à être terrifiée par ces mots. ~
+@67 = ~De telles choses vous fascinent ? Connaissez-vous vraiment votre coeur, mon jeune ami ? Attendez de leur devenir intimement familier ; peut-être alors apprendrez-vous à être terrifié par ces mots.~
+      ~De telles choses vous fascinent ? Connaissez-vous vraiment votre coeur, ma jeune amie ? Attendez de leur devenir intimement familier ; peut-être alors apprendrez-vous à être terrifiée par ces mots.~
 @68 = ~Ieriyn donnera Y'landrothiel en langue elfique... Les étoiles... Il y a une colline sacrée à Shilmista que nous appelons Daione Dun - la colline des étoiles. Elle s'élève haut au coeur de la forêt des Ombres, et son sommet est si proche du ciel qu'on peut presque y toucher les étoiles.~
 @69 = ~Mon peuple s'y rassemble quelquefois lors d'une nuit étoilée, sous la conduite de notre suzerain, et nous chantons pour Shilmista. Quand le chant cesse, le roi nous asperge de poussière d'étoiles et nous donne sa bénédiction. Le monde se fait scintillant et la voix de Shilmista murmure dans tous les coeurs. C'est comme de se tenir sous la chute d'une myriade d'étoiles. C'est mon plus beau souvenir, et pourtant il me trouble.~
 @70 = ~Ce n'est pas l'endroit qui me manque, <CHARNAME>. Cependant, me manquent ceux dont les ombres s'attardent encore là-bas. Ma chère Déhériana, mes frères, mon père... Vous avez vos propres fantômes, cela dit, <CHARNAME>, et vous n'avez pas besoin de rencontrer les miens. Khila amin - suivez-moi, nous devrions rattraper les autres.~
@@ -179,7 +179,7 @@ rester, mon prince, rester, mon prince...~
 @140 = ~Mes condoléances, Kivan. Le temps et la distance sont les grands guérisseurs des peines de coeur. Est-ce pour cela que vous avez quitté Shilmista ?~
 @141 = ~C'est triste, mais ils étaient tombés vaillamment sur le champ de bataille. Qu'en est-il du reste de votre famille ?~
 @142 = ~Kivan, vous avez dit aussi que vous voudriez prier Déhériana de vous pardonner ?~
-@143 = ~Vous paraissez affligé, Kivan. Je voudrais en savoir plus sur vous, mais peut-être vaut-il mieux garder cela pour un autre jour. Si nous rejoignions le reste du groupe ? ~
+@143 = ~Vous paraissez affligé, Kivan. Je voudrais en savoir plus sur vous, mais peut-être vaut-il mieux garder cela pour un autre jour. Si nous rejoignions le reste du groupe ?~
 @144 = ~Pourquoi ai-je l'impression que si vous aviez eu une soeur elle aurait été enlevée par des démons, et que si vous aviez des enfants ils auraient été maudits ? Vous attirez le malheur, Kivan, comme le miel attire les mouches.~
 @145 = ~<CHARNAME>, pourrions-nous remettre cette discussion à un autre jour ? Après des années de silence il m'est étrange de parler de mon passé...~
 @146 = ~Comme vous voudrez.~
@@ -244,7 +244,7 @@ rester, mon prince, rester, mon prince...~
 @200 = ~Votre obsession de vengeance jaillit de quelque source sinistre et ténébreuse, Kivan. Peut-être de Tazok lui-même, ou de ses maîtres. Peut-être votre torture n'est-elle pas finie, et êtes-vous encore leur jouet ?~
 @201 = ~Pourquoi Déhériana voudrait-elle que j'arpente Toril sans elle à mes côtés ? Merci, <CHARNAME>, de vos douces paroles, mais si Déhériana m'a pardonné ma faiblesse, elle m'attend en Arvanaith en ce moment même, espérant comme moi que mon devoir envers Shevarash ne prendra pas trop de temps. Shevarash ne me laissera pas partir avant que je ne me sois racheté en vengeant mon épouse.~
 @202 = ~Je ne recherche pas l'absolution. Je voudrais savoir ce qu'un autre être vivant pense de mon malheur. Ce jour-là... dès que j'ai vu qu'ils laissaient Déhériana intacte tandis qu'ils concentraient leurs efforts sur moi, mon seul but devint de demeurer conscient et de constituer une victime suffisamment divertissante.~
-@203 = ~Le monde devint une masse confuse, mais je me forçais à me relever après chaque coup ; je hurlai aussi longtemps que mes lèvres purent encore bouger... Lorsque Tazok finit par se lasser du spectacle, il ordonna de tuer Déhériana. Aussitôt que son corps sans vie heurta le sol, mon esprit me quitta moi aussi. Ils nous laissèrent pour morts, tous les deux. Mais je ne mourrus pas. Pourquoi ? ~
+@203 = ~Le monde devint une masse confuse, mais je me forçais à me relever après chaque coup ; je hurlai aussi longtemps que mes lèvres purent encore bouger... Lorsque Tazok finit par se lasser du spectacle, il ordonna de tuer Déhériana. Aussitôt que son corps sans vie heurta le sol, mon esprit me quitta moi aussi. Ils nous laissèrent pour morts, tous les deux. Mais je ne mourrus pas. Pourquoi ?~
 @204 = ~C'est vraisemblable. Poursuivez votre vengeance, aidez-moi à tuer quelques monstres maléfiques et vous vous sentirez mieux. Après tout, vous n'aviez pas vraiment le choix, et vous avez fait ce que vous pouviez pour protéger Déhériana, rôdeur.~
 @205 = ~Vos paroles sonnent juste, et elles augmentent la peine que je ressens toujours en mon coeur. Je ne suis pas sûr de pouvoir vivre plus longtemps avec une telle culpabilité.~
 @206 = ~Rôdeur... oui. Un rôdeur guide et protège, et pourtant j'ai conduit la plus précieuse voyageuse que je connaissais à sa mort, et j'ai échoué à la protéger. Je suis surpris que vous ayez encore confiance en mes aptitudes.~
@@ -446,7 +446,7 @@ rester, mon prince, rester, mon prince...~
 @364 = ~Tais-toi, tais-toi, coeur tremblant ;
 Rappelle-toi la sagesse des jours anciens :
 Celui qui tremble devant la flamme et le flot,
-Et... ahem... le vent... le vent qui souffle... ~
+Et... ahem... le vent... le vent qui souffle...~
 @365 = ~Hem, je crois que je ne peux me rappeler comment ça continue après ça... Il s'est écoulé pas mal de temps depuis que...~
 @366 = ~Alors ne vous torturez pas davantage. Ça continue ainsi :~
 @367 = ~Et le vent qui souffle à travers les voies étoilées,
@@ -784,7 +784,7 @@ A la solitaire et majestueuse multitude.~
 @602 = ~Yingil, si tu devais rencontrer un drow, tu ne vivrais pas assez longtemps pour le raconter. Je ne te laisse vivre que parce que je n'ai jamais vu un imbécile porter son habit de bouffon avec un tel empressement. Prends garde au moment où je me fatiguerai de tes farces.~
 @603 = ~Tiax, les drows sont élevés dans la soif de pouvoir et ne reculent devant aucun moyen pour l'atteindre. Pourtant tout ce que les Tel'gothrim ont réussi à faire en plusieurs milliers d'années est de vivre dans les entrailles de Toril. Qu'est-ce qui vous fait espérer que vous allez réussir ?~
 @604 = ~Cyric accordera au puissant Tiax la terre entière, quand l'heure sera venue !~
-@605 = ~Que peut offrir Cyric que Lloth ne puisse pas ?~
+@605 = ~Que peut offrir Cyric que Lolth ne puisse pas ?~
 @606 = ~Silence ! On n'argumente pas avec le grand Tiax ! Tous des traîtres ! Tous conspirent contre la grandeur de Tiax !~
 @607 = ~Ah, je vois... la folie. Lle naa haran e' nausalle nogoth... Vous n'êtes un roi que dans votre imagination, gnome.~
 
@@ -800,7 +800,7 @@ A la solitaire et majestueuse multitude.~
 
 
 @613 = ~Vous ne pouvez même pas parler comme une créature de la lumière, Viconia. Paroles insensées, menaces et sifflement de serpent - c'est tout ce que vous pouvez produire. C'est amusant de penser qu'il fut un temps où je demandais à mon mentor si une race elfique pouvait suivre une voie si différente de celle des autres enfants de Corellon Larethian.~
-@614 = ~On t'a enseigné des mensonges, darthiir. Ma nation a été injustement persécutée par ta race bien pensante. Lloth nous a donné l'évasion dont nous avions besoin, et une vie dans un monde bien plus noble que votre maudite surface.~
+@614 = ~On t'a enseigné des mensonges, darthiir. Ma nation a été injustement persécutée par ta race bien pensante. Lolth nous a donné l'évasion dont nous avions besoin, et une vie dans un monde bien plus noble que votre maudite surface.~
 @615 = ~On vous a enseigné des mensonges, drow. Votre peuple a été corrompu jusqu'à devenir une race d'assassins impitoyables.~
 @616 = ~Est-ce ainsi, iblith ? Quand je marche à découvert en surface, je suis pourchassée en tout lieu. La seule raison pour laquelle ils réclament mon sang est que je suis une elfe noire, et *tu* me traites d'assassin impitoyable ?~
 @617 = ~Oui, et j'ai mes raisons. Mais je n'en parlerai pas maintenant, Viconia. Nous avons déjà fait attendre les autres beaucoup trop longtemps. Je ne souhaite pas que quelqu'un me soupçonne de me lier d'amitié avec une ordure telle que vous.~
@@ -841,7 +841,7 @@ A la solitaire et majestueuse multitude.~
 @647 = ~Oh, mais ce serait un péché mortel pour un darthiir, si je ne me trompe. La mort... si c'est ce que tu veux, je serai heureuse de t'apporter mon aide...~
 
 
-@648 = ~Pensez-vous que je ne peux pas voir ce que vous essayez de faire, drow ? Vous dites que vous ne servez pas Lloth, mais les principes que vous prêchez sont de son cru.~
+@648 = ~Pensez-vous que je ne peux pas voir ce que vous essayez de faire, drow ? Vous dites que vous ne servez pas Lolth, mais les principes que vous prêchez sont de son cru.~
 @649 = ~Occupe-toi de tes affaires, jaluk.~
 @650 = ~Quels mensonges êtes-vous en train de dire à nos compagnons ?~
 @651 = ~Je ne mens pas ! Tout le monde n'est pas aussi étroit d'esprit que toi, darthiir. Je souhaite en apprendre davantage sur les surfacins, et c'est pourquoi je parle à ceux qui veulent bien écouter.~

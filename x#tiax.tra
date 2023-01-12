@@ -237,9 +237,9 @@
 @190 = ~Oh, très bien, comme tu veux. Je sais que TU ME considères comme une amie aussi, cela dit ! Est-ce que Cyric lui-même ne l'a pas dit ?~
 @191 = ~Quoi ?! Cyric n'a rien dit de tel, et Tiax est la seule créature qui mérite d'entendre les mots de Cyric ! Comment pourrais-TU savoir ce que Cyric désire ?!~
 @192 = ~Oh, Cyric me parle aussi, idiot. Cela doit vouloir dire que je suis destinée à régner sur le monde avec toi, et que, du coup, je suis ton égale ! Ça va être chouette, non ?~
-@193 = ~Serais-ce toi, ma Reine ? NON ! TU MENS ! BLASPHEME !!! Cyric parle à Tiax, et seulement à Tiax !!!~
+@193 = ~Serais-ce toi, ma Reine ? NON ! TU MENS ! BLASPHÈME ! Cyric parle à Tiax, et seulement à Tiax !~
 @194 = ~Que dis-tu, Cyric ? Tu dis que Tiax n'est plus ton élu, et que donc, je dois régner sur le monde seule ? Et bien, merci !~
-@195 = ~Tiax n'écoutera pas ces foutaises ! Cyric ne parle qu'à Tiax ! CYRIC ne parle qu'à TIAX !!! Cyric ne confierait pas une telle bénédiction à cette gamine ! Non, Tiax n'en écoutera pas davantage !!!~
+@195 = ~Tiax n'écoutera pas ces foutaises ! Cyric ne parle qu'à Tiax ! CYRIC ne parle qu'à TIAX ! Cyric ne confierait pas une telle bénédiction à cette gamine ! Non, Tiax n'en écoutera pas davantage !~
 @196 = ~Et bien ! On dirait que certains gnomes n'ont pas le sens de l'humour...~
 
 //Banter avec Jaheira
@@ -270,7 +270,7 @@
 @218 = ~Ceux qui obéissent à la volonté de Tiax seront élus parmi tous, mais TU ne feras clairement pas partie de ce groupe. Va t'en, et prépare-toi au jour où la punition de Tiax s'abattra sur toi !~
 
 //Banters avec Khalid
-@219 = ~AÏE ! Quel moustique OSERAIT piquer Tiax ?! Cette forêt brûlera pour son manque d'hospitalité, quand Tiax régnera ! Sa population animale et insectoïde sera passée par l'épée pour son incapacité à prévenir cet outrage, et son sol sera semé de sel de manière à ce que rien n'y pousse plus jamais !!! Ainsi l'exige Tiax, et ainsi cela sera-t-il fait !~
+@219 = ~AÏE ! Quel moustique OSERAIT piquer Tiax ?! Cette forêt brûlera pour son manque d'hospitalité, quand Tiax régnera ! Sa population animale et insectoïde sera passée par l'épée pour son incapacité à prévenir cet outrage, et son sol sera semé de sel de manière à ce que rien n'y pousse plus jamais ! Ainsi l'exige Tiax, et ainsi cela sera-t-il fait !~
 @220 = ~A-Allons, Tiax, c'est juste une piqûre de m-moustique. Cela nous arrive à tous. Vous ne devez pas le prendre p-personnellement.~
 @221 = ~Pas le prendre personnellement ?! L'un des esclaves mécréants de Tiax lui a causé de la DOULEUR ! Une telle action est une insulte faite à toutes les choses vivantes de cette planète, et lorsque Tiax régnera, cela sera un crime puni par le tourment éternel ! Que toutes les créatures hurlent de terreur quand Tiax est piqué, car il mènera la ruine sur leurs terres et exigera que les serviteurs qui le trahissent soient massacrés à des lieues à la ronde, comme punition pour cette insulte !~
 @222 = ~La seule p-personne que votre colère va blesser, c'est vous-même. Si vous continuez à c-crier ainsi, vous allez faire une crise d'ap-poplexie.~
@@ -318,7 +318,7 @@
 @258 = ~ARRRGGGH ! Minsc reconnait le mal quand il l'entend ! Tu essaies de tenter Bouh pour qu'il se retourne contre moi, mais nous sommes des amis éternels ! Pas vrai, Bouh ?~
 @259 = ~Euh... pas vrai, Bouh ?~
 @260 = ~AH ! Ton hamster réfléchit à ma proposition ! C'est juste une question de temps avant qu'il ne réalise que TIAX est le seul choix possible pour quelqu'un d'aussi puis...~
-@261 = ~AAAAAHHHHHHH !!! AÏE ! AÏE ! AÏE ! QU'ON ME L'OTE ! AAAÏE !~
+@261 = ~AAAAAHHHHHHH ! AÏE ! AÏE ! AÏE ! QU'ON ME L'OTE ! AAAÏE !~
 @262 = ~Oui ! Vas-y, Bouh ! Mords le petit gnome maléfique ! Cela T'apprendra à essayer de séparer Minsc et Bouh ! Justice est rendue !~
 
 //Banter avec Montaron
@@ -392,7 +392,7 @@
 @316 = ~Clangeddin ?! Bah ! Quelle stupidité ! Cyric est le seul vrai dieu, et Clangeddin a intérêt à se tirer de son chemin, quand il viendra pour élever Tiax à la position qui lui revient, en tant que seigneur de toute chose !~
 @317 = ~J'ai dû mal à croire que votre dieu cinglé soit sur le point de conquérir le monde dans l'immédiat. N'est-il pas un dément complètement délirant ?~
 @318 = ~Cyric, fou ?! AH ! Cyric n'est pas plus fou que Tiax lui-même, futur maître de toute chose ! Les autres prétendent simplement que leur véritable seigneur est fou à cause de la PEUR paralysante dans laquelle les plonge son inévitable pouvoir à venir sur toute chose ! Quand Cyric régnera sur tous avec Tiax à ses côtés, leurs rangs apeurés seront nettoyés par le feu et la fureur la plus terrible et *alors* nous verrons qui sont les véritables fous !~
-@319 = ~Je n'ai pas peur de votre dieu traître. Laissez donc venir ses esclaves ; ils seront massacrés par de l'acier nain, au nom de Clangeddin, avant la fin du jour ! Et avec des prêtres cinglés comme *vous*, je pense que la tâche ne sera pas difficile. ~
+@319 = ~Je n'ai pas peur de votre dieu traître. Laissez donc venir ses esclaves ; ils seront massacrés par de l'acier nain, au nom de Clangeddin, avant la fin du jour ! Et avec des prêtres cinglés comme *vous*, je pense que la tâche ne sera pas difficile.~
 @320 = ~Tiax est ENTOURE de traîtres ! Pourquoi ses esclaves osent-ils défier sa volonté alors qu'il leur fait le don rare d'une existence préservée de servitude idiote ?~
 @321 = ~Tiax te fera fouetter puis jeter aux sangliers quand il régnera sur tous, mais jusque là, prie pour ne pas l'offenser à nouveau, sinon il te soumettra à une punition encore plus terrible !~
 

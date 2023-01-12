@@ -36,7 +36,7 @@
 //Khalid
 @23 = ~Je n-ne sais pas, <CHARNAME>. Cel-la semble... facile, et je ne me suis jamais f-fié à ce qui était facile. De quelle s-sorte de poèmes p-parlons-nous ?~
 @24 = ~Je n-ne sais pas, <CHARNAME>. A quel point les gens ont-ils v-vraiment besoin de nous c-craindre ?~
-@25 = ~V-vous ne trouvez pas que ce serait mieux que les gens pensent du b-bien de nous, plutôt ? ~
+@25 = ~V-vous ne trouvez pas que ce serait mieux que les gens pensent du b-bien de nous, plutôt ?~
 
 // Montaron
 @26 = ~Curieux, mais la renommée est rarement un avantage dans mon métier. Je m'efforcerais de l'étouffer au plus tôt.~
@@ -132,7 +132,7 @@
 @74 = ~Souhaites-Tu que toute âme sur Féérune soit au courant de Tes affaires ? Prends garde à ne pas perdre plus que de l'or.~
 
 //Dynaheir, sans Minsc
-@75 =~Mes oreilles tintent aux fausses intonations de ce barde. Comment l'on peut espérer être acclamé au-delà de son mérite, je ne sais, mais j'espère que Tu marcheras avec prudence.~
+@75 = ~Mes oreilles tintent aux fausses intonations de ce barde. Comment l'on peut espérer être acclamé au-delà de son mérite, je ne sais, mais j'espère que Tu marcheras avec prudence.~
 @76 = ~Prends garde ! Ne laisse pas nos ennemis deviner notre position grâce à des bardes trop diserts.~
 
 

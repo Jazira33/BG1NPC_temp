@@ -34,7 +34,7 @@
 //Khalid
 @23 = ~Je n-ne sais pas, <CHARNAME>. Cel-la semble... facile, et je ne me suis jamais f-fié à ce qui était facile. De quelle s-sorte de poèmes p-parlons-nous ?~
 @24 = ~Je n-ne sais pas, <CHARNAME>. A quel point les gens ont-ils v-vraiment besoin de nous c-craindre ?~
-@25 = ~V-vous ne trouvez pas que ce serait mieux que les gens pensent du b-bien de nous, plutôt ? ~
+@25 = ~V-vous ne trouvez pas que ce serait mieux que les gens pensent du b-bien de nous, plutôt ?~
 
 // Montaron
 @26 = ~Curieux, mais la renommée est rarement un avantage dans mon métier. Je m'efforcerais de l'étouffer au plus tôt.~
@@ -79,7 +79,7 @@
 
 
 //Xan
-@48 =~Ah, une nouvelle façon de dépenser notre argent. Comme c'est original. Tu ferais aussi bien de garder notre or. Ni la renommée ni l'infâmie ne nous sauveront.~
+@48 = ~Ah, une nouvelle façon de dépenser notre argent. Comme c'est original. Tu ferais aussi bien de garder notre or. Ni la renommée ni l'infâmie ne nous sauveront.~
 @49 = ~Accepte ou non cette offre, peu importe. Qu'il dise grandeur ou misère, nous ne vivrons jamais assez pour en récolter les bénéfices.~
 @50 = ~Les morts n'ont pas besoin de renom, <CHARNAME>. Évanouissons-nous dans les brumes de l'obscurité. Peut-être nos nombreux ennemis auront-ils alors plus de peine à repérer notre passage.~
 
@@ -129,7 +129,7 @@
 @74 = ~Souhaites-Tu que toute âme sur Féérune soit au courant de Tes affaires ? Prends garde à ne pas perdre plus que de l'or.~
 
 //Dynaheir, sans Minsc
-@75 =~Mes oreilles tintent aux fausses intonations de ce barde. Comment l'on peut espérer être acclamé au-delà de son mérite, je ne sais, mais j'espère que Tu marcheras avec prudence.~
+@75 = ~Mes oreilles tintent aux fausses intonations de ce barde. Comment l'on peut espérer être acclamé au-delà de son mérite, je ne sais, mais j'espère que Tu marcheras avec prudence.~
 @76 = ~Prends garde ! Ne laisse pas nos ennemis deviner notre position grâce à des bardes trop diserts.~
 
 
@@ -195,7 +195,7 @@
 @121 = ~Il doit bien y avoir encore quelques types qui n'auront pas entendu parler de vos exploits. Je les trouverai et convaincrai le reste que vous n'êtes pas quelqu'un à embêter. Pour un homme de votre réputation, ça coûtera 500 pièces d'or.~ ~Il doit bien y avoir encore quelques types qui n'auront pas entendu parler de vos exploits. Je les trouverai et convaincrai le reste que vous n'êtes pas quelqu'un à embêter. Pour une femme de votre réputation, ça coûtera 500 pièces d'or.~
 @122 = ~Voyons voir... Tavernes et temples du haut en bas de la Côte des Epées, plus les dépenses annexes... Pour un homme de votre réputation, cela fera 400 pièces d'or.~ ~Voyons voir... Tavernes et temples du haut en bas de la Côte des Epées, plus les dépenses annexes... Pour une femme de votre réputation, cela fera 400 pièces d'or.~
 @123 = ~Pour un homme de votre réputation, je peux faire cela pour 200 pièces d'or seulement.~ ~Pour une femme de votre réputation, je peux faire cela pour 200 pièces d'or seulement.~
-@124 =~Voyons voir... Tavernes et temples du haut en bas de la Côte des Epées, plus les dépenses annexes... Pour un homme de votre réputation, cela fera 300 pièces d'or.~ ~Voyons voir... Tavernes et temples du haut en bas de la Côte des Epées, plus les dépenses annexes... Pour une femme de votre réputation, cela fera 300 pièces d'or.~
+@124 = ~Voyons voir... Tavernes et temples du haut en bas de la Côte des Epées, plus les dépenses annexes... Pour un homme de votre réputation, cela fera 300 pièces d'or.~ ~Voyons voir... Tavernes et temples du haut en bas de la Côte des Epées, plus les dépenses annexes... Pour une femme de votre réputation, cela fera 300 pièces d'or.~
 @125 = ~Pour 400 pièces d'or, je peux faire des merveilles avec une réputation comme la vôtre.~
 @126 = ~Ce sera un voyage sans fin. Les gens ne savent pas vraiment quoi penser sur vous, alors je devrai m'assurer qu'ils entendent tous ce que vous voulez qu'ils entendent. Pour un homme de votre réputation, cela fera 500 pièces d'or.~ ~Ce sera un voyage sans fin. Les gens ne savent pas vraiment quoi penser sur vous, alors je devrai m'assurer qu'ils entendent tous ce que vous voulez qu'ils entendent. Pour une femme de votre réputation, cela fera 500 pièces d'or.~
 @127 = ~Ce sera un voyage sans fin. Les gens ne savent pas vraiment quoi penser sur vous, alors je devrai m'assurer qu'ils entendent tous ce que vous voulez qu'ils entendent. Pour un homme de votre réputation, ça fera 700 pièces d'or.~ ~Ce sera un voyage sans fin. Les gens ne savent pas vraiment quoi penser sur vous, alors je devrai m'assurer qu'ils entendent tous ce que vous voulez qu'ils entendent. Pour une femme de votre réputation, ça fera 700 pièces d'or.~
@@ -208,7 +208,7 @@
 @134 = ~Pas une mince affaire, pour un homme de votre réputation. Rares sont ceux qui vous créditeraient de tels exploits. Cela vous coûtera 2400 pièces d'or.~ ~Pas une mince affaire, pour une femme de votre réputation. Rares sont ceux qui vous créditeraient de tels exploits. Cela vous coûtera 2400 pièces d'or.~
 @135 = ~Ce sera pas facile, pour un homme avec une réputation comme la vôtre, mais je suis à la hauteur du défi. En ces circonstances, la commission coûtera 1900 pièces d'or.~ ~Ce sera pas facile, pour une femme avec une réputation comme la vôtre, mais je suis à la hauteur du défi. En ces circonstances, la commission coûtera 1900 pièces d'or.~
 @136 = ~Un vrai défi, mais je suis l'homme qu'il vous faut. Pour un homme de votre réputation, ça fera 1300 pièces d'or.~ ~Un vrai défi, mais je suis l'homme qu'il vous faut. Pour une femme de votre réputation, ça fera 1300 pièces d'or.~
-@137 =~Il y en aura qui se laisseront difficilement persuader, mais j'y arriverai. Il faudra être minutieux, cela dit, et ça coûte cher. Pour un homme de votre réputation, le prix sera de 900 pièces d'or.~ ~Il y en aura qui se laisseront difficilement persuader, mais j'y arriverai. Il faudra être minutieux, cela dit, et ça coûte cher. Pour une femme de votre réputation, le prix sera de 900 pièces d'or.~
+@137 = ~Il y en aura qui se laisseront difficilement persuader, mais j'y arriverai. Il faudra être minutieux, cela dit, et ça coûte cher. Pour un homme de votre réputation, le prix sera de 900 pièces d'or.~ ~Il y en aura qui se laisseront difficilement persuader, mais j'y arriverai. Il faudra être minutieux, cela dit, et ça coûte cher. Pour une femme de votre réputation, le prix sera de 900 pièces d'or.~
 @138 = ~Il doit bien y avoir encore quelques personnes pour ne pas avoir entendu parler de vos exploits. Je les trouverai et les convaincrai que vous n'êtes pas quelqu'un à embêter. Pour un homme de votre réputation, ça fera 800 pièces d'or.~ ~Il doit bien y avoir encore quelques personnes pour ne pas avoir entendu parler de vos exploits. Je les trouverai et les convaincrai que vous n'êtes pas quelqu'un à embêter. Pour une femme de votre réputation, ça fera 800 pièces d'or.~
 @139 = ~Voyons voir... Tavernes et temples du haut en bas de la Côte des Epées, plus les dépenses annexes... Pour un homme de votre réputation, cela fera 500 pièces d'or.~ ~Voyons voir... Tavernes et temples du haut en bas de la Côte des Epées, plus les dépenses annexes... Pour une femme de votre réputation, cela fera 500 pièces d'or.~
 @140 = ~Pour un homme de votre réputation, je peux faire cela pour 450 pièces d'or seulement.~ ~Pour une femme de votre réputation, je peux faire cela pour 450 pièces d'or seulement.~

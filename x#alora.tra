@@ -11,7 +11,7 @@
 @0 = ~Hé, <CHARNAME>, allons faire la fête dans la prochaine taverne que nous croiserons !~
 @1 = ~Qu'est-ce que t'en dis ? S'il te plaîîîît... faisons la fête !~
 @2 = ~Bien sûr, pourquoi pas ?~
-@3 = ~Hé, pourquoi veux-tu faire la fête ? ~
+@3 = ~Hé, pourquoi veux-tu faire la fête ?~
 @4 = ~Ne sois pas ridicule.~
 @5 = ~Formidable ! Nous aurions bien besoin de remonter le moral de ce vieux rabat-joie de Kivan.~
 @6 = ~Ouais, je vois ce que tu veux dire.~
@@ -129,9 +129,9 @@
 
 // Alora - Coran
 
-@97 = ~Alors, quand vas-tu enfin rendre ta famille heureuse et amener Namara en Téthyr ? ~
+@97 = ~Alors, quand vas-tu enfin rendre ta famille heureuse et amener Namara en Téthyr ?~
 @98 = ~Je ne suis pas certain de le faire, Alora.~
-@99 = ~Euh, pourquoi ? ~
+@99 = ~Euh, pourquoi ?~
 @100 = ~Namara n'est pas une elfe, vois-tu.~
 @101 = ~Pour moi, elle ressemble vraiment à une elfe !~
 @102 = ~J'ai bien peur qu'elle ne soit pas suffisamment elfe pour ma famille. Alora, en Téthyr, les relations entre humains et elfes ne sont pas très chaleureuses, et c'est peu dire. Certains des miens parleraient de crime racial à mon sujet et me traiteraient de père d'une bâtarde.~
@@ -369,7 +369,7 @@
 @258 = ~Si je te faisais du bouche à bouche, tu serais vite ivre à cause de toute la bière que j'ai bue la nuit dernière, pour sûr.~
 @259 = ~Donc tu me ferais VRAIMENT le bouche à bouche ? *cligne de l'oeil*~
 @260 = ~Euh, non, NON ! Je voulais dire...~
-@261 = ~*chante* Ah, ah, tu es amoureux !!!~
+@261 = ~*chante* Ah, ah, tu es amoureux !~
 @262 = ~Je te donnerais bien un coup de hache, mais je ne veux pas que tu reprennes CETTE discussion...~
 
 
@@ -442,7 +442,7 @@
 // Alora - Shar-teel
 
 @305 = ~La ville n'est-elle pas belle, Shar-Teel ? Tant de gens qui s'affairent et qui s'activent, d'un endroit à l'autre ! Même la nuit, elle est plus vivante que n'importe quel coin de la campagne ! Je ne vois pas meilleur endroit pour l'aventure !~
-@306 = ~Petite sotte naïve ! Pourquoi t'acharnes-tu à m'importuner avec tes idioties ? ~
+@306 = ~Petite sotte naïve ! Pourquoi t'acharnes-tu à m'importuner avec tes idioties ?~
 @307 = ~Ouah, quelle râleuse ! Pourquoi es-tu toujours aussi désagréable avec tout le monde ?~
 @308 = ~J'ai mieux à faire que de faire plaisir à une andouille insignifiante comme toi avec ses rêves d'aventure doux et sucrés. Ceux d'entre nous qui connaissent vraiment le métier n'ont pas le temps de materner des amateurs.~
 @309 = ~Je vais te montrer, oh oui ! Pour ce qui est de mes talents de voleuse, suis aussi habile que n'importe quel petite-gens, si nécessaire ! Talents qui peuvent aussi servir à bien d'autres choses...~
@@ -469,7 +469,7 @@
 @322 = ~Mettre un point final à cette conversation me réjouirait au plus haut point.~
 @323 = ~Hé-hé !~
 @324 = ~Qu'y a-t-il de si drôle ?~
-@325 = ~'un point' ! 'haut point' !~
+@325 = ~« un point » ! « haut point » !~
 @326 = ~*soupire*~
 
 

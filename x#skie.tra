@@ -1,7 +1,7 @@
 //3 banters avec Charname, Viconia intervient dans le premier
 @0 = ~*soupir*~
 @1 = ~Skie ? Est-ce que ça va ?~
-@2 = ~Oh, qu'est-ce qu'il y a encore ? ~
+@2 = ~Oh, qu'est-ce qu'il y a encore ?~
 @3 = ~Par les Enfers, vous êtes encore en train de bavasser ?!~
 @4 = ~J'étais juste en train de penser. Je réfléchissais à la vie d'aventurier...~
 @5 = ~Est-ce que je peux vous aider ?~
@@ -30,7 +30,7 @@
 @26 = ~C'est dur, hein ? De perdre quelqu'un de qui vous avez dépendu toute votre vie.~
 @27 = ~Oui, en effet. Gorion n'était pas seulement mon père, Skie, il était aussi mon ami et mon mentor. Je lui dois tant.~
 @28 = ~Gorion fait partie de mon passé. J'avais beaucoup d'affection pour lui, mais... il a bien fallu passer à autre chose après sa mort.~
-@29 = ~Bah, Gorion n'était qu'un vieillard sans intérêt. Je ne lui dois rien ! ~
+@29 = ~Bah, Gorion n'était qu'un vieillard sans intérêt. Je ne lui dois rien !~
 @30 = ~Je comprends... que vous ne soyez pas loquace sur le sujet, mais... je suis passée par là, moi aussi. Depuis que je suis née, ma mère s'était toujours occupée de moi. Mon père faisait partie des quatre Grands-Ducs, il n'avait pas une seconde à lui. Quant à mon frère, il avait quinze ans de plus que moi. Je ne l'ai jamais bien connu. Mais ma mère, elle était toujours présente. Quand j'étais petite et que je m'aventurais trop loin dans les jardins, elle était toujours là pour nettoyer mes jupes pleines de terre. Elle voulait que je devienne une dame respectable, mais suffisamment forte pour pouvoir mener ma vie comme je l'entendais. J'ai appris à lire, à écrire... Elle n'engageait que les meilleurs précepteurs pour mon éducation. J'ai appris à jouer du piano, de la harpe, et ma mère me faisait prendre des leçons de danse. Elle était toujours là pour moi, elle était ma seule amie... J'ai cru mourir lorsque j'ai appris son décès. C'était... si soudain, si inattendu. Mais parfois, je sens encore sa présence, je la sens encore me regarder d'un oeil bienveillant... où qu'elle soit.~
 @31 = ~Toutes mes condoléances, Skie. Ca a dû être dur, pour vous. Croyez-moi, je sais ce que ça fait.~
 @32 = ~Toutes mes condoléances, Skie. Mais je pense que vous ne devriez pas autant vous y attarder. Votre mère est partie, et vous devez mener votre vie.~
@@ -50,17 +50,17 @@
 @45 = ~Oh, oui. Vous m'avez raconté cette histoire à peu près... voyons voir... vingt-six fois et demie. Et si vous continuez, ça va faire vingt-sept fois en intégralité.~
 @46 = ~Voyons voir... J'avais l'habitude de faire le mur du manoir depuis un mois ou deux. Ma mère me manquait terriblement, et mon père et mon frère n'avaient presque jamais de temps pour moi. Je n'avais personne à qui parler, à tel point que je commençais à devenir folle dans ce gigantesque manoir. Donc, je me suis mise à explorer la ville, la nuit.~
 @47 = ~Ca devait être très dangereux pour...~
-@48 = ~Mais pourquoi je vous écoute ? ~
+@48 = ~Mais pourquoi je vous écoute ?~
 @49 = ~Oubliez ça. *Skie souffle*~
 @50 = ~Oh, allez, Skie, ne boudez pas. Je *veux* l'entendre.~
-@51 = ~Quoi ? Oh, c'est déjà fait. ~
+@51 = ~Quoi ? Oh, c'est déjà fait.~
 @52 = ~...une frêle et délicate jeune fille comme moi ? Pas d'inquiétude. J'ai visité les quartiers les plus mal famés de la ville sans problèmes. Les gens étaient très gentils avec moi, surtout les messieurs.~
 @53 = ~*renifle* Ben voyons... Oh, pardon, je ne voulais pas vous interrompre.~
 @54 = ~Ah, au moins, vous avez dû vous amuser, dans cette ville.~
 @55 = ~Ils ne devaient sans doute pas se douter combien vous pouviez être ennuyeuse... les premières fois. J'ai fait la même erreur.~
 @56 = ~Vous... vous n'êtes... qu'un arriéré sans aucune éducation. Je suis sûre que le seul endroit dans lequel vous avez séjourné à Château-Suif est la porcherie. J'ai été stupide de m'adresser à vous comme presque mon égal.~
       ~Vous... vous n'êtes... qu'une arriérée sans aucune éducation. Je suis sûre que le seul endroit dans lequel vous avez séjourné à Château-Suif est la porcherie. J'ai été stupide de m'adresser à vous comme presque mon égal.~
-@57 = ~Et puis un jour, j'ai vu Eldoth... et il m'a vue. Ca a été le coup de foudre ! On a parlé de tout et de n'importe quoi ! C'était comme si nos deux esprits étaient connectés, vous voyez ? Mon premier et mon seul amour... ~
+@57 = ~Et puis un jour, j'ai vu Eldoth... et il m'a vue. Ca a été le coup de foudre ! On a parlé de tout et de n'importe quoi ! C'était comme si nos deux esprits étaient connectés, vous voyez ? Mon premier et mon seul amour...~
 @58 = ~Et il est certain que ce n'est pas tant vos manières et votre apparence avenantes que la fortune de votre père qui soit responsable de ses sentiments pour vous...~
 @59 = ~Vous... c'est ce que vous pensez vraiment ?~
 @60 = ~*ronfle*... Oh, pardon, j'ai dû m'assoupir.~
@@ -119,7 +119,7 @@
 @106 = ~Et bien, disons simplement que j'ai compris ce jour-là pourquoi ma mère ne me donnait qu'un seul petit gâteau à l'heure du thé...~
 
 @107 = ~Tu as déjà exploré un donjon, Alora ? Oh, à l'entendre, ça semble si amusant : des quantités de trésors, des pièges mortels, des monstres féroces, la mort qui t'attend à chaque coin !~
-@108 = ~C-ça semble plus dangereux qu'amusant, Skie. Pense un peu aux couloirs sombres, à ces murs sales d'où suinte une eau saumâtre, à l'odeur des... cookies !!!~
+@108 = ~C-ça semble plus dangereux qu'amusant, Skie. Pense un peu aux couloirs sombres, à ces murs sales d'où suinte une eau saumâtre, à l'odeur des... cookies !~
 @109 = ~Hein ? Des cookies ?~
 @110 = ~*glousse* Je viens juste de me rappeler qu'il me restait des cookies dans mon sac à dos ! Tu en veux ?~
 @111 = ~Oh, oui, merci ! *crunch, crunch*. Il sont délicieux. Où les as-tu achetés ?~
@@ -142,7 +142,7 @@
 @126 = ~C'est une épée, par une dague de jet, Skie. Ne t'ai-je pas dit de mieux tenir ton arme ?~
 @127 = ~Pardon, elle a glissé de mes mains. Vous... je ne vous ai pas fait mal ?~
 @128 = ~Il n'y avait même pas assez de puissance pour égratigner mon armure, et c'est un autre point que tu vas devoir travailler. Maintenant, je vais faire semblant de t'attaquer pour voir comment tu te défends.~
-@129 = ~AAAAAAHHHHH !!!~
+@129 = ~AAAAAAHHHHH !~
 @130 = ~Quoi ?! Je n'ai même pas encore dégainé mon arme !~
 @131 = ~Vous... vous aviez un regard terrifiant lorsque vous avez sauté en avant vers moi !~
 @132 = ~Fillette, tu es blanche comme un linge ! Qui t'a donc appris a te battre ? As-tu au moins déjà reçu un entraînement au combat ?~
@@ -461,7 +461,7 @@ Ou à mon amour seules les ténèbres feront écho ?~
 @401 = ~Ah parce que vous n'avez pas toujours été... ahem, comme vous êtes en ce moment ?~
 @402 = ~Même Tiax est étonné du fait qu'un jour, il était aussi insignifiant et pitoyable que tous les insectes qu'il côtoie ! Mais c'est un fait, il en a été ainsi. Tiax a été prêtre de Baervan Ermiterrant, et il était aimé et respecté de tous ceux qui croisaient sa route.~
 @403 = ~Oh ?~
-@404 = ~En fait, Tiax était le chef de tout le clergé Gnome ! Tiax était à la tête de toutes les communautés Gnomes à des centaines de lieues à la ronde, tout un chacun lui rendait hommage plus grand que le précédent ! Tous les fidèles se rassemblaient autour de lui par milliers juste pour voir le bout de son superbe nez ! ~
+@404 = ~En fait, Tiax était le chef de tout le clergé Gnome ! Tiax était à la tête de toutes les communautés Gnomes à des centaines de lieues à la ronde, tout un chacun lui rendait hommage plus grand que le précédent ! Tous les fidèles se rassemblaient autour de lui par milliers juste pour voir le bout de son superbe nez !~
 @405 = ~Euh...~
 @406 = ~Mais depuis lors, Cyric a confié à Tiax une plus grande mission... et c'est ainsi que se tient le puissant Tiax de maintenant, tout près de régner sur le monde entier ! Baervan Ermiterrant a dû simplement reculer d'un pas.~
 @407 = ~C'est... hum... fascinant, Tiax. Mais je pensais que c'étaient les suivants de Garl Brilledor qui étaient à la tête du clergé Gnome.~
@@ -474,12 +474,12 @@ Ou à mon amour seules les ténèbres feront écho ?~
 
 @414 = ~Ouille ! J'ai une épine dans le pied.~
 @415 = ~Tiax t'offre toute sa sympathie. Cela fait bien des années qu'aucune épine n'a OSE approcher des pieds de Tiax, mais il se souvient d'une époque où il en avait trop. Tiax disposait d'un autre laquais, en ce temps, et pourtant... et pourtant Tiax ne se souvient plus très bien de cette époque...~
-@416 = ~Euuuuuh... Tiax ? ~
+@416 = ~Euuuuuh... Tiax ?~
 @417 = ~D'après les souvenirs de Tiax, il a voyagé avec un autre gnome pendant des années. Tiax a massacré d'une seule main tous ceux qui se mettaient en travers de leur chemin, et l'autre gnome le révérait comme son sauveur et son protecteur. L'autre gnome était, bien évidemment, faible et lâche comparé à Tiax, mais Tiax tolérait sa présence.~
 @418 = ~Tiax ?~
 @419 = ~Un jour, ils furent attaqués par des brigands. L'autre gnome, qui était lâche et faible, s'est enfui pour sauver sa pitoyable vie, laissant ainsi Tiax tout seul pour pourfendre des centaines... non, des MILLIERS ! ...de ces horribles bandits d'une seule main. Tiax massacra, massacra et massacra, envoyant valdinguer les corps de ses ennemis meurtris par sa rage !~
 @420 = ~Ce fut une bataille sanglante que les dieux eux-mêmes n'avaient jamais osé imaginer ! Ce fut ce jour-là que Cyric descendit des cieux, intimidé par la puissance de Tiax, et nomma Tiax comme son champion immortel et futur maître du monde ! La destinée de Tiax fut tracée à partir de ce jour, et depuis lors, Tiax est le dévoué suivant de Cyric, son guerrier le plus puissant, son héraut du désesp...~
-@421 = ~TIAX !!!~
+@421 = ~TIAX !~
 @422 = ~Ehhhh... quoi ?~
 @423 = ~Ce n'est qu'une épine. Une épine très ennuyeuse, certes. Tiax ? Vous pourriez prendre la pince dans ma trousse et me la retirer ?~
 @424 = ~Euuh. D'accord.~
@@ -493,7 +493,7 @@ Ou à mon amour seules les ténèbres feront écho ?~
 @430 = ~Je graverai ces mots sur l'épitaphe de ta tombe lorsque cette vipère t'aura finalement mordue.~
 @431 = ~Pas de cela avec moi, femme ! On devrait pouvoir voir les femmes, mais pas les entendre !~
 @432 = ~Oh, cher Eldoth, je te promets que tu ne m'entendras plus, même lorsque ma dague se plantera dans la chair tendre de ta gorge.~
-@433 = ~Je vous interdis de toucher à un cheveu de mon Eldoth !!!~
+@433 = ~Je vous interdis de toucher à un cheveu de mon Eldoth !~
 @434 = ~Laissons-là, Skie. Eloignons-nous de cette... cette... *femelle*.~
 @435 = ~*rires*~
 

@@ -88,7 +88,7 @@
 @60 = ~Bon... Il semblerait que je n'ai pas le choix.~
 @61 = ~Bon... Il semblerait que je n'ai pas le choix. Eldoth, je t'en prie, ne me laisse pas seule.~
 @62 = ~Très bien ! D'ailleurs, je m'apprêtais à partir ! Vous n'êtes vraiment pas la compagnie de voyage idéale.~
-@63 = ~Très bien ! D'ailleurs, je m'apprêtais à partir ! Vous n'êtes vraiment pas la compagnie de voyage idéale. Et puis, Eldoth est plus agréable que vous !!!~
+@63 = ~Très bien ! D'ailleurs, je m'apprêtais à partir ! Vous n'êtes vraiment pas la compagnie de voyage idéale. Et puis, Eldoth est plus agréable que vous !~
 @64 = ~Mais pourquoi me demandez-vous ça, <CHARNAME> ? Je ne peux pas rester seule ici, je vais mourir de trouille !~
 @65 = ~Mais pourquoi me demandez-vous ça, <CHARNAME> ? Je ne peux pas rester seule ici, même avec Eldoth à mes côtés, je vais mourir de trouille !~
 @66 = ~Je... Je suppose que je pourrais vous attendre à l'auberge de Feldpost, à Bérégost. Il me reste suffisamment d'argent, mais, je vous en prie, faites vite... Je... Je ne supporte pas d'être seule !~
@@ -337,7 +337,7 @@
 @242 = ~D'accord. Tu pourras essayer de me trouver au Dragon qui Rôte à Nashkel. Je ne te garantis pas d'y être, cela dit.~
 @243 = ~D'accord. Tu pourras essayer de me trouver à la taverne du Chant de l'Elfe. Je ne te garantis pas d'y être, cela dit.~
 //
-// Pas dans le fichier D !!!
+// Pas dans le fichier D !
 //
 @244 = ~Je Te combattrai jusqu'à mon dernier souffle, Vremoni !~
 @245 = ~Bottage de fesses pour le BIEN ! RAAAAARGH !~

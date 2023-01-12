@@ -16,7 +16,7 @@
 
 
 @7 = ~Tiax, rapporte-moi à manger, et dépêche-toi ! Si <CHARNAME> insiste pour que tu voyages avec nous, tu peux au moins te rendre utile. (Même s'il ne sera jamais assez utile pour justifier sa présence parmi nous, ou même la poursuite de son existence, d'ailleurs.)~
-@8 = ~Tiax n'est pas un majordome ! Tiax est plutôt celui qui doit être servi ! A présent que Tiax a été insulté, il demande que TU ailles chercher SON petit-déjeuner ! Tiax aime les oeufs brouillés, et doucement sur la confiture pour sa tartine !!!~
+@8 = ~Tiax n'est pas un majordome ! Tiax est plutôt celui qui doit être servi ! A présent que Tiax a été insulté, il demande que TU ailles chercher SON petit-déjeuner ! Tiax aime les oeufs brouillés, et doucement sur la confiture pour sa tartine !~
 @9 = ~(Pourquoi les êtres qui me sont inférieurs doivent-ils toujours se plaindre et pleurnicher au lieu d'obéir rapidement ?! Je suppose qu'il va me falloir parler dans un langage que ce niais puisse comprendre si je veux voir accompli quoi que ce soit !) Tiax, si tu vas me chercher mon petit déjeuner, j'utiliserai le parchemin de Conquête du Monde que j'ai gardé de côté depuis que j'ai quitté Thay, et tu pourras diriger le monde aussitôt que j'aurai fini de manger.~
 @10 = ~Euuuh... Un parchemin de Conquête du Monde ?~
 @11 = ~Oui, je l'ai trouvé sur un kobold que j'ai tué durant mon voyage depuis Thay. C'est un sortilège magique. On le lance, et aussitôt on règne sur le monde. (J'aimerais qu'il soit déjà en train d'aller me chercher à manger !)~
@@ -222,7 +222,7 @@
 
 @111 = ~Débarrasse-moi de ça ! Garde pour toi ton rongeur puant. C'est le troisième trou qu'il a mordillé dans ma robe depuis ce matin, et la couture, ce n'est pas pour les mages ! (A moins qu'il ne s'agisse de coudre des hamsters aux rôdeurs qui les portent et de les envoyer dans les flammes !)~
 @112 = ~Bouh n'a pas de bottes pour botter les fesses du Mal. Alors il lui faut les mordre. N'est-ce pas, Bouh ?~
-@113 = ~Je me demande... Peut-être pourrait-on malgré tout trouver un usage pratique à ce hamster. Il est trop petit pour devenir un gant, et un peu grand pour un sac de composants. De plus, sa couleur n'est pas stylée du tout. Ah, je vois. Ce sera un coussinet à épingles. Sans aucun doute. Comme j'ai besoin d'épingles, je ferais aussi bien d'avoir un endroit où les conserver. ~
+@113 = ~Je me demande... Peut-être pourrait-on malgré tout trouver un usage pratique à ce hamster. Il est trop petit pour devenir un gant, et un peu grand pour un sac de composants. De plus, sa couleur n'est pas stylée du tout. Ah, je vois. Ce sera un coussinet à épingles. Sans aucun doute. Comme j'ai besoin d'épingles, je ferais aussi bien d'avoir un endroit où les conserver.~
 @114 = ~ARRRGGGH ! Le mage maléfique a révélé ses plans diaboliques ! Il veut tuer Dynaheir, et il veut planter des épingles dans Bouh ! Tu mets Minsc très en colère !~
 @115 = ~Écoute donc, rôdeur ! Je ne vais pas te brouter en te parlant en mots plurisyllabiques (ou te parler du tout, du reste.) Si le rongeur mord ma robe encore, le rongeur meurt. Est-ce assez clair ?~
 @116 = ~Brouter ? N'essaie pas de troubler Minsc. Bouh est un hamster, pas une CHEVRE ! Si le mage fait du mal à Bouh, le mage mourra. Minsc a parlé.~

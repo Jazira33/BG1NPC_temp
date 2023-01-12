@@ -3,7 +3,7 @@
 
 Ce bouclier en particulier porte les armoiries de la noble famille Ilvastarr d'Eauprofonde : un dragon vert métallique aux yeux oranges sur un champ doré.
 
-PARAMETRES :
+PARAMÈTRES :
 
 Bonus à la classe d'armure : 1
 Spécial : +2 contre les armes à projectiles
@@ -12,7 +12,7 @@ Poids : 7~
 // Translation Retriever: Likely string found in file dialog ToB En.tra at Id 6727, likeliness 93.4 %
 @76    = ~La lance, l'une des premières armes de l'homme, remonte aux temps les plus reculés et était initialement constituée d'un pic ou d'un bâton de bois taillé en pointe à une extrémité. Avec la découverte et la maîtrise des métaux, les hommes ont commencé à remplacer les pointes en bois par des pointes en fer et en acier. Les armuriers ont alors pu essayer différents types de pointes, ce qui a permis l'élaboration de certains types d'armes d'hast.
 
-PARAMETRES :
+PARAMÈTRES :
 
 Dégâts : 1D6
 Type de dégâts : perforant
@@ -23,7 +23,7 @@ Type : arme à 2 mains
 Poids : 5~
 @77    = ~Il s'agit d'une lance courte d'apparence normale dotée d'une pointe en forme de feuille. Elle fut équilibrée pour une main fine d'elfe. Le mage Thalantyr a enchanté l'arme pour Kivan de Shilmista.
 
-PARAMETRES :
+PARAMÈTRES :
 
 Capacités de combat :
   - 10 % de chance à chaque coup que l'adversaire soit enchevêtré pendant 2 rounds (annulé par une sauvegarde contre les souffles)
@@ -40,7 +40,7 @@ Poids : 3~
 // Translation Retriever: Likely string found in file dialog ToB En.tra at Id 6820, likeliness 100.0 %
 @79    = ~Le pavois est un bouclier massif en métal ou en bois couvrant le guerrier pratiquement du menton jusqu'aux doigts de pied. Il doit être bien attaché sur l'avant-bras et maintenu solidement. Naturellement, la main prise ne peut servir qu'à maintenir le pavois en place.
 
-PARAMETRES :
+PARAMÈTRES :
 
 Bonus à la classe d'armure : 1
 Spécial : +1 contre les armes à projectiles
@@ -49,7 +49,7 @@ Force nécessaire : 15
 Poids : 15~
 @80    = ~Le pavois est sculpté à partir d'un chêne blanc rare, qui possède toute la solidité mais pas le poids du chêne ordinaire. La résistance noble du bois semble rejaillir sur le porteur du bouclier. Il fut créé par les druides et les fixations qui maintiennent ce pavois sur l'avant-bras du héros se délieront magiquement s'il est employé par un bras qui ne s'évertue pas à maintenir l'équilibre.
 
-PARAMETRES :
+PARAMÈTRES :
 
 Bonus à la classe d'armure : 1
 Spécial :
@@ -61,7 +61,7 @@ Poids : 5~
 
 Jusqu'à ce que le groupe de <CHARNAME> leur apporte le repos, plus précisément. Les aventuriers tendent à n'avoir aucun respect pour les personnages remarquables du passé. Quand même, l'armure vous appartient : légère, brillante et stylée. Qu'est-ce qu'un barde en herbe pourrait demander de plus ?
 
-PARAMETRES :
+PARAMÈTRES :
 
 Classe d'armure : 4
 Spécial : permet de lancer des sorts
@@ -74,7 +74,7 @@ Jusqu'à ce que le groupe de <CHARNAME> leur apporte le repos, plus précisémen
 
 Cette armure a été encore améliorée par Toubazar Drin du magasin Objets magiques à la Porte de Baldur. La combinaison avec une culotte dorée lui a apporté une dose de protection supplémentaire, tout en laissant la tenue aussi branchée que jamais.
 
-PARAMETRES :
+PARAMÈTRES :
 
 Classe d'armure : 3
 Spécial : permet de lancer des sorts
@@ -84,12 +84,12 @@ Poids : 15~
 
 @224   = ~C'est un collier d'apparence plutôt kitsh décoré avec quelques grosses gemmes. Une petite inscription en elfique sur la fermeture du collier indique que l'objet est l'oeuvre de Nadyala la Verte dans le cadre de sa thèse pour obtenir le rang d'Enchanteur à l'École de Magie d'Ulcaster. Le collier irradie une forte énergie magique mais, comme tout projet de fin d'étude, semble ne pas être entièrement achevé. Vous soupçonnez fortement que Nadyala a dû le porter lors de ses examens de fin d'étude.
 
-PARAMETRES :
+PARAMÈTRES :
 
 Capacité spéciale : accorde 1 sort supplémentaire par niveau pour les niveaux 1 à 3.~
 @227   = ~Ce petit anneau d'orteil en or rouge était porté par une succube et demeure encore chaud au toucher. Le porteur de cet anneau entend en permanence les sons des Plans des Abysses : une cacophonie de gémissements des suppliciés et d'imprécations des seigneurs démons... De toute évidence, la personne qui porte l'anneau doit être résistante ou trouver du plaisir à de telles choses.
 
-PARAMETRES :
+PARAMÈTRES :
 
 Capacités spéciales :
   Charme néfaste une fois par jour
@@ -97,7 +97,7 @@ Capacités spéciales :
 
 @250   = ~Cet arc long fut offert à Kivan par sa femme Déhériana comme présent de mariage.
 
-PARAMETRES :
+PARAMÈTRES :
 
 Capacité d'équipement :
   bonus de 1 à la Classe d'Armure
@@ -112,7 +112,7 @@ Poids : 2~
 
 @315   = ~Enchanté avec le sang de la Dryade assassinée, cet anneau protège le porteur des sorts et des effets de Charme-personne. Il permet également à son porteur de lancer Charme-personne une fois par jour. Cependant, le sang de la créature assassinée, peut-être agité par son âme ensorcelée, se tord dans d'atroces souffrances sous la surface du métal, rendant l'anneau si répugnant que les individus Bons ne peuvent supporter de le mettre.
 
-PARAMETRES :
+PARAMÈTRES :
 
 Spécial :
   Immunité à Charme-personne
@@ -120,7 +120,7 @@ Spécial :
 
 @361   = ~La plupart des gourdins sont de gros bâtons résistants, étroits à une extrémité et plus larges à l'autre. Cette arme simple est utilisée depuis que l'homme a découvert les outils. N'importe qui peut trouver un gros morceau de bois et le brandir, d'où l'utilisation très répandue du gourdin.
 
-PARAMETRES :
+PARAMÈTRES :
 
 Dégâts : 1D6
 Type de dégâts : contondant
@@ -132,7 +132,7 @@ Force requise : 5
 Poids : 3~
 @362   = ~Ce gourdin enchanté fut récupéré sur le cadavre d'un Druide de l'Ombre et donné à <CHARNAME> par Séniyad, l'Archidruide de Bois-Manteau. Bien que les origines de cette arme, d'aspect trompeusement simple mais étonnamment meurtrière, soient inconnues, son nom et le rapport avec l'élément de la foudre orientent nettement vers le clergé de Talos. Malgré les forces potentiellement mauvaises utilisées pour sa création, les sorts d'identification ne révèlent pas la présence d'énergies malveillantes dans cette arme. Elle ne présente aucun danger d'utilisation pour quiconque suit la vocation du druide.
 
-PARAMETRES :
+PARAMÈTRES :
 
 TAC0 : +2
 Dégâts : 1D6 +2
@@ -147,7 +147,7 @@ Poids : 3~
 
 @379   = ~La pointe de cette lance porte des runes ornées représentant les forces ardentes de la nature. La légende dit que la lance fut créée par un puissant archidruide de Norlandie dans les Sélénae pour venir en aide à la terre ainsi qu'au porteur en périodes d'hiver et de froid glacial. Elle s'avéra aussi une arme puissante face aux géants du givre des montagnes Jotunhammer.
 
-PARAMETRES :
+PARAMÈTRES :
 
 Spécial : +20 % de résistance au feu
 Peut lancer Bouclier de Feu (Rouge) une fois par jour
@@ -167,6 +167,6 @@ Poids : 4~
 
 Les travaux de Winski Perorate dans les régions inférieures du monde souterrain le placèrent souvent à proximité immédiate d'êtres qui auraient bien aimé dépecer Winski. Pour rendre cette possibilité moins probable, Winski chargea un nabassu de fabriquer une amulette qui tiendrait à l'écart les créatures maléfiques suffisamment longtemps pour en prendre le contrôle. Malheureusement Winski souffrit d'un trou de mémoire momentané à cause d'une grave blessure et oublia d'activer son amulette. Ceci permit au Tanar'ri qu'il convoquait de s'approcher de son invocateur, avec les conséquences prévisibles.
 
-PARAMETRES :
+PARAMÈTRES :
 
 Capacité d'équipement : Protection contre le Mal sur 3 Mètres, une fois par jour~

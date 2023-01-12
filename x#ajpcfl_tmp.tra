@@ -78,7 +78,7 @@
 @43 = ~[AJANTIS 9] Je commence à perdre patience !
 ~ [%tutu_var%AJANT09]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3511, likeliness 99.9
-@44 = ~[AJANTIS 10] Nous avons le devoir de combattre le mal. Ne perdons pas de temps en futilités ! ~ [%tutu_var%AJANT10]
+@44 = ~[AJANTIS 10] Nous avons le devoir de combattre le mal. Ne perdons pas de temps en futilités !~ [%tutu_var%AJANT10]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3504
 @45 = ~[AJANTIS 3] Pour la gloire de Heaum !
 ~ [%tutu_var%AJANT03]
@@ -101,17 +101,17 @@
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3516
 @54 = ~[AJANTIS 17] Je vis pour l'honneur.~ [%tutu_var%AJANT17]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3517
-@55 = ~[AJANTIS 18] Heaume, donnez-moi la force de poursuivre.~ [%tutu_var%AJANT18]
+@55 = ~[AJANTIS 18] Heaum, donnez-moi la force de poursuivre.~ [%tutu_var%AJANT18]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3518
-@56 = ~[AJANTIS 19] Par Heaume !~ [%tutu_var%AJANT19]
+@56 = ~[AJANTIS 19] Par Heaum !~ [%tutu_var%AJANT19]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3519
 @57 = ~[AJANTIS 20] Comme vous voudrez.~ [%tutu_var%AJANT20]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3521
-@58 = ~[AJANTIS 21] Avec la bénédiction de Heaume.~ [%tutu_var%AJANT21]
+@58 = ~[AJANTIS 21] Avec la bénédiction de Heaum.~ [%tutu_var%AJANT21]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3522
 @59 = ~[AJANTIS 22] Oui.~ [%tutu_var%AJANT22]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3528, likeliness 99.7
-@60 = ~[AJANTIS 27] Vos actions sont une offense aux préceptes de Heaume. ~ [%tutu_var%AJANT27]
+@60 = ~[AJANTIS 27] Vos actions sont une offense aux préceptes de Heaum.~ [%tutu_var%AJANT27]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3529
 @61 = ~[AJANTIS 28] On appartient soit aux forces du bien soit à celles du mal, et je vous soupçonne d'appartenir à celles du mal.
 ~ [%tutu_var%AJANT28]
@@ -129,13 +129,13 @@
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3536
 @67 = ~[AJANTIS 35] Vous êtes d'une grande beauté, ma demoiselle.~ [%tutu_var%AJANT35]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3539, likeliness 99.9
-@68 = ~[AJANTIS 40] Réjouissons-nous que notre compagnon soit tombé pour une cause juste. ~ [%tutu_var%AJANT40]
+@68 = ~[AJANTIS 40] Réjouissons-nous que notre compagnon soit tombé pour une cause juste.~ [%tutu_var%AJANT40]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3540
 @69 = ~[AJANTIS 41] Il est bien malheureux que notre compagnon soit mort avant d'avoir eu le temps de se racheter.~ [%tutu_var%AJANT41]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3535
 @70 = ~[AJANTIS 34] Merci du compliment~ [%tutu_var%AJANT34]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3533, likeliness 99.9
-@71 = ~[AJANTIS 32] Peut-être ne suis-je encore qu'un écuyer, mais jamais vous n'égalerez mon intégrité. ~ [%tutu_var%AJANT32]
+@71 = ~[AJANTIS 32] Peut-être ne suis-je encore qu'un écuyer, mais jamais vous n'égalerez mon intégrité.~ [%tutu_var%AJANT32]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3534
 @72 = ~[AJANTIS 33] Attention à ce que vous dites devant la gent féminine !~ [%tutu_var%AJANT33]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 10197, likeliness 91.0

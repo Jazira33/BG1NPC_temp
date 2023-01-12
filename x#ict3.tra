@@ -1717,7 +1717,7 @@ L'aventurier se réjouit.~
 @612  = ~Imbécile ! Vous êtes encore plus fou que Carsa ! La mort vous ira bien ! KAHRK !~
 // Carsa, suite à Imoen (@609)
 // BG1 NPC : texte identique dans le fichier x#xzint.tra au numéro 140
-@613  = ~OH PUISSANT KAHRK !!!~
+@613  = ~OH PUISSANT KAHRK !~
 /* Centeol */
 // Xan
 // BG1 NPC : texte identique dans le fichier x#xaint.tra au numéro 18
@@ -2060,7 +2060,7 @@ L'aventurier se réjouit.~
 @733  = ~Il serait bon d'être très prudent lorsqu'on traite avec les servantes de la Reine Garce, <CHARNAME>.~
 // Viconia
 // BG1 NPC : texte identique dans le fichier x#viint.tra au numéro 73
-@734  = ~Fais attention, car Umberlie est une divinité capricieuse et mauvaise - assez semblable à Lloth. Je n'en attendrais pas moins de ses suivants.~
+@734  = ~Fais attention, car Umberlie est une divinité capricieuse et mauvaise - assez semblable à Lolth. Je n'en attendrais pas moins de ses suivants.~
 /* Jenkal, menaçant de tuer tout intrus qui pénètre chez lui */
 // Minsc
 // BG1 NPC : texte identique dans le fichier x#miint.tra au numéro 132
@@ -2263,7 +2263,7 @@ L'aventurier se réjouit.~
 /* Noober, après 10 discussions mais moins de 31 */
 // Imoen
 // BG1 NPC : texte identique dans le fichier x#imint.tra au numéro 162
-@808  = ~Ça suffit comme ça !!! Pousse-toi ! Laisse-moi m'en occuper ! Il me rend dingue !!!~
+@808  = ~Ça suffit comme ça ! Pousse-toi ! Laisse-moi m'en occuper ! Il me rend dingue !~
 // Minsc - Imoen - Noober
 // BG1 NPC : texte identique dans le fichier x#miint.tra au numéro 119
 @809  = ~ASSEZ ! ASSEZ ! TU RENDS MINSC FOU ! TU N'AIMERAS PAS MINSC QUAND IL SERA FOU !~

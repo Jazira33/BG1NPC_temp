@@ -114,7 +114,7 @@
 @52 = ~Ce dont nous avons en abondance, c'est la fierté. Je ne tomberai jamais assez bas pour admettre qu'un surfacin me soit supérieur.~
 @53 = ~Si tu te retrouves un jour en Outreterre, tu comprendras, abbil.~
 @54 = ~Je suis drow. Inutile d'en dire plus.~
-@55 = ~Une femme drow n'acceptera jamais les ordres d'un mâle, bien qu'il y ait quelques rares exceptions. Lloth elle-même favorise les femmes, et seules les femmes sont admises dans son clergé.~
+@55 = ~Une femme drow n'acceptera jamais les ordres d'un mâle, bien qu'il y ait quelques rares exceptions. Lolth elle-même favorise les femmes, et seules les femmes sont admises dans son clergé.~
 @56 = ~Tu ne le sauras jamais avant d'avoir senti le fouet à tentacules sur ton dos.~
 @57 = ~Tu devrais nous craindre, surfacin. Tu me connais, et tu connais Drizzt, mais nous pouvons être bien pires que cela.~
 @58 = ~Toutes les autres espèces doivent mourir ou servir les Drows, et mon peuple vit ou meurt pour ces mots. Tu auras été prévenu : si tu rencontres ma race, n'espère aucune compassion.~ ~Toutes les autres espèces doivent mourir ou servir les Drows, et mon peuple vit ou meurt pour ces mots. Tu auras été prévenue : si tu rencontres ma race, n'espère aucune compassion.~
@@ -122,7 +122,7 @@
 @60 = ~Shar guide mes pas, et les ténèbres me maintiennent en vie.~
 @61 = ~Demeurer ici est supportable, si tu continues de me laisser à l'écart de ce maudit soleil. Seuls les fous peuvent marcher sous son furieux regard.~
 @62 = ~Comment quelqu'un d'aussi naïf que toi peut survivre ici, je n'en ai aucune idée.~
-@63 = ~Que veux-tu savoir ? Les arts érotiques que j'ai employés pour demeurer en vie ? Les enfants qui m'ont jeté des pierres ? Le soleil, qui a brûlé ma peau ? Ma Maison et Lloth, qui m'ont abandonnée ?~
+@63 = ~Que veux-tu savoir ? Les arts érotiques que j'ai employés pour demeurer en vie ? Les enfants qui m'ont jeté des pierres ? Le soleil, qui a brûlé ma peau ? Ma Maison et Lolth, qui m'ont abandonnée ?~
 @64 = ~Je ne te dirai rien, iblith. Tu ne mérites pas de savoir.~
 @65 = ~Je tire ma force de la puissance divine de Shar. Elle est ma seule alliée... à part toi, bien sûr.~
 @66 = ~C'est une existence misérable, abbil. Si tu devais voyager en Outreterre, ce serait la même chose pour toi.~
@@ -143,11 +143,11 @@
 @81 = ~Vraiment ? S'il en est ainsi, alors j'en suis heureuse, mais je n'apprécie pas l'éclat huileux de tes yeux. Détourne le regard, iblith, je me sens sale.~
 @82 = ~Continue de parler, iblith, et c'est mon fléau qui répondra.~
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 6425, likeliness 98.6
-@83 = ~Je viens de la cité de Menzoberranzan. Ma famille a été massacrée et j'ai été obligée de fuir vers la surface. En atteignant les royaumes de la lumière, cette traîtresse de Lloth m'a abandonnée. Sans la divine Shar, j'étais perdue ! Elle m'a prise avec elle et m'a donné la volonté et la force de survivre. Cela me rend tellement heureuse de rencontrer des amis comme vous pour m'habituer un peu plus facilement à la surface.~
+@83 = ~Je viens de la cité de Menzoberranzan. Ma famille a été massacrée et j'ai été obligée de fuir vers la surface. En atteignant les royaumes de la lumière, cette traîtresse de Lolth m'a abandonnée. Sans la divine Shar, j'étais perdue ! Elle m'a prise avec elle et m'a donné la volonté et la force de survivre. Cela me rend tellement heureuse de rencontrer des amis comme vous pour m'habituer un peu plus facilement à la surface.~
 @84 = ~Reste loin de moi, surfacin. Ta puanteur est insupportable !~
 @85 = ~Les surfacins sont des imbéciles. Jacasser comme ça alors qu'il y a des ennemis tout autour !~
 @86 = ~Je suis Viconia DeVir, de la Maison DeVir, la Quatrième Maison de Menzoberranzan.~
-@87 = ~Marcher sous la cruauté du soleil, dormir sous l'éclat misérable des étoiles, respirer la poussière des routes, se mêler aux surfacins... Que Lloth soit maudite pour sa trahison ! Je mérite mieux que ça.~
+@87 = ~Marcher sous la cruauté du soleil, dormir sous l'éclat misérable des étoiles, respirer la poussière des routes, se mêler aux surfacins... Que Lolth soit maudite pour sa trahison ! Je mérite mieux que ça.~
 //
 // Skie
 //
@@ -202,7 +202,7 @@
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3903
 @117 = ~[SKIE 18] Je me suis cassée un ongle.~ [%tutu_var%SKIEE18]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3904, likeliness 99.7
-@118 = ~[SKIE 19] Je me suis décoiffée. ~ [%tutu_var%SKIEE19]
+@118 = ~[SKIE 19] Je me suis décoiffée.~ [%tutu_var%SKIEE19]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3905
 @119 = ~[SKIE 20] J'ai mal aux pieds.~ [%tutu_var%SKIEE20]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3906
@@ -285,7 +285,7 @@
 @166 = ~*Prendre son visage entre vos mains et y déposer de force un gros poutou sur ses lèvres.~
 @167 = ~Dis-moi, Shar-Teel, est-ce que je t'ai fait changer d'avis sur les hommes ?~
 @168 = ~Tu grognes toujours contre les hommes, Shar-Teel. Y a-t'il au moins une chose chez eux qui trouve grâce à tes yeux ?~
-@169 = ~Les hommes sont pitoyables !!!~
+@169 = ~Les hommes sont pitoyables !~
 @170 = ~J'en ai plus qu'assez de tes explosions de rage injustifiées contre les hommes et leur prétendue infériorité !~
 @171 = ~Shar-Teel, as-tu une opinion à exprimer sur notre situation actuelle... hormis, bien sûr, de découper en petits morceaux tous ceux qui osent s'opposer à nous ?~
 @172 = ~Alors, Shar-Teel... Bon sang, tu fais la grimace alors que tu ne sais même pas ce que je vais dire ! Tu ne peux pas avoir bonne mine, pour une fois ?~
@@ -323,7 +323,7 @@
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3581
 @199 = ~[SHAR-TEEL 6] Je ne peux plus supporter cette bêtise masculine.~ [%tutu_var%SHART06]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3582, likeliness 99.5
-@200 = ~[SHAR-TEEL 7] Oubliez notre accord, je m'en vais. ~ [%tutu_var%SHART07]
+@200 = ~[SHAR-TEEL 7] Oubliez notre accord, je m'en vais.~ [%tutu_var%SHART07]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3583
 @201 = ~[SHAR-TEEL 8] Je mènerai ce groupe mieux que n'importe quel homme.~ [%tutu_var%SHART08]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3584
@@ -365,7 +365,7 @@
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3600, likeliness 99.8
 @220 = ~[SHAR-TEEL 28] Votre insolence vous tuera, Eldoth.~ [%tutu_var%SHART28]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3601, likeliness 99.9
-@221 = ~[SHAR-TEEL 29] Eldoth, vous êtes un rustre dégénéré et impuissant, qui se laisse bercer par l'illusion d'une soi-disant supériorité masculine. ~ [%tutu_var%SHART29]
+@221 = ~[SHAR-TEEL 29] Eldoth, vous êtes un rustre dégénéré et impuissant, qui se laisse bercer par l'illusion d'une soi-disant supériorité masculine.~ [%tutu_var%SHART29]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3602
 @222 = ~[SHAR-TEEL 30] Attention à ce que vous dites, Eldoth, ou je m'occupe d'abréger vos jours !~ [%tutu_var%SHART30]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3603, likeliness 99.9
@@ -763,7 +763,7 @@ Avance et bats-toi sur l'heure !~
 @602 = ~Quoi ? Qu'est-ce que tu veux savoir ? Je suis l'élève d'Ysena. Et si tu ne sais pas qui est Ysena, alors tu es une idiote, et clairement, je ne peux rien pour toi. Elle a été le plus grand mercenaire qui ait jamais vécu. Je l'ai rencontrée en la bousculant un jour où j'étais allée acheter de la nourriture pour mes frères tellement puissants. *rit* Après un mois passé avec elle, je pouvais les battre tous les deux... avec mon père... je pense que je pourrais bien le vaincre, maintenant. Dire qu'il me disait que les filles étaient faites pour servir la soupe, et pas pour tenir une épée ! AH ! Qu'il aille se faire foutre ! Je ne serai pas une pute, comme ma mère ! Je veux me battre. Hors de mon chemin, maintenant !~
 @603 = ~J'adore les effusions de sang, et si tu n'étais pas en train de me tenir le crachoir, je pourrais en savourer une en ce moment-même !~
 @604 = ~Pourquoi tu m'ennuies, à me parler ? Est-ce que je ressemble à une oie qui caquette, peut-être ? Retournons à nos pérégrinations, et peut-être que nous aurons droit à un combat. J'ai soif de mort.~
-@605 = ~Dégage ! A moins que tu ne veuilles que je mette tes intestins en pelote, et que j'en tricote un pull, comme devrait le faire une jeune dame de bonne famille ? ~
+@605 = ~Dégage ! A moins que tu ne veuilles que je mette tes intestins en pelote, et que j'en tricote un pull, comme devrait le faire une jeune dame de bonne famille ?~
 @606 = ~Tu m'ennuies avec tes questions. Tu me montres, tu dégages le terrain et tu te la fermes... moi, je me charge du reste. Il faut bien le courage d'une femme pour combattre en première ligne.~
 @607 = ~*Shar-Teel se joint à vous, poussant sa voix en une mauvaise imitation de chanson sensuelle.*~
 @608 = ~*Votre duo horrifiant se poursuit jusqu'à ce que les loups se joignent à vous.*~
@@ -899,7 +899,7 @@ Avance et bats-toi sur l'heure !~
 @696 = ~Pour une fille, tu n'es pas si désespérément nulle que cela, <CHARNAME>.~
 @697 = ~Si je dois être privée d'une compagnie exclusivement masculine, je ne vois personne d'autre avec qui je souhaiterais voyager...~
 @698 = ~Je me sens tellement sensuelle.~ [%tutu_var%SAFAN19]
-@699 = ~Eh bien chéri, t'ai-je raconté la fois où nous avons abordé un bateau de plaisance qui avait appartenu à une famille du Téthyr ? Le jeune prince, dont je ne peux divulguer le nom - il est présumé mort par ses ennemis, tu comprends ? - était toujours à bord. Déguisé, bien sûr. Mais il s'est ouvert à moi, sans doute en raison de mon attitude exquise... ~
+@699 = ~Eh bien chéri, t'ai-je raconté la fois où nous avons abordé un bateau de plaisance qui avait appartenu à une famille du Téthyr ? Le jeune prince, dont je ne peux divulguer le nom - il est présumé mort par ses ennemis, tu comprends ? - était toujours à bord. Déguisé, bien sûr. Mais il s'est ouvert à moi, sans doute en raison de mon attitude exquise...~
 @700 = ~Je suppliai le capitaine de laisser la vie sauve au jeune homme et l'aidai à s'échapper à la faveur de l'obscurité. Avant de disparaître pour toujours dans la brume, il me donna un baiser si brûlant que mes lèvres s'en souviennent encore. Ces hommes du Téthyr ont le sang chaud. J'espère que ces horribles rebelles ne l'ont pas attrapé et pendu. C'eût été une honte de tuer quelqu'un de si beau.~
 @701 = ~l'Exzesus essuya un revers une fois... Je ne me rappelle plus exactement comment... la coque endommagée par un feu magique, peut-être... Il n'en reste pas moins que nous dûmes nous engager dans l'estuaire d'une rivière inconnue de l'Amn pour effectuer des réparations. Cependant la flotte amnienne nous avait repérés et arrivait pour nous capturer. Alors que tout le monde était pris de panique, je revêtis ma plus belle robe et allai trouver le lieutenant qui menait la flotte à nos trousses. Ah, comme il était beau ! Des épaules larges, une moustache blonde et d'ardents yeux noirs, typiquement amniens ! Pendant que mon équipage suait sang et eau à réparer, je convainquis le lieutenant que ses troupes seraient bien plus utiles à protéger la caravane d'un pacha et de son ingénue de fille plutôt qu'à rechercher un bateau pirate. Je ne me suis jamais autant amusée de ma vie ! C'est très drôle, les hommes sont prêts à tout pour avoir la chance de déflorer la fille d'un pacha... Après coup il fut stupéfait qu'une vierge puisse avoir une telle connaissance des choses de l'amour... Bien sûr, le fait de ne pas trouver la caravane à l'endroit indiqué après trois jours de voyage dans les terres a peut-être fâché ce pauvre homme.~
 //
@@ -1101,7 +1101,7 @@ Avance et bats-toi sur l'heure !~
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 5328, likeliness 99.2
 @819 = ~[BRANWEN 39] ~ [%tutu_var%BRANW39]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3866, likeliness 99.7
-@820 = ~[BRANWEN 11] Ce n'est qu'une blessure superficielle. ~ [%tutu_var%BRANW11]
+@820 = ~[BRANWEN 11] Ce n'est qu'une blessure superficielle.~ [%tutu_var%BRANW11]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3867
 @821 = ~[BRANWEN 17] Au nom du bouclier de Tempus.~ [%tutu_var%BRANW17]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3868
@@ -1221,7 +1221,7 @@ Avance et bats-toi sur l'heure !~
 @916 = ~Branwen chérie, arrête de me faire du charme !~
 @917 = ~Ce n'est rien, Branwen.~
 @918 = ~Branwen, je crois que nous avons fait une grave erreur. Nous devrions rester camarades d'armes.~
-@919 = ~Tu... tu parles sérieusement ? *soupire* Oui <CHARNAME>. Bien sûr. ~
+@919 = ~Tu... tu parles sérieusement ? *soupire* Oui <CHARNAME>. Bien sûr.~
 @920 = ~Non, <CHARNAME>.~
 @921 = ~*Branwen vous fait un grand sourire.* Rejoins-moi sur le mien !~
 @922 = ~C'est loin d'être la proposition la plus séduisante qu'on m'ait jamais faite, <CHARNAME>. Tu as peut-être besoin d'améliorer ton éloquence et ton aisance verbale, hein ?~
@@ -1245,7 +1245,7 @@ Avance et bats-toi sur l'heure !~
 @940 = ~Juste ce dont j'avais besoin : un bain froid ! Merci de m'avoir presque noyé, Branwen.~
 @941 = ~Ma douce Branwen, tu m'as sauvé la vie...~
 @942 = ~Je dois admettre que c'était une juste revanche.~
-@943 = ~Bah ! Un prêté pour un rendu, <CHARNAME>. *murmure* Il est vraiment incapable d'apprécier l'humour subtil... ~
+@943 = ~Bah ! Un prêté pour un rendu, <CHARNAME>. *murmure* Il est vraiment incapable d'apprécier l'humour subtil...~
 @944 = ~*Branwen vous embrasse, vous plongeant momentanément sous l'eau à nouveau. Son corps rend l'eau plus douce et plus agréable et sa bouche sur la vôtre vous procure des sensations particulièrement plaisantes, alors que ses mains explorent votre corps. Tout cela prend fin trop rapidement cependant ; elle vous accorde un dernier baiser et vous donne un coup de main pour remonter.*~
 @945 = ~*Elle fait des yeux ronds.* <CHARNAME>, tu es un véritable gamin. Mais après tout, ce n'est pas si impertinent que ça...~
 @946 = ~*Branwen s'écarte prestement, et agite moqueusement un doigt à votre attention.*~
@@ -1661,9 +1661,9 @@ Avance et bats-toi sur l'heure !~
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3953
 @1266 = ~[Dynahéir 30] Toute protection serait un acte de politesse et non un dû. Mon pouvoir est équivalent au vôtre !~ [%tutu_var%DYNAH30]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3954, likeliness 99.8
-@1267 = ~[Dynahéir 31] Vous ne remettrez plus en question ma volonté lorsque j'offrirai votre tête à Orthlor ! ~ [%tutu_var%DYNAH31]
+@1267 = ~[Dynahéir 31] Vous ne remettrez plus en question ma volonté lorsque j'offrirai votre tête à Orthlor !~ [%tutu_var%DYNAH31]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3958, likeliness 99.9
-@1268 = ~[Dynahéir 35] Je vous saurais gré de bien vouloir rester à l'abri du vent. Il est difficile de jeter des sorts lorsqu'on a mal au coeur. ~ [%tutu_var%DYNAH35]
+@1268 = ~[Dynahéir 35] Je vous saurais gré de bien vouloir rester à l'abri du vent. Il est difficile de jeter des sorts lorsqu'on a mal au coeur.~ [%tutu_var%DYNAH35]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3959
 @1269 = ~[Dynahéir 36] Je vais garder un oeil sur Edwin. Les gens comme lui sont des traîtres.~ [%tutu_var%DYNAH36]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3961
@@ -1677,7 +1677,7 @@ Avance et bats-toi sur l'heure !~
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3955
 @1274 = ~[Dynahéir 32] J'ose espérer que vous n'avez pas embrassé votre mère avec des lèvres pareilles.~ [%tutu_var%DYNAH32]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 10192, likeliness 98.2
-@1275 = ~Interrogée sur son passé, Dynahéir ne dit pas grand-chose. Elle vient de Rasheménie, loin à l'est, voyage escortée de son garde du corps, Minsc, qui effectue son « pèlerinage », un rite de passage, et elle a, semble-t-il, un devoir similaire à accomplir : selon elle, il doit se produire des événements importants sur la Côte des Epées. Cette jeune femme très sûre d'elle semble attachée aux traditions, et exige beaucoup de ses compagnons. Il peut lui arriver d'exprimer des doutes quant à la santé mentale de son garde du corps, mais elle le respecte et ne le quitte guère. ~ [X#BLANK]
+@1275 = ~Interrogée sur son passé, Dynahéir ne dit pas grand-chose. Elle vient de Rasheménie, loin à l'est, voyage escortée de son garde du corps, Minsc, qui effectue son « pèlerinage », un rite de passage, et elle a, semble-t-il, un devoir similaire à accomplir : selon elle, il doit se produire des événements importants sur la Côte des Epées. Cette jeune femme très sûre d'elle semble attachée aux traditions, et exige beaucoup de ses compagnons. Il peut lui arriver d'exprimer des doutes quant à la santé mentale de son garde du corps, mais elle le respecte et ne le quitte guère.~ [X#BLANK]
 
 //réponse à @1236
 @1276 = ~Ton affection ne m'est guère indispensable pour vivre, et je ne mesure pas ma valeur à l'aune de l'attention que Tu me portes. Souviens-T'en, héros.~
@@ -1913,7 +1913,7 @@ Avance et bats-toi sur l'heure !~
 @1479 = ~*Dynahéir s'approche de vous, et vous donne un baiser de ses lèvres fraîches.*~
 
 //réponses à @1361
-@1480 = ~*Dynahéir fronce un sourcil.* La manière dont Tu déclames ce poème... ~
+@1480 = ~*Dynahéir fronce un sourcil.* La manière dont Tu déclames ce poème...~
 @1481 = ~Je sais, ça fait bizarre... Je ne me doutais pas non plus qu'il y avait un double-sens. C'est peut-être parce que je ne l'ai jamais récité à une femme que je désirais moi-même.~
 @1482 = ~C'est vous qui le dites, pas moi.~
 @1483 = ~*D'un ton sûr et résolu.* C'est ainsi qu'on l'a toujours récité.~
@@ -1958,7 +1958,7 @@ Avance et bats-toi sur l'heure !~
 @1516 = ~*Elle met délicatement la fleur dans son journal. Vous vous dites qu'il ne fait aucun doute qu'elle la gardera en compagnie de ses parchemins.*~
 @1517 = ~*Murmurant quelque chose sur la niaiserie et l'espace, Dynahéir sort de ses sacoches un peu d'une mystérieuse herbe, sans doute un composant matériel pour ses sorts, et met la fleur à l'intérieur.*~
 @1518 = ~*Dynahéir niche la fleur entre ses seins, épinglée au corsage de sa robe, et ce jusqu'à la fin de la journée.*~
-@1519 = ~*Dynahéir vous retourne fermement la fleur.* En Rashéménie, la coutume veut que ce soient les femmes qui offrent des fleurs aux héros intrépides, <CHARNAME>. ~
+@1519 = ~*Dynahéir vous retourne fermement la fleur.* En Rashéménie, la coutume veut que ce soient les femmes qui offrent des fleurs aux héros intrépides, <CHARNAME>.~
 
 //réponse à @1344
 @1520 = ~*Perchée sur un seul pied, Dynahéir commence à retirer sa botte.*~
@@ -1985,10 +1985,10 @@ Avance et bats-toi sur l'heure !~
 @1541 = ~Je vois que Tu sembles t'interroger sur mon anneau. C'est une antiquité provenant de Maztica dont j'ai fait l'acquisition durant mes voyages. Ce symbole représente l'infini, ainsi que l'interconnexion de toute chose. C'est censé être un serpent à plumes, qui unit le ciel et le monde souterrain.~
 @1542 = ~*Dynahéir remet son pied gracile dans sa botte. Vous classifiez cet anneau d'orteil comme un mystère de plus se rapportant à elle.*~
 @1543 = ~Ce n'est guère plus qu'une pierre. *Dynahéir continue de secouer sa botte, irritée, jusqu'à ce que celle-ci s'envole et retombe au sol à quelques mètres d'elle. Exaspérée, elle soupire et s'agrippe à son arbre.* Pourrais-Tu...~
-@1544 = ~Pourrais-je... quoi, Dynahéir ? ~
+@1544 = ~Pourrais-je... quoi, Dynahéir ?~
 @1545 = ~Bien entendu ! Excusez-moi d'être resté ici à bailler aux corneilles. *Vous allez chercher la botte et la rapportez à Dynahéir.*~
 @1546 = ~Je crois que je vais plutôt vous laisser apprendre votre leçon ; ne rejetez jamais l'aide que l'on vous l'offre.~
-@1547 = ~Oh... peut-être que si vous disiez le mot magique, 's'il vous plaît'... ~
+@1547 = ~Oh... peut-être que si vous disiez le mot magique, 's'il vous plaît'...~
 @1548 = ~M'aider.~
 @1549 = ~*Dynahéir vous regarde du coin de l'oeil alors que vous allez récupérer sa botte.* C'est très galant de Ta part.~
 @1550 = ~*Vous vous agenouillez devant elle et lui remettez sa botte aussi lentement que possible.*~
@@ -2036,7 +2036,7 @@ Avance et bats-toi sur l'heure !~
 @1590 = ~*Un petit sourire se dessine au coin de ses lèvres.* Le dernier à m'avoir fait une telle proposition, c'était Gvidon, un vaillant garçon de treize ans... qui s'est ensuite empressé de me mettre un crapaud assez laid entre les mains.~
 @1591 = ~Oh, je vous rassure, ce n'est rien d'aussi excitant. Je voulais simplement réajuster la sangle de votre sac. Elle est trop lâche ; le poids est mal réparti sur votre dos.~
 @1592 = ~Oh, je vous rassure, ce n'est rien d'aussi excitant. Je voulais simplement réajuster la sangle de votre sac. Elle est trop lâche ; le poids est mal réparti sur votre dos.~
-@1593 = ~J'entends les hurlements d'ici... ~
+@1593 = ~J'entends les hurlements d'ici...~
 @1594 = ~*Dynahéir se tient immobile alors que votre main part du bas de son dos jusqu'à son épaule pour vérifier la sangle. Lorsque vous touchez son cou, elle tressaille légèrement.*~
 @1595 = ~*Cachés dans sa chevelure ondulée, vos doigts arrivent doucement jusqu'à l'oreille de Dynahéir.*~
 @1596 = ~*La bouche soudainement sèche, vous retirez votre main et murmurez.* C'est bon.~
@@ -2107,7 +2107,7 @@ Avance et bats-toi sur l'heure !~
 @1657 = ~Alors dans ce cas, c'est le meilleur portrait de Toi qui n'ait jamais été fait. *Un sourire fier, mais joyeux éclaire son visage.*~
 @1658 = ~Il y en aura bien d'autres, à n'en point douter.~
 @1659 = ~Le Mal n'a pas toujours une apparence inquiétante, <CHARNAME>. Tu ferais bien de T'en souvenir.~
-@1660 = ~Tu pourrais bien en arriver là ; car que celui qui combat les monstres... ~ //... prenne garde à ne pas lui-même devenir un monstre ; et si tu plonges ton regard au plus profond de l'abîme, garde à l'esprit que l'abîme plonge son regard au plus profond de toi" - Nietzche, "Par-delà Bien et Mal".
+@1660 = ~Tu pourrais bien en arriver là ; car que celui qui combat les monstres...~ //... prenne garde à ne pas lui-même devenir un monstre ; et si tu plonges ton regard au plus profond de l'abîme, garde à l'esprit que l'abîme plonge son regard au plus profond de toi" - Nietzche, "Par-delà Bien et Mal".
 @1661 = ~Hmph... Cela peut s'arranger. *Elle fait un geste de ses mains, et le dessin prend vie. Du feu crépite de 'vos' yeux, le visage se déforme en une horrible grimace, la peau se met à craquer et à fumer...~
 
 //réponses à @1346
@@ -2374,15 +2374,15 @@ Mais ce qui compte vraiment est ce que l'on a perdu...~
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3760, likeliness 99.9
 @1878  = ~[FALDORN 27] Jaheira, quelle naïveté de votre part que de croire que l'homme peut vivre dans la nature sans la détruire !~ [%tutu_var%FALDN27]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3761, likeliness 99.9
-@1879  = ~[FALDORN 28] Votre compassion affaiblit la détermination de notre groupe. ~ [%tutu_var%FALDN28]
+@1879  = ~[FALDORN 28] Votre compassion affaiblit la détermination de notre groupe.~ [%tutu_var%FALDN28]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3762
 @1880  = ~[FALDORN 29] Un jour, femme, nous réglerons nos différends toutes les deux.~ [%tutu_var%FALDN29]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3763, likeliness 99.9
-@1881  = ~[FALDORN 30] Jaheira, il suffit de voir qui vous fréquentez pour comprendre que vous n'avez aucune personnalité. ~ [%tutu_var%FALDN30]
+@1881  = ~[FALDORN 30] Jaheira, il suffit de voir qui vous fréquentez pour comprendre que vous n'avez aucune personnalité.~ [%tutu_var%FALDN30]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3765
 @1882  = ~[FALDORN 31] Il est grand temps que je nous débarrasse de votre mauvaise influence.~ [%tutu_var%FALDN31]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3773, likeliness 99.8
-@1883  = ~[FALDORN 37] Votre manque de considération pour la nature me rend malade. ~ [%tutu_var%FALDN37]
+@1883  = ~[FALDORN 37] Votre manque de considération pour la nature me rend malade.~ [%tutu_var%FALDN37]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3770
 @1884  = ~[FALDORN 35] Vous êtes plus sage que ce que les autres croient.~ [%tutu_var%FALDN35]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3771
@@ -2398,7 +2398,7 @@ Mais ce qui compte vraiment est ce que l'on a perdu...~
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3767
 @1890  = ~[FALDORN 33] Il serait bien fâcheux que nous nous querellions, alors n'allez pas chercher des motifs de querelle.~ [%tutu_var%FALDN33]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 10202, likeliness 100.0
-@1891  = ~Interrogée sur son passé, FALDORN dit être la fille d'une Uthgardt de la tribu du Corbeau Noir. Enfant, elle a été offerte à des Druides de l'Ombre, et a été élevée selon leurs croyances. Les Druides de l'Ombre, une branche dissidente de l'ordre principal, protègent la nature de manière très agressive au point d'utiliser la violence pour parvenir à leurs fins. A mesure qu'elle a grandi, Faldorn est apparue comme une disciple très prometteuse, et l'ordre a décidé de l'envoyer sur la Côte des Épées pour tester sa fidélité aux idéaux qu'il défend. Elle a pour mission d'employer tous les moyens à sa disposition pour que cessent les atteintes à la nature, quels que puissent être les risques ou les pertes en vies humaines, y compris la sienne si besoin est. ~ [DUMMYSND]
+@1891  = ~Interrogée sur son passé, FALDORN dit être la fille d'une Uthgardt de la tribu du Corbeau Noir. Enfant, elle a été offerte à des Druides de l'Ombre, et a été élevée selon leurs croyances. Les Druides de l'Ombre, une branche dissidente de l'ordre principal, protègent la nature de manière très agressive au point d'utiliser la violence pour parvenir à leurs fins. A mesure qu'elle a grandi, Faldorn est apparue comme une disciple très prometteuse, et l'ordre a décidé de l'envoyer sur la Côte des Épées pour tester sa fidélité aux idéaux qu'il défend. Elle a pour mission d'employer tous les moyens à sa disposition pour que cessent les atteintes à la nature, quels que puissent être les risques ou les pertes en vies humaines, y compris la sienne si besoin est.~ [DUMMYSND]
 @1892  = ~Je suis Faldorn, membre des Druides de l'ombre. Je suis la fille d'une Uthgardt de la tribu du Corbeau Noir, et ma tribu m'a offerte aux Druides de l'Ombre.~
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 6139, likeliness 98.0
 @1893  = ~Les Druides de l'Ombre sont une secte de druides qui croient en la destruction de la civilisation. Je suis venue dans cette région du monde pour semer le désordre parmi les sectes de druides trop faibles pour partager notre vision.~
@@ -2414,7 +2414,7 @@ Mais ce qui compte vraiment est ce que l'on a perdu...~
 @1903  = ~Mon peuple ne donne pas de nom aux enfants jusqu'à ce qu'il soit certain qu'ils survivront. Et j'ai été donnée avant d'avoir un an.~
 @1904  = ~Joli ? *prend un air dégoûté*~
 @1905  = ~Voilà encore une des plaies de la civilisation : donner un nom à tout et s'appesantir dessus. Les noms ne changent rien à la nature des êtres vivants. Ils sont inutiles !~
-@1906  = ~Il n'est pas mal, mais les langages humains artificiels n'ont pas la beauté du chant des oiseaux ou du hurlement des loups... ~
+@1906  = ~Il n'est pas mal, mais les langages humains artificiels n'ont pas la beauté du chant des oiseaux ou du hurlement des loups...~
 @1907  = ~Joli et inutile : il me rappelle les teintures dont les femmes de la ville enduisent leur visage. Cela ne les aide pas à se dissimuler, à guérir, à attraper leurs proies ou n'importe quoi d'autre. Cela leur tache juste le visage.~
 @1908  = ~Oh mais si, cela les aide à attraper leurs proies : leurs maris.~
 @1909  = ~Hum, oui.~
@@ -2512,7 +2512,7 @@ Mais ce qui compte vraiment est ce que l'on a perdu...~
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 5396, likeliness 99.0
 @1989  = ~[IMOEN 13] ~ [%tutu_var%IMOEN13]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4330, likeliness 99.6
-@1990  = ~[IMOEN 2] J'ai si froid... ~ [%tutu_var%IMOEN02]
+@1990  = ~[IMOEN 2] J'ai si froid...~ [%tutu_var%IMOEN02]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 11036
 @1991  = ~[IMOEN 19] Ce qui se passe est tout à fait inhabituel par ici, et je ne veux pas y prendre part.~ [%tutu_var%IMOEN19]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4334
@@ -2535,7 +2535,7 @@ Mais ce qui compte vraiment est ce que l'on a perdu...~
 @2000  = ~Interrogée sur son passé, IMOEN vous tape sur l'épaule, facétieuse, et dit que vous devez vous le rappeler, car vous avez grandi avec elle. De fait, certains de vos meilleurs souvenirs sont ceux de votre rencontre avec ce bel ange. Elle est arrivée, tout comme vous, quoique dix ans plus tard dans la vie, à Château-Suif et elle a passé plus de temps avec ce bourru de Winthrop qu'avec Gorion. « Gros-plein-de soupe », elle l'appelait, au grand désarroi du vieil aubergiste. 
 Elle est restée très enfant, et elle a l'air ravie de jouer à être votre petite soeur, bien que vous soyez tous les deux du même âge. Son sourire radieux vous dit qu'elle vous suivra partout où vous irez.~ [DUMMYSND]
 @2001  = ~J'me demandais juste ce qui se passait là-bas à Château-Suif, c'est tout.~
-@2002  = ~Tout est tellement ennuyeux !!! Je veux qu'il se passe quelque chose d'intéressant !~
+@2002  = ~Tout est tellement ennuyeux ! Je veux qu'il se passe quelque chose d'intéressant !~
 @2003  = ~Bon... Ce n'est pas que je me plaigne ou quoi que ce soit, mais tu n'crois pas qu'on est en train d'acquérir plutôt mauvaise réputation ?~
 @2004  = ~Bon, ce n'est pas que je veuille trouver à redire, comme je suis une voleuse et tout ça... pourtant, ce que nous avons fait récemment, ne me semble pas bien.~
 @2005  = ~Bon, ce n'est pas que je sois particulièrement contre le fait de faire le bien et tout, mais tu ne crois pas que tu pousses le bouchon un peu loin ?~
@@ -2584,7 +2584,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4007
 @2040 = ~[JAHEIRA 1] Combien de temps va-t-il falloir attendre ici ? Les choses s'agitent au Sud pendant ce temps-là !~ [%tutu_var%JAHER01]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4008, likeliness 99.8
-@2041 = ~[JAHEIRA 2] Mieux vaut essayer de gagner cette bataille pendant que toutes les chances sont encore de notre côté ! ~ [%tutu_var%JAHER02]
+@2041 = ~[JAHEIRA 2] Mieux vaut essayer de gagner cette bataille pendant que toutes les chances sont encore de notre côté !~ [%tutu_var%JAHER02]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4010
 @2042 = ~[JAHEIRA 4] Ce groupe n'est peut-être pas aussi désespéré que je le croyais.~ [%tutu_var%JAHER04]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4011
@@ -2632,9 +2632,9 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4032
 @2064 = ~[JAHEIRA 27] Khalid, mon chéri, le jour où vous vous déciderez à parler, les poules auront des dents.~ [%tutu_var%JAHER27]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4033, likeliness 99.6
-@2065 = ~[JAHEIRA 28] Intolérable ? ~ [%tutu_var%JAHER28]
+@2065 = ~[JAHEIRA 28] Intolérable ?~ [%tutu_var%JAHER28]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4034, likeliness 99.6
-@2066 = ~[JAHEIRA 29] Magnifique ? ~ [%tutu_var%JAHER29]
+@2066 = ~[JAHEIRA 29] Magnifique ?~ [%tutu_var%JAHER29]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4035
 @2067 = ~[JAHEIRA 30] Prétendez-vous combattre le mal alors que vous êtes vous-même diabolique ?~ [%tutu_var%JAHER30]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4036
@@ -2650,11 +2650,11 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4044
 @2073 = ~[JAHEIRA 41] Malheur à vous Khalid ! Si vous mourez, je vous jure que vous n'en connaîtrez pas la fin !~ [%tutu_var%JAHER41]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4037, likeliness 99.8
-@2074 = ~[JAHEIRA 32] Cela démontre votre petitesse, ce qui m'évite d'avoir à le faire. Aussi, je reste indifférente. ~ [%tutu_var%JAHER32]
+@2074 = ~[JAHEIRA 32] Cela démontre votre petitesse, ce qui m'évite d'avoir à le faire. Aussi, je reste indifférente.~ [%tutu_var%JAHER32]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4038, likeliness 99.8
-@2075 = ~[JAHEIRA 33] Attention. La langue hachée est un très bon engrais, et tout ce que vous vomissez aussi. ~ [%tutu_var%JAHER33]
+@2075 = ~[JAHEIRA 33] Attention. La langue hachée est un très bon engrais, et tout ce que vous vomissez aussi.~ [%tutu_var%JAHER33]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4039, likeliness 99.9
-@2076 = ~[JAHEIRA 34] L'herbe n'est-elle pas faite de lames ? Les étoiles filantes ne sont-elles pas tranchantes ? La nature doit s'armer, et il en va de même de ses serviteurs ! ~ [%tutu_var%JAHER34]
+@2076 = ~[JAHEIRA 34] L'herbe n'est-elle pas faite de lames ? Les étoiles filantes ne sont-elles pas tranchantes ? La nature doit s'armer, et il en va de même de ses serviteurs !~ [%tutu_var%JAHER34]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 10199, likeliness 100.0
 @2077 = ~Interrogée sur son passé, JAHEIRA foudroie du regard son interlocuteur. Elle dit être née en Téthyr et être la fille d'un fidèle défenseur du régime du roi Alemandre, mais, hélas, durant la guerre civile téthyrienne. Sa famille était de ces nobles sur lequels les paysans en colère se sont déchaînés, et Jaheira n'a dû la vie sauve qu'à une servante du château qui l'a emportée lorsque celui-ci est tombé. Elles ont fui dans la forêt de Téthir. Là, des Druides ont accepté de prendre soin de l'enfant, devenue depuis une jeune fille têtue, convaincue que le seul moyen de protéger la nature est de jouer un rôle actif dans le monde. Elle n'a semble-t-il pas grand-chose en commun avec Khalid, mais, même si elle le rabroue souvent, elle donne aussi l'impression de l'aimer beaucoup. Son admiration pour Gorion est patente, et elle jure que le responsable de sa mort connaîtra un triste sort.~ [DUMMYSND]
 @2078 = ~*fronce les sourcils* C'est faux !~
@@ -2808,7 +2808,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2184 = ~Tout ce que je peux vous dire, c'est que vous devez m'aider à me venger. Tazok, cet ogre maléfique, a tué mon amour, Déhériana. Il va me le payer, croyez-moi !~
 @2185 = ~<CHARNAME>, ma vie tout entière est dans le passé, avec Déhériana. Rien d'autre ne m'importe à présent que de venger sa mort. Mais je ne voudrais pas vous importuner avec mes sombres pensées. Poursuivons notre quête.~
 @2186 = ~Je suis originaire de la forêt elfique de Shilmista, qui est dirigée par le vaillant roi Elbereth. Mon peuple a été récemment décimé lors d'une guerre contre une armée infâme rassemblée par les suivants de Talona - la dame du Poison.~
-@2187 = ~Shevarash a fait appel à moi pour détruire l'ogre maléfique, Tazok. L'Archer Noir guide mes flèches lorsqu'elles visent ceux qui massacrent des innocents. ~
+@2187 = ~Shevarash a fait appel à moi pour détruire l'ogre maléfique, Tazok. L'Archer Noir guide mes flèches lorsqu'elles visent ceux qui massacrent des innocents.~
 @2188 = ~Je pleure ma chère Déhériana.~
 @2189 = ~*sourit d'un air absent* Mon ami, je vous en ai déjà dit davantage sur moi qu'à n'importe quelle autre personne, Déhériana exceptée.~ ~*sourit d'un air absent* Mon amie, je vous en ai déjà dit davantage sur moi qu'à n'importe quelle autre personne, Déhériana exceptée.~
 @2190 = ~I'quelin Mori'Quessier naa ba Mori'Quessir. Je vais laisser Viconia traduire ces mots.~
@@ -2830,15 +2830,15 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 9482
 @2203 = ~Minsc~
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4084, likeliness 99.7
-@2204 = ~[MINSC 1] Ne bougez pas, restez dans la ligne de mire de mon hamster ! ~ [%tutu_var%MINSC01]
+@2204 = ~[MINSC 1] Ne bougez pas, restez dans la ligne de mire de mon hamster !~ [%tutu_var%MINSC01]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4085
 @2205 = ~[MINSC 2] Non, ne vous désespérez pas ! Je vous redonnerai confiance en attaquant à l'aveuglette !~ [%tutu_var%MINSC02]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4087, likeliness 99.9
-@2206 = ~[MINSC 4] Camaraderie, aventure et acier sur acier. Les ingrédients légendaires ! Hein Boo ? ~ [%tutu_var%MINSC04]
+@2206 = ~[MINSC 4] Camaraderie, aventure et acier sur acier. Les ingrédients légendaires ! Hein Bouh ?~ [%tutu_var%MINSC04]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4088, likeliness 99.5
-@2207 = ~[MINSC 5] Oui Boo, je suis d'accord. Ce groupe aurait bien besoin d'un coup de pied dans sa morale.~ [%tutu_var%MINSC05]
+@2207 = ~[MINSC 5] Oui Bouh, je suis d'accord. Ce groupe aurait bien besoin d'un coup de pied dans sa morale.~ [%tutu_var%MINSC05]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4089
-@2208 = ~[MINSC 6] Si je continue, je ne pourrai plus jamais regarder Boo dans les yeux. Faites attention, je ne laisserai pas les choses continuer sur cette voie !~ [%tutu_var%MINSC06]
+@2208 = ~[MINSC 6] Si je continue, je ne pourrai plus jamais regarder Bouh dans les yeux. Faites attention, je ne laisserai pas les choses continuer sur cette voie !~ [%tutu_var%MINSC06]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4090
 @2209 = ~[MINSC 7] Vous avez dépassé les limites du mal ! Goûtez à la justice hamster !~ [%tutu_var%MINSC07]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4091
@@ -2848,7 +2848,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4093
 @2212 = ~[MINSC 10] Mon hamster commence à s'agiter ! Si nous sommes des aventuriers, partons à l'aventure !~ [%tutu_var%MINSC10]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4086
-@2213 = ~[MINSC 3] Les yeux, Boo, il faut VISER LES YEUX !!! RrraaaAAGHGHH !!!~ [%tutu_var%MINSC03]
+@2213 = ~[MINSC 3] Les yeux, Bouh, il faut VISER LES YEUX ! RrraaaAAGHGHH !~ [%tutu_var%MINSC03]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 5359, likeliness 99.0
 @2214 = ~[MINSC 38] ~ [%tutu_var%MINSC38]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 5360, likeliness 99.0
@@ -2856,7 +2856,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4094, likeliness 99.1
 @2216 = ~[MINSC 11] Il va me falloir de l'aide très bientôt, si je ne veux pas que mon hamster soit orphelin.~ [%tutu_var%MINSC11]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4095, likeliness 99.4
-@2217 = ~[MINSC 12] Boo aime la forêt. ~ [%tutu_var%MINSC12]
+@2217 = ~[MINSC 12] Bouh aime la forêt.~ [%tutu_var%MINSC12]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 5357, likeliness 99.0
 @2218 = ~[MINSC 13] ~ [%tutu_var%MINSC13]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4096
@@ -2874,7 +2874,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4101, likeliness 83.3
 @2225 = ~[MINSC 20] Un carnage pour la bonne cause !~ [%tutu_var%MINSC20]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4102, likeliness 99.7
-@2226 = ~[MINSC 21] J'accepte en dépit du bon sens. ~ [%tutu_var%MINSC21]
+@2226 = ~[MINSC 21] J'accepte en dépit du bon sens.~ [%tutu_var%MINSC21]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4103
 @2227 = ~[MINSC 22] Prêt à l'attaque, armure et épée en place !~ [%tutu_var%MINSC22]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4108
@@ -2890,9 +2890,9 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4116
 @2233 = ~[MINSC 35] Si vous voyagez avec Minsc, vous devez rester dans son sillage ! Je ne tolère aucune fainéantise pendant que je joue les héros !~ [%tutu_var%MINSC35]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4117
-@2234 = ~[MINSC 36] Boo n'apprécie guère vos manières. Disparaissez.~ [%tutu_var%MINSC36]
+@2234 = ~[MINSC 36] Bouh n'apprécie guère vos manières. Disparaissez.~ [%tutu_var%MINSC36]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4118
-@2235 = ~[MINSC 37] Choisissez bien vos amis. Tout le monde n'est pas aussi digne de confiance que Minsc et Boo.~ [%tutu_var%MINSC37]
+@2235 = ~[MINSC 37] Choisissez bien vos amis. Tout le monde n'est pas aussi digne de confiance que Minsc et Bouh.~ [%tutu_var%MINSC37]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4119
 @2236 = ~[MINSC 40] Quel meilleur endroit pour mourir que le champ de bataille !~ [%tutu_var%MINSC40]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4120
@@ -2900,11 +2900,11 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4115
 @2238 = ~[MINSC 34] Moi, je parle peu, mais j'hésite moins ! Maintenant, fini les avertissements, il est temps pour vous de mourir !~ [%tutu_var%MINSC34]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4113
-@2239 = ~[MINSC 32] Vos commentaires ne sauraient m'atteindre. Vous ne pouvez pas comprendre les liens qui m'attachent à Boo.~ [%tutu_var%MINSC32]
+@2239 = ~[MINSC 32] Vos commentaires ne sauraient m'atteindre. Vous ne pouvez pas comprendre les liens qui m'attachent à Bouh.~ [%tutu_var%MINSC32]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4114
 @2240 = ~[MINSC 33] Vos paroles sont aussi tranchantes que ma lame, mais elles sont loin d'être aussi reluisantes. Ooooh, reluisantes.~ [%tutu_var%MINSC33]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 10185, likeliness 98.9
-@2241 = ~Interrogé sur son passé, MINSC se proclame guerrier berserker de Rasheménie, loin à l'est. Il accomplit son pèlerinage, un rite de passage à l'âge adulte sous la forme d'un voyage, et il cherche l'aventure et la gloire dans la bataille. Il s'enorgueillit d'être le garde du corps d'une jeune wychalarn de Rasheménie nommée Dynahéir, et tous ceux qui voudraient du mal à sa protégée n'ont qu'à bien se tenir. Il ignore pourquoi elle a choisi de venir sur la Côte des Epées, mais il lui voue une loyauté sans faille. S'il la sert avec honneur et s'il montre sa bravoure au combat, il espère, à leur retour, être admis dans la loge berserker du Dragon de Glace. Il tient pour remarquable le fait d'avoir acquis un animal comme compagnon : « Bouh » serait, selon lui, un hamster spatial géant miniature. De telles créatures existent peut-être dans les Royaumes, mais on peut dire en tout cas que Minsc a reçu trop de coups sur la tête. Il a bon caractère, mais ses tendances naturelles de berserker prennent souvent le dessus. ~ [DUMMYSND]
+@2241 = ~Interrogé sur son passé, MINSC se proclame guerrier berserker de Rasheménie, loin à l'est. Il accomplit son pèlerinage, un rite de passage à l'âge adulte sous la forme d'un voyage, et il cherche l'aventure et la gloire dans la bataille. Il s'enorgueillit d'être le garde du corps d'une jeune wychalarn de Rasheménie nommée Dynahéir, et tous ceux qui voudraient du mal à sa protégée n'ont qu'à bien se tenir. Il ignore pourquoi elle a choisi de venir sur la Côte des Epées, mais il lui voue une loyauté sans faille. S'il la sert avec honneur et s'il montre sa bravoure au combat, il espère, à leur retour, être admis dans la loge berserker du Dragon de Glace. Il tient pour remarquable le fait d'avoir acquis un animal comme compagnon : « Bouh » serait, selon lui, un hamster spatial géant miniature. De telles créatures existent peut-être dans les Royaumes, mais on peut dire en tout cas que Minsc a reçu trop de coups sur la tête. Il a bon caractère, mais ses tendances naturelles de berserker prennent souvent le dessus.~ [DUMMYSND]
 @2242 = ~Un peu de savoir qui agit a beaucoup plus de valeur que beaucoup de savoir qui reste à ne rien faire. Minsc estime que <CHARNAME> devrait agir un maximum !~
 @2243 = ~Les fesses de la vilenie doivent être royalement bottées !~
 @2244 = ~Tu aurais dû écouter quand Bouh parlait, <CHARNAME>. Je ne sais pas dire de choses sages, comme le fait Bouh. Je voudrais parfois que les paroles de Bouh ne soient pas réservées à Minsc.~
@@ -2939,7 +2939,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2273 = ~Minsc voit le magicien rouge, là, zieutant sa sorcière. Minsc ne lui fait pas confiance !~
 @2274 = ~Petit <CHARNAME> veut en savoir plus sur Minsc ! Minsc est en cours de dajemma pour prouver qu'il est un homme et être accepté dans la loge berserker du Dragon de Glace, en Rashéménie. Il se bat bravement pour sa sorcière. Est-ce que <CHARNAME> veut en savoir plus sur Bouh ? C'est un Hamster Géant de l'Espace Miniature. On peut les acheter sur un marché de Sembie à un vieux monsieur avec une barbe, un chapeau pointu et une pipe. Minsc a dépensé toutes ses économies pour lui acheter Bouh. Mais qu'est-ce qu'un homme sans son hamster ? Minsc et Bouh forment un fantastique duo de bottage de fesses ! Recule, vilenie ! J'arrive, et mon hamster avec moi !~ ~Petite <CHARNAME> veut en savoir plus sur Minsc ! Minsc est en cours de dajemma pour prouver qu'il est un homme et être accepté dans la loge berserker du Dragon de Glace, en Rashéménie. Il se bat bravement pour sa sorcière. Est-ce que <CHARNAME> veut en savoir plus sur Bouh ? C'est un Hamster Géant de l'Espace Miniature. On peut les acheter sur un marché de Sembie à un vieux monsieur avec une barbe, un chapeau pointu et une pipe. Minsc a dépensé toutes ses économies pour lui acheter Bouh. Mais qu'est-ce qu'un homme sans son hamster ? Minsc et Bouh forment un fantastique duo de bottage de fesses ! Recule, vilenie ! J'arrive, et mon hamster avec moi !~
 @2275 = ~<CHARNAME>, CHUT ! Tu vas réveiller Bouh ! Un grand esprit a besoin de silence pour régénérer sa sagesse.~
-@2276 = ~RrrrraaaAAAGHGHHHHH !!! Les gnolls ont volé la sorcière de Minsc ! Sales gnolls !~
+@2276 = ~RrrrraaaAAAGHGHHHHH ! Les gnolls ont volé la sorcière de Minsc ! Sales gnolls !~
 @2277 = ~Les royaumes tremblent quand mon hamster rugit !~
 @2278 = ~*Minsc vous tape amicalement sur l'épaule* Bouh peut déjà entendre les chansons épiques qui seront écrites sur Minsc et Bouh et <CHARNAME> ! Des récits pareils rendront les héros du passé pâles d'envie !~
 //
@@ -2958,7 +2958,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 2422
 @2289 = ~Montaron~
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4121, likeliness 99.8
-@2290 = ~[MONTARON 1] Votre esprit est assez perturbé comme ça ; laissez-moi tranquille. Votre compagnie est déjà suffisamment déplaisante. ~ [%tutu_var%MONTR01]
+@2290 = ~[MONTARON 1] Votre esprit est assez perturbé comme ça ; laissez-moi tranquille. Votre compagnie est déjà suffisamment déplaisante.~ [%tutu_var%MONTR01]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4122
 @2291 = ~[MONTARON 2] Malheur à vous, je ne vais pas me faire tuer pour ça !~ [%tutu_var%MONTR02]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4124
@@ -2996,15 +2996,15 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4135
 @2308 = ~[MONTARON 17] Vous m'avez parlé ?~ [%tutu_var%MONTR17]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4136, likeliness 99.4
-@2309 = ~[MONTARON 18] Ça a intérêt à en valoir la peine. ~ [%tutu_var%MONTR18]
+@2309 = ~[MONTARON 18] Ça a intérêt à en valoir la peine.~ [%tutu_var%MONTR18]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4137
 @2310 = ~[MONTARON 19] Qu'est-ce qui doit disparaître ?~ [%tutu_var%MONTR19]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4138, likeliness 99.7
-@2311 = ~[MONTARON 20] Je ferai votre tâche. ~ [%tutu_var%MONTR20]
+@2311 = ~[MONTARON 20] Je ferai votre tâche.~ [%tutu_var%MONTR20]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4139
 @2312 = ~[MONTARON 21] Occupez-vous de votre lame.~ [%tutu_var%MONTR21]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4140, likeliness 99.7
-@2313 = ~[MONTARON 22] Ne dormez que d'un oeil, tyran. ~ [%tutu_var%MONTR22]
+@2313 = ~[MONTARON 22] Ne dormez que d'un oeil, tyran.~ [%tutu_var%MONTR22]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4145
 @2314 = ~[MONTARON 27] Ce vieux sorcier recommence avec ses « sortilèges ».~ [%tutu_var%MONTR27]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4146
@@ -3020,7 +3020,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4154
 @2320 = ~[MONTARON 36] Bon ou mauvais, votre sort est celui de tout homme.~ [%tutu_var%MONTR36]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4155, likeliness 99.7
-@2321 = ~[MONTARON 37] C'est incroyable que vous ayez vécu aussi longtemps. ~ [%tutu_var%MONTR37]
+@2321 = ~[MONTARON 37] C'est incroyable que vous ayez vécu aussi longtemps.~ [%tutu_var%MONTR37]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4156
 @2322 = ~[MONTARON 40] Imbécile ! Il va falloir trouver une autre mule maintenant !~ [%tutu_var%MONTR40]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4157
@@ -3121,11 +3121,11 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4181, likeliness 99.7
 @2385 = ~[QUAYLE 27] Maître du monde, humm ? Seulement si l'on vous choisit pour votre... esprit limpide.~ [%tutu_var%QUAYL27]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4182
-@2386 = ~[QUAYLE 28] On ne peut en effet vous « égaler » pour le moment. Vous êtes grand il est vrai. Seulement, je me demande s'il n'y a pas que votre tête qui grossit ! ~ [%tutu_var%QUAYL28]
+@2386 = ~[QUAYLE 28] On ne peut en effet vous « égaler » pour le moment. Vous êtes grand il est vrai. Seulement, je me demande s'il n'y a pas que votre tête qui grossit !~ [%tutu_var%QUAYL28]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4183, likeliness 99.8
 @2387 = ~[QUAYLE 29] Ah oui ?! Eh bien, mon petit doigt a plus de jugeote que le vôtre ! Non... attendez une minute.~ [%tutu_var%QUAYL29]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4184, likeliness 99.8
-@2388 = ~[QUAYLE 30] La violence est preuve d'ignorance ! ~ [%tutu_var%QUAYL30]
+@2388 = ~[QUAYLE 30] La violence est preuve d'ignorance !~ [%tutu_var%QUAYL30]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4185
 @2389 = ~[QUAYLE 31] N'écoutez pas les autres. Les personnes intelligentes aiment votre musique en dépit de tout.~ [%tutu_var%QUAYL31]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4192, likeliness 94.4
@@ -3254,7 +3254,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4236
 @2470 = ~[TIAX 36] Faites comme il vous plaira, mais c'est peine perdue ! Tiax régnera !~ [%tutu_var%TIAXX36]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4237, likeliness 99.4
-@2471 = ~[TIAX 37] Tiax a-t-il mentionné qu'il allait régner ? C'est inévitable. ~ [%tutu_var%TIAXX37]
+@2471 = ~[TIAX 37] Tiax a-t-il mentionné qu'il allait régner ? C'est inévitable.~ [%tutu_var%TIAXX37]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4238
 @2472 = ~[TIAX 40] Maudit soyez-vous ! Échapper ainsi à l'inévitable règne de Tiax en mourant ! Espèce de lâche !~ [%tutu_var%TIAXX40]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4239
@@ -3327,7 +3327,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3428
 @2529  = ~[XAN 4] Peut-être survivrons-nous plus longtemps que je ne l'aurais cru.~ [%tutu_var%XANNN04]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3429, likeliness 99.6
-@2530  = ~[XAN 5] Ce groupe est particulièrement lamentable aujourd'hui ! ~ [%tutu_var%XANNN05]
+@2530  = ~[XAN 5] Ce groupe est particulièrement lamentable aujourd'hui !~ [%tutu_var%XANNN05]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3430
 @2531  = ~[XAN 6] Continuons à nous comporter aussi mal et nous mériterons notre perdition.~ [%tutu_var%XANNN06]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3431
@@ -3347,7 +3347,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3435
 @2539  = ~[XAN 11] Mes blessures sont trop graves, je suis un homme mort.~ [%tutu_var%XANNN11]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3436, likeliness 99.8
-@2540  = ~[XAN 12] La grandeur de la forêt me fait sentir ma petitesse. ~ [%tutu_var%XANNN12]
+@2540  = ~[XAN 12] La grandeur de la forêt me fait sentir ma petitesse.~ [%tutu_var%XANNN12]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3437
 @2541  = ~[XAN 13] L'agitation des grandes villes me fait sentir ma dérision.~ [%tutu_var%XANNN13]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 5244
@@ -3395,7 +3395,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3455
 @2563  = ~[XAN 33] J'espère que l'intention derrière vos paroles est bonne.~ [%tutu_var%XANNN33]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 10205, likeliness 100.0
-@2564  = ~Interrogé sur son passé, XAN évoque d'un air mélancolique le bastion elfe d'Evereska, où il est Grismanteau. Il semble qu'on lui a donné pour mission d'enquêter sur la pénurie de fer et la menace qu'elle pourrait représenter pour l'ensemble de la région. La tâche n'est pas mince et c'est avec anxiété qu'il s'en acquitte. Vous avez cependant l'impression qu'il aborde chaque situation avec anxiété. Il a consacré sa vie à la magie, ce qui lui a permis de devenir un magicien doué, mais sa dévotion à ses études l'a empêché de se faire des amis ou de pratiquer un passe-temps. Il vous paraît très capable, bien que son influence sur le moral d'un groupe reste à déterminer. ~ [DUMMYSND]
+@2564  = ~Interrogé sur son passé, XAN évoque d'un air mélancolique le bastion elfe d'Evereska, où il est Grismanteau. Il semble qu'on lui a donné pour mission d'enquêter sur la pénurie de fer et la menace qu'elle pourrait représenter pour l'ensemble de la région. La tâche n'est pas mince et c'est avec anxiété qu'il s'en acquitte. Vous avez cependant l'impression qu'il aborde chaque situation avec anxiété. Il a consacré sa vie à la magie, ce qui lui a permis de devenir un magicien doué, mais sa dévotion à ses études l'a empêché de se faire des amis ou de pratiquer un passe-temps. Il vous paraît très capable, bien que son influence sur le moral d'un groupe reste à déterminer.~ [DUMMYSND]
 @2565  = ~Amis ? *Xan vous jette un sourire plein d'ironie.* ~
 @2566  = ~*Son visage s'assombrit.* Oui... amis... certainement.~
 @2567  = ~J'espère t'être utile, certainement. Nous sommes probablement "alliés", alors.~
@@ -3660,7 +3660,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2826  = ~*soupir*~
 @2827  = ~*Xan lève les yeux au ciel et met un point d'honneur à s'éloigner de vous autant que possible.*~
 @2828  = ~*Xan marmonne quelque chose d'incompréhensible avant de se détourner, mais vous avez pu distinguer le mot "perdus".*~
-@2829  = ~*soupir* On dit que les enfants sont les êtres les plus cruels de Toril... ~
+@2829  = ~*soupir* On dit que les enfants sont les êtres les plus cruels de Toril...~
 @2830  = ~Une fois que tout ceci sera terminé, je reposerai dans une tombe solitaire, peu profonde et sans pierre tombale. Si tu continues ton chemin, ce sera sans moi.~
 @2831  = ~Mais est-ce que tu souhaites continuer à voyager ? L'aventure n'est pas quelque chose de palpitant, <CHARNAME> ; c'est plutôt usant et déprimant. *soupir* Tu en as la parfaite démonstration devant toi.~
 @2832  = ~*Xan secoue la tête.* On m'a désigné Défenseur du Peuple Elfique, et non pas défenseur de <CHARNAME>. Je suis désolé, mais une fois que ma tâche sera accomplie, nous devrons nous quitter.~
@@ -3793,7 +3793,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4277
 @2923 = ~[XZAR 37] Je connais des dragons avec des pieds de lapins ! Je l'jure, c'est la vérité !~ [%tutu_var%XZARR37]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4278, likeliness 99.9
-@2924 = ~[XZAR 40] Je suppose que je devrais avoir un sentiment de perte. Quel dommage que cela me soit complètement indifférent. ~ [%tutu_var%XZARR40]
+@2924 = ~[XZAR 40] Je suppose que je devrais avoir un sentiment de perte. Quel dommage que cela me soit complètement indifférent.~ [%tutu_var%XZARR40]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4279, likeliness 99.3
 @2925 = ~[XZAR 41] Montaron ! Je... je ne vous ai jamais aimé.~ [%tutu_var%XZARR41]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4274
@@ -3803,7 +3803,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4273
 @2928 = ~[XZAR 33] Je ne supporterai pas vos moqueries, espèce de calomniatrice !~ [%tutu_var%XZARR33]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 10172, likeliness 100.0
-@2929 = ~Interrogé sur son passé, XZAR a peu de réponses cohérentes à offrir. Son désir de découvrir la cause de la pénurie de fer paraît avéré, mais ses motivations restent obscures. S'il tient des discours incohérents, ses facultés intellectuelles lui permettent cependant de pratiquer la magie. Il marmonne bien qu'il est, ainsi que son associé Montaron, au service d'un groupe puissant, mais si on lui demande d'être plus précis, il s'agite et ne dit plus un mot pendant un certain temps. Il est pour le moins dérangé, et le réseau qui a cru bon de l'engager doit bel et bien être animé d'un noir dessein. ~ [DUMMYSND]
+@2929 = ~Interrogé sur son passé, XZAR a peu de réponses cohérentes à offrir. Son désir de découvrir la cause de la pénurie de fer paraît avéré, mais ses motivations restent obscures. S'il tient des discours incohérents, ses facultés intellectuelles lui permettent cependant de pratiquer la magie. Il marmonne bien qu'il est, ainsi que son associé Montaron, au service d'un groupe puissant, mais si on lui demande d'être plus précis, il s'agite et ne dit plus un mot pendant un certain temps. Il est pour le moins dérangé, et le réseau qui a cru bon de l'engager doit bel et bien être animé d'un noir dessein.~ [DUMMYSND]
 @2930 = ~Prenez deux pincées de la poussière de moman et appelez-moi de bon matin.~
 @2931 = ~*Xzar ne dit rien, mais son visage s'illumine d'une telle jubilation psychotique que vous vous enfuyez à toutes jambes avant qu'il ne puisse répondre.*~
 @2932 = ~Bien sûr. Aidez à soumettre l'ensemble de la création à la volonté de Moman. Tous les petits morceaux qu'elle n'a pas déjà. Mais ne me demandez pas *comment* le faire. Je ne m'embarrasse pas de bagatelles.~
@@ -3900,11 +3900,11 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4286
 @3014 = ~[YESLICK 7] Vous ne valez pas mieux que le Trône ! Je ne saurais souffrir un tel spectacle !~ [%tutu_var%YESLK07]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4287, likeliness 99.6
-@3015 = ~[YESLICK 8] Je demande calme et constance tant que je suis aux commandes. ~ [%tutu_var%YESLK08]
+@3015 = ~[YESLICK 8] Je demande calme et constance tant que je suis aux commandes.~ [%tutu_var%YESLK08]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4288
 @3016 = ~[YESLICK 9] Même les nains ont besoin de repos. Je ne peux plus marcher.~ [%tutu_var%YESLK09]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4289, likeliness 99.7
-@3017 = ~[YESLICK 10] Pourquoi ai-je quitté ma cellule si c'est pour rester là à ne rien faire ?! ~ [%tutu_var%YESLK10]
+@3017 = ~[YESLICK 10] Pourquoi ai-je quitté ma cellule si c'est pour rester là à ne rien faire ?!~ [%tutu_var%YESLK10]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4282
 @3018 = ~[YESLICK 3] Que la puissance de Clangeddin soit avec nous !~ [%tutu_var%YESLK03]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 5392, likeliness 99.2
@@ -3918,7 +3918,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 5390, likeliness 99.2
 @3023 = ~[YESLICK 13] ~ [%tutu_var%YESLK13]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4291, likeliness 99.6
-@3024 = ~[YESLICK 14] Exactement comme les tunnels de mon ancien clan. ~ [%tutu_var%YESLK14]
+@3024 = ~[YESLICK 14] Exactement comme les tunnels de mon ancien clan.~ [%tutu_var%YESLK14]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4293, likeliness 100.0
 @3025 = ~[YESLICK 15] Je préfère encore la pierre de ma cellule à cet immense vide.~ [%tutu_var%YESLK15]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 5391, likeliness 99.2
@@ -3950,7 +3950,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4321
 @3039 = ~[YESLICK 36] Les visages amis se font rares de nos jours.~ [%tutu_var%YESLK36]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4320, likeliness 99.8
-@3040 = ~[YESLICK 35] La violence ne résout que les problèmes les plus simples. Il faut savoir se sortir des plus complexes. ~ [%tutu_var%YESLK35]
+@3040 = ~[YESLICK 35] La violence ne résout que les problèmes les plus simples. Il faut savoir se sortir des plus complexes.~ [%tutu_var%YESLK35]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4326
 @3041 = ~[YESLICK 40] J'ai déjà perdu tant de compagnons ! Dois-je perdre ceux-là également ?~ [%tutu_var%YESLK40]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4327
@@ -3996,7 +3996,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @3074 = ~*Vous parlez des problèmes de Coran, de ses espoirs, de façon amicale et bienveillante, dans l'espoir de l'amener à se confier à vous.*~
 @3075 = ~*Vous avez l'habitude d'entendre des confidences issues du fond des coeurs... vous tentez donc de séduire Coran pour qu'il vous en dise davantage sur lui-même.*~
 @3076 = ~*Vous parlez des problèmes de Coran, de ses espoirs, de façon amicale et bienveillante, dans l'espoir de l'amener à se confier à vous.*~
-@3077 = ~Dis-moi, Coran, qui est la plus belle femme du monde ? ~
+@3077 = ~Dis-moi, Coran, qui est la plus belle femme du monde ?~
 @3078 = ~Dis-moi, la chance est-elle toujours du côté des romantiques, Coran ?~
 @3079 = ~Dis-moi, mon téméraire ami, quel est ton point de vue sur le meilleur plan d'action à suivre ?~
 @3080 = ~Coran, cela fait quelques temps que je ne t'ai pas entendu raconter une histoire.~
@@ -4016,7 +4016,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3827
 @3089 = ~[CORAN 6] Si nous continuons sur cette voie, je vais devoir me retirer.~ [%tutu_var%CORAN06]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3828, likeliness 99.9
-@3090 = ~[CORAN 7] Je ne puis plus rester dans ce groupe. Je me retire. ~ [%tutu_var%CORAN07]
+@3090 = ~[CORAN 7] Je ne puis plus rester dans ce groupe. Je me retire.~ [%tutu_var%CORAN07]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3829
 @3091 = ~[CORAN 8] Je crois que mes nouvelles responsabilités vont beaucoup m'amuser.~ [%tutu_var%CORAN08]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3830
@@ -4066,7 +4066,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3851
 @3114 = ~[CORAN 35] Une personne telle que vous ne devrait pas se risquer à l'aventure.~ [%tutu_var%CORAN35]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3852, likeliness 99.8
-@3115 = ~[CORAN 36] Jamais mon regard ne s'est posé sur une jeune fille d'une telle beauté. ~ [%tutu_var%CORAN36]
+@3115 = ~[CORAN 36] Jamais mon regard ne s'est posé sur une jeune fille d'une telle beauté.~ [%tutu_var%CORAN36]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3853, likeliness 99.4
 @3116 = ~[CORAN 37] Vous avez le plus beau décolle... euh, regard.~ [%tutu_var%CORAN37]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3854
@@ -4099,7 +4099,7 @@ Mais tu es la plus belle que j'ai vue.~
 @3135 = ~J'ai une flèche avec le nom de Sarevok dessus ! Pour te parler franchement, je suis impatient de la conduire à destination.~
 @3136 = ~Je n'aime pas tuer, mais ce type, Sarevok, l'a bien cherché. Personne ne me met en prison deux fois de suite !~
 @3137 = ~Jusqu'ici, les catacombes se sont avérées ma partie préférée de Château-Suif. Mais je crois que nous devrions nous déplacer avec rapidité. Le temps ne nous sert pas, <CHARNAME>.~
-@3138 = ~Hmm... Avance lentement. Je parie qu'il y a un trésor caché quelque part. ~
+@3138 = ~Hmm... Avance lentement. Je parie qu'il y a un trésor caché quelque part.~
 @3139 = ~Et quelque chose d'autre... A quoi étais-je en train de penser ? Quelque chose d'importance mineure mais à surveiller, si tu n'as pas de chance... Ah oui ! Les pièges.~
 @3140 = ~Cours ! Nous réfléchirons plus tard... ou jamais.~
 @3141 = ~Cette douce vieille bique de Phlydia m'a demandé de lui rapporter un livre, laissé près d'une vache. Je me suis surpris à ruminer en me demandant quelle était la plus belle femme des deux. Donc, mon plan d'action préféré est de gagner un endroit plus animé aussi tôt que possible.~
@@ -4132,7 +4132,7 @@ Mais tu es la plus belle que j'ai vue.~
 @3168 = ~Merveilleux ! Mais allons-y maintenant : la route, les trésors et les belles femmes nous appellent !~
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 6112, likeliness 98.5
 @3169 = ~Quelles informations voudriez-vous que je vous livre ? Je pourrais vous parler des splendides forêts de Téhir, ou des nombreuses et ravissantes demoiselles qui ont succombé à mon charme. J'ai travaillé sur les Wivernes qui chassent par ici. Elles possèdent de puissants dards sur leur queue et peuvent ainsi empoisonner leurs victimes. Ce sont des bêtes cruelles qui prennent plaisir à faire souffrir leurs proies. Je n'ai vraiment pas grand-chose de plus à dire.~
-@3170 = ~<CHARNAME>, mon ami, pourquoi perdre notre temps à parler de moi quand nous pourrions parler des femmes ? ~ ~<CHARNAME>, mon amie, pourquoi perdre notre temps à parler de moi quand nous pourrions parler des femmes ? ~
+@3170 = ~<CHARNAME>, mon ami, pourquoi perdre notre temps à parler de moi quand nous pourrions parler des femmes ?~ ~<CHARNAME>, mon amie, pourquoi perdre notre temps à parler de moi quand nous pourrions parler des femmes ?~
 @3171 = ~A mon sujet ? Je suis originaire de la forêt du Téthyr et... <CHARNAME>, tu as les plus beaux... euh... yeux.~ [%tutu_var%CORAN3]
 @3172 = ~<CHARNAME>, je te dirai tout ce que tu veux savoir pour un ou deux baisers.~ [%tutu_var%CORAN3]
 @3173 = ~*Vous regardez Coran et...*~ [CORANF]
@@ -4455,7 +4455,7 @@ Vagues et cascade de soie de Shuan.~
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3972
 @3474 = ~[EDWIN 8] Ils finissent par comprendre quelle est ma véritable valeur !~ [%tutu_var%EDWIN08]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3973, likeliness 99.6
-@3475 = ~[EDWIN 9] Je ne vais pas pouvoir maintenir cette cadence sans repos. ~ [%tutu_var%EDWIN09]
+@3475 = ~[EDWIN 9] Je ne vais pas pouvoir maintenir cette cadence sans repos.~ [%tutu_var%EDWIN09]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3974
 @3476 = ~[EDWIN 10] Inactif extérieurement, inactif intérieurement... Pourquoi supporter ces fous ?~ [%tutu_var%EDWIN10]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3967
@@ -4491,11 +4491,11 @@ Vagues et cascade de soie de Shuan.~
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3987
 @3492 = ~[EDWIN 27] Cette sorcière vous trompe avec ses mensonges ! C'est le mal personnifié, croyez-moi !~ [%tutu_var%EDWIN27]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3988, likeliness 99.7
-@3493 = ~[EDWIN 28] Si vous continuez à me provoquer, il ne sera plus question que je protège qui que ce soit, espèce de sorcière ! ~ [%tutu_var%EDWIN28]
+@3493 = ~[EDWIN 28] Si vous continuez à me provoquer, il ne sera plus question que je protège qui que ce soit, espèce de sorcière !~ [%tutu_var%EDWIN28]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3989
 @3494 = ~[EDWIN 29] Son pouvoir n'est rien sans la volonté de l'utiliser ! Oubliez les excuses et finissons-en !~ [%tutu_var%EDWIN29]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3990, likeliness 99.7
-@3495 = ~[EDWIN 30] Il est bon que vous ne trouviez rien à redire sur moi. ~ [%tutu_var%EDWIN30]
+@3495 = ~[EDWIN 30] Il est bon que vous ne trouviez rien à redire sur moi.~ [%tutu_var%EDWIN30]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3996
 @3496 = ~[EDWIN 31] Sa compagnie est agréable mais je m'étonne de l'apprécier.~ [%tutu_var%EDWIN31]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4001
@@ -4507,7 +4507,7 @@ Vagues et cascade de soie de Shuan.~
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4005
 @3500 = ~[EDWIN 40] Un pion de moins. Si ça continue, je vais devoir trouver un autre groupe.~ [%tutu_var%EDWIN40]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4006, likeliness 99.6
-@3501 = ~[EDWIN 41] Echec et mat ! La sorcière meurt enfin ! ~ [%tutu_var%EDWIN41]
+@3501 = ~[EDWIN 41] Echec et mat ! La sorcière meurt enfin !~ [%tutu_var%EDWIN41]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3999
 @3502 = ~[EDWIN 34] Voilà de bien douces paroles, même si je n'en connais pas les motifs cachés.~ [%tutu_var%EDWIN34]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3998, likeliness 99.9
@@ -4706,7 +4706,7 @@ Vagues et cascade de soie de Shuan.~
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3659
 @3630 = ~[GARRICK 7] Désolé, mais je dois partir. Je ne peux plus supporter nos agissements.~ [%tutu_var%GARRK07]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3662, likeliness 99.9
-@3631 = ~[GARRICK 8] Je me sens mal préparé à cette tâche, mais je ferai de mon mieux. ~ [%tutu_var%GARRK08]
+@3631 = ~[GARRICK 8] Je me sens mal préparé à cette tâche, mais je ferai de mon mieux.~ [%tutu_var%GARRK08]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3663
 @3632 = ~[GARRICK 9] Un bâillement est un cri silencieux.~ [%tutu_var%GARRK09]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3664
@@ -4722,7 +4722,7 @@ Vagues et cascade de soie de Shuan.~
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3667
 @3638 = ~[GARRICK 12] Je crois que jamais un poème ne sera aussi joli qu'un arbre.~ [%tutu_var%GARRK12]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3668, likeliness 99.8
-@3639 = ~[GARRICK 13] Il fait une journée magnifique dans le coin. ~ [%tutu_var%GARRK13]
+@3639 = ~[GARRICK 13] Il fait une journée magnifique dans le coin.~ [%tutu_var%GARRK13]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 5286, likeliness 99.2
 @3640 = ~[GARRICK 14] ~ [%tutu_var%GARRK14]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 5287, likeliness 99.2
@@ -4734,7 +4734,7 @@ Vagues et cascade de soie de Shuan.~
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3670
 @3644 = ~[GARRICK 18] Je suis à votre service.~ [%tutu_var%GARRK18]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3671, likeliness 99.7
-@3645 = ~[GARRICK 19] La vie est merveilleuse. ~ [%tutu_var%GARRK19]
+@3645 = ~[GARRICK 19] La vie est merveilleuse.~ [%tutu_var%GARRK19]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3672
 @3646 = ~[GARRICK 20] Sur-le-champ.~ [%tutu_var%GARRK20]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3673
@@ -4756,11 +4756,11 @@ Vagues et cascade de soie de Shuan.~
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3689
 @3655 = ~[GARRICK 35] Je pense que vous êtes quelqu'un d'honorable.~ [%tutu_var%GARRK35]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3690, likeliness 99.8
-@3656 = ~[GARRICK 36] Je n'ai jamais rencontré quelqu'un d'aussi prévenant. ~ [%tutu_var%GARRK36]
+@3656 = ~[GARRICK 36] Je n'ai jamais rencontré quelqu'un d'aussi prévenant.~ [%tutu_var%GARRK36]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3694
 @3657 = ~[GARRICK 40] Le monde est bien cruel.~ [%tutu_var%GARRK40]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3695
-@3658 = ~[GARRICK 41] Nooon. Pourquoi elle ? Elle ne méritait pas ça !!!~ [%tutu_var%GARRK41]
+@3658 = ~[GARRICK 41] Nooon. Pourquoi elle ? Elle ne méritait pas ça !~ [%tutu_var%GARRK41]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3686
 @3659 = ~[GARRICK 32] Merci infiniment pour ce superbe compliment.~ [%tutu_var%GARRK32]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3687
@@ -4809,7 +4809,7 @@ Vagues et cascade de soie de Shuan.~
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3138
 @3697 = ~Khalid~
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4045, likeliness 99.8
-@3698 = ~[KHALID 1] Du calme, chérie, nous devons procéder doucement. ~ [%tutu_var%KHALD01]
+@3698 = ~[KHALID 1] Du calme, chérie, nous devons procéder doucement.~ [%tutu_var%KHALD01]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4046
 @3699 = ~[KHALID 2] Mère de sûreté ! Mère de sûreté !~ [%tutu_var%KHALD02]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4048
@@ -4863,7 +4863,7 @@ Vagues et cascade de soie de Shuan.~
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4073, likeliness 99.5
 @3724 = ~[KHALID 29] Vous... non, conservez votre beauté. Malgré vous.~ [%tutu_var%KHALD29]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4074, likeliness 99.4
-@3725 = ~[KHALID 30] En général, tout le monde fait ses preuves, mais il y a quelque chose de... bizarre chez vous. ~ [%tutu_var%KHALD30]
+@3725 = ~[KHALID 30] En général, tout le monde fait ses preuves, mais il y a quelque chose de... bizarre chez vous.~ [%tutu_var%KHALD30]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4075, likeliness 99.8
 @3726 = ~[KHALID 31] Je ne pensais pas qu'on puisse être méchant à ce point. Vous avez sûrement besoin d'ai-aide !
 ~ [%tutu_var%KHALD31]
@@ -4876,15 +4876,15 @@ Vagues et cascade de soie de Shuan.~
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4082
 @3730 = ~[KHALID 40] Une nouvelle victime. Cela n'arrêtera-t-il donc jamais ?~ [%tutu_var%KHALD40]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4083, likeliness 98.9
-@3731 = ~[KHALID 41] Jah... Jaheira. Non, NON ! ~ [%tutu_var%KHALD41]
+@3731 = ~[KHALID 41] Jah... Jaheira. Non, NON !~ [%tutu_var%KHALD41]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4078, likeliness 99.2
-@3732 = ~[KHALID 34] M-merci. ~ [%tutu_var%KHALD34]
+@3732 = ~[KHALID 34] M-merci.~ [%tutu_var%KHALD34]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4076
 @3733 = ~[KHALID 32] Allez affiler votre langue autre part. Tout le monde a droit à une chance.~ [%tutu_var%KHALD32]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4077, likeliness 98.7
 @3734 = ~[KHALID 33] Vous... huum... ne pouvez-vous jamais...~ [%tutu_var%KHALD33]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 10198, likeliness 100.0
-@3735 = ~Interrogé sur son passé, c'est un KHALID visiblement nerveux qui avoue être né et avoir été élevé en Calimshan. Il ne parle guère de ses parents, mais on sent que son marchand de père n'avait pas une haute opinion de lui et se consacrait davantage à ses demi-frères. Khalid s'est donc instruit dans l'art du combat sous l'égide de la milice de sa ville. Et même s'il reste dans le vague quant aux circonstances de sa rencontre avec Jaheira, il est visible qu'il l'adore. Quand on lui demande comment il se fait qu'il ait connu Gorion, il se borne à dire qu'ils étaient amis de longue date et que beaucoup de leurs amis communs vont pleurer sa perte sur leur harpe. ~ [DUMMYSND]
+@3735 = ~Interrogé sur son passé, c'est un KHALID visiblement nerveux qui avoue être né et avoir été élevé en Calimshan. Il ne parle guère de ses parents, mais on sent que son marchand de père n'avait pas une haute opinion de lui et se consacrait davantage à ses demi-frères. Khalid s'est donc instruit dans l'art du combat sous l'égide de la milice de sa ville. Et même s'il reste dans le vague quant aux circonstances de sa rencontre avec Jaheira, il est visible qu'il l'adore. Quand on lui demande comment il se fait qu'il ait connu Gorion, il se borne à dire qu'ils étaient amis de longue date et que beaucoup de leurs amis communs vont pleurer sa perte sur leur harpe.~ [DUMMYSND]
 @3736 = ~Toute cette mort... Cela va-t-il un jour s'arrêter ?~
 @3737 = ~Je ne suis pas blessé. Pas... pas dans ma chair, si c'est ce que vous voulez dire.~
 @3738 = ~Je suppose. Mais dites-moi, <CHARNAME>. Que signifie réellement "aller bien" ?~
@@ -4966,7 +4966,7 @@ Vagues et cascade de soie de Shuan.~
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3558
 @3787 = ~[KAGAIN 22] Pourquoi moi ?~ [%tutu_var%KAGAN22]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3563, likeliness 99.9
-@3788 = ~[KAGAIN 27] J'ai jamais rencontré un nain aussi stupide. C'est une honte pour les nains du monde entier. ~ [%tutu_var%KAGAN27]
+@3788 = ~[KAGAIN 27] J'ai jamais rencontré un nain aussi stupide. C'est une honte pour les nains du monde entier.~ [%tutu_var%KAGAN27]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3564
 @3789 = ~[KAGAIN 28] Yeslick, c'est votre bêtise qui a causé tous ces ennuis.~ [%tutu_var%KAGAN28]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3565, likeliness 99.8
@@ -5063,7 +5063,7 @@ Vagues et cascade de soie de Shuan.~
 @3850 = ~[AJANTIS 9] Je commence à perdre patience !
 ~ [%tutu_var%AJANT09]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3511, likeliness 99.9
-@3851 = ~[AJANTIS 10] Nous avons le devoir de combattre le mal. Ne perdons pas de temps en futilités ! ~ [%tutu_var%AJANT10]
+@3851 = ~[AJANTIS 10] Nous avons le devoir de combattre le mal. Ne perdons pas de temps en futilités !~ [%tutu_var%AJANT10]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3504
 @3852 = ~[AJANTIS 3] Pour la gloire de Heaum !
 ~ [%tutu_var%AJANT03]
@@ -5086,17 +5086,17 @@ Vagues et cascade de soie de Shuan.~
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3516
 @3861 = ~[AJANTIS 17] Je vis pour l'honneur.~ [%tutu_var%AJANT17]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3517
-@3862 = ~[AJANTIS 18] Heaume, donnez-moi la force de poursuivre.~ [%tutu_var%AJANT18]
+@3862 = ~[AJANTIS 18] Heaum, donnez-moi la force de poursuivre.~ [%tutu_var%AJANT18]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3518
-@3863 = ~[AJANTIS 19] Par Heaume !~ [%tutu_var%AJANT19]
+@3863 = ~[AJANTIS 19] Par Heaum !~ [%tutu_var%AJANT19]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3519
 @3864 = ~[AJANTIS 20] Comme vous voudrez.~ [%tutu_var%AJANT20]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3521
-@3865 = ~[AJANTIS 21] Avec la bénédiction de Heaume.~ [%tutu_var%AJANT21]
+@3865 = ~[AJANTIS 21] Avec la bénédiction de Heaum.~ [%tutu_var%AJANT21]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3522
 @3866 = ~[AJANTIS 22] Oui.~ [%tutu_var%AJANT22]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3528, likeliness 99.7
-@3867 = ~[AJANTIS 27] Vos actions sont une offense aux préceptes de Heaume. ~ [%tutu_var%AJANT27]
+@3867 = ~[AJANTIS 27] Vos actions sont une offense aux préceptes de Heaum.~ [%tutu_var%AJANT27]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3529
 @3868 = ~[AJANTIS 28] On appartient soit aux forces du bien soit à celles du mal, et je vous soupçonne d'appartenir à celles du mal.
 ~ [%tutu_var%AJANT28]
@@ -5114,13 +5114,13 @@ Vagues et cascade de soie de Shuan.~
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3536
 @3874 = ~[AJANTIS 35] Vous êtes d'une grande beauté, ma demoiselle.~ [%tutu_var%AJANT35]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3539, likeliness 99.9
-@3875 = ~[AJANTIS 40] Réjouissons-nous que notre compagnon soit tombé pour une cause juste. ~ [%tutu_var%AJANT40]
+@3875 = ~[AJANTIS 40] Réjouissons-nous que notre compagnon soit tombé pour une cause juste.~ [%tutu_var%AJANT40]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3540
 @3876 = ~[AJANTIS 41] Il est bien malheureux que notre compagnon soit mort avant d'avoir eu le temps de se racheter.~ [%tutu_var%AJANT41]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3535
 @3877 = ~[AJANTIS 34] Merci du compliment~ [%tutu_var%AJANT34]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3533, likeliness 99.9
-@3878 = ~[AJANTIS 32] Peut-être ne suis-je encore qu'un écuyer, mais jamais vous n'égalerez mon intégrité. ~ [%tutu_var%AJANT32]
+@3878 = ~[AJANTIS 32] Peut-être ne suis-je encore qu'un écuyer, mais jamais vous n'égalerez mon intégrité.~ [%tutu_var%AJANT32]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3534
 @3879 = ~[AJANTIS 33] Attention à ce que vous dites devant la gent féminine !~ [%tutu_var%AJANT33]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 10197, likeliness 91.0

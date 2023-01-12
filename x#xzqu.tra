@@ -3,8 +3,8 @@
 @2 = ~Hé bien, bonnes gens, puis-je... Quoi ! Qu'avez-vous là ?~
 @3 = ~Ceci, Sire, est l'essence nécromantiquement préservée de...~
 @4 = ~C'est une boule nécromantique visqueuse ! Tuez le nécromancien, si ce n'est pas encore fait, mais sortez cette ordure de mon établissement.~
-@5 = ~Mais nous avons... ~
-@6 = ~Pas d'histoires ! Dehors ! Dehors ! DEHORS !!! ~
+@5 = ~Mais nous avons...~
+@6 = ~Pas d'histoires ! Dehors ! Dehors ! DEHORS !~
 @7 = ~Je déduis de l'aspect concupiscent du visage de votre ami que vous voulez que l'anneau soit fabriqué ? Revenez dans cinq jours, mes amis, et il sera vôtre !~
 @8 = ~Revenez dans cinq jours, mes amis.~
 @9 = ~Ah, vous êtes ceux qui ont le sang de dryade, mais pas d'argent ?~
@@ -22,12 +22,12 @@
 @21 = ~Hé bien, un anneau de mithral pourrait servir de réceptacle à la magie de votre... euh... échantillon. Malheureusement, je n'ai rien de tel en stock en ce moment, pour ma part. Si vous pouviez fournir un réceptacle aussi parfait, hé bien... voyons... le parchemin, mon temps... pour... neuf cent... disons pour mille pièces d'or, je pourrais fabriquer un anneau magique capable de résister aux enchantements - peut-être même en lancer un mineur - en quatre... mettons cinq jours. Etes-vous intéressés ?~
 @22 = ~Oooh ! Faisons ça ! Il le faut ! On peut ? On peut, <CHARNAME> ? Sivouplééé ?!~
 @23 = ~Je ne sais pas. Si nous trouvons un tel... réceptacle, on pourra y réfléchir.~
-@24 = ~On le trouvera ! Même si nous devons dépouiller la Côte des Epées tout entière jusqu'à son fondement de pierre nue, NOUS LE FERONS !!!~
+@24 = ~On le trouvera ! Même si nous devons dépouiller la Côte des Epées tout entière jusqu'à son fondement de pierre nue, NOUS LE FERONS !~
 @25 = ~Euh... bien sûr, Xzar. Mais... euh... ça ressemble à un sacré gros boulot, donc le mieux c'est d'y aller. D'accord ?~
-@26 = ~Absotivement !!!~
+@26 = ~Absotivement !~
 @27 = ~Hum ?~
 @28 = ~Oh, pardon. Je voulais dire Posilument... Ahhh, mettons-nous à la tâche, et non à parler interminablement de la tâche ! Cessons de babiller et de prendre la pose...~
-@29 = ~Xzar ? Ferme-la !!!~
+@29 = ~Xzar ? Ferme-la !~
 @30 = ~Je scellerai mon dépôt avec rigueur.~
 @31 = ~Mais bien sûr, chers amis, j'ai en ma possession les objets les plus rares et les plus merveilleux. Jetez-y un coup d'oeil.~
 @32 = ~Hé bien, un anneau de mithral serait utile. Ça coûte trois... euh... quatre cents pièces d'or de l'enchanter pour contenir l'essence. Avec ça et votre... euh... composant je pourrais créer un anneau qui fera fi des charmes, c'est certain. Peut-être même vous laissera-t-il en renvoyer un, si je ne suis pas dérangé durant les cinq jours nécessaires à l'opération. Voyons... Le parchemin, mon temps, ça coûtera neuf... mille pièces d'or, tout compris. Qu'en dites-vous ?~
@@ -39,7 +39,7 @@
 @38 = ~Quelle est votre décision ?~
 @39 = ~Pas question. Ça n'en vaut pas la peine, et nous avons déjà du meilleur matériel.~
 @40 = ~Tireli-dada, mon radieux garçon ! C'est fait ! Et c'est à moi !~
-@41 = ~OUBLIER ça ?! JAMAIS !!! Votre mesquinerie est sans égale, <CHARNAME> ! Jamais je n'avais été aussi injustement frustré depuis que l'on m'a refusé la récompense du Premier Etudiant au laboratoire des Globes Oculaires !~
+@41 = ~OUBLIER ça ?! JAMAIS ! Votre mesquinerie est sans égale, <CHARNAME> ! Jamais je n'avais été aussi injustement frustré depuis que l'on m'a refusé la récompense du Premier Etudiant au laboratoire des Globes Oculaires !~
 @42 = ~Ça brille si joliment, comme de petits poissons morts qui puent sur le rivage.~
 @43 = ~Arrh ! Je ne peux pas attendre ! Je ne peux pas attendre plus longtemps !~
 @44 = ~AHA ! La démonstration de mon génie, ENFIN !~
@@ -90,7 +90,7 @@
 @86 = ~Bien sûr. A condition que je puisse l'avoir de nouveau si c'est nécessaire.~
 @87 = ~Hé hé hé ! On ne me fera jamais croire que vous aimez à nouveau les gazons, cher ami.~
       ~Hé hé hé ! On ne me fera jamais croire que vous aimez à nouveau les gazons, chère amie.~
-@88 = ~C'est idiot ! Les mendiants se charment grâce à leur misère, dans tous les cas. Et un lampadaire ? *Peut-on* charmer un lampadaire ? Peut-être pour créer l'obscurité sur commande ? * Ça* c'est une idée... ~
+@88 = ~C'est idiot ! Les mendiants se charment grâce à leur misère, dans tous les cas. Et un lampadaire ? *Peut-on* charmer un lampadaire ? Peut-être pour créer l'obscurité sur commande ? *Ça* c'est une idée...~
 @89 = ~Très bien. « Etudiez-le rapidement » ; tel serait mon conseil, très *cher* <CHARNAME> !~
       ~Très bien. « Etudiez-le rapidement » ; tel serait mon conseil, très *chère* <CHARNAME> !~
 @90 = ~*Ça* c'est une promesse que je n'oublierai pas, <CHARNAME>.~
@@ -144,7 +144,7 @@ Mon compagnon Xzar a tiré le sang d'une dryade des Pics Brumeux. Cette stupide 
 @136 = ~Ah, voilà qui te ressemble plus, Xzar. Mais dis-moi, que resterait-il de ces beautés de la nature après ton rituel ?~
 @137 = ~*haussement d'épaules* De plus grosses pierres, je suppose. Peut-être de petits fragments noircis et réduits en cendres. Que m'importe, à moi, si je peux maîtriser un tel pouvoir ?~
 @138 = ~*soupir* Mais ce doit être remis à plus tard. Pour le moment, <CHARNAME>, poursuivons nos voyages, nos labeurs et notre chasse aux rêves.~
-@139 = ~Tra-deri-dera... ~
+@139 = ~Tra-deri-dera...~
 @140 = ~Euh... Xzar, que cherchons-nous ici ?~
 @141 = ~Chercher ? Rien... Bon, les os nus et broyés d'un pendu, ce serait pas mal.~
 @142 = ~As-trouvé quelque chose ?~
@@ -168,7 +168,7 @@ Mon compagnon Xzar a tiré le sang d'une dryade des Pics Brumeux. Cette stupide 
 @158 = ~hu-hu. *Je*préfère profiter des prophètes, pour ma part.~
 @159 = ~Ne soyez pas stupide, <CHARNAME>. N'importe quel enfant sait bien que des créatures telles que les leprechauns n'existent pas.~
 @160 = ~Ne soyez pas stupide, <CHARNAME>. Jamais je ne me lancerais dans une thaumaturgie aussi vitale sans... conseils.~
-@161 = ~Hé bien, un artefact destiné à faire hurler de peine et d'horreur toute la Nature vivante, et le tout à la face de l'immanente et irréversible mort, bien sûr. Quoi d'autre pourrait m'intéresser ? ~
+@161 = ~Hé bien, un artefact destiné à faire hurler de peine et d'horreur toute la Nature vivante, et le tout à la face de l'immanente et irréversible mort, bien sûr. Quoi d'autre pourrait m'intéresser ?~
 @162 = ~Hélas ! Une de plus à pleurer. Une de plus à pleurer.~
 @163 = ~Mais nous ne pouvons pas. L'esprit de notre soeur est encore asservi, jusque dans la Mort.~
 @164 = ~C'est ainsi. Nous devons avertir nos frères mortels de cette atrocité.~

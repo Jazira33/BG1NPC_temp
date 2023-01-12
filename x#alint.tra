@@ -12,7 +12,7 @@
 @10 = ~Bah !~
 @11 = ~Oh non, ne me dites pas que vous faites encore affaire avec Roger l'embrouille ? Oooh, mais si ! Je sens encore l'odeur des égouts sur vous !~
 @12 = ~Bah, tu ne sens pas si bon que ça non plus, femme !~
-@13 = ~Avez-vous essayé en disant 's'il vous plaît' ?~
+@13 = ~Avez-vous essayé en disant « s'il vous plaît » ?~
 @14 = ~'S'il vous plaît', hors de ma vue, et allez tuer ce maudit monstre avant que je ne me fasse une hernie.~
 @15 = ~Bon, c'est un début.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 79, probablement inutile de traduire ici !
@@ -44,7 +44,7 @@
 @36 = ~... Euh...~
 @37 = ~... tout tout mignon...~
 @38 = ~... Hum...~
-@39 = ~... qui sent pas bon... ~
+@39 = ~... qui sent pas bon...~
 @40 = ~... Bon...~
 @41 = ~... un vieux minou !~
 @42 = ~... Euh, merci. Enfin, je présume.~
@@ -74,7 +74,7 @@
 @62 = ~A un de ces jours, Lori.~
 @63 = ~Ne t'en fais pas pour lui, <CHARNAME>. Il est toujours aussi morose. Fais attention à Phandalyn cependant. Ca fait un bon moment qu'il ne va pas bien maintenant. La rumeur court que des aventuriers maléfiques ont tué sa femme, ou quelque chose comme ça.~
 @64 = ~Hé, ne soit pas timide ! <CHARNAME>, voici Bellamy. on peut dire que nous sommes membres de la même 'communauté', ici à la Porte de Baldur.~
-@65 = ~Alora ! Tu viens de gâcher mon numéro de 'mystérieux étranger' !~
+@65 = ~Alora ! Tu viens de gâcher mon numéro de « mystérieux étranger » !~
 @66 = ~Hé, je voulais juste dire que nous sommes deux camarades petites-gens... *cligne de l'oeil*~
 @67 = ~Ce vieux Phandalyn crée à nouveau des problèmes ?~
 @68 = ~C'est cela. On peut dire qu'il est encore pire qu'avant.~

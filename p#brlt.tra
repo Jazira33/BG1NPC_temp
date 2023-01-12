@@ -116,7 +116,7 @@
 @108  = ~Comme c'est poétique. Ton peuple a plus d'éloquence que je ne le pensais.~
 @109  = ~Continue, je t'en prie.~
 @110  = ~Merci Branwen, j'en sais assez.~
-@111  = ~C'est une vieille légende, <CHARNAME>. On dit qu'une grande bataille se déroula sur cette plage, et qu'une meute de loups de mer dévora une tribu de sahuagins, des créatures-poissons. Les loups-garous réussirent à mettre en fuite les intrus mais furent à leur tour pourchassés et massacrés par mon peuple. D'autres soutiennent qu'un grand guerrier de renom provoqua en duel le chef de ces bestiaux et le tua au cours d'un combat loyal, mettant ainsi en déroute les loups restants. ~
+@111  = ~C'est une vieille légende, <CHARNAME>. On dit qu'une grande bataille se déroula sur cette plage, et qu'une meute de loups de mer dévora une tribu de sahuagins, des créatures-poissons. Les loups-garous réussirent à mettre en fuite les intrus mais furent à leur tour pourchassés et massacrés par mon peuple. D'autres soutiennent qu'un grand guerrier de renom provoqua en duel le chef de ces bestiaux et le tua au cours d'un combat loyal, mettant ainsi en déroute les loups restants.~
 @112  = ~Veux-tu en savoir plus au sujet de mon pays ?~
 @113  = ~Oui Branwen, je t'en prie.~
 @114  = ~Non, Branwen. Mon propre foyer occupe entièrement mes pensées.~
@@ -235,7 +235,7 @@
 @215  = ~J'ai quitté Château-Suif il y a quelques semaines, sans rien. Je suis vraiment un jeune inconscient, Branwen.~
 @216  = ~Oh ? Et ce kobold que tu as poursuivi jusqu'à la berge de la rivière, en chantant des hymnes guerriers ?~
 @217  = ~Je suis un combattant, et j'écraserai mes ennemis quand et comme il me plaira.~
-@218  = ~Mais tu me soigneras quoiqu'il arrive, n'est-ce pas ?~
+@218  = ~Mais tu me soigneras quoi qu'il arrive, n'est-ce pas ?~
 @219  = ~Bien sûr, <CHARNAME>. Mais les blessures peuvent être très différentes. Si un vampire t'attrape ou si un groupe de wivernes te taille en pièces, mes talents seront vains et inutiles.~
 @220  = ~*glousse* C'est ce que mon père répondait immanquablement à ma mère, lorsqu'elle commençait à se soucier en permanence de sa sécurité. Qu'il en soit ainsi, <CHARNAME>.~
 @221  = ~*rougit* Cette peste essayait de dérober ma pierre porte-bonheur que j'ai amenée de Norheim, en souvenir de ma terre ! Si je l'avais laissé échapper, mon honneur en aurait été entaché !~
@@ -612,7 +612,7 @@
 @548  = ~Fais-le de la manière que tu voudras, en fait. Dans ce cas précis, la fin justifie les moyens.~
 @549  = ~Oui, Branwen. Nous devons conserver notre honneur, et pas nous abaisser à son niveau.~
 @550  = ~Allons trouver Marek, et vite. Je ne voudrais pas qu'il t'arrive quoi que ce soit.~
-@551  = ~Oh Dieux, nous allons mourir, c'est cela ? J'ai si peur... J'ai été EMPOISONNÉ ! JE VAIS MOURIR ! NON !!!~
+@551  = ~Oh Dieux, nous allons mourir, c'est cela ? J'ai si peur... J'ai été EMPOISONNÉ ! JE VAIS MOURIR ! NON !~
 @552  = ~Tes paroles contiennent une part de vérité, <CHARNAME>, mais cependant elles m'inquiètent. Est-il nécessaire que nous nous écartions du droit chemin à la moindre difficulté ?~
 @553  = ~Merci <CHARNAME>. Je me retiendrai donc encore.~
 @554  = ~Cela me réconforte de voir que tu t'inquiètes à ce point, <CHARNAME>. Mais c'est également troublant.~
@@ -761,7 +761,7 @@
 @681  = ~Bien... si tu le dis. *Elle vous sourit avant de s'éloigner.*~
 @682  = ~*Branwen fait tourner l'amulette qui pend entre ses seins et vous lance des regards en coin. La petite gemme bleu-vert crée des jeux de lumière coquins et ceci, conjugué à la brève vision de ses doigts fins et des courbes attrayantes de sa poitrine, vous fait un effet certain...* ~
 @683  = ~*A l'évidence lassée d'étaler ses charmes, elle sourit, lâche l'amulette et saisit vos mains. Branwen relève sa tête en silence, et vos visages se rencontrent en un long et profond baiser.*~
-@684  = ~Je t'aime, <CHARNAME>. Ce n'est pas un secret, n'est-ce pas ? ~
+@684  = ~Je t'aime, <CHARNAME>. Ce n'est pas un secret, n'est-ce pas ?~
 
 // Réactions des autres membres du groupe à la romance Charname-Branwen
 
@@ -780,7 +780,7 @@
 @692  = ~Pas "en couple", fougueuse prêtresse, juste les femmes mariées.~
 @693  = ~C'est quasiment la même chose.~
 @694  = ~Ah, j'oublie que les subtilités te passent par dessus la tête. Pourquoi devrais-je solliciter les bonnes grâces de Celanil pour une personne déjà amoureuse et aimée en retour, qui a donc déjà sa bénédiction ? Ce sont les femmes qui se croient définitivement enfermées dans une union sans amour que je recherche, pour leur en offrir. Vous les humains semblez en engendrer continuellement, pour des raisons qui m'échappent totalement.~
-@695  = ~Tu es un elfe charitable, pour sûr... ~
+@695  = ~Tu es un elfe charitable, pour sûr...~
 @696  = ~Nous servons tous deux notre divinité aussi bien que faire se peut, non ?~
 @697  = ~Allons, tu es non seulement un concentré de charme, d'agilité et de finesse, mais aussi un homme d'une grande spiritualité ! Je regrette vraiment d'avoir à décliner ta proposition.~
 @698  = ~*Rit* Tu es un cas désespéré de menteuse, Branwen. Sois heureuse avec ton <CHARNAME>, ma douce. Je ferai une prière pour vous à Celanil si tu glisses quelques mots pour moi dans ta prière à Tempus.~
@@ -802,13 +802,13 @@
 @708  = ~Et aussi leader de la meute.~
 @709  = ~Oui, c'est vrai. Mais surtout...~
 @710  = ~Pourquoi est-ce que je ne ressens pas le besoin de m'accoupler avec lui ?~
-@711  = ~Quoi ? ~
+@711  = ~Quoi ?~
 @712  = ~<CHARNAME> est le mâle alpha de notre meute, mais je ne ressens pas le besoin de m'accoupler avec lui ou de me battre avec toi pour ses faveurs. Et tu n'es pourtant pas plus forte que moi.~
 @713  = ~Écoute ce que j'allais dire, Faldorn : j'ai pris <CHARNAME> comme petit ami surtout parce que mon coeur l'a choisi, et qu'il m'a aimée en retour. Cela n'a pas été le cas pour ton coeur...~
 @714  = ~Coeur ?! Par les glands de Silvanus, le coeur sert à pomper le sang et le faire circuler dans le corps ! Il ne commande absolument rien !~
-@715  = ~Peut-être es-tu plus humaine que tu ne le montres, Faldorn. ~
+@715  = ~Peut-être es-tu plus humaine que tu ne le montres, Faldorn.~
 @716  = ~Pauvre de moi ! Je finirai comme une misérable citadine, désirant un mâle inférieur à cause des caprices de ce "coeur" !~
-@717  = ~Sois tranquille : il n'y a aucun risque qu'on te confonde un jour avec une citadine, Faldorn. Et, juste au cas où tu déciderais de réaffirmer ta nature sauvage - choisis un autre mâle alpha. Celui-ci est à moi. ~
+@717  = ~Sois tranquille : il n'y a aucun risque qu'on te confonde un jour avec une citadine, Faldorn. Et, juste au cas où tu déciderais de réaffirmer ta nature sauvage - choisis un autre mâle alpha. Celui-ci est à moi.~
 @718  = ~Grrr ! Tu montres tes dents ! Peut-être es-tu plus une bête sauvage que tu ne le montres.~
 
 // Garrick
@@ -865,7 +865,7 @@
 
 @754  = ~Branwen, laisse cette ordure de mâle dans son coin. As-tu besoin d'un homme dans ton lit pour prouver ta valeur ? Être à son service comme je le suis, oui, mais arrête de lécher ses bottes et de réchauffer son entrejambes !~
 @755  = ~Jalouse, Shar-Teel ? Non, je présume que tu ne t'intéresserais à personne d'autre qu'un rejeton de Loki, un boucher aux bras couverts de sang jusqu'aux coudes.~
-@756  = ~Bah, ça prouverait au moins qu'il sait lever son épée. Pourquoi s'embêter avec ceux qui en sont incapables, des crétins de têtes de lard qui ont leur cerveau sous la ceinture ? ~
+@756  = ~Bah, ça prouverait au moins qu'il sait lever son épée. Pourquoi s'embêter avec ceux qui en sont incapables, des crétins de têtes de lard qui ont leur cerveau sous la ceinture ?~
 @757  = ~<CHARNAME> n'est pas ce genre d'homme. Tu t'en serais aperçue si tu n'étais pas aveuglée par la haine.~
 @758  = ~*crache* Voilà encore une femme qui a abandonné son bon sens pour le pantalon d'un mâle.~
 
@@ -883,7 +883,7 @@
 @765  = ~Prêtresse, votre attitude est des plus troublantes ! Si vous n'arrêtez pas de m'observer du coin de l'oeil, je ferai un lait de poule de vos yeux !~
 @766  = ~Espèce de petit magicien vantard ! Quand je te regarde, tu me fais pitié. Aucune femme ne passerait ne serait-ce qu'une minute avec toi, et encore moins une nuit entière.~
 @767  = ~Ridicule ! Ce n'est pas parce que <CHARNAME> tolère vos agaçantes moqueries que cela doit être aussi mon cas ! Je ferais mieux d'aller examiner le cadavre là-bas... il a l'air frais... et aussi certainement une belle réserve de composants de sorts. Ah, j'ai toujours voulu avoir ma paire de dés faits d'os humain, mais Maman a toujours dit "non". Tss, tss.~
-@768  = ~Par Tempus, tu es vraiment cinglé ! ~
+@768  = ~Par Tempus, tu es vraiment cinglé !~
 @769  = ~Oh non, non. Impossible qu'il y ait des gens cinglés dans notre groupe, n'est-ce pas ? Sinon les Lapins viendront ! Ils absorberont nos âmes, dévoreront nos corps et nous infligeront une légendaire malédiction Néthère, et il nous faudra porter un masque de cuir ou une armure à pointes pour le restant de nos misérables vies !~
 @770  = ~*grogne*~
 

@@ -72,7 +72,7 @@
 @35    = ~Ah ah. Imoen, le Pinacle de Contrariété, l'Exemple-même de Tracasserie et la Championne du Harcèlement !~
 // Après @34
 @36    = ~Chut ! Je réfléchis ! Où en étais-je ? J'aime encore davantage 'Imoen la Vive'. Je me demande si c'est déjà pris ?~
-/* Beregost talk */
+/* Bérégost talk */
 @37    = ~Eh bien nous y voilà ! Bérégost. Qu'en penses-tu ?~
 // Réponses à @37
 @38    = ~Je n'en ai pas encore vu assez pour me faire une véritable opinion.~
@@ -708,11 +708,11 @@ Houp-là !~
 @484   = ~Quoi ?! Où ?!~
 @485   = ~Ha ha ! Tu as regardé !~
 @486   = ~La destinée de Tiax ne sera pas tournée en dérision par cette morveuse ! Un jour sur le chevalet pour toi quand Tiax règnera ! Tiax SAVAIT dès le début que tu mentais, de toute façon. Quand Cyric viendra, Tiax le saura, car Cyric tracera un sillon de sang et de destruction au travers de tous les ennemis de Tiax avant de placer enfin la couronne de l'autorité sur la tête persévérante de Tiax ! Tous trembleront de peur et supplieront d'être...~
-@487   = ~Tiax !!! Regarde là-haut !!! CYRIC EST ARRIVÉ !!!~
+@487   = ~Tiax ! Regarde là-haut ! CYRIC EST ARRIVÉ !~
 @488   = ~Quoi ?! Où ?!~
 @489   = ~Ha ha ! Je t'ai encore fait tourner la tête ! Je pourrais continuer toute la journée !~
 /* Tiax 2 */
-@490   = ~Tiiiiiiax !!!~
+@490   = ~Tiiiiiiax !~
 @491   = ~Tu devras t'adresser à Tiax en l'appelant "Le Grand Tiax" dorénavant ! Le puissant Tiax ne dira rien pour cette fois-ci, mais la prochaine fois tu n'auras pas autant de chance !~
 @492   = ~Ouais... alors, "puissant Tiax", quand tu dirigeras le monde, que feras-tu de moi ?~
 @493   = ~Eh ? Toi ? Le grand Tiax doit y réfléchir.~

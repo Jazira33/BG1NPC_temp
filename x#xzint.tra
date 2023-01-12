@@ -93,8 +93,8 @@
 @64 = ~Imbécile irréfléchi ! Vous l'avez tué !~
 @65 = ~Bien sûr. Il essayait de *me* tuer, non ?~
 @66 = ~Hé bien, oui...~
-@67 = ~Un ogre-mage de moins n'importe guère, je vous l'accorde. Mais... ~
-@68 = ~Mais ? ~
+@67 = ~Un ogre-mage de moins n'importe guère, je vous l'accorde. Mais...~
+@68 = ~Mais ?~
 @69 = ~*rouler les yeux*~
 @70 = ~Je ne veux pas en parler.~
 @71 = ~A présent je ne saurai jamais comment il préparait le réactif de maladie lépreuse à partir de ces fichus mille-pattes !~
@@ -179,13 +179,13 @@
 @122 = ~Oui - maintenant que *je* suis arrivé !~
 @123 = ~Qui êtes-vous ?~
 @124 = ~Qui... euh... Je... Je suis ta PERTE, mon gars !~
-@125 = ~ONCLE LESTER !!!~
+@125 = ~ONCLE LESTER !~
 @126 = ~Euh... oui, c'est moi, ton Oncle Lester ! En personne !~
 @127 = ~Oooohhh...~
 @128 = ~Voilà. Vous voyez, <CHARNAME>, embobiner ce misérable lunatique pour l'amener à un état de passivité n'était pas si difficile...~
 @129 = ~VOUS N'ÊTES PAS ONCLE LESTER ! Si vous l'étiez, je serais mort maintenant ! Donc...~
 
-// Le crieur de Beregost
+// Le crieur de Bérégost
 
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 880, probablement inutile de traduire ici !
 @130 = ~De quels crimes contre nature peut-il s'agir, crieur ?~
@@ -211,7 +211,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 612, probablement inutile de traduire ici !
 @139 = ~Imbécile ! Vous êtes encore plus fou que Carsa ! La mort vous ira bien ! KAHRK !~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 613, probablement inutile de traduire ici !
-@140 = ~OH PUISSANT KAHRK !!!~
+@140 = ~OH PUISSANT KAHRK !~
 
 // Xzar / revenant
 
@@ -235,7 +235,7 @@
 @149 = ~Ooooh ! On peut regarder ?~
 @150 = ~Peut-être dans un petit moment, Krystin. Ce débile manque d'originalité laisse espérer que nos invités sont arrivés. Nous ne pouvons nous montrer inconsidérés au point de les délaisser pour des amusements de moindre importance.~
 @151 = ~Ooooh, Slythe. Ton esprit, c'est ce qui vient en second de meilleur chez toi. Tu le sais, n'est-ce pas, mon amour ?~
-@152 = ~Bien sûr. ~
+@152 = ~Bien sûr.~
 @153 = ~Tuons-les rapidement, alors. Je veux voir ça !~
 
 // Zizi (? nouveau perso)

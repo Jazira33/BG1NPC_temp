@@ -40,7 +40,7 @@
 
 //Lusselyn (à l'esturgeon frétillant, nous envoie sur pari tuer les limons de l'auberge)
 @12 = ~*riant* Tu es un homme heureux, Lusselyn... En te regardant, qui ne voudrait pas passer sa vie à picoler et à discuter avec d'aimables compagnons... Et si nous restions ici un moment, <CHARNAME>, et dépensions ces quelques piécettes pour célébrer la chance d'être en vie et compenser auprès de ce bon aubergiste la dépense d'avoir à racheter une nouvelle gelée ?~
-@13 = ~T'es un bon gars, toi... ~
+@13 = ~T'es un bon gars, toi...~
 
 
 //Areana (dame de la noblesse qui aux Trois vieilles chopes vous recrute pr tuer Cyrdemac au chant de l'elfe)
@@ -324,7 +324,7 @@
 @155 = ~Qu'est-ce qui court partout en ville ? Oh...~
 @156 = ~Les rumeurs mentent, m'dame...~
 @157 = ~Qu-quoi ?!~
-@158 = ~*après une pause dramatique* Vous êtes la plus belle femme du monde... ~
+@158 = ~*après une pause dramatique* Vous êtes la plus belle femme du monde...~
 @159 = ~Merci, vraiment...~
 @160 = ~Puis-je avoir le privilège d'embrasser vos doigts fins et élégants ?~
 @161 = ~Certainement...~
@@ -332,7 +332,7 @@
 @163 = ~*glousse* ça lui apprendra à se pavaner avec à chaque occasion !~
 @164 = ~Dame Bérayat ? Oh... Des saphirs étoilés ? Une fille à tête de cheval ?~
 @165 = ~Vous étiez terriblement amical avec elle...~
-@166 = ~J'ai dû être aveuglé par votre propre beauté... ~
+@166 = ~J'ai dû être aveuglé par votre propre beauté...~
 @167 = ~*glousse* Mais n'avez-vous pas dit que vous ne m'aviez encore jamais vue, Elfe ?~
 @168 = ~Euh... J'ai menti. Depuis ce fameux soir, je n'ai cessé d'espérer vous revoir... Je, euh... J'ai même appelé mes camarades pour m'aider à vous retrouver...~
 @169 = ~Comme c'est romantique !~
