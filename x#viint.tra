@@ -7,7 +7,7 @@
 @4 = ~Celui-là ne vaut même pas la peine qu'on prenne le temps de le tuer, <CHARNAME>. Partons.~
 @5 = ~Parce que tu te considères toi-même comme cultivé, iblith ? Ne me fais pas rire.~
 // BG1 NPC : texte proche dans le fichier x#ict3.tra au numéro 507, probabilité 75.5
-@6 = ~Oh, la ferme. J'ai rencontré des kobolds plus 'éclairés' que toi.~
+@6 = ~Oh, la ferme. J'ai rencontré des kobolds plus « éclairés » que toi.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 508, probablement inutile de traduire ici !
 @7 = ~Quoi ? Qui ose défier ma loi ! Expliquez-vous !~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 455, probablement inutile de traduire ici !

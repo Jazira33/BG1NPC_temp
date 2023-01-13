@@ -73,7 +73,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 597, probablement inutile de traduire ici !
 @62 = ~A un de ces jours, Lori.~
 @63 = ~Ne t'en fais pas pour lui, <CHARNAME>. Il est toujours aussi morose. Fais attention à Phandalyn cependant. Ca fait un bon moment qu'il ne va pas bien maintenant. La rumeur court que des aventuriers maléfiques ont tué sa femme, ou quelque chose comme ça.~
-@64 = ~Hé, ne soit pas timide ! <CHARNAME>, voici Bellamy. on peut dire que nous sommes membres de la même 'communauté', ici à la Porte de Baldur.~
+@64 = ~Hé, ne soit pas timide ! <CHARNAME>, voici Bellamy. on peut dire que nous sommes membres de la même « communauté », ici à la Porte de Baldur.~
 @65 = ~Alora ! Tu viens de gâcher mon numéro de « mystérieux étranger » !~
 @66 = ~Hé, je voulais juste dire que nous sommes deux camarades petites-gens... *cligne de l'oeil*~
 @67 = ~Ce vieux Phandalyn crée à nouveau des problèmes ?~
@@ -129,7 +129,7 @@
 @105 = ~Pour un prêtre dans une cave à vin, tu es assurément grognon !~
 @106 = ~Tu le serais aussi, si tu étais la seule à faire en sorte que cet endroit reste juste un village d'imbéciles, plutôt qu'un village d'imbéciles qui se rendent ivres avec de la bière volée.~
 @107 = ~Mon garçon, on dirait que tu aurais bien besoin d'avoir des pensées plus gaies !~
-@108 = ~Il y en a justement une qui me vient à l'esprit : de savoir que tout ira bien mieux quand tu seras partie. Mais puisque tu es encore là et si ce n'est pas pour la bière, je suppose que tu recherches de 'l'aide', je veux dire le genre d'aide dont les gens comme toi ont tout le temps besoin...~
+@108 = ~Il y en a justement une qui me vient à l'esprit : de savoir que tout ira bien mieux quand tu seras partie. Mais puisque tu es encore là et si ce n'est pas pour la bière, je suppose que tu recherches de « l'aide », je veux dire le genre d'aide dont les gens comme toi ont tout le temps besoin...~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 676, probablement inutile de traduire ici !
 @109 = ~Et en moins d'une semaine ils font la fête comme jamais, pas vrai ?~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 677, probablement inutile de traduire ici !
@@ -149,7 +149,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 739, probablement inutile de traduire ici !
 @117 = ~Yiiiii !~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 740, probablement inutile de traduire ici !
-@118 = ~Ne me crie pas 'Yiiii', fillette !~
+@118 = ~Ne me crie pas « Yiiii », fillette !~
 @119 = ~Humm ?~
 @120 = ~Ah, tu ferais mieux d'y aller, tu sais.~
 @121 = ~COURS !~

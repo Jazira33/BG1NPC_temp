@@ -129,10 +129,10 @@
 @107 = ~Purée ! Pas étonnant que vous autres portiez toujours un casque ! Dormir en souterrain avec juste une petite poutre en bois pour tenir le toit ! Je crois que je deviendrais folle à me demander si le toit irait pas s'effondrer sur moi.~
 @108 = ~Bah, tu t'y f'rais. Bref, une histoire ! Je connais bien quelques fables qu'on racontait lors des festivités. Elles déclenchaient toujours des applaudissements, celles-là. Est-ce que l'conte de la Chute du Seigneur Fargrim te conviendra ? C'est une histoire d'sang, d'guerre et d'tristesse !~
 @109 = ~Bien sûr ! Ca ressemble à quelque chose que ce vieux Grosventre raconterait. Donne-moi juste un moment pour me mettre dans l'ambiance.~ 
-@110 = ~D'accord, alors installe toi, installe toi. *se racle la gorge* “Cette histoire se déroule dans les temps où l'enclume tonnait, dans l'année de la colère du Forgeur d'Ames, quand le Seigneur Fargrim, Roi de la Montagne Scintillante, Maitre du Clan Tuetroll, Forgeur de l'Epieu des Cieux, était le dirigeant du Val des Ombres et y régnait en maître. Car il y avait là un puissant chef de guerre Troll qui ne le combattait pas... et...~
-@111 = ~... et c'est ainsi qu'Alric, Maître des armées du clan, Marteau des Gobelins, Casque-d'Acier, l'envoya quérir. Et le fils du Troll était connu sous plusieurs noms ; Dent-Acérée, Peau-de-Serpent, la Griffe des Montagnes, mais principalement sous le nom de Garglish, chef de la tribu de la Lune Putride.~
-@112 = ~Et tiens-toi bien, Garglish, Dent-Acérée, Peau-de-Serpent, la Griffe des Montagnes, chef de la tribu de la Lune Putride vint effectivement à la rencontre d'Alric, Maître des armées du clan, Marteau des Gobelins, Casque-d'Acier comme émissaire privilégié de son père, l'infâme Grargar, Gorgecrocs, Griffe-Lamineuse. Et aux côtés d'Alric, Maître des armées du clan, Marteau des Gobelins, Casque-d'Acier se tenait Fargrim, Maître-des-Monts, Tueur-de-Troll,Forge-Epieu.~
-@113 = ~Et il lui dit “Tu es venu comme je te l'ai demandé, Garglish, Dent-Acérée, Peau-de-Serpent, la Griffe des Montagnes, chef de... ” hum... “chef de la tribu de la Lune Putride... ” euh...~
+@110 = ~D'accord, alors installe toi, installe toi. *se racle la gorge* « Cette histoire se déroule dans les temps où l'enclume tonnait, dans l'année de la colère du Forgeur d'Ames, quand le Seigneur Fargrim, Roi de la Montagne Scintillante, Maitre du Clan Tuetroll, Forgeur de l'Epieu des Cieux, était le dirigeant du Val des Ombres et y régnait en maître. Car il y avait là un puissant chef de guerre Troll qui ne le combattait pas... et... »~
+@111 = ~« ... et c'est ainsi qu'Alric, Maître des armées du clan, Marteau des Gobelins, Casque-d'Acier, l'envoya quérir. Et le fils du Troll était connu sous plusieurs noms ; Dent-Acérée, Peau-de-Serpent, la Griffe des Montagnes, mais principalement sous le nom de Garglish, chef de la tribu de la Lune Putride. »~
+@112 = ~Et tiens-toi bien, « Garglish, Dent-Acérée, Peau-de-Serpent, la Griffe des Montagnes, chef de la tribu de la Lune Putride vint effectivement à la rencontre d'Alric, Maître des armées du clan, Marteau des Gobelins, Casque-d'Acier comme émissaire privilégié de son père, l'infâme Grargar, Gorgecrocs, Griffe-Lamineuse. Et aux côtés d'Alric, Maître des armées du clan, Marteau des Gobelins, Casque-d'Acier se tenait Fargrim, Maître-des-Monts, Tueur-de-Troll,Forge-Epieu. »~
+@113 = ~Et il lui dit « Tu es venu comme je te l'ai demandé, Garglish, Dent-Acérée, Peau-de-Serpent, la Griffe des Montagnes, chef de... » hum... « chef de la tribu de la Lune Putride... » euh...~
 @114 = ~Imoen ? Hé, Imoen ? Tu m'écoutes, petite ?~
 @115 = ~Zzzzzzzz...~
 @116 = ~J'imagine que t'as trouvé la saga du Seigneur Fargrim un peu dure à digérer, petite...~
@@ -170,7 +170,7 @@
 @142  = ~Quoi ?~
 @143  = ~Hum... J'oubliais que tu étais - je veux dire, tu es, enfin... vieux.~
 @144  = ~Je suis pas *vieux*, gamine ! Je suis... dans la fleur de l'âge, au sommet de mon séjour sur cette terre ! Je suis peut-être un tantinet plus... mature et expérimenté que toi, mais si c'est tout ce qui t'intéresse, pour toi TOUT L'MONDE est vieux ! J'prends juste mon temps pour admirer, tu vois ?~
-@145  = ~Bien, assieds-toi un instant et “admire”, alors ! Moi, je vais battre mon record de vitesse ! Wheee !~
+@145  = ~Bien, assieds-toi un instant et « admire », alors ! Moi, je vais battre mon record de vitesse ! Wheee !~
 @146  = ~Les jeunes d'aujourd'hui... pas capables de garder une pensée pour eux... plus d'respect, nan, aucun. *marmonne*~
 
 //Branwen + Tiax en 152
@@ -332,7 +332,7 @@
 @270  = ~J'imagine qu'il y pas de moyen de faire ça gentiment. Montaron, j'te surveille.~
 @271  = ~Ohoh, j'ai un auditoire, apparemment ? Si tu peux pas trouver autre chose à r'garder, t'es encore plus idiot que je l'pensais.~
 @272  = ~Je regarde juste le dos de qui t'observe... en m'demandant dans qui tu vas planter ton couteau en premier. C'est bizarre, ces trucs-là m'intéressent, les mécréants de meurtriers comme toi et tout ça... et j'vois qu'tu regardes un peu trop le dos d'<CHARNAME>. J'te préviens... oublie ça.~
-@273  = ~Pffft. 'Meurtrier', moi ? Mon couteau s'occupe d'la viande et des oignons et y a rien d'meurtrier à un dîner sur la route, mais tu l'as p'têtre oublié, avec le “service d'étage” de la cellule où on t'a trouvé. L'pote <CHARNAME>, l'a pas oublié.~
+@273  = ~Pffft. 'Meurtrier', moi ? Mon couteau s'occupe d'la viande et des oignons et y a rien d'meurtrier à un dîner sur la route, mais tu l'as p'têtre oublié, avec le « service d'étage » de la cellule où on t'a trouvé. L'pote <CHARNAME>, l'a pas oublié.~
 @274  = ~Tu m'embobineras pas avec ton blabla culinaire... tu mens peut-être pas, mais tu dis pas non plus la vérité. D'puis quand z'êtes 'potes' ? T'es vicieux, petit-homme, et les p'tits bâtards vicieux comme toi ont pas de 'potes'... ou pas pour longtemps.~
 @275  = ~T'y connais que dalle en amis toi, vu comme t'as choisi les tiens. T'enfermer, c'est p't-être bien la seule chose sensée qu'ils aient faite. Mais ils ont fait d'aut' chose, et c'est pour ça que mes 'potes' m'ont demandé de m'charger d'eux. Donc moi et Xzar, on trouve <CHARNAME> sur la même mission et on d'vient tous potes tant que c'Trône de Fer tient toujours. Même chose pour toi ; c'pendant j'pige pas bien pourquoi on attend qu'ce soient *eux* qui t'mettent dans en boîte.~
 @276  = ~Des menaces ? Alors en voici une de ma part, criminel de caniveau. A partir de maintenant, *j'écouterai* en plus d'observer. Maintenant, décampe. Tu m'ennuies.~
@@ -340,7 +340,7 @@
 
 //Montaron, reprise des lignes 271 et 273, la différence est dans le codage du dialogue
 @278  = ~Ohoh, j'ai un auditoire, apparemment ? Si tu peux pas trouver autre chose à r'garder, t'es encore plus idiot que je l'pensais.~
-@279  = ~Pffft. 'Meurtrier', moi ? Mon couteau s'occupe d'la viande et des oignons et y a rien d'meurtrier à un dîner sur la route, mais tu l'as p'têtre oublié, avec le “service d'étage” de la cellule où on t'a trouvé. L'pote <CHARNAME>, l'a pas oublié..~
+@279  = ~Pffft. 'Meurtrier', moi ? Mon couteau s'occupe d'la viande et des oignons et y a rien d'meurtrier à un dîner sur la route, mais tu l'as p'têtre oublié, avec le « service d'étage » de la cellule où on t'a trouvé. L'pote <CHARNAME>, l'a pas oublié..~
 
 //Quayle + Kagain en 286
 @280  = ~Ça vous dérangerait de rester silencieux une minute, Quayle ? J'essaie de prier, et je n'y arrive pas à cause de votre babil auto-proclamé intelligent.~

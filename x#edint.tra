@@ -2,7 +2,7 @@
 @1 = ~Ne trahis jamais un Sorcier Rouge de Thay, <CHARNAME>. Malheureusement, tu ne vivras pas assez longtemps pour tirer profit de cette leçon.~
 @2 = ~Ne t'avais-je pas dit que je reviendrais ? Je m'employais à te préparer une surprise.~
 @3 = ~Les Sorciers Rouges de Thay ne sont pas connus pour leur nature magnanime. Vous nous avez privés de l'un d'entre nous, Edwin, et c'est une offense envers nous tous. Nous allons devoir vous tuer.~
-@4 = ~Dis moi, créature, qui t'a appris les mots 'deux cents' ? Car je suis absolument certain que tu ne peux compter jusque là. Si tu veux me prouver mon erreur, compte à voix haute, et nous devrons te payer mille pièces d'or pour tes efforts. Mais à une condition : toi et tes compagnons devez tous fermer les yeux pendant que tu comptes.~
+@4 = ~Dis moi, créature, qui t'a appris les mots « deux cents » ? Car je suis absolument certain que tu ne peux compter jusque là. Si tu veux me prouver mon erreur, compte à voix haute, et nous devrons te payer mille pièces d'or pour tes efforts. Mais à une condition : toi et tes compagnons devez tous fermer les yeux pendant que tu comptes.~
 @5 = ~Oh... oui. Fermez les yeux !~
 @6 = ~Un...~
 @7 = ~Deux...~
@@ -19,7 +19,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 358, probablement inutile de traduire ici !
 @16 = ~Souillon, les concubines vieillissantes de Thay couvrent les lampes d'abat-jour rose pour créer un effet de lumière plus favorable à leurs charmes défaillants. Je vois... ou plutôt, je suppose, que vous avez agi de même, en choisissant de vivre dans une mine. Il est probable que dans les ténèbres même vous pourriez passer pour une femme, pour un babouin local.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 142, probablement inutile de traduire ici !
-@17 = ~Ma Dame, je ne suis pas sans savoir que l'entropie est la dégradation de la matière et de l'énergie dans l'univers jusqu'à un état ultime d'uniformité inerte. Si c'est ce que votre âme soeur et vous êtes prêts à illustrer avec vos corps divins, je suis assez intrigué et voudrais prêter le mien pour quelques expériences... (Oui, oui, j'ai trouvé une délicieuse proportion de philosophie et d'osé, mais pourquoi m'être donné autant de mal ? Je suis sûr qu'un simple 'oui' aurait suffi - elles ne sont pas accoutumées à mon niveau de sophistication dans ce pays barbare.)~
+@17 = ~Ma Dame, je ne suis pas sans savoir que l'entropie est la dégradation de la matière et de l'énergie dans l'univers jusqu'à un état ultime d'uniformité inerte. Si c'est ce que votre âme soeur et vous êtes prêts à illustrer avec vos corps divins, je suis assez intrigué et voudrais prêter le mien pour quelques expériences... (Oui, oui, j'ai trouvé une délicieuse proportion de philosophie et d'osé, mais pourquoi m'être donné autant de mal ? Je suis sûr qu'un simple « oui » aurait suffi - elles ne sont pas accoutumées à mon niveau de sophistication dans ce pays barbare.)~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 134, probablement inutile de traduire ici !
 @18 = ~<CHARNAME>, cela me briserait sûrement le coeur de tuer ces créatures belles et innocentes... (Cela devrait suffire à l'en dissuader ; tous les héros de pacotille se laissent toujours berner par ce genre de plaintes sentimentales... et aider des concubines exotiques est une affaire profitable. Tout ce dont j'ai besoin maintenant, c'est d'un navire et de quelques filets robustes.)~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 123, probablement inutile de traduire ici !
@@ -95,7 +95,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 169, probablement inutile de traduire ici !
 @62 = ~Que les dieux nous gardent de la peste et des poètes. (J'aurais dû fuir quand j'en avais le temps. Dans les collines, les collines, j'ai dit !)~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 170, probablement inutile de traduire ici !
-@63 = ~Ah, j'aurais dit que c'est 'dans les ruines, dans les ruines !' Je ne vous envie pas votre chance, monsieur. Je me fiche de rester ici à m'imprégner de la mélancolie ambiante, mais aller sous terre... non, monsieur !~
+@63 = ~Ah, j'aurais dit que c'est « dans les ruines, dans les ruines ! » Je ne vous envie pas votre chance, monsieur. Je me fiche de rester ici à m'imprégner de la mélancolie ambiante, mais aller sous terre... non, monsieur !~
 @64 = ~Je soupçonne qu'il y a entre vous deux comme une exaspération d'insectes devant la raison.~
 // BG1 NPC : texte proche dans le fichier x#ict3.tra au numéro 200, probabilité 63.1
 @65 = ~Oh, comme il a ri !~

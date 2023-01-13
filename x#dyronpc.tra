@@ -211,7 +211,7 @@
 @177 = ~Cette conversation ne sera agréable pour aucune d'entre nous deux, Jaheira.~
 @178 = ~Je sais, mais Gorion nous a donné pour mission, à Khalid et moi, de protéger <CHARNAME>.~
 @179 = ~Cela excuse donc Tes indiscrétions ?~
-@180 = ~Je ne suis nullement poussée par la curiosité malsaine d'une commère ! Mais je me dois de m'interroger sur les motivations de toute femme pour qui le jeune garçon, <CHARNAME>, a des sentiments, d'autant plus si elle fait partie d'une société secrète motivée par le pouvoir, et qu'elle s'est retrouvée 'comme par hasard' sur la Côte des Epées alors qu'elle vient d'une région lointaine.~
+@180 = ~Je ne suis nullement poussée par la curiosité malsaine d'une commère ! Mais je me dois de m'interroger sur les motivations de toute femme pour qui le jeune garçon, <CHARNAME>, a des sentiments, d'autant plus si elle fait partie d'une société secrète motivée par le pouvoir, et qu'elle s'est retrouvée « comme par hasard » sur la Côte des Epées alors qu'elle vient d'une région lointaine.~
 @181 = ~Je me suis laissée dire que les Hathrans ne voyagent pas pour le plaisir du dépaysement, ni qu'elle ne perdent leurs temps à jouer avec le coeur des hommes.~
 @182 = ~Alors, considères-Tu <CHARNAME> comme un jeune garçon, ou comme un homme ?~
 @183 = ~Je n'ai jamais pensé à lui en ces... termes. Je suis chargée de le protéger, selon la volonté de Gorion, et je ne laisserai personne le blesser ou profiter de lui. Personne.~
@@ -236,7 +236,7 @@
 @200 = ~*renifle* Tu es peut-être le plus vieux, mais certainement pas le plus sage.~
 @201 = ~Ecoute et apprends !~
 @202 = ~Ooh ! Tu es le dernier à t'en rendre compte, comme d'hab' !~
-@203 = ~*rigole* T'es trop mignon quand tu as ce regard qui dit 'je suis plus intelligent qu'Elminster' ! Tu es amoureux de Dynahéir, voilà ce qu'il se passe.~
+@203 = ~*rigole* T'es trop mignon quand tu as ce regard qui dit « je suis plus intelligent qu'Elminster » ! Tu es amoureux de Dynahéir, voilà ce qu'il se passe.~
 @204 = ~Et c'est une dame. Si tu veux l'impressionner, écoute et apprends !~
 @205 = ~Chut. Sois attentif, un peu !~
 @206 = ~Ouh, le grincheux ! *Elle vous tire la langue.*~
@@ -270,7 +270,7 @@
 @227 = ~Perversion ! Seule la Grande Mère peut rassembler ainsi les gens. Regarde, par exemple, <CHARNAME> et toi... la Grande Mère vous a tous les deux bien à l'oeil.~
 @228 = ~A T'écouter, la Grande Mère tient tout le monde à l'oeil.~
 @229 = ~Certaines personnes ont besoin de son attention plus que d'autres. <CHARNAME> a une odeur bien plus naturelle depuis qu'il tourne en round autour de sa femelle.~
-@230 = ~*obséquieusement* Avait-il, selon Toi, une 'odeur' artificielle ?~
+@230 = ~*obséquieusement* Avait-il, selon Toi, une « odeur » artificielle ?~
 @231 = ~*acquiesce, confiante* Oh, oui. Grrr... Ca doit sans doute venir de son éducation par ces moines de cette satanée bibliothèque ! J'ai entendu dire qu'il s'agit de l'endroit où les peuplades civilisées gardent trace de tous leurs crimes.~
 @232 = ~Je pense que Ta haine déforme Ta perception des choses. Après tout, personne n'a noté quoi que ce soit de différent, chez <CHARNAME>.~
 @233 = ~*renifle* Ca veut tout juste dire que leur flair s'est éteint. Il a une odeur étrange, plus forte que l'urine d'une louve en chaleur ! Il est bon qu'il cherche une partenaire pour s'accoupler.~

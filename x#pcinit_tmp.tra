@@ -241,7 +241,7 @@
 @135 = ~*renifle* Je n'avais jamais *imaginé* que je porterai un jour ma maison sur mon dos, comme une tortue !~
 @136 = ~Vraiment, les classes inférieures sont beaucoup moins barbantes que les nobles. Et il y en a *tellement* parmi eux qui veulent m'agresser ou bien me parler !~
 @137 = ~Ohh ! Tous ces... meurtres ! *Pourquoi* ces... créatures... ne peuvent pas avoir la politesse de mourir de leur propre chef ?~
-@138 = ~Ces vêtements 'pratiques' ne me vont pas. Et ces bottes ! Ces grosses godasses iraient mieux à une paysanne rustaude !~
+@138 = ~Ces vêtements « pratiques » ne me vont pas. Et ces bottes ! Ces grosses godasses iraient mieux à une paysanne rustaude !~
 @139 = ~*fait un petit clin d'oeil à Eldoth* Oh, disons que j'ai largement de quoi compenser les quelques petits problèmes de confort.~
 @140 = ~*sourit tendrement à Eldoth* Tout est parfait ! Et j'espère que question confort, ça s'améliorera très bientôt.~
 @141 = ~Je... Je veux juste rentrer *chez moi* !~
@@ -399,7 +399,7 @@ Avance et bats-toi sur l'heure !~
 @238 = ~Bien sûr que si, mais à condition que tu te mettes à dire quelque chose d'utile, pour changer. Comme : 'A l'attaque !'~
 @239 = ~Si j'avais su que tu passais ton temps à taper la discute au lieu de te battre, je ne t'aurais jamais loué mes services.~
 @240 = ~Non.~
-@241 = ~Pourquoi ne tuer que ceux qui 's'opposent à nous' ? Arrête tes simagrées de noble héros, et trouve-nous un carnage sanglant.~ ~Pourquoi ne tuer que ceux qui 's'opposent à nous' ? Arrête tes simagrées de noble héroïne, et trouve-nous un carnage sanglant.~
+@241 = ~Pourquoi ne tuer que ceux qui « s'opposent à nous » ? Arrête tes simagrées de noble héros, et trouve-nous un carnage sanglant.~ ~Pourquoi ne tuer que ceux qui « s'opposent à nous » ? Arrête tes simagrées de noble héroïne, et trouve-nous un carnage sanglant.~
 @242 = ~En égorger quelques uns pourrait se révéler amusant.~
 @243 = ~Bah !~
 @244 = ~Tu as gagné mon épée, pas ma langue. Je dirai ce que je voudrai quand je le voudrai.~
@@ -472,7 +472,7 @@ Avance et bats-toi sur l'heure !~
 @311 = ~C'était un homme. Bien.~
 @312 = ~Euh, en fait, je crois que je l'ai raté, mais je commence à viser mieux.~
 @313 = ~J'ai découvert quel est le plus court chemin qui mène au coeur d'un homme : à travers la poitrine, avec une dague acérée.~
-@314 = ~'L'homme parfait' est une contradiction en soi, <CHARNAME>.~
+@314 = ~« L'homme parfait » est une contradiction en soi, <CHARNAME>.~
 @315 = ~Pourquoi en trouver un seul quand tu peux en voler plusieurs ?~
 @316 = ~*Hausse les épaules* Pourquoi prêtes-tu attention aux hommes, alors ?~
 @317 = ~Parce que je veux en trouver un qui ait les moyens de m'entretenir !~
@@ -1703,7 +1703,7 @@ Avance et bats-toi sur l'heure !~
 //réponses à @1232
 @1293 = ~Avec plaisir. La Rashéménie est le territoire connu des Royaumes le plus à l'est. Au-delà, il n'y a que d'immenses plaines verdoyantes, où vivent les nomades de la Horde Tuigane, et peut-être d'autres peuplades.~
 @1294 = ~Certainement. Mon peuple, les Rashémènes, que l'on nomme aussi Rashémi, sont généralement moins grands mais plus robustes que les humains peuplant Ta région. L'on trouve parmi nous bon nombre de bergers et d'artisans spécialisés dans la taille de pierres et de petits objets.~
-@1295 = ~Tu es bien curieux ; mais si je ne t'ennuie guère avec mes histoires, sache que la plus grande partie de notre commerce avec l'extérieur concerne la vente des cuirs et des fourrures, ainsi que les objets taillés des mains de nos artisans. Le jhuild, que l'on appelle 'flammevin' dans cette région, est aussi un commerce assez lucratif pour les Rashémi. Il s'agit d'un alcool fort, si Tu n'étais pas déjà au courant.~ ~Tu es bien curieuse ; mais si je ne t'ennuie guère avec mes histoires, sache que la plus grande partie de notre commerce avec l'extérieur concerne la vente des cuirs et des fourrures, ainsi que les objets taillés des mains de nos artisans. Le jhuild, que l'on appelle 'flammevin' dans cette région, est aussi un commerce assez lucratif pour les Rashémi. Il s'agit d'un alcool fort, si Tu n'étais pas déjà au courant.~
+@1295 = ~Tu es bien curieux ; mais si je ne t'ennuie guère avec mes histoires, sache que la plus grande partie de notre commerce avec l'extérieur concerne la vente des cuirs et des fourrures, ainsi que les objets taillés des mains de nos artisans. Le jhuild, que l'on appelle « flammevin » dans cette région, est aussi un commerce assez lucratif pour les Rashémi. Il s'agit d'un alcool fort, si Tu n'étais pas déjà au courant.~ ~Tu es bien curieuse ; mais si je ne t'ennuie guère avec mes histoires, sache que la plus grande partie de notre commerce avec l'extérieur concerne la vente des cuirs et des fourrures, ainsi que les objets taillés des mains de nos artisans. Le jhuild, que l'on appelle « flammevin » dans cette région, est aussi un commerce assez lucratif pour les Rashémi. Il s'agit d'un alcool fort, si Tu n'étais pas déjà au courant.~
 @1296 = ~En Rashéménie, les troupeaux de chèvres et de rothés ne se comptent plus, et ma terre dispose d'énormes ressources de métal. Mais les marchands Rashémi font plutôt le commerce de grain, de bois et de tissus.~
 @1297 = ~Eh bien, peut-être seras-Tu intéressé de savoir qu'en Rashéménie, nous avons le sjorl, qui est un fromage fumé. Son goût me manque ; je n'ai rien goûté de tel en Ton pays.~ ~Eh bien, peut-être seras-Tu intéressée de savoir qu'en Rashéménie, nous avons le sjorl, qui est un fromage fumé. Son goût me manque ; je n'ai rien goûté de tel en Ton pays.~
 @1298 = ~J'ai entendu tantôt un conteur chanter la Rashéménie comme étant la 'Terre des Berserkers'. Et en effet, la force de nos guerriers se manifeste dans leur frénésie indomptable.~
@@ -1758,7 +1758,7 @@ Avance et bats-toi sur l'heure !~
 @1338 = ~*S'approcher d'elle et la regarder marcher fièrement et prestement.*~
 @1339 = ~*Les vêtements de voyage de Dynahéir sont tout ce qu'il y a de plus pratiques : une robe simple, fendue au niveau des jupes pour permettre la course. La seule fioriture que vous y voyez est un motif cousu, allant de l'ourlet au genou.*~
 @1340 = ~*D'après ce que vous en savez, il existe deux sortes de repas pour un aventurier : les repas pauvres, et les repas encore plus pauvres. Mais parfois, on a droit à un peu de fromage fort. Vous vous mettez à rêver à des grosses tranches de pain avec de bons gros morceaux de viande fumante et juteuse, des poires bien mûres au vin, des cailles fourrées aux champignons, des poissons parfumés aux herbes et des pommes de terres dorées et croustillantes que Winthrop servait dans son auberge les jours de fête.*~
-@1341 = ~Dynahéir, je voulais juste que vous sachiez quel effet étrange et merveilleux cela faisait lorsque vous vous adressez à moi avec ce 'Tu' de majesté, et non avec un simple 'vous' insipide... Dois-je prendre ceci comme un signe de confiance et une preuve d'amitié à mon égard ?~
+@1341 = ~Dynahéir, je voulais juste que vous sachiez quel effet étrange et merveilleux cela faisait lorsque vous vous adressez à moi avec ce « Tu » de majesté, et non avec un simple « vous » insipide... Dois-je prendre ceci comme un signe de confiance et une preuve d'amitié à mon égard ?~
 @1342 = ~*Prendre sa main.*~
 @1343 = ~J'ai encore rêvé de vous, Dynahéir.~
 @1344 = ~*Dynahéir, crispée de douleur, s'appuie contre un arbre.*~
@@ -1850,7 +1850,7 @@ Avance et bats-toi sur l'heure !~
 @1422 = ~Et c'est sans doute mieux ainsi. Pardonnez-moi, Dynahéir, je n'aurais pas dû me laisser aller à la mélancolie.~
 @1423 = ~Quel genre de monde serait le nôtre si pour avoir ce que nous voulions, il nous suffisait de geindre tel un enfant mal-élevé qui veut une canne en sucre ? Quel genre de personnes deviendrions-nous si chacun de nos désirs était satisfait sans que nous fournissions le moindre effort ?~
 @1424 = ~En plus, il paraît que la pire chose qui pourrait arriver serait que tous nos souhaits se réalisent.~
-@1425 = ~Ce 'pétrin' est Ta vie, <CHARNAME>.~
+@1425 = ~Ce « pétrin » est Ta vie, <CHARNAME>.~
 @1426 = ~Il est une ancienne légende qui parle d'un homme qui priait Ilmater, clamant en larmes que ses épaules ne pouvaient plus supporter le poids de son existence. Ilmater lui a alors dit qu'il allait lui montrer la vie d'autres personnes, et qu'il allait lui laisser choisir l'existence qui lui conviendrait.~
 @1427 = ~L'homme a donc regardé, et s'est rendu compte que son existence était la moins difficile à ses yeux. Ilmater lui a donc dit : "C'est donc Ta vie, celle dont Tu Te plaignais tant".~
 @1428 = ~Ce n'est pas grave. Nous n'avons pas passé une bonne journée, loin de là.~
@@ -2108,7 +2108,7 @@ Avance et bats-toi sur l'heure !~
 @1658 = ~Il y en aura bien d'autres, à n'en point douter.~
 @1659 = ~Le Mal n'a pas toujours une apparence inquiétante, <CHARNAME>. Tu ferais bien de T'en souvenir.~
 @1660 = ~Tu pourrais bien en arriver là ; car que celui qui combat les monstres...~ //... prenne garde à ne pas lui-même devenir un monstre ; et si tu plonges ton regard au plus profond de l'abîme, garde à l'esprit que l'abîme plonge son regard au plus profond de toi" - Nietzche, "Par-delà Bien et Mal".
-@1661 = ~Hmph... Cela peut s'arranger. *Elle fait un geste de ses mains, et le dessin prend vie. Du feu crépite de 'vos' yeux, le visage se déforme en une horrible grimace, la peau se met à craquer et à fumer...~
+@1661 = ~Hmph... Cela peut s'arranger. *Elle fait un geste de ses mains, et le dessin prend vie. Du feu crépite de « vos » yeux, le visage se déforme en une horrible grimace, la peau se met à craquer et à fumer...~
 
 //réponses à @1346
 @1662 = ~Pourquoi murmures-Tu, <CHARNAME> ?~
@@ -2227,10 +2227,10 @@ Mais ce qui compte vraiment est ce que l'on a perdu...~
 //réponse à @1339
 @1762 = ~*Dynahéir s'assied un moment, et une couture luxueuse retient votre attention.*~
 @1763 = ~*Passer vos doigts sur la couture.*~
-@1764 = ~*Passer vos doigts sur la couture, et toucher 'accidentellement' le genou rond et séduisant qui se trouve dessous.*~
-@1765 = ~*Passer vos doigts sur la couture, et toucher 'accidentellement' le genou nu qui se trouve en-dessous*~
-@1766 = ~*Passer vos doigts sur la couture, caresser 'par inadvertance' le genou nu et rond en-dessous.*~
-@1767 = ~Est-ce un motif traditionnel Rashémi, Dynahéir ? Je n'en ai jamais vu de tel, sur la Côte des Epées.~
+@1764 = ~*Passer vos doigts sur la couture, et toucher « accidentellement » le genou rond et séduisant qui se trouve dessous.*~
+@1765 = ~*Passer vos doigts sur la couture, et toucher « accidentellement » le genou nu qui se trouve en-dessous.*~
+@1766 = ~*Passer vos doigts sur la couture, caresser « par inadvertance » le genou nu et rond en-dessous.*~
+@1767 = ~Est-ce un motif traditionnel Rashémi, Dynahéir ? Je n'en ai jamais vu de tel, sur la Côte des Épées.~
 @1768 = ~*Vous regardez le genou et la cheville de Dynahéir que ses jupes révèlent, et votre imagination rajoute le reste de ses jambes... et deux ou trois autres choses à côté. Vous souriez et sifflotez.*~
 @1769 = ~*Vous regardez le genou et la cheville de Dynahéir que ses jupes révèlent, et votre imagination fait rapidement le reste. Ainsi que deux-trois autres choses. Vous souriez et sifflotez.*~
 @1770 = ~*Vous regardez le genou et la cheville de Dynahéir que ses jupes révèlent, et votre imagination fait rapidement le reste. Vous vous sentez rougir.*~
@@ -2729,7 +2729,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3474, likeliness 92.9
 @2129 = ~[KIVAN 13] Cette ville est un exemple des abus humains. Je voudrais avoir quitté ce misérable endroit.~ [%tutu_var%KIVAN13]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3475, likeliness 99.9
-@2130 = ~[KIVAN 14] Pourquoi imiter les manières de ces nabots qui rampent par ces terriers~ [%tutu_var%KIVAN14]
+@2130 = ~[KIVAN 14] Pourquoi imiter les manières de ces nabots qui rampent par ces terriers ?~ [%tutu_var%KIVAN14]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 5250
 @2131 = ~[KIVAN 15]~ [%tutu_var%KIVAN15]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 5252
@@ -2743,7 +2743,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 5253
 @2136 = ~[KIVAN 20]~ [%tutu_var%KIVAN20]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3479, likeliness 99.6
-@2137 = ~[KIVAN 21] Comme vous voudrez~ [%tutu_var%KIVAN21]
+@2137 = ~[KIVAN 21] Comme vous voudrez.~ [%tutu_var%KIVAN21]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3480
 @2138 = ~[KIVAN 22] Oui.~ [%tutu_var%KIVAN22]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3488, likeliness 99.7
@@ -3161,7 +3161,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2411 = ~Non, <CHARNAME>, certainement pas. Tu apprendras à les apprécier.~
 @2412 = ~Ne te décourage pas ! Écoute juste un peu mieux et tu arrêteras de les considérer 'inutiles'.~
 @2413 = ~Qu'est-ce que tu viens de dire ? Quelque chose de stupide, certainement.~
-@2414 = ~Inutiles ? Est-ce une métaphore signifiant 'de qualité largement supérieure' ?~
+@2414 = ~Inutiles ? Est-ce une métaphore signifiant « de qualité largement supérieure » ?~
 @2415 = ~*Quayle fait le fier.*~
 @2416 = ~Je savais que tu t'en rendrais compte un jour ! Même quelqu'un avec ton intelligence limitée ne pouvait pas ne pas le remarquer !~
 @2417 = ~C'est certain.~
@@ -3196,7 +3196,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4197, likeliness 99.3
 @2441 = ~[TIAX 2] Tiax régnera... à distance !~ [%tutu_var%TIAXX02]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4199, likeliness 99.9
-@2442 = ~[TIAX 4] Tiax est impressionné par ce groupe ! Vous continuerez à le servir lorsqu'il régnera~ [%tutu_var%TIAXX04]
+@2442 = ~[TIAX 4] Tiax est impressionné par ce groupe ! Vous continuerez à le servir lorsqu'il régnera.~ [%tutu_var%TIAXX04]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4202
 @2443 = ~[TIAX 5] Tiax se demande comment cela pourrait contribuer à son ascension !~ [%tutu_var%TIAXX05]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4203, likeliness 99.7
@@ -3391,7 +3391,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3454
 @2561  = ~[XAN 32] Si j'avais besoin de votre avis, je vous l'aurais demandé.~ [%tutu_var%XANNN32]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3456
-@2562  = ~[XAN 34] Ne croyez pas que je vais supporter vos insultes bien longtemps encore~ [%tutu_var%XANNN34]
+@2562  = ~[XAN 34] Ne croyez pas que je vais supporter vos insultes bien longtemps encore.~ [%tutu_var%XANNN34]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3455
 @2563  = ~[XAN 33] J'espère que l'intention derrière vos paroles est bonne.~ [%tutu_var%XANNN33]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 10205, likeliness 100.0
@@ -3838,7 +3838,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2961 = ~Bien sûr, je t'en achèterai un ou deux... Plus, si tu veux.~
 @2962 = ~Ouai, j'en achèterai quelques uns. Aucun avec des cerveaux de singe dedans, d'accord ?~
 @2963 = ~Bien sûr. Mais il faudrait que ça en vaille la peine.~
-@2964 = ~Ma 'mère' est décédée, merci beaucoup !~
+@2964 = ~Ma « mère » est décédée, merci beaucoup !~
 @2965 = ~Etonnamment sensé de sa part, vraiment. Partir rejoindre Moman de cette manière... si utile de sa part !~
 @2966 = ~Vraiiiiiiment ? Juré craché ?~
 @2967 = ~Ouaip ! On pourra en avoir au dîner, si tu veux.~
@@ -4108,7 +4108,7 @@ Mais tu es la plus belle que j'ai vue.~
 @3144 = ~Cet endroit représente la mort pour l'esprit d'un homme : si calme, et la jeune fille de plus belle apparence est un dessin plutôt vulgaire dans les latrines de Winthrop.~
 @3145 = ~Bon sang, dis-moi, comment as-tu pu vivre ici pendant toutes ces années ?~
 @3146 = ~Je crois que je devrais rendre visite à cette jeune fille coquine qui vivait jadis dans les alentours...~
-@3147 = ~Oh, *ton* plan d'action ? Mmh... quel était son nom ? Ah, peu importe, je l'appellerai seulement 'ma douce' - elles aiment toutes ça.~
+@3147 = ~Oh, *ton* plan d'action ? Mmh... quel était son nom ? Ah, peu importe, je l'appellerai seulement « ma douce » - elles aiment toutes ça.~
 @3148 = ~Je pourrais entrer par effraction dans les quartiers du Trône de Fer et aller te chercher ça en un clin d'oeil... Mais puisque tu préfères la manière longue et ennuyeuse, tu devrais contacter tes vieilles connaissances du Poing Enflammé.~
 @3149 = ~Mettons vite fin à cette conspiration et allons boire un verre au Chant de l'Elfe avec cette bonne Alyss.~
 @3150 = ~Cherchons une mine d'or plutôt que cette mine de fer, afin de la délivrer de ses bandits... et de son trésor.~
@@ -4652,8 +4652,8 @@ Vagues et cascade de soie de Shuan.~
 /*réponses à @3550 = ~Eldoth, vous avez vu beaucoup de choses et en avez entendu plus encore. Auriez-vous quelque suggestion à faire pour le futur ?~*/
 //////////
 @3593 = ~Pas une suggestion, mais plutôt une requête. Si vous pouviez *simplement* mourir de manière particulièrement héroïque, mon oeuvre aurait beaucoup plus de succès.~
-@3594 = ~Hmm. 'Si tu ne peux les battre, fais-t'en des alliés' a toujours été un adage plein de sens pour moi. Mais il est bien évidemment trop tard pour que nous l'appliquions.~
-@3595 = ~'A Eauprofonde, fais comme les Aquafondais'. J'ai bien peur que cela n'aide pas, mais je suis assez distrait par la pensée de tous les endroits où je préfèrerais être.~
+@3594 = ~Hmm. « Si tu ne peux les battre, fais-t'en des alliés » a toujours été un adage plein de sens pour moi. Mais il est bien évidemment trop tard pour que nous l'appliquions.~
+@3595 = ~« À Eauprofonde, fais comme les Aquafondais ». J'ai bien peur que cela n'aide pas, mais je suis assez distrait par la pensée de tous les endroits où je préfèrerais être.~
 @3596 = ~Ne jouez jamais aux cartes avec quelqu'un qui s'appelle Doc. Ne mangez jamais dans un endroit qui s'appelle 'Chez Maman'. Et ne couchez jamais avec une fille qui a plus d'ennuis que vous.~
 @3597 = ~Si *vous* me demandez ça sérieusement, <CHARNAME>, je ne peux que suggérer que nous partions très loin pendant très longtemps pour effectuer des recherches et autres reconnaissances de terrain.~
 @3598 = ~*lorgne du côté de Skie* Endurez ce dont vous ne pouvez vous débarrasser... pour l'amour de vos rêves.~
@@ -4663,13 +4663,13 @@ Vagues et cascade de soie de Shuan.~
 /*réponses à @3549 = ~Le moral des troupes devrait s'améliorer, barde. Auriez-vous quelque chant qui pourrait égayer l'atmosphère ?~*/
 //////////
 @3601 = ~Bien sûr. Vous préfèreriez un chant sur la mort des rois ? Ou sur la mort des princes ? Ou d'une belle princesse, peut-être ? Laissez-moi vous suggérer 'La Tragique Ballade de l'Aventurier Pompeux'...~ ~Bien sûr. Vous préfèreriez un chant sur la mort des rois ? Ou sur la mort des princes ? Ou d'une belle princesse, peut-être ? Laissez-moi vous suggérer 'La Tragique Ballade de l'Aventurière Pompeuse'...~
-@3602 = ~Eh bien, j'en ai bien un qui s'appelle 'Le Temps n'Attend pour Personne'... Mais je pense qu'elle convient *un peu trop* à la situation.~
-@3603 = ~Voyons voir... 'L'Education Paysanne' est un peu didactique, mais elle peut peut-être aider. Quoi que 'La Duperie du Rustaud' porte sur le même thème. En plus crûment, évidemment.~
-@3604 = ~Hmm. Il y a 'Noyé dans l'Océan du Destin', 'Ecrasé sous la Roue', 'Perdu et Sans Espoir'. Non. Je ne connais aucun chant qui permette d'égayer l'atmosphère.~
-@3605 = ~Ah, 'Un Coeur d'Or à Vendre' peut enflammer l'imagination, ne pensez-vous pas ?~
-@3606 = ~*lance une oeillade à Skie* 'Le Trépas du Soupirant Délaissé' est le seul chant que je pourrais chanter avec conviction en ce moment.~
-@3607 = ~Je n'ai pas fini de le composer, mais 'Allez en Enfer avec Votre Sottise et Votre Suffisance' conviendra on ne peut mieux.~
-@3608 = ~Il y a toujours 'Complainte pour un Père' - si toutefois vous voulez un instant d'ironie sur votre situation.~
+@3602 = ~Eh bien, j'en ai bien un qui s'appelle « Le Temps n'Attend pour Personne »... Mais je pense qu'elle convient *un peu trop* à la situation.~
+@3603 = ~Voyons voir... « L'Éducation Paysanne » est un peu didactique, mais elle peut peut-être aider. Quoi que 'La Duperie du Rustaud' porte sur le même thème. En plus crûment, évidemment.~
+@3604 = ~Hmm. Il y a « Noyé dans l'Océan du Destin », « Écrasé sous la Roue », « Perdu et Sans Espoir ». Non. Je ne connais aucun chant qui permette d'égayer l'atmosphère.~
+@3605 = ~Ah, « Un Cœur d'Or à Vendre » peut enflammer l'imagination, ne pensez-vous pas ?~
+@3606 = ~*lance une oeillade à Skie* « Le Trépas du Soupirant Délaissé » est le seul chant que je pourrais chanter avec conviction en ce moment.~
+@3607 = ~Je n'ai pas fini de le composer, mais « Allez en Enfer avec Votre Sottise et Votre Suffisance » conviendra on ne peut mieux.~
+@3608 = ~Il y a toujours « Complainte pour un Père » - si toutefois vous voulez un instant d'ironie sur votre situation.~
 @3609 = ~Hmm. Il y aurait bien 'Les Damnés de la Crypte de Musgrave'. Ca pourrait être suffisamment joyeux, du moins comparé à notre situation actuelle, pour vous plaire.~
 @3610 = ~J'aurais bien une très *vieille* chanson populaire... 'Brute Hirsute'... Mais je ne me souviens pas vraiment des paroles.~
 //////////
@@ -5002,7 +5002,7 @@ Vagues et cascade de soie de Shuan.~
 @3808 = ~J'crève. Tu t'installes en arrière à t'limer les ongles pendant que j'saigne à mort.~
 @3809 = ~Va où l'or se trouve.~
 @3810 = ~Oui.~
-@3811 = ~'Achète bon marché et revend cher' c'est bien. Tue-les et pille leur cadavre gratuitement, c'est pas mal non plus.~
+@3811 = ~« Achète bon marché et revend cher » c'est bien. Tue-les et pille leur cadavre gratuitement, c'est pas mal non plus.~
 @3812 = ~Fais ce qu'il y a de plus près. Tout ce foutu pays qu'on traverse en galopant s'ra toujours là quand t'auras fini.~
 @3813 = ~Eh. Joli boulot d'architecture, mais trop grand. Ce type, Durlag, il avait besoin de plus de nains qu'il n'avait sous la main pour occuper un truc de cette taille.~
 @3814 = ~ATCHOUM ! J'suis allergique à ce maudit endroit !~
@@ -5118,7 +5118,7 @@ Vagues et cascade de soie de Shuan.~
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3540
 @3876 = ~[AJANTIS 41] Il est bien malheureux que notre compagnon soit mort avant d'avoir eu le temps de se racheter.~ [%tutu_var%AJANT41]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3535
-@3877 = ~[AJANTIS 34] Merci du compliment~ [%tutu_var%AJANT34]
+@3877 = ~[AJANTIS 34] Merci du compliment.~ [%tutu_var%AJANT34]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 3533, likeliness 99.9
 @3878 = ~[AJANTIS 32] Peut-être ne suis-je encore qu'un écuyer, mais jamais vous n'égalerez mon intégrité.~ [%tutu_var%AJANT32]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 3534
@@ -5206,7 +5206,7 @@ Vagues et cascade de soie de Shuan.~
 @3959 = ~La géographie de la ville est caractérisée par le Mont d'Eauprofonde, le point le plus élevé de la cité, où se dresse le Château d'Eauprofonde, le Mur des Trolls qui entoure la ville à l'est et au nord, et bien sûr, le grand port au sud.~
 @3960 = ~Nous autres, Eauprofondiens, l'appelons la Cité des Splendeurs, et elle l'est certainement. C'est un centre important de commerce et d'échanges, et la plupart de ses habitants, et avec eux, la ville elle-même, ont gagné leur richesse du négoce.~
 @3961 = ~La ville est dirigée par les Seigneurs d'Eauprofonde, un conseil de seize membres, qui gardent secrète leur identité. Les Seigneurs n'apparaissent en public que masqués, et sont protégés magiquement. Il n'y a qu'un seul seigneur sans masque : Piergeiron le Paladinson, Gardien d'Eauprofonde et Commandant du Guet, qu'on appelle le Seigneur Découvert d'Eauprofonde.~
-@3962 = ~Nous mesurons le temps différemment à Eauprofonde et dans la Frontière Sauvage. C'est ce que l'on appelle le Calendrier du Nord, et il commence lorsqu'Ahghairon devint le premier Seigneur Découvert d'Eauprofonde, en 1032 du Calendrier des Vaux.~
+@3962 = ~Nous mesurons le temps différemment à Eauprofonde et dans la Frontière Sauvage. C'est ce que l'on appelle le Calendrier du Nord, et il commence lorsqu'Ahghairon devint le premier Seigneur Découvert d'Eauprofonde, en 1 032 du Calendrier des Vaux.~
 @3963 = ~La cité est divisée en sept quartiers. Chaque quartier a ses propres style et atmosphère, et ils attirent naturellement des sortes différentes de personnes... Les Eauprofondiens appartiennent à un mélange de différentes races, mais sont surtout des humains. Chaque jour, de nouvelles personnes arrivent, y cherchant fortune, et ils sont très peu à en repartir.~
 @3964 = ~L'Ordre est une association de chevaliers et paladins loyaux. C'est un Ordre très puissant. Nous combinons nos forces pour combattre le mal et aider les pauvres et les faibles partout sur Féérune.~
 @3965 = ~Chaque chapitre de l'Ordre est composé de vingt-cinq membres, choisis parmi les plus braves et les plus sages des paladins, avec trois prélats à leur tête. Ils sont assistés par des chevaliers plus jeunes et des écuyers, qui n'ont pas encore atteint l'âge ou l'expérience de devenir des membres à part entière. Ces chevaliers et écuyers sont aussi ceux qui exécutent les missions plus guerrières de l'Ordre.~

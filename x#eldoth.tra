@@ -30,7 +30,7 @@
 @22 = ~Skie, je... Je sais ce que vous ressentez. Vous pouvez partir, si vous le souhaitez. Quant à vous, Eldoth...~
 @23 = ~Espèce de gros empoté ! Je vais en entendre parler pendant des jours, maintenant ! Merci bien !~
       ~Espèce de grosse empotée ! Je vais en entendre parler pendant des jours, maintenant ! Merci bien !~
-@24 = ~Vous croyez être altruiste, <CHARNAME>, mais qu'en est-il de moi ? Je vais devoir supporter ses interminables crises de larmes à cause de votre pitoyable 'altruisme' !~
+@24 = ~Vous croyez être altruiste, <CHARNAME>, mais qu'en est-il de moi ? Je vais devoir supporter ses interminables crises de larmes à cause de votre pitoyable « altruisme » !~
 @25 = ~Faites vite, <CHARNAME>. Je dois absolument rançonner... euh... réconforter cette pauvre Demoiselle Skie.~
 @26 = ~Oh, foutez-moi le camp, espèce de bâtard sans tripes !~
 @27 = ~Je ne comprends pas pourquoi vous tenez à nous quitter. Les Grands-Ducs survivants se montreront *très* généreux lorsque nous leur sauverons la mise.~
@@ -39,7 +39,7 @@
 @30 = ~*soupir* Alors bien sûr, ma place est derrière... avec toi, ma dame.~
 @31 = ~J'espère pour *vous* qu'ils le seront. En ce qui me concerne, j'ai cent fois plus confiance en la générosité de la jeune duchesse. Adieu, <CHARNAME>.~
 @32 = ~Ah ! J'ai déjà bien de la chance d'être le héros d'une jeune et riche héritière. Dites-moi donc, à quoi aurais-je dû réfléchir, selon vous ?~
-@33 = ~Si j'étais vous, j'essayerais de devenir un plus grand 'héros' à ses yeux. Si c'est moi qui venge son père, alors que vous, vous restez assis là à lui faire des ronds de jambe, qui obtiendra son estime en fin de compte, d'après vous ?~
+@33 = ~Si j'étais vous, j'essayerais de devenir un plus grand « héros » à ses yeux. Si c'est moi qui venge son père, alors que vous, vous restez assis là à lui faire des ronds de jambe, qui obtiendra son estime en fin de compte, d'après vous ?~
 @34 = ~Nous sommes tous morts en fin de compte. Ce n'est pas ce qu'on dit ? Et à court terme, j'ai toute confiance en sa nature... généreuse... et malléable.~
 @35 = ~Suffisamment malléable, après le choc qu'elle a subi, pour réaliser que vous l'avez escroquée si je lui offre la tête de Sarevok au pied que vous ne serez pas en train de lécher.~
 @36 = ~Et quelle satifaction pourriez-*vous* retirer de la peine que vous ferez à cette pauvre Demoiselle Skie en lui offrant un trophée aussi glauque ?~
@@ -70,7 +70,7 @@
 @53 = ~D'accord. Ca tombe bien, nous devons parler de quelque chose.~
 @54 = ~(Bon sang ! Ca ne me dit rien qui vaille !) Avec plaisir, ma douce dame.~
 @55 = ~Savais-tu, très cher, que certains parmi les autres semblent penser que tu te fiches de moi ? Que tu n'en as qu'après mon argent ?~
-@56 = ~Alors dans ce cas, je m'y prends très mal, ma douce. Ta présence est une réjouissance sans fin pour moi, mais le seul lien que peut avoir l'argent avec notre relation est que ton 'cher Papa' a très certainement placé une prime sur ma tête.~
+@56 = ~Alors dans ce cas, je m'y prends très mal, ma douce. Ta présence est une réjouissance sans fin pour moi, mais le seul lien que peut avoir l'argent avec notre relation est que ton « cher papa » a très certainement placé une prime sur ma tête.~
 @57 = ~Oh, mais je le sais, très cher ! J'étais juste en train de dire que c'est marrant de voir comment *certaines* personnes peuvent se montrer mesquines et malveillantes.~
 @58 = ~Et pourtant, il y aura une justice. Je mettrai des royaumes célestes *à tes pieds*, et tu seras la reine de celui de ton choix.~
 @59 = ~Idiot ! Nous avons le monde, du temps devant nous, et nous nous aimons. Que pourrions-nous désirer de plus ?~
@@ -148,7 +148,7 @@
 @110 = ~Et t'est-il venu à l'esprit que Skie pourrait avoir son mot à dire là-dessus ?~
 @111 = ~*ricane* La... ahem... l'intelligence de Dame Skie est telle qu'elle pourrait même croire à la véracité de cette assertion, si on l'approchait correctement.~
 @112 = ~Et le Grand-Duc ? Il serait plutôt du genre à te faire la peau, ou à engager quelqu'un qui s'en chargerait à sa place. Moi, par exemple, je ne demanderait même pas rétribution pour ce travail. Pffff ! Me demander de risquer la vie de Namara pour de l'argent !~
-@113 = ~Vraiment ? Il y a en vous une sentimentalité presque féminine. Ce qui tombe très bien, car je m'aperçois à l'instant que *renifle* votre 'fille' a besoin d'être changée... encore une fois.~
+@113 = ~Vraiment ? Il y a en vous une sentimentalité presque féminine. Ce qui tombe très bien, car je m'aperçois à l'instant que *renifle* votre « fille » a besoin d'être changée... encore une fois.~
 
 //////////
 /*dialogues avec Dynahéir (2)*/
@@ -170,9 +170,9 @@
 @127 = ~Hélas, où sont passés mes jours dorés d'innocence ? Mais une telle chance est rare. En-dehors de la Rashéménie, je veux dire. Vous récupérez d'anciens parchemins véhiculant un savoir non moins ancien, ce qui constitue une occupation qui n'est pas si éloignée de la mienne. Et pourtant, en vous regardant, on a l'impression que vous n'êtes pas dans le besoin, contrairement à l'usage qui veut que les savants errants le soient.~
 @128 = ~Mes propres recherches n'ont rien à voir avec les fortunes de ce bas-monde. Je suis seule à soutenir mon apprentissage ; il ne s'agit là que d'un entraînement à la survie. Rien d'autre.~
 @129 = ~Je n'en doute point. Je m'interroge juste sur le fait qu'au cours de vos pérégrinations, vous vous exposez à toutes sortes de dangers sans comprendre quand et comment un usage judicieux de l'or peut améliorer votre savoir. Et vice-versa, bien entendu.~
-@130 = ~Vraiment ?! Si je T'ai bien compris, Tu me proposes un 'échange' entre la connaissance et la crasse jaune derrière laquelle tout le monde court en Féérune ?~
+@130 = ~Vraiment ?! Si je T'ai bien compris, Tu me proposes un « échange » entre la connaissance et la crasse jaune derrière laquelle tout le monde court en Féérune ?~
 @131 = ~Oui. Le métier d'un barde n'est ni plus ni moins que la conversion du premier en le second.~
-@132 = ~Mais pas la conversion de Ton 'second' en le premier. Les Sages ne marchandent pas la connaissance ; et si elle est en vente, alors ce n'est *pas* de la connaissance.~
+@132 = ~Mais pas la conversion de Ton « second » en le premier. Les Sages ne marchandent pas la connaissance ; et si elle est en vente, alors ce n'est *pas* de la connaissance.~
 @133 = ~Madame, un âne n'est pas plus sage en portant des livres d'instruction qu'en portant des ballots de paille. J'irais même plus loin en avançant que si l'on demandait son avis à la pauvre créature, il préfèrerait porter de la paille ; il la digèrerait mieux. Et, ma Dame, il se trouve que mon destin a été de devenir une sorte d'expert sur les ânes.~
 @134 = ~Il se trouve que je ne suis guère en besoin d'un charretier, barde. Si cela devait changer, je saurais où Te trouver.~
 @135 = ~Selon votre volonté, ma Dame. Je ne peux que prier que vous ne vous trouviez pas dans l'autre monde en ignorant trop zélément ses exigences.~
@@ -254,8 +254,8 @@
 @187 = ~Mon bon Kagain, je crois que j'entrevois une occasion pour nous deux de joindre nos talents respectifs.~
 @188 = ~Bah ! Comme si j'allais faire confiance à quelqu'un d'ton sang, ou d'ta langue !~
 @189 = ~Mais au contraire, nos origines différentes ne peuvent que nous aider dans l'entreprise que j'ai en tête. Un salon raffiné, un endroit discret, mais qui proposerait des loisirs divers aux riches qui souhaitent un peu d'aventure.~
-@190 = ~Oublie ça. Maison close, casino, ou quoi que ce soit, t'auras toujours trop de 'partenaires' pour faire du profit dans c'genre d'endroit.~
-@191 = ~Et c'est pourquoi j'ai pensé à vous. Votre robustesse pourrait... ahem... décourager tous ces 'investisseurs' malvenus.~
+@190 = ~Oublie ça. Maison close, casino, ou quoi que ce soit, t'auras toujours trop de « partenaires » pour faire du profit dans c'genre d'endroit.~
+@191 = ~Et c'est pourquoi j'ai pensé à vous. Votre robustesse pourrait... ahem... décourager tous ces « investisseurs » malvenus.~
 @192 = ~Ouais, jusqu'à c'que ma robustesse me fasse tuer.~
 @193 = ~Il est évident que vous devrez embaucher des aides de façon intelligente pour éviter que notre petit arrangement se termine aussi prématurément. Je serais prêt à vous reverser... disons... vingt à trente pour cent de votre investissement. Chaque mois.~
 @194 = ~Mon *investissement* ?! C'est nouveau, ça. T'es en train d'me dire que j'protègerais *et* financerais l'endroit ? Et quelle serait *ta* contribution, si j'puis m'permettre ?~
@@ -288,7 +288,7 @@
 @216 = ~Mais votre amour-propre ne souffre-t-il pas des ordres qu'elle vous donne à longueur de temps ? N'êtes-vous jamais tenté de désobéir ne serait-ce que pour vous affirmer ?~
 @217 = ~Non. Jaheira et moi nous aimons. J'en retire plus d'amour-propre que sans elle.~
 @218 = ~Alors vous avez raté votre vocation, mon ami. Vous auriez dû vous faire prêtre d'une déïté hautement exigeante. Toutefois, j'ai apprécié votre aide. Vous m'avez montré sous un nouveau jour le rôle qu'un jour, en certaines... circonstances... je devrai assumer.~
-@219 = ~Hmmm. Dans ce cas, je ne peux que vous enjoindre à p-prier pour que la 'dame qui vous commandera' sera suffisamment sotte pour ne pas se rendre compte que vous *jouez* un rôle. Dans le cas contraire, je n'aimerai pas être à votre place.~
+@219 = ~Hmmm. Dans ce cas, je ne peux que vous enjoindre à p-prier pour que la « dame qui vous commandera » sera suffisamment sotte pour ne pas se rendre compte que vous *jouez* un rôle. Dans le cas contraire, je n'aimerai pas être à votre place.~
 
 //////////
 /*dialogue avec Kivan, et Skie si elle est dans le groupe*/
@@ -339,7 +339,7 @@
 /*dialogues avec Montaron (2)*/
 //////////
 @256 = ~Puis-je partager une conversation avec vous, mon jeune notaire ?~
-@257 = ~Eh ? Qu'est-c'que t'as à m'appeler 'notaire' ?~
+@257 = ~Eh ? Qu'est-c'que t'as à m'appeler « notaire » ?~
 @258 = ~Et bien, je n'ai tout simplement jamais rencontré quelqu'un ayant un intérêt aussi... développé... ou aussi efficace... dans les héritages et les ayant-droits.~
 @259 = ~Ouais-ouais. Tu vas m'raconter des histoires, hein ? Des histoires qui vont m'laisser tell'ment rêveur qu'ça va m'envoyer à l'aut'bout du monde, hein ?~
 @260 = ~Hé hé hé. Si seulement je détenais un *tel* pouvoir de persuasion, mon clairvoyant ami. Non. Il se trouve juste qu'il se pourrait... il se *pourrait*... qu'en de futures circonstances... je pourrais avoir à bénéficier des talents que vous semblez détenir. Vous voyez, il se trouve que j'aime...~
@@ -353,7 +353,7 @@
 @268 = ~Bien. Je savais que vous n'étiez pas si naïf. Dites-moi quelle somme en or il vous faudrait pour un tel travail.~
 @269 = ~D'abord, j'veux savoir quel est l'nom du bourge qui va déposer un oeuf aussi gros qu'ça dans tes bras.~
 @270 = ~Souvenez-vous que j'ai conclu un arrangement avec sa Seigneurie. J'imagine que cette même somme, sans compter les primes, pourrait vous suffire. Et cela *m'amuserait* de voir sa Seigneurie payer pour sa propre mort.~
-@271 = ~Hmmm. <CHARNAME> est pas fana des indépendants. Pas plus que les... mes potes qui m'ont envoyé ici. Alors écoute, tu tu mets ta partie en route, et j'y jetterai un oeil quand j'pourrai. Mais si ton 'imagination' s'trouve être juste un aut' discours, alors on verra. *J'suppose* qu'on pourra mettre un truc au point.~
+@271 = ~Hmmm. <CHARNAME> est pas fana des indépendants. Pas plus que les... mes potes qui m'ont envoyé ici. Alors écoute, tu tu mets ta partie en route, et j'y jetterai un oeil quand j'pourrai. Mais si ton « imagination » s'trouve être juste un aut' discours, alors on verra. *J'suppose* qu'on pourra mettre un truc au point.~
 
 @272 = ~Mon bon vieil ami Montaron, je dois bien avouer que j'admire l'économie d'énergie de votre méthode de travail.~
 @273 = ~Oh-oh ! R'voilà la langue de miel de retour, et en plein'forme. Just'le temps d'vérifier qu'mon portefeuille est plein et qu'mon épée est dans l'coin.~

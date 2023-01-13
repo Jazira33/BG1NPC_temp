@@ -22,7 +22,7 @@
 @21   = ~Faut que je l'admette, <CHARNAME>, t'as pas l'air de grand-chose, mais on peut dire que t'as le truc.~
 @22   = ~Oh ? Et de quel truc parle-t-on ?~
 @23   = ~Ben, celui de te mêler des affaires des autres et de rendre ça rentable. Y'a pas meilleur boulot au monde.~
-@24   = ~Je préfère faire 'payer' les bandits plutôt que les honnêtes gens.~
+@24   = ~Je préfère faire « payer » les bandits plutôt que les honnêtes gens.~
 @25   = ~Je n'ai pas l'intention de tenir un livre de comptes. Tous les biens que nous trouvons seront utilisés pour aider notre quête ou seront vendus pour en acquérir d'autres dont nous aurons sûrement besoin sous peu.~
 @26   = ~J'ai bien noté les propriétés d'adhérence que l'or semble développer dans ta main. N'exagère pas.~
 @27   = ~Ouais, vaut mieux donner que recevoir, qu'ils disent. Alors tu leur donnes ce qu'ils méritent, et moi je m'occupe de prendre c'qui de toutes façons leur manquera plus.~
@@ -59,7 +59,7 @@
 @50   = ~Oh, j'dis pas non à un peu d'or pour mes efforts, mais administrer une bonne raclée c'est pas une mauvaise chose en soi. Ça vous garde autant en forme que l'or.~
 @51   = ~Bah ! Tempus ne saurait être servi par les seules armes. La vénération passe par l'effort, l'audace et la douleur.~
 @52   = ~Vu ce qu'il en est, j'aurais pensé qu'il refilait à ses prêcheurs un p'tit avantage pendant la baston. Apparemment, c'est pas l'cas.~
-@53   = ~Un 'avantage' serait un blasphème ! Mon Seigneur Tempus demande à ses prêcheurs d'utiliser leur être entier. En vouloir plus, pour sa propre protection - ce serait abominable !~
+@53   = ~Un « avantage » serait un blasphème ! Mon Seigneur Tempus demande à ses prêcheurs d'utiliser leur être entier. En vouloir plus, pour sa propre protection - ce serait abominable !~
 @54   = ~Et ben ! Même pour une grande, t'es un peu bringue-zingue.~
 
 //Coran
@@ -82,7 +82,7 @@
 
 //Dynaheir
 @69   = ~J'vous d'mande pardon, Dame, mais vous vous trouvez bien loin de chez vous, nan ?~
-@70   = ~En effet, nous le sommes, mais 'chez-nous' est petit. Féérune est grande. Il est bon d'apprendre dans les pays au-delà des frontières.~
+@70   = ~En effet, nous le sommes, mais « chez-nous » est petit. Féérune est grande. Il est bon d'apprendre dans les pays au-delà des frontières.~
 @71   = ~Um-hmm. Mais j'ai connu un ou deux érudits. Leur façon d'apprendre était bien loin d'la vôtre.~
 @72   = ~L'objet d'étude est ce qui détermine la façon d'étudier. Dans notre cas, Minsc et moi cherchons à nous connaitre nous-mêmes tout autant que le reste du monde.~
 @73   = ~Ha ! Vot' pote pourrait trouver toute une meute de rats domestiques qu'il aurait toujours pas fini, j'suis sûr. Vous, par contre... Vous vous voyez d'jà d'retour, je crois.~
@@ -96,7 +96,7 @@
 @79   = ~Ach ! Joue pas les sourdingues. J't'ai vu froncer les sourcils. Si t'as pas envie d'répondre, dis-le, comme un homme.~
 @80   = ~(Si je réponds, le crapaud croassera de nouveau. Dans le cas contraire, il croassera plus fort encore pour se prouver qu'il existe.) *soupir* Je me demandais simplement comment formuler ceci dans des termes qui te seraient compréhensibles. Ce n'est pas l'affaire d'une seconde pour quelqu'un comme moi.~
 @81   = ~Ah, ça met du temps à monter au cerveau, c'est ça ?~
-@82   = ~Heureusement pour toi, les insultes et l'impertinence crasse mettent chez moi du temps 'à monter au cerveau.' Quant à ta question première, les frontières des Sorciers Rouges transgressent les simples distances géographiques. Mais il ne te sera pas permis d'en savoir plus.~
+@82   = ~Heureusement pour toi, les insultes et l'impertinence crasse mettent chez moi du temps « à monter au cerveau. » Quant à ta question première, les frontières des Sorciers Rouges transgressent les simples distances géographiques. Mais il ne te sera pas permis d'en savoir plus.~
 @83   = ~Ah, j'ai pigé. Toi-même, tu sais pas pourquoi t'es là. Ca s'pourrait qu'ils t'aient envoyé aussi loin à cause de tes manières joviales.~
 @84   = ~Sache donc, O Ignorance Incarnée, que partout où *je* suis, c'est *là même* que se situe le centre de la thaumaturgie arcanique de Thay.~
 @85   = ~Bon, ben ils doivent se cacher dans ton ombre. 'sont doués pour se déguiser, j'avoue.~
@@ -105,7 +105,7 @@
 //Edwin
 @87   = ~J'dois avouer, rouge-gorge, qu'j'aime pas beaucoup la magie, mais la tienne offre quelques... alternatives.~
 @88   = ~(Oh, génial ! Le petit m'adresse la parole.) Et bien, je suis extrêmement content que tu prennes plaisir à me voir détruire mes ennemis.~
-@89   = ~C'est des 'amis' que j'parle, par contre. Qu'est-ce que t'en dis : on se paye cette bande dépareillée et on partage le butin ? Tu pourras t'acheter une nouvelle robe, et moi j'me prends une hache neuve.~
+@89   = ~C'est des « amis » que j'parle, par contre. Qu'est-ce que t'en dis : on se paye cette bande dépareillée et on partage le butin ? Tu pourras t'acheter une nouvelle robe, et moi j'me prends une hache neuve.~
 @90   = ~Qu'est-ce qui te fait penser que je pourrais avoir besoin de ton aide pour m'occuper d'eux ? Qui plus est, si j'avais d'aventure envie d'assistance, pour quelles raisons me suggérerais-tu de *te* faire confiance ?~
 @91   = ~Et puisque je suis toujours là, même un esprit simple comme le tien devrait comprendre que je n'ai à l'heure présente aucune envie de me défaire de mes compagnons actuels (bien qu'une exception puisse toujours être faite.)~
 @92   = ~Bah, j'imagine que je *pourrais* avertir nos compagnons de ce que tu prépares.~
@@ -161,7 +161,7 @@
 @130  = ~Que vou-voulez-vous dire ?~
 @131  = ~Et ben, un brave duelliste accompagné de sa belle, elle-même capable de bastonner ou caillasser l'ennemi et de guérir son homme au besoin ; un type comme ça n'a plus b'soin de rien.~
 @132  = ~Vu sous cet an-angle... mais vous devez sa-savoir que j'ai épousé Jaheira pour sa per-personnalité. Pas pour ses dons d'aventurière.~
-@133  = ~Voilà exactement où je voulais en venir. J'essaye d'être pragmatique et vous rev'nez à vos 'théories.' Comme avec vos bobards de Ménestrels.~
+@133  = ~Voilà exactement où je voulais en venir. J'essaye d'être pragmatique et vous rev'nez à vos « théories ». Comme avec vos bobards de Ménestrels.~
 @134  = ~Quel rapport entre les Mé-ménestrels et ma femme ?~
 @135  = ~Même approche sur les deux sujets. Tu pars d'un point qui d'vrait te rapporter un bon p'tit pactole, et tu le balances aux orties au nom du devoir ou d'l'amour ou un truc du genre qu'on peut pas voir, encore moins manger, porter ou dépenser.~
 @136  = ~Je vois. Laissez-moi à ma na-naïveté, comme vous le dites, et on sera chacun plus heu-heureux.~
@@ -217,9 +217,9 @@
 @174  = ~Ouaip.~
 @175  = ~J'dirais qu'ton pote là, c'est pas la meilleure vitrine pour tes collègues. Il inspire pas confiance, tu vois.~
 @176  = ~Hmph. On n'est pas dans une campagne commerciale. Plutôt dans une étude de marché, p't-être.~
-@177  = ~Ah, d'accord. Si t'arrives à traîner le 'boss' hors d'ici en un seul morceau, la Côte sera peut-être plus intéressante par la suite, hein ?~
+@177  = ~Ah, d'accord. Si t'arrives à traîner le « boss » hors d'ici en un seul morceau, la Côte sera peut-être plus intéressante par la suite, hein ?~
 @178  = ~'chais pas. Mon boulot c'est d'm'assurer que personne nous accuse de ce qu'on a *pas* fait.~
-@179  = ~Et ben, entre nous, ça m'dérangerait pas qu'on en tire d'aut' bénéfices. Bosser avec un groupe bien établi, ça rendrait plus supportable l'équipe de 'nobles' incompétents qu'on se traine en ce moment.~
+@179  = ~Et ben, entre nous, ça m'dérangerait pas qu'on en tire d'aut' bénéfices. Bosser avec un groupe bien établi, ça rendrait plus supportable l'équipe de « nobles » incompétents qu'on se traine en ce moment.~
 @180  = ~Alors continue de mettre des coups de hache, et on vivra assez longtemps pour voir si t'as raison.~
 
 //Montaron
@@ -228,7 +228,7 @@
 @183  = ~Bah ! Les riches ne transportent pas leurs vraies richesses dans leur bourse. C'est mieux d'avoir des contrats réguliers, après tout. J'veux dire bosser une organisation qui a des procédures régulières. Ça veut dire qu'il faut s'organiser.~
 @184  = ~Hé ! Tu parles comme un aut' gars - un aut' fana de business et d'procès-durs.~
 @185  = ~Un... uh... gentleman du Zhentarim ? T'sais, j'ai toujours considéré qu'mon indépendance avait pas d'prix.~
-@186  = ~Et il blablate toujours sur ses “donations généreuses aux nouvelles entreprises” et des trucs du genre.~
+@186  = ~Et il blablate toujours sur ses « donations généreuses aux nouvelles entreprises » et des trucs du genre.~
 @187  = ~Envoie-le moi, alors. Ca n'a jamais tué personne de parler à une corporation, non ?~
 
 //Quayle
@@ -294,7 +294,7 @@
 @233  = ~Tu s'ras l'elfe le plus surpris de la forêt quand <CHARNAME> et moi on s'en sortira !~
 @234  = ~Les petites victoires sont les plus traîtres des illusions. Elles cachent la grande défaite qui attend au tournant.~
 @235  = ~Vaut mieux être aveugle alors, et aussi être sourd quand on voyage avec toi. Mais comme je l'suis pas, je peux m'arranger pour t'rendre muet si tu veux pas fermer ton clapet.~
-@236  = ~Ce serait plus que ce que je peux attendre de la mort : qu'elle me vienne en résultat d'une 'faveur' gratuite de *votre* part.~
+@236  = ~Ce serait plus que ce que je peux attendre de la mort : qu'elle me vienne en résultat d'une « faveur » gratuite de *votre* part.~
 
 //Xan
 @237  = ~Xan, j'dois dire que ta magie est devenue puissante. La vache, j'avais pas vu tant de pouvoir depuis un moment.~

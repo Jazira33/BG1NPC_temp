@@ -44,9 +44,9 @@
 /* Raléo Lancebrise */
 @25    = ~Une chose que j'ai apprise, c'est qu'on entend davantage d'histoire intéressantes sur la route qu'en restant dans une auberge. *soupir* Quand je euh... demeurais à l'auberge, dès qu'un voyageur venu de loin commençait une bonne histoire, tous les autres réclamaient de la bière et à manger... et je n'entendais jamais l'histoire dans son intégralité. Il me fallait combler tous les morceaux manquants toute seule.~
 /* Silke, si en raison de la mauvaise réputation du groupe, elle dit du mal de Garrick : Imoen puis réplique de Silke */
-@26    = ~Tout sauf malin ?! Eh ben, il est bon d'aller à l'aventure avec des amis ! En tout cas vous ne me traiteriez pas de 'tout sauf maligne' en vous en tirant comme ça !~
+@26    = ~Tout sauf malin ?! Eh ben, il est bon d'aller à l'aventure avec des amis ! En tout cas vous ne me traiteriez pas de « tout sauf maligne » en vous en tirant comme ça !~
 @27    = ~Gamine, ton bavardage me donne mal à la tête.~
-/* Silke, si elle parle de 'son petit Garrick' */
+/* Silke, si elle parle de "son petit Garrick" */
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 868, probablement inutile de traduire ici !
 @28    = ~Garrick n'est pas petit ! C'est une bonne chose que vous soyez une actrice et non une peintre ; ç'aurait été un problème d'être aveugle, hein. Parc'que si ne vous voyez pas par vous-même combien il est grand, vous êtes certainement aveugle !~
 /* Garrick, quand il propose de rejoindre le groupe */
@@ -66,7 +66,7 @@
 // Isaya : dans BG, on peut parfaitement déclencher le dialogue de Khalid et Jaheira avec Montaron et obtenir ainsi une intervention masculine pour "je vais me débrouiller seul" avec un PJ féminin. J'évite donc d'utiliser un accord qui risque fort d'être bancal, au détriment d'une traduction fidèle par endroit.
 @35    = ~N'est-ce pas formidable, <CHARNAME> ? Nous avons réussi à traverser la forêt pleine de grouilleux et de loups et maintenant nous rencontrons de *véritables* aventuriers ! Les choses s'améliorent !~
 @36    = ~Hé, Tatie Jaheira, je suis Imoen ! Une amie de <CHARNAME>... En réalité, plutôt un ange gardien qu'une amie, tu vois ? Qui s'occupe de son bien-être, et tout et tout.~
-@37    = ~En général les aventuriers ne s'appellent pas 'tatie' entre eux, Imoen. Mais assez de distractions. Gorion t'a mentionnée dans sa correspondance, louant ton amitié rapide avec son enfant. Tu es la bienvenue pour nous accompagner.~
+@37    = ~En général les aventuriers ne s'appellent pas « tatie » entre eux, Imoen. Mais assez de distractions. Gorion t'a mentionnée dans sa correspondance, louant ton amitié rapide avec son enfant. Tu es la bienvenue pour nous accompagner.~
 /* Garde de Brasamical, interrogeant sur la connaissance des règles de conduite */
 @38    = ~Nan ! Mais d'après votre aspect, elles doivent pencher du côté horriblement ennuyeux !~
 /* Joïa, qui propose de tuer les hobgobelins et de récupérer son anneau */
@@ -90,8 +90,8 @@
 // Le script de Kolssed fait qu'il parle à CHARNAME, donc adaptation au sexe du PJ
 @47    = ~Salut, je suis Imoen et voici mon ami <CHARNAME>. Nous venons de quitter Château-Suif et nous nous lançons dans une grande aventure pour venger ce grand mage et tout et tout... hum, <CHARNAME>, pourquoi restes-tu planté là la bouche aussi fermée qu'un coquillage quand la marée est basse ? Tu en sais plus que moi sur le combat, de toute façon. Alors raconte-le ! C'est ce que les aventuriers font ! Les célèbres, en tout cas. Ou sinon comment se retrouveraient-ils dans les chansons de barde ?~
          ~Salut, je suis Imoen et voici mon amie <CHARNAME>. Nous venons de quitter Château-Suif et nous nous lançons dans une grande aventure pour venger ce grand mage et tout et tout... hum, <CHARNAME>, pourquoi restes-tu plantée là la bouche aussi fermée qu'un coquillage quand la marée est basse ? Tu en sais plus que moi sur le combat, de toute façon. Alors raconte-le ! C'est ce que les aventuriers font ! Les célèbres, en tout cas. Ou sinon comment se retrouveraient-ils dans les chansons de barde ?~
-@48    = ~Tu l'as entendu ? 'des compagnons qui vous ressemblent' ! Il doit s'agir de moi ! Tu te débrouilles bien, bien que tu sois plus bête que les murs de Château-Suif ! Imoen la Magnifique finira bien par faire de toi un aventurier !~
-         ~Tu l'as entendu ? 'des compagnons qui vous ressemblent' ! Il doit s'agir de moi ! Tu te débrouilles bien, bien que tu sois plus bête que les murs de Château-Suif ! Imoen la Magnifique finira bien par faire de toi une aventurière !~
+@48    = ~Tu l'as entendu ? « des compagnons qui vous ressemblent » ! Il doit s'agir de moi ! Tu te débrouilles bien, bien que tu sois plus bête que les murs de Château-Suif ! Imoen la Magnifique finira bien par faire de toi un aventurier !~
+         ~Tu l'as entendu ? « des compagnons qui vous ressemblent » ! Il doit s'agir de moi ! Tu te débrouilles bien, bien que tu sois plus bête que les murs de Château-Suif ! Imoen la Magnifique finira bien par faire de toi une aventurière !~
 /* Elminster, juste après le départ de Château-Suif */
 // Le script d'Elminster fait qu'il parle à CHARNAME, donc adaptation au sexe du PJ possible
 // Isaya : l'introduction d'Elminster est bourrée de "thou", "thy" et "thee", non retranscrits. Bref réplique intraduisible telle quelle. J'ai laissé Imoen la Magnifique répondre à celui qui cherchait de la conversation...
@@ -777,7 +777,7 @@
 // Imoen, si Khalid et Jaheira présents
 @387   = ~Ouais ! Avec moi en soutien principal ainsi que Tatie Jaheira et Tonton Khalid, les méchants n'ont aucune chance.~
 // Jaheira
-@388   = ~S'il te plaît, Imoen, tu peux m'appeler Jaheira. Pas besoin d'employer 'tatie' devant mon nom.~
+@388   = ~S'il te plaît, Imoen, tu peux m'appeler Jaheira. Pas besoin d'employer « tatie » devant mon nom.~
 // Imoen, si Khalid et Jaheira présents
 @389   = ~D'acc, Tatie Jaheira.~
 // Imoen

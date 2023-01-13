@@ -291,7 +291,7 @@
 @235 = ~Non, cette conspiration ne me plaît pas. Tuons Dynahéir, et qu'on en finisse avec ça.~
 @236 = ~Oh, la ferme. Elle a son utilité.~
 @237 = ~Pourquoi as-tu exactement besoin de m'en informer ? Mes compétences de chef t'ont-elles à ce point impressionné que tu recherches mon approbation ?~
-@238 = ~Je ne peux dire qu'elle est médiocre, <CHARNAME>, car ce serait exagérer ses capacités. Ton... groupe (oui, oui, c'est un terme plus flatteur que celui de 'bande mal assortie') se portera bien mieux si tu la remplaces.~
+@238 = ~Je ne peux dire qu'elle est médiocre, <CHARNAME>, car ce serait exagérer ses capacités. Ton... groupe (oui, oui, c'est un terme plus flatteur que celui de « bande mal assortie ») se portera bien mieux si tu la remplaces.~
 @239 = ~Et si tu es... inquiet de la résistance qu'elle pourrait opposer... Je peux arranger un... accident...~
        ~Et si tu es... inquiète de la résistance qu'elle pourrait opposer... Je peux arranger un... accident...~
 @240 = ~Tu as raison, Edwin. Applique ton plan.~
@@ -473,7 +473,7 @@ De l'autre côté.~
 @377 = ~... que je dois dire "ce qu'il faut dire" lorsqu'il me présente à ses amis lourdingues lors de ses stupides fêtes ! Sans parler du fait qu'il veut me marier à tous les jeunes nobles d'ici jusqu'à Eauprofonde, il ne me laisse *jamais* aucune intimité, et, le pire de tout, il ne me laisse jamais sortir de la maison sans *six* gardes armés jusqu'aux dents pour me surveiller ! Oh... il me rend *folle* !~
 @378 = ~Hé ! Deux, c'est déjà pas d'la tarte, et trois c'est pas rien, alors six, c'est deux fois plus difficile. Mais ton père, il doit avoir un sacré paquet d'gardes à sa disposition pour te faire sortir sous surveillance et garder la maison en sécurité.~
 @379 = ~Pas tant que ça, en fait... à peine la moitié de la garde de la ville. Il me dit toujours "c'est pour ta sécurité, Skie"... mais je ne peux *jamais* me retrouver un peu seule avec tous ces yeux qui me surveillent. Voilà pourquoi j'utilise le passage secret pour sortir la nuit.~
-@380 = ~Pfeh ! Un pôssage s'cret ! Une porté dérobée, plutôt, ouais. Les 'pôssages s'crets', c'est pour les histoires qu'on raconte aux mioches !~
+@380 = ~Pfeh ! Un pôssage s'cret ! Une porté dérobée, plutôt, ouais. Les « pôssages s'crets », c'est pour les histoires qu'on raconte aux mioches !~
 @381 = ~*sourit* Non, il y a vraiment un passage secret. Dans le coin, la politique, ça *peut* devenir très chaud, parfois. Il est situé sur le mur nord, juste sous le deuxième panneau... Hé, vous êtes sympa, Monty. Mais un peu curieux.~
 @382 = ~Mur nord... deuxième pann... Hein ? Curieux ? Bah, j'ai jamais craché sur l'échange d'informations que *je* n'connais pas, et particulièrement sur là où tu crèches.~
 @383 = ~C'est ce que je disais : vous êtes un petit curieux. Mais n'oubliez pas que *glousse* la curiosité est un bien vilain défaut !~
@@ -544,7 +544,7 @@ De l'autre côté.~
 @438 = ~Oh, je m'amuse beaucoup, je puis te l'assurer. Mais regarde ce qui vient de se passer ! Cet échange que nous avons commence à ressembler à une vraie conversation... et nous ne voudrions pas que *cela* arrive, n'est-ce pas ? D'autres pourrait en arriver à l'invraisemblable conclusion que tu as les capacités nécessaires pour tenir une conversation avec moi, ce qui serait une grossière exagération de tes compétences verbales. (Ainsi qu'un affront à mon encontre, cela va sans dire). Tu peux disposer, maintenant, Shar-Teel. Tu peux passer en première ligne, si ça te chante.~
 ///* Shar-Teel avec Ajantis */
 @439 = ~Je ne comprend pas pourquoi tu t'embêtes à nettoyer ton armure, petit chevalier ! Chaque éclaboussure de sang est une marque de victoire !~
-@440 = ~A l'avenir, vous vous adresserez à moi en m'appelant 'Ajantis', ou vous vous tairez.~
+@440 = ~A l'avenir, vous vous adresserez à moi en m'appelant « Ajantis », ou vous vous tairez.~
 @441 = ~Et pour vous répondre, c'est le devoir de tout chevalier de garder son équipement en bon état. C'est la moindre des choses que demande l'Ordre.~
 @442 = ~Comme c'est *noble* de ta part !~
 @443 = ~En effet, c'est noble. Et puis c'est mieux pour les odeurs, aussi.~
@@ -592,7 +592,7 @@ De l'autre côté.~
 @481 = ~Ce qui veut dire ?~
 @482 = ~Ton dégoût pour les plus faibles transpire dans chacunes de tes phrases. Tu dois comprendre qu'il n'y a rien à gagner à s'attaquer aux plus faibles, y compris dans les conversations.~
 ///* Shar-Teel avec Viconia */
-@483 = ~Tu proclames haut et fort ta 'liberté', femelle, et pourtant, tu es un bon petit soldat pour <CHARNAME>.~
+@483 = ~Tu proclames haut et fort ta « liberté », femelle, et pourtant, tu es un bon petit soldat pour <CHARNAME>.~
 @484 = ~Aucun homme ne peut se vanter de me donner des ordres ! Celui qui ose le dire meurt... purement et simplement.~
        ~Aucune femme ne peut se vanter de me donner des ordres ! Celle qui ose le dire meurt... purement et simplement.~
 @485 = ~Le wael qui oserait un tel affront ne mériterait-il pas une meilleure punition ?~
@@ -613,7 +613,7 @@ De l'autre côté.~
 @497 = ~Seul un être de la surface peut avoir posé une question aussi stupide avec une telle effronterie.~
 @498 = ~Ah, mais c'est bien sûr. *Tu* n'as jamais été touchée par personne. Tu veux en savoir plus sur les actes intimes ? Ou alors est-ce la jalousie qui t'envahit ?~
 @499 = ~Pourquoi serais-je jalouse d'une traînée aussi quelconque que toi ?!~
-@500 = ~C'est toi qui es 'quelconque', elg'caress. Tes sens ne connaissent aucune autre ivresse que celle du meurtre, et même dans ce domaine-là, tu n'es pas une vraie artiste : quelques grognements, une giclée, et c'est fini.~
+@500 = ~C'est toi qui es « quelconque », elg'caress. Tes sens ne connaissent aucune autre ivresse que celle du meurtre, et même dans ce domaine-là, tu n'es pas une vraie artiste : quelques grognements, une giclée, et c'est fini.~
 @501 = ~Quel dommage que <CHARNAME> t'ai aidée à échapper à ce soldat du Poing. Nous aurions dû vous massacrer tous les deux.~
 @502 = ~Oui, tes sens sont corrompus par la haine, rivvil. Peut-être pourrais-je t'apprendre les plaisirs de la mort... dans quelques heures ou quelques jours ?~
 ///* Shar-Teel avec Skie */
@@ -623,7 +623,7 @@ De l'autre côté.~
 @506 = ~Ton exemple est un non-sens. Les habitants de ce monde savent très bien que la raison du plus fort est toujours la meilleure.~
 @507 = ~Alors vous allez conquérir le monde ? Avec un seul bras ? C'est une grande entreprise dans laquelle vous vous lancez.~
 @508 = ~Ton sang « noble » ne semble servir à rien d'autre que de te faire formuler de stupides remarques sur un futur dont nous ne savons rien.~
-@509 = ~Mes remarques ne sont pas des coups dans le dos hasardeux, mais des constatations réfléchies basées sur des faits et des conjectures. Certains d'entre nous appellent cela 'l'intelligence'.~
+@509 = ~Mes remarques ne sont pas des coups dans le dos hasardeux, mais des constatations réfléchies basées sur des faits et des conjectures. Certains d'entre nous appellent cela « l'intelligence ».~
 @510 = ~Alors ne pointe pas cette « intelligence » vers moi ! Utilise-la à deviner ce qu'il se passera demain. Lorsque ce jour arrivera, nous verrons qui commandera.~
 //
 // Jaheira

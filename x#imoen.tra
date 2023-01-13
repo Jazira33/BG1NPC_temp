@@ -21,7 +21,7 @@
 @11    = ~J'ai juste beaucoup de choses à l'esprit. Je suis toujours le bon vieux <CHARNAME>. Ne t'inquiète pas.~
          ~J'ai juste beaucoup de choses à l'esprit. Je suis toujours la bonne vieille <CHARNAME>. Ne t'inquiète pas.~
 // Après @3
-@12    = ~Mff. Je crois que la réponse est 'grognon' !~
+@12    = ~Mff. Je crois que la réponse est « grognon » !~
 // Après @9 ou @11
 @13    = ~Bien. Je détesterais te voir rongé par tout ça. Nous l'aurons, tu sais. Ce type, quel qu'il soit, qui a tué ton papa. Nous découvrirons de qui il s'agit, et le ferons payer pour de bon !~
          ~Bien. Je détesterais te voir rongée par tout ça. Nous l'aurons, tu sais. Ce type, quel qu'il soit, qui a tué ton papa. Nous découvrirons de qui il s'agit, et le ferons payer pour de bon !~
@@ -41,8 +41,8 @@
 // Après @20
 @21    = ~Viens, allons trouver la tanière d'un méchant dragon ou quelque chose à piller. Hum, après réflexion, une caverne de hobgobelin est plus à ton niveau. Ou peut-être un village xvart ? Humm. Il faut que j'y réfléchisse...~
 /* Friend talk 2 */
-@22    = ~Nous voilà, à voyager sur la grande route. C'est une grande 'aventure' que nous vivons, hein ? Pas exactement ce dont nous rêvions tout éveillés, mais quand même plutôt excitant, je crois. Je préfère être ici, à aller d'un endroit à l'autre en faisant des trucs plutôt qu'être coincée à Château-Suif, à nettoyer des écuries et à ouvrir des lits.~
-         ~Nous voilà, à voyager sur la grande route. C'est une grande 'aventure' que nous vivons, hein ? Pas exactement ce dont nous rêvions tout éveillées, mais quand même plutôt excitant, je crois. Je préfère être ici, à aller d'un endroit à l'autre en faisant des trucs plutôt qu'être coincée à Château-Suif, à nettoyer des écuries et à ouvrir des lits.~
+@22    = ~Nous voilà, à voyager sur la grande route. C'est une grande « aventure » que nous vivons, hein ? Pas exactement ce dont nous rêvions tout éveillés, mais quand même plutôt excitant, je crois. Je préfère être ici, à aller d'un endroit à l'autre en faisant des trucs plutôt qu'être coincée à Château-Suif, à nettoyer des écuries et à ouvrir des lits.~
+         ~Nous voilà, à voyager sur la grande route. C'est une grande « aventure » que nous vivons, hein ? Pas exactement ce dont nous rêvions tout éveillées, mais quand même plutôt excitant, je crois. Je préfère être ici, à aller d'un endroit à l'autre en faisant des trucs plutôt qu'être coincée à Château-Suif, à nettoyer des écuries et à ouvrir des lits.~
 // Réponses à @22
 @23    = ~C'était intéressant, c'est le moins qu'on puisse dire. Pas vraiment ce que j'avais en tête non plus, mais ce n'est pas comme si j'avais le choix.~
 @24    = ~Je ne sais pas. J'aurais été heureux à Château-Suif, je pense. Je préfèrerais avoir un peu de paix et de sécurité en ce moment, au lieu de toutes ces épreuves.~
@@ -61,14 +61,14 @@
 @30    = ~Eh bien ! Tu es bien grossier aujourd'hui ! Je pense que je vais me tenir tranquille et attendre que tu viennes quémander quelque chose à la bonne vieille petite Imoen.~
          ~Eh bien ! Tu es bien grossière aujourd'hui ! Je pense que je vais me tenir tranquille et attendre que tu viennes quémander quelque chose à la bonne vieille petite Imoen.~
 // Après @27, @28, @29
-@31    = ~Je me demande s'ils feront un récit de nos aventures. Imagine, un jour des gens seront dans la salle commune d'une auberge, peut-être même à l'auberge de Château-Suif, et demanderont à un barde de leur raconter une histoire sur 'Imoen la Vive et son fidèle acolyte, <CHARNAME>' !~
-         ~Je me demande s'ils feront un récit de nos aventures. Imagine, un jour des gens seront dans la salle commune d'une auberge, peut-être même à l'auberge de Château-Suif, et demanderont à un barde de leur raconter une histoire sur 'Imoen la Vive et sa fidèle acolyte, <CHARNAME>' !~
+@31    = ~Je me demande s'ils feront un récit de nos aventures. Imagine, un jour des gens seront dans la salle commune d'une auberge, peut-être même à l'auberge de Château-Suif, et demanderont à un barde de leur raconter une histoire sur « Imoen la Vive et son fidèle acolyte, <CHARNAME> » !~
+         ~Je me demande s'ils feront un récit de nos aventures. Imagine, un jour des gens seront dans la salle commune d'une auberge, peut-être même à l'auberge de Château-Suif, et demanderont à un barde de leur raconter une histoire sur « Imoen la Vive et sa fidèle acolyte, <CHARNAME> » !~
 // Réponse à @31
 @32    = ~'Acolyte'... ?!~
 // Après @32
-@33    = ~Oh, d'accord. Nous serons partenaires, je suppose. Qu'en dis-tu ? 'Imoen la Vive' te semble-t-il bien ? Vive avec l'épée et d'esprit ! Tous les meilleurs héros et héroïnes ont des surnoms. Hummm, peut-être 'Imoen la Terrible' ? Nan, trop sombre. 'Imoen la Hardie' ? 'Imoen la Rusée' ? 'Imoen la Magnifique' ? Eh, ça sonne pas mal du tout !~
+@33    = ~Oh, d'accord. Nous serons partenaires, je suppose. Qu'en dis-tu ? « Imoen la Vive » te semble-t-il bien ? Vive avec l'épée et d'esprit ! Tous les meilleurs héros et héroïnes ont des surnoms. Hummm, peut-être « Imoen la Terrible » ? Nan, trop sombre. « Imoen la Hardie » ? « Imoen la Rusée » ? « Imoen la Magnifique » ? Eh, ça sonne pas mal du tout !~
 // Réponses à @33
-@34    = ~Hum, que dirais-tu de 'Imoen la...' ?~
+@34    = ~Hum, que dirais-tu de « Imoen la... » ?~
 @35    = ~Ah ah. Imoen, le Pinacle de Contrariété, l'Exemple-même de Tracasserie et la Championne du Harcèlement !~
 // Après @34
 @36    = ~Chut ! Je réfléchis ! Où en étais-je ? J'aime encore davantage 'Imoen la Vive'. Je me demande si c'est déjà pris ?~
@@ -274,7 +274,7 @@
 @151   = ~Eh bien... on dirait que quelqu'un t'a déjà transformé en quelque chose... un ABRUTI ! Merci de ton 'inquiétude', malgré tout. Hum !~
          ~Eh bien... on dirait que quelqu'un t'a déjà transformée en quelque chose... une ABRUTIE ! Merci de ton 'inquiétude', malgré tout. Hum !~
 // Après @149, @150, @151
-@152   = ~Ces 'sorts' ou quoi que ce soit, les choses à la fin ? On dirait que c'est plutôt important. Je ne vais pas y toucher.~
+@152   = ~Ces « sorts » ou quoi que ce soit, les choses à la fin ? On dirait que c'est plutôt important. Je ne vais pas y toucher.~
 // Après @152
 @153   = ~Mais ces drôles de p'tites choses au début... J'te parie que même moi je pourrai en apprendre quelques-unes. Je vais essayer, de toute façon.~
 // Réponses à @153
@@ -284,8 +284,8 @@
 // Après @154
 @157   = ~Eh ! Je te l'ai dit ! Ne t'inquiète pas pour moi. Je ne suis pas imbécile. Je sais ce que je fais.~
 // Après @157
-// Isaya : j'ai trouvé cette autre façon de jouer sur les mots comme dans le cas de 'sling' en anglais
-@158   = ~Je vais 'darder des sorts' en un rien de temps. Haha !~
+// Isaya : j'ai trouvé cette autre façon de jouer sur les mots comme dans le cas de "sling" en anglais
+@158   = ~Je vais « darder des sorts » en un rien de temps. Haha !~
 // Après @155
 @159   = ~Rabat-joie. Je ne vais pas abîmer ton précieux livre. Le voici...~
 // Après @159
@@ -800,7 +800,7 @@ Houp-là !~
 @553   = ~Je suppose que tu as raison. *touche son propre nez* Je... je me demande s'il y a un miroir quelque part.~
 // Minsc - Quayle - Minsc
 @554   = ~Pas de souci ! Bouh t'aime quand même. Il pense que ton nez est mignon, enfin, pour un nez de gnome. Tiens, tu peux caresser Bouh si tu veux. Il te fera te sentir mieux.~
-@555   = ~Mignon ?! Mon nez n'est certainement pas 'mignon' !~
+@555   = ~Mignon ?! Mon nez n'est certainement pas « mignon » !~
 @556   = ~Qu'est-ce qu'il y a ? Oh, ouais, je suppose que tu as raison. Bouh dit qu'il le comparait à celui des autres gnomes qu'il avait rencontrés. Il n'est certainement pas aussi mignon que le nez d'un hamster.~
 // Coran (chaotique-neutre) - Quayle - Coran
 @557   = ~Une simple suggestion, Quayle. Tu ferais mieux de laisser tomber avant qu'elle ne commence à commenter le fait que ta tête est petite.~

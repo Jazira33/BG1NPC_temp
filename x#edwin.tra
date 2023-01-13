@@ -45,7 +45,7 @@
 @20 = ~Alora, ce n'est pas que je me soucie réellement de tes attentions constantes et flatteuses (bien que bruyantes et ennuyeuses), mais je suis certain que tu pourrais trouver un moyen de t'arracher à ma compagnie une heure ou deux par jour ?~
 @21 = ~Hum, Edwin, bien sûr ! C'est si mignon à toi de suggérer que j'ai besoin de bavarder avec quelqu'un d'autre, mais cette gentillesse fait partie de toi, bien que tu t'efforces de le cacher. Tout le monde est tellement amical dans notre petit groupe !~
 @22 = ~Oui, sans oublier qu'une partie de notre amicale compagnie a commencé à penser... des choses... quelque peu indécentes... et franchement grossières...~
-@23 = ~Oh ! Tu dois faire allusion à tout ce baratin sur le 'vicelard hobbitophile en robe rouge' dont j'entends encore parler ? C'est cela ? Mais je t'assure que c'est un non-sens. Euh, ça ne veut pas dire que tu ne m'apprécies pas, n'est-ce pas ? Hein ?~
+@23 = ~Oh ! Tu dois faire allusion à tout ce baratin sur le « vicelard hobbitophile en robe rouge » dont j'entends encore parler ? C'est cela ? Mais je t'assure que c'est un non-sens. Euh, ça ne veut pas dire que tu ne m'apprécies pas, n'est-ce pas ? Hein ?~
 @24 = ~Et Monty dit qu'il te tuera si tu tentes quoi que ce soit...~
 @25 = ~Ce n'est pas que je ne t'apprécie pas, en fait je t'apprécie, étrangement, d'une manière qui n'est définitivement pas *celle-là*. Euh, ce que je veux dire c'est que j'aime les enfants... Arrêtez de me fixer ainsi, crétins à l'esprit dévoyé ! En général, j'apprécie les enfants en général, à la condition qu'ils soient bien élevés, propres et qu'ils se taisent si on ne leur adresse pas la parole... (Il faut que je m'arrête... Que suis-je en train de dire ? De plus, que sont-ils en train d'entendre ?!)~
 @26 = ~Je ne suis PAS une enfant ! Je suis une halfeling ! Une femme adulte, selon les critères halfelings ! Et je suis très grande pour mon âge !~
@@ -133,8 +133,8 @@
 
 @67 = ~Écrire plus qu'on ne lit signale un mauvais écrivain. Je ne me rappelle pas t'avoir jamais vu avec quelque livre que ce soit, Garrick, ce qui, outre ton absence totale de talent, explique la pauvre qualité de ta poésie.~
 @68 = ~Vous êtes tout simplement trop snob pour comprendre ma poésie. Elle s'adresse à des personnes plus simples et meilleures que vous. Du reste, je lis. Hé, il y a moins d'un an j'avais ce livre... Quel était son nom, déjà ?~
-@69 = ~'Comment faire de mauvaises rimes en trois étapes simples' par 'Jenepeux Compter Jusquacinq' ?~
-@70 = ~En fait, non. Bien que ce soit un manuel génial. Je crois que c'était : 'Comment faire tourner en bourrique des Magiciens Rouges' Par Fichez Moilapaix.~
+@69 = ~« Comment faire de mauvaises rimes en trois étapes simples » par « Jenepeux Compter Jusquacinq » ?~
+@70 = ~En fait, non. Bien que ce soit un manuel génial. Je crois que c'était : « Comment faire tourner en bourrique des Magiciens Rouges » Par Fichez Moilapaix.~
 @71 = ~Hé, comme on pouvait s'y attendre - tout ce que je fais, mon âne le refait. Un peu comme dans ce que tu appelles ton art, tu n'es rien de plus qu'une imitation bon marché du génie d'hommes supérieurs.~
 
 
@@ -167,7 +167,7 @@
 
 
 @83 = ~Il est extrêmement surprenant d'entendre parler de courage par quelqu'un qui n'a pas la hardiesse de faire un choix, mais s'attarde plutôt au juste milieu des choses, là où les tâches manquent de clarté et où les motivations restent obscures. (Et plus que tout, c'est un endroit sûr.)~
-@84 = ~Ton esprit est corrompu par la convoitise et l'avidité ; au milieu des illusions qui obscurcissent ta pensée, il n'y a pas le moindre rayon de lumière et nul espoir de comprendre de plus grands desseins. Avance, avant que je ne sois tentée d'explorer ton 'milieu' de mon bâton !~
+@84 = ~Ton esprit est corrompu par la convoitise et l'avidité ; au milieu des illusions qui obscurcissent ta pensée, il n'y a pas le moindre rayon de lumière et nul espoir de comprendre de plus grands desseins. Avance, avant que je ne sois tentée d'explorer ton « milieu » de mon bâton !~
 @85 = ~Bah. C'est parler comme quelqu'un qui redoute à la fois le plaisir et la conviction. (des niais pleins d'illusions, tous autant qu'ils sont.) En vérité, je pourrais m'arracher à plus d'admiration pour l'obtus berserker Rashémi.~
 
 
@@ -202,7 +202,7 @@
 /* Kivan banter */
 
 
-@100 = ~On dirait que le concept de meurtre est assez négociable ces temps-ci. Est-ce que le fait d'appeler cela 'vengeance' te le rend plus acceptable, rôdeur ?~
+@100 = ~On dirait que le concept de meurtre est assez négociable ces temps-ci. Est-ce que le fait d'appeler cela « vengeance » te le rend plus acceptable, rôdeur ?~
 @101 = ~Il n'y a aucun doute en mon esprit, Edwin - Tazok doit payer pour ses crimes, et peu m'importe le terme employé par autrui. Ce sera justice...~
 @102 = ~Oh, oui, mais jusqu'où va la justice ? Considérons la question sous un angle hypothétique. (Si toutefois un tel concept n'excède pas ses facultés.)~
 @103 = ~Un angle hypothétique ? La douleur de mon épouse n'était pas hypothétique, Edwin.~
@@ -236,8 +236,8 @@
 @119 = ~Continue d'laisser courir ta langue et tu seras bien placé pour savoir combien j'suis doué dans ma per'fession.~
 @120 = ~Pas d'inquiétude, je resterai aussi loin de toi que possible. Bien que nos intérêts puissent nous réunir pour le moment, aucun homme doté de quelque sens moral n'accepterait longtemps la présence du plus stupide couple que le Zhentarim puisse nous offrir.~
 @121 = ~M'tenant tu parles comme un foutu Harpiste. Je m'disais aussi.~
-@122 = ~Bien que je doive admettre que l'expression 'foutu Harpiste' soit une douce musique à mes oreilles, il n'est pas nécessaire d'être un inconscient suivant de Mystra pour comprendre à quel point les actions de votre risible organisation sont totalement crétines, dénuées de but et d'orientation.~
-@123 = ~Les vôt' gagneront pas d'prix non plus. Et *nous* on a un bon proverbe au moins ; "Plus le Thayen est pourri, plus sucrée est l'odeur du sang de son coeur."~
+@122 = ~Bien que je doive admettre que l'expression « foutu Harpiste » soit une douce musique à mes oreilles, il n'est pas nécessaire d'être un inconscient suivant de Mystra pour comprendre à quel point les actions de votre risible organisation sont totalement crétines, dénuées de but et d'orientation.~
+@123 = ~Les vôt' gagneront pas d'prix non plus. Et *nous* on a un bon proverbe au moins ; « Plus le Thayen est pourri, plus sucrée est l'odeur du sang de son coeur. »~
 @124 = ~Oui, oui, et plus ils sont petits, plus vite ils brûlent. (Avec beaucoup moins d'odeur, pourrais-je ajouter.)~
 @125 = ~Ceux qui sont assez bêtes et assez lents pour être attrapés par un Thayen le méritent.~
 

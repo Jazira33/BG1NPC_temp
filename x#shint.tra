@@ -1,5 +1,5 @@
 //Interjection lorsque le groupe découvre la lettre de Roe (à rapporter à Mirianne à Bérégost)
-@0 = ~*lit la lettre* '... J'espère que cette lettre va te parvenir. Le petit-homme à qui je l'ai confiée m'a paru honnête. A toi pour la vie...' Bla bla bla...~
+@0 = ~*lit la lettre* « ... J'espère que cette lettre va te parvenir. Le petit-homme à qui je l'ai confiée m'a paru honnête. A toi pour la vie... » Bla bla bla...~
 @1 = ~Alors, mon honnête petit-homme, pendant que ce marchand obèse se repose à Eauprofonde, tu es en train de te baigner dans ton sang au beau milieu de cette route... AH ! L'honnêteté n'a jamais sauvé la vie de qui que ce soit. L'épée, par contre...~
 
 //Shar-Teel porte le ceinturon hermaphrodite
@@ -83,7 +83,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 356, probablement inutile de traduire ici !
 @35 = ~Gente Dame, vos paroles cruelles me blessent.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 355, probablement inutile de traduire ici !
-@36 = ~A moins que tu ne commences une collection de figurines de chevaliers ou que tu n'aies besoin d'une ancre pour un bateau, <CHARNAME>, jamais je n'accepterai de 'joindre mes forces' à ce bâtard pompeux.~
+@36 = ~A moins que tu ne commences une collection de figurines de chevaliers ou que tu n'aies besoin d'une ancre pour un bateau, <CHARNAME>, jamais je n'accepterai de « joindre mes forces » à ce bâtard pompeux.~
 
 //réaction à l'arrivée de Kagain dans le groupe
 @37 = ~Regarde-toi ! Fort, vigoureux, et avec le sens des affaires, en plus. Si seulement les nains étaient plus grands !~
@@ -122,7 +122,7 @@
 
 //rencontre avec Berrun Tuemort
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 362, probablement inutile de traduire ici !
-@50 = ~C'est pas désagréable, d'être appréciée. Maire, je pourrais débarrasser vos mines de ces 'démons' avec ma main droite attachée derrière le dos.~
+@50 = ~C'est pas désagréable, d'être appréciée. Maire, je pourrais débarrasser vos mines de ces « démons » avec ma main droite attachée derrière le dos.~
 
 //rencontre avec Liia Jannath
 @51 = ~J'ai été à deux doigts d'ouvrir la carapace de cette sombre écrevisse avec mon épée ! J'ai de plus en plus faim de ce plat, <CHARNAME>. Et il ne fait aucun doute que ces bons Ducs nous paieraient grassement pour la tête de Sarevok.~
@@ -178,8 +178,8 @@
 
 //rencontre avec Drienne
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 629, probablement inutile de traduire ici !
-@70 = ~Papa ? Tu appelles ton père 'papa' et tu cours vers lui pour faire guérir ton stupide chat ? *Fixe la petite fille qui acquiesce pendant un moment.* Fiche le camp, petite peste ! La fourrure de ton chat crevé m'irrite les yeux.~
-@71 = ~Oh, bien ! 'Papa' arrive ! *Maintenant*, on va s'amuser. Quant à toi, <CHARNAME>, tu es vraiment un monstre. Tu te bats contre des fillettes qui sont hautes comme trois pommes !~
+@70 = ~Papa ? Tu appelles ton père « papa » et tu cours vers lui pour faire guérir ton stupide chat ? *Fixe la petite fille qui acquiesce pendant un moment.* Fiche le camp, petite peste ! La fourrure de ton chat crevé m'irrite les yeux.~
+@71 = ~Oh, bien ! « Papa » arrive ! *Maintenant*, on va s'amuser. Quant à toi, <CHARNAME>, tu es vraiment un monstre. Tu te bats contre des fillettes qui sont hautes comme trois pommes !~
 
 //rencontre avec un membre du Poing Enflammé
 @72 = ~Ah ah ah ! J'aime quand on parle comme ça ! <CHARNAME>, si tu fuis ce combat, tu perdras le peu de respect que j'ai à ton égard. Regarde-moi saigner la pisse de celui-là... car oui, par les Enfers, je sais que vous avez de la pisse à la place du sang, au Poing Enflammé !~
@@ -255,7 +255,7 @@
 @105 = ~Pétrine, ton oncle voulait tuer Ange. Je me suis dit que si nous ne faisions rien, demain, il s'en prendrait à un autre. Et je ne peux pas rester sans rien faire quand quelqu'un assassine les chats de pauvres orphelines ! Je... Je l'ai tué.~
 @106 = ~Je vais m'assurer que tu seras mise sous la garde de quelqu'un de mieux que ton rustre d'oncle, Pétrine. Fais-moi confiance.~
 
-//rencontre avec Liia Jannath à propos du 'cas Pétrine' (là encore, c'est Charname qui parle, et non Shar-Teel)
+//rencontre avec Liia Jannath à propos du "cas Pétrine" (là encore, c'est Charname qui parle, et non Shar-Teel)
 @107 = ~Oui, je vais traquer Sarevok, madame. Mais sachant que je pourrais perdre la vie, je me permets de vous demander de me faire la grace d'une faveur. Il me reste une tâche que je n'ai pas pu accomplir... une tâche quelque peu triviale. Une orpheline, Pétrine, et son chat ont besoin de quelqu'un de convenable pour prendre soin d'eux. Je... J'ai tué son oncle, un homme mauvais qui la maltraitait, mais à cause de cela, elle se retrouve seule en ce bas monde sans personne pour la protéger. J'ai une dette de sang envers elle.~
 @108 = ~Levez-vous, noble héros. Je vous fais le serment qu'aussi longtemps que je disposerai du commandement et de l'autorité sur cette ville, j'élèverai la petite Pétrine comme ma propre fille... et Ange, son chat, sera lui aussi le bienvenu en ce palais. Ne nous attardons plus, maintenant. Sarevok doit être puni pour ses crimes !~
 
