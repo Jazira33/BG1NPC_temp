@@ -21,7 +21,7 @@
 
 /*dialogue avec Bentley Ombremiroir (voir aussi @31 à @33)*/
 @15 = ~Bien le bonjour, voyageurs. Que puis-je pour... VOUS ! Gardes ! GARDES !~
-@16 = ~Ce n'est pas un 'besoin', non, c'est un plaisir que je me fais !~
+@16 = ~Ce n'est pas un « besoin », non, c'est un plaisir que je me fais !~
 @17 = ~Euh... est-ce que quelqu'un voudrait bien me dire qu'est-ce que tout ça signifie ?~
 @18 = ~Ce... ce vaurien !... m'a offert "un récital pour payer son dîner". Vous voyez, nous essayons de maintenir une certaine ambiance, ici, alors j'ai crû que c'était une bonne occasion. Ah ! Il lui a suffi de deux chants outrageants pour que l'anarchie s'installe dans mon auberge ! Il m'a fallu deux semaines pour réparer tous les dégâts !~
 @19 = ~Sans compter les trois bouteilles que vous vous êtes sifflées, lorsque les problèmes ont commencé.~
@@ -34,7 +34,7 @@
 @24 = ~Ah ! Vous préférez la castagne au plaisir, hein ? Vous apprendrez, avec le temps ; si du moins, vous vivez assez longtemps pour l'apprendre. Le jeune Eldoth ici-même ferait un très bon professeur.~
 @25 = ~Bien sûr, bien sûr. L'une des filles est un dragon vert sous forme humaine, c'est ça ? Je parie que c'est cette petite nouvelle, Mistie, sur qui tout le monde... non. Bon, je vais vous mener à une... entrée... privée. Mais essayez de ne pas mettre trop de désordre, d'accord ? En cet endroit, mes souffrances approchent le sublime !~
 @26 = ~Trouve-toi le bon ceinturon, et je *t'apprendrai*, mon garçon. *soupir* Oui, bon, vu mon âge, tu devras faire un peu fonctionner ton imagination...~
-@27 = ~Ah, vous voici de retour. Ca vous dirait, une petite excursion polissonne ?~
+@27 = ~Ah, vous voici de retour. Ça vous dirait, une petite excursion polissonne ?~
 @28 = ~Oui, nous aimerions y aller.~
 @29 = ~Euh... non. Oubliez que j'ai remis les pieds ici, c'était une erreur.~
 @30 = ~Ah, les douces soirées sont la cerise sur le gâteau des journées de chaleur... Par ici.~
@@ -76,12 +76,12 @@ Viens voir briller les illustres lueurs du Temps.~
 /*dialogue en entrant dans l'auberge de la Lanterne Sourde à la Porte de Baldur*/
 @50 = ~Vous savez, <CHARNAME>, j'ai navigué à bord de plus d'un bateau, mais celui-là m'inspire plus que tous les autres. Je me disais qu'une fois que nous aurons fini nos aventures, nous pourrions peut-être affréter ce navire et entamer une croisière de prestige, calme, en l'honneur de notre réussite.~
 @51 = ~Si ça doit être calme, pourquoi partir des quais ? Ce rafiot pourrait bien sombrer sous les assauts d'un poisson volant !~
-@52 = ~Par 'calme', je voulais dire qu'à cinq lieues des côtes, personne ne nous entendrait du continent. Une victoire bien méritée, dont la promotion aurait été habilement faite... tous ces citoyens riches comme Crésus se feraient un point d'honneur de venir avec nous !~
+@52 = ~Par « calme », je voulais dire qu'à cinq lieues des côtes, personne ne nous entendrait du continent. Une victoire bien méritée, dont la promotion aurait été habilement faite... tous ces citoyens riches comme Crésus se feraient un point d'honneur de venir avec nous !~
 @53 = ~Oubliez ça ! Je préfère encore creuser un trou, m'enterrer dedans et me tranformer en radis ! Il est hors de question que je cautionne le vol des populations les plus aisées et les plus bruyantes de la Porte de Baldur.~
 @54 = ~Ah ! Ah ! J'espère bien que vous n'en ferez rien, vous êtes bien trop malin pour ça. Escroquer une vingtaine de nobliaux, c'est du gagne-petit... et ça ne rapporterait pas tant que ça. Par contre, je serais prêt à vous reverser un certain pourcentage provenant d'une... entreprise plus durable.~
       ~Ah ! Ah ! J'espère bien que vous n'en ferez rien, vous êtes bien trop maligne pour ça. Escroquer une vingtaine de nobliaux, c'est du gagne-petit... et ça ne rapporterait pas tant que ça. Par contre, je serais prêt à vous reverser un certain pourcentage provenant d'une... entreprise plus durable.~
 
-// La Voix :pas compris d'où ça vient ; sur le .d, il y a écrit 'rumours file for FAI'
+// La Voix :pas compris d'où ça vient ; sur le .d, il y a écrit "rumours file for FAI"
 // Isaya : Bentley Ombremiroir a une dent contre Eldoth. Les rumeurs spécifiques que tu as trouvées dans le fichier vont dans le sens d'autres modifications de l'auberge/magasin de Brasamical.
 // Bentley ouvre un autre "magasin/auberge" pour Eldoth : les boissons et objets en vente sont pourris, et comme les rumeurs sont rattachées au magasin (.STO), il propage de nouvelles "rumeurs" ciblées
 @55 = ~Plus tôt vous dégagerez de ma vue, mieux je m'en porterai.~

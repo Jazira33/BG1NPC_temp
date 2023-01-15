@@ -73,7 +73,7 @@
 @65   = ~Je sais, je ne suis pas sourd. Tu n'es pas ta mère. Peut-être que, pour ma gouverne, tu pourrais me dire qui est ta mère ?~
 @66   = ~J'hallucine ?! Comment oses-tu ?! Je ne suis pas comme ma mère !~
 @67   = ~Je sais, j'ai bien entendu. Et qui est ta mère ?~
-@68   = ~J'ai un problème ? Le seul problème que j'ai, c'est que j'ai été suffisamment conne pour prendre tes glapissements au sérieux ! Va pomper l'air d'une autre, bâtard, et ne m'ennuie plus avec tes 'discussions'.~
+@68   = ~J'ai un problème ? Le seul problème que j'ai, c'est que j'ai été suffisamment conne pour prendre tes glapissements au sérieux ! Va pomper l'air d'une autre, bâtard, et ne m'ennuie plus avec tes « discussions ».~
 @69   = ~C'est ta tête que je préfèrerais. Ma lame peut m'offrir toutes les têtes de dragon que je veux.~
 @70   = ~Parmi tout ce qui m'insupporte chez les hommes, c'est leur propension à penser que les femmes ne sont pas complètes tant qu'elles n'ont pas l'un d'entre eux à leurs côtés. Si je veux un autre homme, j'irai m'en trouver un.~
 @71   = ~Elle est morte en donnant naissance au troisième enfant de son mari.~
@@ -93,7 +93,7 @@
 @85   = ~*hausse les épaules* Verana, si tu veux vraiment le savoir.~
 @86   = ~C'est un très joli nom. Tout comme Shar-Teel...~
 @87   = ~Ah, bien.~
-@88   = ~Alors elle s'appelait Verana, et pas 'Une catin'... Tu sais, Shar-Teel, je pense que tu as un sérieux problème. Et j'espère que ça a pu alléger ton fardeau, d'en parler.~
+@88   = ~Alors elle s'appelait Verana, et pas « Une catin »... Tu sais, Shar-Teel, je pense que tu as un sérieux problème. Et j'espère que ça a pu alléger ton fardeau, d'en parler.~
 @89   = ~Oh, dégage.~
 
 //Shar-Teel parle maintenant de son père, et du dégoût qu'il lui inspire
@@ -107,7 +107,7 @@
 @97   = ~Ton père était vraiment un héros, Shar-Teel ?~
 @98   = ~D'autres membres de ta famille ? Finissons-en au plus vite ; si tu as des griefs contre eux, parle-m'en maintenant, j'en serai débarrassé.~
 @99   = ~Qu'a donc fait ton père pour que tu le méprises à ce point, Shar-Teel ?~
-@100  = ~Aucune différence. J'aime les carnages et l'or. Donne-moi ces deux choses, et tu pourras m'appeler 'héroïne' autant que tu voudras.~
+@100  = ~Aucune différence. J'aime les carnages et l'or. Donne-moi ces deux choses, et tu pourras m'appeler « héroïne » autant que tu voudras.~
 @101  = ~Mais ne fais pas le fier non plus. Mon père aussi avait une réputation de héros, et pourtant, cette larve méritait à peine la dénomination d'être humain.~
 @102  = ~Voilà des paroles que je peux respecter. J'aime les carnages et l'or. Donne-moi ces deux choses, et tout le monde pourra s'acclamer en héros.~
 @103  = ~Mon père aussi avait une réputation de héros, et pourtant, cette larve méritait à peine la dénomination d'être humain.~
@@ -287,7 +287,7 @@
 @271  = ~J'ai grandi à Château-Suif, l'endroit où l'on garde tous ces livres que tu sembles tant détester. J'ai été élevé par Gorion, un puissant magicien. On menait une vie relativement calme jusqu'à ce qu'un beau jour, mon père adoptif demande à me parler. Il voulait que je me prépare à un long voyage, et il était passablement agité. Deux hommes avaient tenté de m'assassiner, un peu plus tôt dans la journée. A partir de ce jour, j'ai su que ma vie allait changer radicalement.~
 @272  = ~Oh, vas-y, parle, sinon tu ne t'arrêteras jamais !~
 @273  = ~J'ai grandi à Château-Suif, l'endroit où l'on garde tous ces livres que tu sembles tant détester. J'ai été élevé par Gorion, un puissant magicien. On menait une vie relativement calme jusqu'à ce qu'un beau jour, mon père adoptif demande à me parler. Il voulait que je me prépare à un long voyage, et il était passablement agité. Deux hommes avaient tenté de m'assassiner, un peu plus tôt dans la journée. A partir de ce jour, j'ai su que ma vie allait changer radicalement.~
-@274  = ~Le sang du dieu du meurtre coule dans tes veines, et tu parles de moi comme d'une chose puante et ennuyeuse ?! Et moi qui croyais qu'un enfant de Bhaal aurait su parler 'décemment' aux femmes.~
+@274  = ~Le sang du dieu du meurtre coule dans tes veines, et tu parles de moi comme d'une chose puante et ennuyeuse ?! Et moi qui croyais qu'un enfant de Bhaal aurait su parler « décemment » aux femmes.~
 @275  = ~Bah, vas-y, raconte. Il n'y a pas d'ennemis en vue, de toute façon.~
 @276  = ~J'ai grandi à Château-Suif, l'endroit où l'on garde tous ces livres que tu sembles tant détester. J'ai été élevé par Gorion, un puissant magicien. On menait une vie relativement calme jusqu'à ce qu'un beau jour, mon père adoptif demande à me parler. Il voulait que je me prépare à un long voyage, et il était passablement agité. Deux hommes avaient tenté de m'assassiner, un peu plus tôt dans la journée. A partir de ce jour, j'ai su que ma vie allait changer radicalement.~
 @277  = ~Bah, vas-y, il n'y a pas d'ennemis en vue, de toute façon.~
@@ -350,10 +350,10 @@
 @330  = ~Ce Gorion dont tu n'arrêtes pas de parler, il te traitait bien, au moins ?~
 @331  = ~Je ne veux pas parler de Gorion, Shar-Teel. Ou du moins, pas à toi.~
 @332  = ~Si fait, il a été bon envers moi.~
-@333  = ~*Hausser les épaules.* Il m'a nourri, logé, blanchi, et il m'a fait ingurgiter tout un tas de connaissances inutiles. D'après toi, c'est ça 'bien traiter' quelqu'un ?~
+@333  = ~*Hausser les épaules.* Il m'a nourri, logé, blanchi, et il m'a fait ingurgiter tout un tas de connaissances inutiles. D'après toi, c'est ça « bien traiter » quelqu'un ?~
 @334  = ~Tu devrais me parler de ton passé. Je t'ai parlé de mon père, après tout.~
 @335  = ~Tu m'as dit à quel point tu détestais ton père, et tu t'attends à ce que je te dise combien je détestais Gorion. Mais vu que je l'aimais, je préfère ne pas aborder le sujet avec toi.~
-@336  = ~*soupir* Très bien. Il m'a nourri, logé, blanchi, et il m'a fait ingurgiter tout un tas de connaissances inutiles. D'après toi, c'est ça 'bien traiter' quelqu'un ?~
+@336  = ~*soupir* Très bien. Il m'a nourri, logé, blanchi, et il m'a fait ingurgiter tout un tas de connaissances inutiles. D'après toi, c'est ça « bien traiter » quelqu'un ?~
 @337  = ~Shar-Teel, si je devais choisir entre toi et un chien enragé pour confident, je me tournerais vers le meilleur ami de l'homme.~
 @338  = ~Je vois. Mais alors, pourquoi ne portes-tu pas son nom ? Est-ce qu'il t'a renié du fait que tu sois né bâtard ?~
 @339  = ~Les demis-dieux n'ont pas besoin de porter un nom de famille, Shar-Teel. Je suis <CHARNAME>, et c'est bien suffisant.~
@@ -416,16 +416,16 @@
 @392  = ~Certaines personnes diraient que la capacité à présenter des excuses est directement liée à la force de caractère.~
 @393  = ~T'as raison, les excuses, c'est pour les CHIENS, alors ne t'attends pas à ce que je t'en présente pour le coup de poing que tu vas recevoir.~
 @394  = ~Oui, les excuses sont pour les faibles. Heureux que nous soyons d'accord.~
-@395  = ~Ces 'certaines personnes' sont des faibles... ou des idiots.~
+@395  = ~Ces « certaines personnes » sont des faibles... ou des idiots.~
 @396  = ~La seule idiote, c'est toi, Shar-Teel. Tu es forte physiquement, mais tu n'as aucune force de caractère.~
 @397  = ~En quoi est-ce si idiot de penser ainsi ? Il y a de la noblesse dans cette philosophie... et je suis sûr qu'une guerrière telle que toi peut respecter cela.~
 @398  = ~Tu n'as pas tort.~
 @399  = ~Vraiment ? Non, je crois que c'est *toi* qui va mourir, aujourd'hui.~
-@400  = ~Et tout ceux qui ont cette 'force de caractère', tu peux me dire où ça les a menés ?! Je me fous pas mal de ce que les autres pensent, et surtout lorsqu'il s'agit de chiens dans ton genre. Casse-toi, maintenant.~
+@400  = ~Et tout ceux qui ont cette « force de caractère », tu peux me dire où ça les a menés ?! Je me fous pas mal de ce que les autres pensent, et surtout lorsqu'il s'agit de chiens dans ton genre. Casse-toi, maintenant.~
 @401  = ~Pas tout de suite. En quoi est-ce si idiot de penser ainsi ? Il y a de la noblesse dans cette philosophie... et je suis sûr qu'une guerrière telle que toi peut respecter cela.~
 @402  = ~Comme tu voudras.~
 @403  = ~Tu refuses de te disputer avec moi. Ah ! Tes sursauts de conciliation seraient presque amusants s'ils n'étaient pas aussi pathétiques.~
-@404  = ~La noblesse ! Rien que ça, c'est stupide. Regarde ces... bah ! 'chevaliers' qui vivent dans les villes, pourrissant dans leurs armures, dressés comme des jambons pendus à leurs crochets ! Ils ne font rien, ils ne tuent personne. La chevalerie ne mène pas au pouvoir. Les forts le savent bien. Et tu ferais mieux d'en prendre conscience, toi aussi.~
+@404  = ~La noblesse ! Rien que ça, c'est stupide. Regarde ces... bah ! « Chevaliers » qui vivent dans les villes, pourrissant dans leurs armures, dressés comme des jambons pendus à leurs crochets ! Ils ne font rien, ils ne tuent personne. La chevalerie ne mène pas au pouvoir. Les forts le savent bien. Et tu ferais mieux d'en prendre conscience, toi aussi.~
 @405  = ~Je suis au courant, Shar-Teel. J'essayais juste de faire rentrer une idée nouvelle dans ton crâne.~
 @406  = ~Alors nous ne sommes pas d'accord sur ce point. J'attache plus d'importance à la force de l'esprit qu'à celle du corps, car si ton corps te lâchera un jour ou l'autre, ton esprit ne te fera jamais défaut.~
 @407  = ~Tu as raison. Les excuses, c'est pour les faibles... pourquoi ne m'en suis-je pas rendu compte avant ?~
@@ -438,7 +438,7 @@
 @412  = ~*timidement* J'aimerais que tu arrêtes de faire ça, Shar-Teel.~
 @413  = ~Oui, Shar-Teel ?~
 @414  = ~*Sans mot dire, vous vous avancez vers Shar-Teel, vous posez vos bras sur ses épaules et lui embrassez la nuque.*~
-@415  = ~J'ai dit 'VIENS ICI' !~
+@415  = ~J'ai dit « VIENS ICI » !~
 @416  = ~Non, tu as sifflé. Je ne suis pas un chien.~
 @417  = ~*Continuer à l'ignorer.*~
 @418  = ~Ecoute-moi bien, Shar-Teel. Je veux être avec toi, mais il est hors de question que je m'abaisse au rang de chien ou d'esclave juste pour te garder dans mon lit.~
@@ -476,13 +476,13 @@
 @446  = ~Et pourquoi donc, ma chérie ?~
 @447  = ~*soupir* La liste de ce que tu aimes... non, je devrais plutôt dire : la liste de ce que tu ne hais pas passionnément se rétrécit de jour en jour. Par simple curiosité scientifique, est-ce que cette liste n'inclut qu'Ysena et toi-même ?~
 @448  = ~Est-ce que... est-ce que tu aimes la personne que tu es, Shar-Teel ?~
-@449  = ~Parce qu'ils vivent leur petite vie pathétique, obéissant à des seigneurs révulsants et bouffis d'orgueil, parce qu'ils mentent, volent et tuent ceux qu'ils appellent des bandits, et parce qu'ils osent appeler ça une 'vie honnête' et pensent bénéficier d'une moralité supérieure à nous. Ils s'en pavanent à un point tel que je souhaiterais pouvoir tous leur faire la peau !~
+@449  = ~Parce qu'ils vivent leur petite vie pathétique, obéissant à des seigneurs révulsants et bouffis d'orgueil, parce qu'ils mentent, volent et tuent ceux qu'ils appellent des bandits, et parce qu'ils osent appeler ça une « vie honnête » et pensent bénéficier d'une moralité supérieure à nous. Ils s'en pavanent à un point tel que je souhaiterais pouvoir tous leur faire la peau !~
 @450  = ~Eh bien, Shar-Teel ! Tu exagères sûrement. Bien sûr, qu'ils sont pathétiques, et encore plus ennuyeux qu'un cours magistral de Gorion, mais en ce qui concerne le vol et le meurtre, ils n'ont pas assez de tripes.~
 @451  = ~Et je trouve que nous les massacrons plutôt bien. Tu ne trouves pas, Shar-Teel ?~
 @452  = ~*rires* Ta soif de sang et ta haine feraient de toi une vampire terrifiante, mon ourse.~
 @453  = ~Autant faire la peau à des moutons... C'est tout aussi ennuyeux.~
 @454  = ~Même si je partage ton dégoût pour ceux qui nous sont inférieurs, je ne me risquerais pas à un tel massacre. Le pouvoir, Shar-Teel, c'est ce qui te donne le droit de tuer et de recevoir des louanges pour ça. Je mesure le pouvoir d'une personne au nombre de gens qu'elle peut mettre à mort. Si personne n'ose compter, alors tu es un dieu.~
-@455  = ~Parce qu'ils appellent 'chérie' celles qu'ils essayent de mettre dans leurs lits. Lâche-moi la grappe !~
+@455  = ~Parce qu'ils appellent « chérie » celles qu'ils essayent de mettre dans leurs lits. Lâche-moi la grappe !~
 @456  = ~Je t'aime bien.~
 @457  = ~*Tousser.* Je te demande pardon ?~
 @458  = ~Shar-Teel... s'il te plaît, ne te mets pas en colère, mais... est-ce que tu aimes la personne que tu es ?~
@@ -583,21 +583,21 @@
 @549  = ~C'est parce que tu es un piège, Shar-Teel. Chaque fois que j'essaie de faire montre d'un peu de sincérité ou de compassion à ton égard, tu me rejettes violemment. Je dois constamment surveiller mes propos si je ne veux pas finir par me battre avec toi.~
 @550  = ~Non, je refuse de me laisser entraîner dans une discussion interminable. Tu parles, tu parles, tu parles... tu parles tout le temps ! Tu es comme... comme une araignée qui tisse ses toiles empoisonnées autour de moi pour m'attraper.~
 @551  = ~Tu me fatigues, Shar-Teel. Je ne te parlerai plus jamais.~
-@552  = ~Idiote ! On ne t'a donc jamais appris que les mots avaient un sens bien précis, sinon autant grogner !~ 
+@552  = ~Idiote ! On ne t'a donc jamais appris que les mots avaient un sens bien précis, sinon autant grogner !~
 @553  = ~Je suis désolé, Shar-Teel J'essayais juste de... d'être gentil avec toi. Il se trouve que je tiens à toi. Tu ne me rends pas la tâche facile, mon ourse, mais je tiens à toi.~
 @554  = ~*Vous retenez votre respiration, comme si vous vous prépariez à plonger.* Je t'aime, Shar-Teel, voilà ce que j'essaie de te dire. La dernière chose que je veux, c'est essayer de t'empoisonner ou quoi que ce soit de ce genre.~
 @555  = ~Alors la prochaine fois que j'essaierai d'attirer ton attention, je t'attaquerai avec une massue. C'est ça, ce que tu veux ?~
-@556  = ~Là, je ne peux pas t'aider. Je ne suis pas une pétasse qui fait semblant d'être une dure à cuire, mais qui espère secrètement qu'un prince charmant vienne la 'secourir'. Aime-moi tant que tu veux, moi, tout ce qu'il me faut, c'est un homme vigoureux dans mon lit pour égayer mon quotidien. N'essaie pas de me changer, et nous aurons tous les deux ce que nous voulons.~
+@556  = ~Là, je ne peux pas t'aider. Je ne suis pas une pétasse qui fait semblant d'être une dure à cuire, mais qui espère secrètement qu'un prince charmant vienne la « secourir ». Aime-moi tant que tu veux, moi, tout ce qu'il me faut, c'est un homme vigoureux dans mon lit pour égayer mon quotidien. N'essaie pas de me changer, et nous aurons tous les deux ce que nous voulons.~
 @557  = ~Je ressens la même chose. *crache* Par les Neuf Enfers, c'est sans doute la conversation la plus stupide que j'ai jamais eue de toute ma vie.~
 @558  = ~Mais je ne suis pas n'importe quelle autre femme, alors parle, ou ferme-la.~
 @559  = ~*Vous restez silencieux.*~
 @560  = ~*Elle éclate de rire.* Tu es vraiment quelqu'un de particulier, toi, hein ?~
 @561  = ~*Elle hausse les épaules.* Oui, je sais. Maintenant, tais-toi, et allons tuer quelqu'un. L'argent ne va pas venir tout seul dans nos poches.~
-@562  = ~Bien. Ne va pas croire que je vais devenir une petite écervelée juste parce qu'on couche ensemble. Je ne suis pas une pétasse qui fait semblant d'être une dure à cuire, mais qui espère secrètement qu'un prince charmant vienne la 'secourir'. Aime-moi tant que tu veux, moi, tout ce qu'il me faut, c'est un homme vigoureux dans mon lit pour égayer mon quotidien, et tu es parfait pour ça. N'essaie pas de me changer, et nous aurons tous les deux ce que nous voulons l'un de l'autre.~
+@562  = ~Bien. Ne va pas croire que je vais devenir une petite écervelée juste parce qu'on couche ensemble. Je ne suis pas une pétasse qui fait semblant d'être une dure à cuire, mais qui espère secrètement qu'un prince charmant vienne la « secourir ». Aime-moi tant que tu veux, moi, tout ce qu'il me faut, c'est un homme vigoureux dans mon lit pour égayer mon quotidien, et tu es parfait pour ça. N'essaie pas de me changer, et nous aurons tous les deux ce que nous voulons l'un de l'autre.~
 @563  = ~*Elle frissonne.* Par les dieux, j'ai couché avec un lâche ! Beurk...~
 @564  = ~Bien. Un homme ne devrait pas parler si on ne lui en a pas donné la permission.~
 @565  = ~Ca pourrait être marrant, mais fais-le plutôt avec une épée, si tu peux en tenir une correctement. Cela étant, blague à part...~
-@566  = ~Ne va pas croire que je vais devenir une petite écervelée juste parce qu'on couche ensemble. Je ne suis pas une pétasse qui fait semblant d'être une dure à cuire, mais qui espère secrètement qu'un prince charmant vienne la 'secourir'. Aime-moi tant que tu veux, moi, tout ce qu'il me faut, c'est un homme vigoureux dans mon lit pour égayer mon quotidien, et tu es parfait pour ça. N'essaie pas de me changer, et nous aurons tous les deux ce que nous voulons l'un de l'autre.~
+@566  = ~Ne va pas croire que je vais devenir une petite écervelée juste parce qu'on couche ensemble. Je ne suis pas une pétasse qui fait semblant d'être une dure à cuire, mais qui espère secrètement qu'un prince charmant vienne la « secourir ». Aime-moi tant que tu veux, moi, tout ce qu'il me faut, c'est un homme vigoureux dans mon lit pour égayer mon quotidien, et tu es parfait pour ça. N'essaie pas de me changer, et nous aurons tous les deux ce que nous voulons l'un de l'autre.~
 
 //l'instant "thérapie" de la romance
 @567  = ~Ce que je vais te dire, je ne l'ai jamais dit à personne d'autre qu'à Ysena. Mais je suppose que je peux te faire confiance.~
@@ -766,7 +766,7 @@
 @722  = ~Ca m'a l'air d'être un excellent projet, Shar-Teel, mais c'est impossible pour le moment. Laisse-moi régler toute cette histoire avec le meurtrier de mon père, et après... on pourra voyager tous les deux.~
 @723  = ~Non, Shar-Teel, c'est hors de question.~
 @724  = ~Eh ben t'as qu'à aller l'embrasser, cette salope !~
-@725  = ~Ah, vraiment ? Et moi qui pensais que tu étais moins pitoyable que les autres hommes. Non mais écoute-toi parler ! 'Ma meeeeeeeilleure amie'... *crache* Souviens-toi que je t'ai offert une opportunité de tout laisser tomber.~
+@725  = ~Ah, vraiment ? Et moi qui pensais que tu étais moins pitoyable que les autres hommes. Non mais écoute-toi parler ! « Ma meeeeeeeilleure amie »... *crache* Souviens-toi que je t'ai offert une opportunité de tout laisser tomber.~
 @726  = ~Tu n'es qu'un idiot ! Je ne suis qu'une idiote ! La drow *m'a* dit qu'elle pouvait t'avoir quand elle voulait... Eh bien, tu n'as plus qu'à aller lui lécher les bottes, maintenant !~
 @727  = ~*Elle vous fixe d'un regard glacial.* Eh bien, souviens-toi que je t'ai offert une opportunité de tout laisser tomber.~
 @728  = ~*Elle crache et ne dit plus rien.*~
@@ -890,7 +890,7 @@
 @840  = ~Oh, tu blaguais, <CHARNAME> ? Tu es vraiment un idiot.~
 @841  = ~Peut-être, mais j'ai cru voir l'ombre d'un sourire illuminer ton visage. Peut-être que dans quelques temps, nous partagerons une amitié très orageuse.~
 @842  = ~Et toi, tu es vraiment butée. Je vais te le dire une fois pour toutes, Shar-Teel : souris, femme, ou tais-toi.~
-@843  = ~Peut-être, mais toi, tu voyages en pleine connaissance de cause avec un 'idiot'.~
+@843  = ~Peut-être, mais toi, tu voyages en pleine connaissance de cause avec un « idiot ».~
 @844  = ~Je ne suis pas une aventurière errante par plaisir, <CHARNAME>. Je voyage parce que ça empêche les gardes de me retrouver et de me tuer en pleine nuit, ou pire, de m'enfermer dans une cellule jusqu'à la fin de mes jours.~
 @845  = ~Quelle vie solitaire ça doit être. Tu n'as jamais voulu de la compagnie, d'un ami ou deux à qui parler durant tes voyages ?~
 @846  = ~Tu n'as pas eu la vie facile.~
@@ -901,7 +901,7 @@
 @851  = ~Il y a bien pire que la pitié d'un idiot. Ne perd pas ton temps à m'accorder de l'attention, si je te fais pitié à ce point.~
 @852  = ~Mais c'est la seule chose chez toi qui m'inspire tel sentiment. Tout le reste est admirable. Tu as toute mon attention, Shar-Teel, que tu le veuilles ou non.~
 @853  = ~C'est le dernier conseil que j'accepterai de ta part. A partir de maintenant, tu ne seras pour moi rien d'autre qu'une mercenaire dont je loue l'épée.~
-@854  = ~Je suppose que cela voulait dire 'non', <CHARNAME>. Mais tu peux continuer à babiller si ça te chante, ça rend le voyage moins ennuyeux. Ce qui me rappelle : il faut me trouver quelqu'un à buter, et plus vite que ça.~
+@854  = ~Je suppose que cela voulait dire « non », <CHARNAME>. Mais tu peux continuer à babiller si ça te chante, ça rend le voyage moins ennuyeux. Ce qui me rappelle : il faut me trouver quelqu'un à buter, et plus vite que ça.~
 @855  = ~Crois-moi, je préfère que ça se passe comme ça.~
 
 //dialogue après avoir rencontré Angelo Dosan, le père de Shar-Teel, à la Porte de Baldur
@@ -917,7 +917,7 @@
 @865  = ~Alors il nous a laissés partir parce que sa réputation aurait souffert d'avoir fait pendre sa propre fille ? Je ne crois pas, Shar-Teel. Il reste encore un peu d'honneur dans son coeur. Et puis, il... il doit quand même bien t'aimer, Shar-Teel... à sa manière.~
 @866  = ~Bon, comme tu voudras. C'est un bâtard doublé d'un crétin.~
 @867  = ~C'est juste que... je n'ai pas encore décidé de ce que je pensais de lui, Shar-Teel.~
-@868  = ~Et tu peux me dire quand ta petite cervelle pathétique est en mesure de 'prendre une décision' ? Ca te fait aussi mal que ça, de penser ? Tu es pitoyable !~
+@868  = ~Et tu peux me dire quand ta petite cervelle pathétique est en mesure de « prendre une décision » ? Ca te fait aussi mal que ça, de penser ? Tu es pitoyable !~
 @869  = ~Tu dis ça comme si tu t'en fichais royalement !~
 @870  = ~Shar-Teel, s'il te plaît... Condamner la moindre action de ton père et évaluer l'exact degré de sa félonie n'est pas vraiment ma priorité pour le moment.~
 @871  = ~Disons que prononcer l'adjectif exact que m'a inspiré ton père en présence d'une dame va à l'encontre de mon éducation.~
@@ -1053,7 +1053,7 @@
 @995  = ~Venant de toi, je prends ça comme une déclaration d'amour.~
 @996  = ~*crache* Un chef qui se rend sur demande. Ca, c'est pitoyable.~
 @997  = ~*Un rictus malveillant se dessine sur la bouche de Shar-Teel.* Enfin !~
-@998  = ~Et si c'était plutôt ton cadavre, que je portais, 'petit chéri' ?~
+@998  = ~Et si c'était plutôt ton cadavre, que je portais, « petit chéri » ?~
 @999  = ~*Elle renifle d'un air moqueur.* Et avec qui on peut faire de la lutte à Château-Suif ? Des rats ? Des enfants de choeurs ?~
 @1000 = ~Les... les autres moines d'Oghma, mon ourse.~
 @1001 = ~Celle-la, tu me la refais, et je te file un coup si fort que tu en resteras sourd comme un pot !~

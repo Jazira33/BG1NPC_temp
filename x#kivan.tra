@@ -5,7 +5,7 @@
 @1 = ~Faible darthiir, tu ne mérites même pas de lécher mes bottes.~
 @2 = ~Reste loin de moi, darthiir.~
 @3 = ~Les Darthiiri sont bons pour le sport...~
-@4 = ~ Vous n'êtes qu'une salope au coeur sombre !~
+@4 = ~Vous n'êtes qu'une salope au coeur sombre !~
 
 /* Friend Talk 2 */
 @5 = ~*sourit* Pour un rat de bibliothèque vous êtes très à l'aise en extérieur, mon jeune ami. Je ne peux déceler que les plus infimes signes de votre manque d'habitude du pistage animal ou du sommeil sous une voûte ornée d'étoiles.~
@@ -679,7 +679,7 @@ A la solitaire et majestueuse multitude.~
 @531 = ~*soupir* Shilmista est le plus bel endroit au monde...~
 @532 = ~Elfe, toutes les forêts sont également belles.~
 @533 = ~Vous avez raison, bien sûr, Jaheira, mais ma patrie... ma patrie est différente. Après avoir voyagé par monts et par vaux je considérerais un brin d'herbe de Shilmista comme quelque chose de merveilleux. Il y a de véritables miracles à Shilmista, d'ailleurs.~
-@534 = ~Par 'miracles', veux-tu dire que les pissenlits poussent dans la Forêt des Ombres comme de l'herbe ?~
+@534 = ~Par « miracles », veux-tu dire que les pissenlits poussent dans la Forêt des Ombres comme de l'herbe ?~
 @535 = ~Non, ce n'est pas ce que je voulais dire, Jaheira.~
 
 
@@ -913,7 +913,7 @@ A la solitaire et majestueuse multitude.~
 
 @694 = ~<CHARNAME>, réveillez-vous ! Le halfeling garde un jeu d'instruments de torture. Êtes-vous aveugle, ou êtes-vous dénué de morale ?~
        ~<CHARNAME>, réveillez-vous ! Le halfeling garde un jeu d'instruments de torture. Êtes-vous aveugle, ou êtes-vous dénuée de morale ?~
-@695 = ~Cache-le, <CHARNAME> ! Ton nouvel 'ami', là, prend un intérêt malsain pour mon matos.~
+@695 = ~Cache-le, <CHARNAME> ! Ton nouvel « ami », là, prend un intérêt malsain pour mon matos.~
 @696 = ~Rien d'plus ou d'autre que pour ce que j'faisais. Ton elfe en f'sait une attaque tout seul, p'rtant.~
 @697 = ~Vous êtes un chef juste, <CHARNAME>.~
 @698 = ~La maladie de l'elfe est contagieuse, j'vois ça. Viens, Xzar. Partons avant de commencer à enlacer les arbres et d'péter plus haut qu'nos culs comme ceux-là.~

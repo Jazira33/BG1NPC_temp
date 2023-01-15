@@ -129,7 +129,7 @@ Drizzt le Rôdeur a trouvé une page du journal de Dynahéir. Il pense que le re
 
 //Drizzt a retrouvé le journal de Dynahéir (si le groupe ne l'a pas cherché lui-même). Edwin peut intervenir
 @111 = ~Heureux de vous revoir, camarade. J'ai retrouvé le journal de votre amie.~
-@112 = ~Il était détenu par un groupe de gnolls vicieux. J'ignore si vous comprendrez ceci mieux que moi, mais l'un d'entre eux disait être loyal à quelqu'un qu'il appelait 'l'Ancien'.~
+@112 = ~Il était détenu par un groupe de gnolls vicieux. J'ignore si vous comprendrez ceci mieux que moi, mais l'un d'entre eux disait être loyal à quelqu'un qu'il appelait « l'Ancien ».~
 @113 = ~Voici le journal.~
 @114 = ~Je Te suis reconnaissante, Drizzt Do'Urden. Laisse-moi T'offrir ce parchemin en signe de ma gratitude.~
 @115 = ~Heureux d'avoir pu vous aider. Adieu !~

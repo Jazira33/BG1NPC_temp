@@ -710,7 +710,7 @@ De l'autre côté.~
 @572 = ~J'en suis ravie, <CHARNAME>. Pour l'heure, cependant, revenons-en à nos affaires.~
 @573 = ~Khalid et moi irons avec toi et resterons au bosquet pendant un certain temps. J'ai beau être une servante compétente de la Nature, j'ai encore beaucoup à apprendre. Et, peut-être, après pourrons-nous reprendre nos aventures tous ensemble, qui peut le dire.~
 @574 = ~Quand... quand notre tâche sera accomplie, j'aurai besoin d'un endroit pour m'asseoir et méditer tranquillement. Je dois faire mon deuil, si je veux pouvoir avancer dans la vie, et où pourrais-je mieux le faire sinon parmi les miens ? Mais assez de ces pensées mélancoliques, continuons notre route.~
-@575 = ~Hé ! On parle de moi ?~ 
+@575 = ~Hé ! On parle de moi ?~
 // Juste pour la petite histoire intraduisible...
 // La ligne @575 disait originellement : Hé ! C'est pas gentil !, prononcée par Quayle s'il est dans l'équipe et que <CHARNAME> répond la réplique @552 : Une caille !
 // Cause : Quail - la caille et Quayle - le gnome... En français, évidemment, Caille et Quayle, c'est moins fun... Donc j'ai mis "on parle de moi" en imaginant que ça pourrait clarifier pourquoi Quayle réagit à cette réplique (je n'ai pas pu mettre @552 : Un Quayle ! puisque la réplique est possible aussi en l'absence de Quayle dans l'équipe).

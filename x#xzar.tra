@@ -61,7 +61,7 @@
 @47 = ~Est-ce que tu *essaies* de me flanquer les jetons, Xzar ? Parce que tu t'y prends vachement bien.~
 @48 = ~Oh. Alors passez-moi ma couverture bleue, vous pouvez ? Elle est juste à côté de votre genou, sur le gazon.~
 
-// Après la mort de Davaeorn
+// Après la mort de Davaëorn
 
 // Xzar/Imoen
 @49 = ~*chante d'une voix forte* Ding, dong, la liche est morte, et quelle liche, la méchante liche...~
@@ -86,7 +86,7 @@
 @66 = ~Pas grave. A mes yeux, il y'a quelq' sagesse dans les moqueries de ce sorcier.~
 @67 = ~AH ! On applaudit bien fort la rapidité de pensée du courtaud !~
 @68 = ~J'ai plus de frères de clan pour tenir cet endroit cont' le Trône. Et j'ai d'jà pu voir combien mon foyer pouvait êt' perverti s'il restait sans défense.~
-@69 = ~'Vogue le navire !' Oué, c'est mieux comme ça.~
+@69 = ~« Vogue le navire ! » Ouais, c'est mieux comme ça.~
 
 // Xzar/Ajantis, en forêt
 
@@ -143,7 +143,7 @@
 @108 = ~Obscurcir la zone là où des sorts grandioses devraient être lancés. Alors que je suis là !~
 @109 = ~Hauts les coeurs, sorcier. En cas de besoin, tu trouveras ma lame non moins compétente que mon tir d'élite. Un compagnon plutôt rassurant pour vous, je dirais, si jamais nous étions assaillis par le flanc.~
 @110 = ~Vraiment ? Vous vous sacrifieriez pour me sauver ? Alors que nous nous connaissons depuis si peu de temps ? A vrai dire, je ne vous aurais pas cru capable de faire preuve aussi vite d'un tel discernement.~
-@111 = ~Je n'ai pas exactement parlé de 'sacrifice'. Je ne suis pas plus suicidaire que toi.~
+@111 = ~Je n'ai pas exactement parlé de « sacrifice ». Je ne suis pas plus suicidaire que toi.~
 @112 = ~Quoi ?! Vous refuseriez de mourir pour une cause si noble ? Alors j'avais raison ! <CHARNAME> *est* une andouille !~
 
 // Xzar/ Dynaheir
@@ -153,7 +153,7 @@
 @115 = ~Si vous êtes réellement une sorcière, pourquoi ne ricanez-vous pas plus souvent ? Et où, je vous en prie, dissimulez-vous sur votre personne votre chat, votre balai, votre chapeau noir et pointu ?~
 @116 = ~Je ne comprends pas Tes allusions, mais elles paraissent réfugiées d'un conte pour enfants.~
 @117 = ~Non ! Non, non, non, non, noooonnnn ! Moman n'aurait pas menti ! Jamais !~
-@118 = ~Peut-être n'a-T-elle pas menti, mais Sois assuré qu'elle ne parlait pas de ma patrie, dans tous les cas. En Rashéménie, les 'sorcières' sont la confrérie de mages qui gouvernent le pays et leur nom approprié est Hathran.~
+@118 = ~Peut-être n'a-T-elle pas menti, mais Sois assuré qu'elle ne parlait pas de ma patrie, dans tous les cas. En Rashéménie, les « sorcières » sont la confrérie de mages qui gouvernent le pays et leur nom approprié est Hathran.~
 @119 = ~Je n'aime pas vos sorcières ! Elles sont mauvaises ! Je préfère les sorcières de Moman. Elles volent dans le ciel et ricanent et... et... elles mangent les méchants petits garçons pour le petit-déjeuner. Pourquoi ne pouvez-vous pas être une sorcière dans ce genre-là ?~
 @120 = ~*soupir* Si je devais ingérer *tous* les méchants petits garçons que je rencontre, je deviendrais bientôt d'une circonférence beaucoup trop importante pour pouvoir survoler une simple termitière.~
 @121 = ~Oh. C'est vrai... Vous devriez vraiment vous entraîner davantage, vous savez.~
@@ -162,9 +162,9 @@
 
 @122 = ~Alors, robe rouge, toujours en train de contempler les origines de l'Infini, hein ?~
 @123 = ~Votre surestimation de mon actuelle préoccupation est compréhensible. Cependant, je crains que mon ineffable flux de pensée n'ait été détourné en cette occasion vers un canal bien plus indigne.~
-@124 = ~Des pandas sur des planches à roulettes Ou des ballons. Des ballons aux couleurs éclatantes qui s'élèvent dans le soleil et éclatent avec de petits 'pan' tellement futiles...~
+@124 = ~Des pandas sur des planches à roulettes Ou des ballons. Des ballons aux couleurs éclatantes qui s'élèvent dans le soleil et éclatent avec de petits « pan » tellement futiles...~
 @125 = ~Votre compréhension de la trivialité est au niveau de votre appréhension de la profondeur. Néant, dans les deux cas.~
-@126 = ~Et informez votre 'ami' le halfeling que je viens de traverser la région qui se trouve immédiatement derrière moi. Il n'y a rien là qui mérite sa furtive attention.~
+@126 = ~Et informez votre « ami » le halfeling que je viens de traverser la région qui se trouve immédiatement derrière moi. Il n'y a rien là qui mérite sa furtive attention.~
 @127 = ~Vous seriez surpris... un jour, vous serez surpris, je pense... d'apprendre ce qui intéresse Montaron.~
 @128 = ~Mais... mais... vous êtes méchant ! Vous n'aimez pas les pandas ou les ballons et vous êtes un gros charlatan, aussi. Vous ne pensiez à rien du tout. Parce que *je* pensais à TOUT ! Il ne restait rien pour vous !~
 @129 = ~Vous vous trompez. J'examinais nombre d'agréables méthodes susceptibles d'arracher un nécromancien dérangé à sa - et, beaucoup plus important, à *ma* - misère.~
@@ -204,7 +204,7 @@
 
 @154 = ~Ô chanteur, cet air que vous, hum...~
 @155 = ~Oui ?~
-@156 = ~C'est un air martial, n'est-ce pas ? Il remplit le coeur d' espoir passionné, d'ardeur pour les batailles à venir ?~
+@156 = ~C'est un air martial, n'est-ce pas ? Il remplit le coeur d'espoir passionné, d'ardeur pour les batailles à venir ?~
 @157 = ~Vous avez une bonne oreille. C'est en effet la teneur de mon chant.~
 @158 = ~Hé bien, arrêtez ça, voulez-vous ? C'est TROP déprimant.~
 @159 = ~Vous préféreriez être un cadavre qu'en créer d'autres, je suppose.~
@@ -229,7 +229,7 @@
 
 @173 = ~Hé bien, salut, b-b-brave p-protecteur. Nous devrions discuter un moment, vous et moi.~
 @174 = ~Dis ce que tu as à dire, et plus tôt tu en auras fini, mieux cela vaudra.~
-@175 = ~Oh, allez vous faire voir. Je ne faisais que regarder derrière le bout du nez, et vous étiez là. J'ai donc pensé civil de passer le temps avec vous.~ 
+@175 = ~Oh, allez vous faire voir. Je ne faisais que regarder derrière le bout du nez, et vous étiez là. J'ai donc pensé civil de passer le temps avec vous.~
 @176 = ~Mes arrangements domestiques ne sont pas ton affaire, et je n'ai pas le désir de passer quoi que ce soit avec *toi*, n-nécromancien.~
 @177 = ~Passer queq' chose *à travers* lui, pourtant, ce serait une autre affaire, hein ?~
 @178 = ~Du calme, ici ! Je prends un intérêt intelligent pour la mort, le seul et unique objectif de toute vie, et qu'est-ce que j'obtiens de la part de la minorité des encore-vivants ? De la bigotterie obtuse, encore et toujours !~
@@ -360,10 +360,10 @@ De Nice à Laval.~
 @269 = ~Vraiment ? Cela ressemble à quoi ? Quel est son nom ?~
 @270 = ~Le nom perd beaucoup à être traduit dans votre langage indigent. Je pense que vous pourriez le qualifier de Cimetière des Perdants.~
 @271 = ~Quoi ?!~
-@272 = ~Peut-être 'Cimetière des Vies Gaspillées' est-il une traduction plus fidèle. En tout cas, c'est l'endroit ignominieux où sont placés les restes de ceux que la Mère Matrone a jugés inaptes.~
+@272 = ~Peut-être « Cimetière des Vies Gaspillées » est-il une traduction plus fidèle. En tout cas, c'est l'endroit ignominieux où sont placés les restes de ceux que la Mère Matrone a jugés inaptes.~
 @273 = ~Inaptes ?!~
 @274 = ~A quelle autre conclusion devrais-je aboutir ? Je vois une personne de ton talent et de ton penchant, et dont pourtant l'esprit a été brisé par l'irrationalité de la vie surfacine, errant sans but sur des sentiers de traverse sombres et poussiéreux, dépourvue d'honneur et de condition.~
-@275 = ~Quel jugement puis-je porter, sinon 'inapte' ?~
+@275 = ~Quel jugement puis-je porter, sinon « inapte » ?~
 @276 = ~Ah, je remarque que vous ne prenez pas en compte le fait que le monde extérieur est infiniment plus vaste que ses entrailles. Parmi nous, des excursions telles que celle-ci, bien qu'elles soient inévitablement contrariantes, ne sont pas à traiter par le mépris ipso facto.~
 @277 = ~Par exemple, où aurais-je pu sinon rencontrer un joyau enchanté tel que vous, Dame sombre ?~
 @278 = ~Ta flatterie est inepte, mais ton conseil est peut-être sage. Je garderai un oeil sur toi, mâle.~

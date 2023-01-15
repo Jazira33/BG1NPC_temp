@@ -4,7 +4,7 @@
 @2 = ~Je voyage toujours dans mon pays, Dynahéir. La Rashéménie est beaucoup plus éloignée que ne l'est Château-Suif. Où est-ce, à propos ?~
 @3 = ~Ce n'est pas l'endroit qui me manque, mais tous ceux qui y vivaient. C'était un sacré groupe de gens tous plus bizarres les uns que les autres...~
 @4 = ~Château-Suif me manque profondément, et je compte y retourner dès que j'aurai trouvé un livre très rare ou collecté dix milles pièces d'or !~
-@5 = ~Ca vous intéresse vraiment, de le savoir ?~
+@5 = ~Ça vous intéresse vraiment, de le savoir ?~
 @6 = ~Je comprends. L'enthousiasme que Tu portes à Ta première aventure T'empêche de ressentir de l'inquiétude.~
 @7 = ~Euh... un truc du genre, oui. Continuons, Dynahéir.~
 @8 = ~L'enthousiasme ? Mais bien sûr que je suis enthousiaste ! Dynahéir, je suis sur le point de devenir le plus grand héros que ce pays a connu depuis des siècles ! Je suis le noble vengeur qui pourchasse l'assassin de son père ! Je suis... je suis...~
@@ -63,7 +63,7 @@
 @51 = ~Avec grand plaisir. Ou se trouve donc mon encrier ? Ah, le voilà : H-A-T-H-R-A-N. En langage commun, bien sûr.~
 @52 = ~Bien. Maintenant que je sais comment ça s'écrit, on peut arrêter les activités éducatives pour aujourd'hui. Remettons-nous à la baston !~
 @53 = ~Et donc, qu'est-ce qu'une Hathran ?~
-@54 = ~Ca et le fait que vous êtes une magicienne bourrine, c'est tout ce dont j'ai besoin de savoir sur les Hathrans.~
+@54 = ~Ça et le fait que vous êtes une magicienne bourrine, c'est tout ce dont j'ai besoin de savoir sur les Hathrans.~
 @55 = ~On nous appelle souvent sorcières, mais entre nous, nous nous appelons Hathrans. En deux mots, une Hathran est une femme qui possède un don pour l'Art. Une Non-prouvée n'a pas encore été entraînée à la Magie. Une Ethran a été entraînée, une Hathran est une mage confirmée. Les Othlors sont les plus sages et les plus révérées d'entre nous.~
 @56 = ~Merci, Dynahéir. C'était très intéressant.~
 @57 = ~Peu importe. Si vous voulez bien m'excuser, je dois bouger ou je vais prendre racine.~
@@ -101,14 +101,14 @@
 @86 = ~Un tel engagement n'est pas conseillé à un voyageur, <CHARNAME>. La tristesse de nos coeurs nous rend aveugle au monde qui nous entoure. En ce moment, je ne suis liée par aucun engagement.~
 
 @87 = ~Mes suspicions étaient donc fondées. Tu es un enfant de Bhaal.~
-@88 = ~Dynahéir, s'il y a bien une chose que je ne supporte pas, ce sont les gens qui ne disent rien de ce qu'ils savent et qui sourient hypocritement en disant 'je l'ai toujours su'...~
+@88 = ~Dynahéir, s'il y a bien une chose que je ne supporte pas, ce sont les gens qui ne disent rien de ce qu'ils savent et qui sourient hypocritement en disant « je l'ai toujours su »...~
 @89 = ~Et vous avez un conseil à me donner, n'est-ce pas ?~
 @90 = ~Et alors ? Il faut bien être l'enfant de quelqu'un.~
 @91 = ~Les Prophéties d'Alaundo sont relativement peu connues, <CHARNAME>. Et le peu que l'on en connaît n'est pas toujours compréhensible. Tu n'étais qu'un orphelin marqué du sceau du destin au moment où nous nous sommes rencontrés. Il y avait du sang sur Ton chemin, mais c'était différent de ce dont parlaient les prophéties.~
       ~Les Prophéties d'Alaundo sont relativement peu connues, <CHARNAME>. Et le peu que l'on en connaît n'est pas toujours compréhensible. Tu n'étais qu'une orpheline marquée du sceau du destin au moment où nous nous sommes rencontrées. Il y avait du sang sur Ton chemin, mais c'était différent de ce dont parlaient les prophéties.~
 @92 = ~Et que disaient-elles ? Quelle est ma destinée ?~
 @93 = ~En fin de compte, vous aviez raison de ne rien m'avoir dit de vos suspicions passées. Et vous n'avez plus intérêt à m'en reparler !~
-@94 = ~Le même conseil que d'habitude : 'méfie-Toi'. Mais il y aura une variation, cette fois-ci : 'méfie-Toi de Toi comme des autres'. La prophétie qui Te concerne est bien ténébreuse.~
+@94 = ~Le même conseil que d'habitude : « méfie-Toi ». Mais il y aura une variation, cette fois-ci : « méfie-Toi de Toi comme des autres ». La prophétie qui Te concerne est bien ténébreuse.~
 @95 = ~Que dit-elle ? Quelle est ma destinée ?~
 @96 = ~Il est vrai. Mais méfie-Toi de Toi et de ce que Tu veux, <CHARNAME>. Sois toujours sur Tes gardes. La prophétie qui Te concerne est bien ténébreuse.~
 @97 = ~Une sage décision. Ainsi, ce qui a été annoncé ne guidera pas Tes choix. Mais prends garde quand même.~
@@ -129,7 +129,7 @@ Nourrissent les enfers de leur haine.~
 @106 = ~Ah, oui, enfin, hum, magicienne, c'est-à-dire...~
 @107 = ~Bien que je sois disposée à laisser passer certaines choses que je mettrai sur le compte de Ton malaise évident, il serait plus approprié, si ce n'est moins incorrect, de m'appeller par mon prénom. Tu connais ce dernier ; Tu peux donc en faire usage.~
 @108 = ~Oui, euh, Dynahéir. Avez-vous déjà pensé à améliorer vos, ahem, vos compétences de combat ? En vérité, si votre Minsc n'était pas à vos côtés, vous vous seriez faite découper en rondelles à plusieurs reprises. Et vous n'êtes pas sans vous souvenir de cet incident avec les gnolls...~
-@109 = ~En effet, je n'ai pas oublié ceci. Mais Minsc est avec moi, maintenant. Et je suis sûre que, dans le futur, sa force pourra régler ce que mes boules de feu n'auront pas réussi à vaincre. Par ailleurs, pourquoi devrais-je même penser à 'améliorer mes compétences de combat', prêtresse de Tempus ? Je n'ai aucune inclination au combat, et je préfèrerais encore manier la harpe plutôt que d'en arriver là. Si Bouh savait se tenir un tant soit peu tranquille, je jurerais que Tu irais jusqu'à lui apprendre comment manier un fléau d'armes !~
+@109 = ~En effet, je n'ai pas oublié ceci. Mais Minsc est avec moi, maintenant. Et je suis sûre que, dans le futur, sa force pourra régler ce que mes boules de feu n'auront pas réussi à vaincre. Par ailleurs, pourquoi devrais-je même penser à « améliorer mes compétences de combat », prêtresse de Tempus ? Je n'ai aucune inclination au combat, et je préfèrerais encore manier la harpe plutôt que d'en arriver là. Si Bouh savait se tenir un tant soit peu tranquille, je jurerais que Tu irais jusqu'à lui apprendre comment manier un fléau d'armes !~
 @110 = ~Je vous présente mes excuses, magi... hum, Dynahéir, mais je pense qu'il nous serait très profitable si vous passiez au moins un peu de temps à apprendre à tirer à l'arc. Tempus m'a montré que vous ne pouvez pas constamment compter sur votre magie ou sur votre compagnon d'armes, peu importe sa force.~
 @111 = ~Je n'en doute pas une seconde, prêtresse. Maintenant, fais-moi une faveur, et ne me parle plus.~
 @112 = ~Non, Dynahéir, vous ne comprenez pas ! Tempus me l'a *montré*, récemment dans un rêve. Je sais que cela peut vous sembler aussi crédible que les racontards des enfants, mais ce rêve était si réel ! J'ai rêvé de Minsc. Il était entré en rage de berserker, mais il était sans défense. J'ai rêvé de créatures cruelles et arrogantes qui se riaient de votre puissante magie qui glissait sur elles comme la pluie sur une armure.~
@@ -254,7 +254,7 @@ Nourrissent les enfers de leur haine.~
 @208 = ~J'ai étudié beaucoup de cartes, mais jamais je n'ai eu connaissance d'un pays nommé Ici, pas plus que je n'ai voyagé en terre de Là.~
 @209 = ~Et après ? Allez étudier vos cartes, vous les trouv'rez p'têtre. Par le marteau de Moradin, fillette à la peau lisse, vous savez pas quand il faut laisser un guerrier tranquille ?~
 @210 = ~Quel grossier personnage.~
-@211 = ~Aucun nain digne de c'nom irait répondre aux questions stupides d'un mage. Ca vous va ?~
+@211 = ~Aucun nain digne de c'nom irait répondre aux questions stupides d'un mage. Ça vous va ?~
 @212 = ~D'après ce que je sais, aucun nain digne de ce nom ne voyagerait aussi loin de son clan.~
 @213 = ~Tu parles ! Maintenant, fichez-moi la paix, femme. Ou sinon, ma hache pourrait bien être tentée de goûter à vot'sang !~
 
@@ -271,7 +271,7 @@ Nourrissent les enfers de leur haine.~
 @221 = ~Je Te promets de faire en sorte de ne pas T'envahir de questions. Mais la route est longue, et nous avons plein de temps devant nous pour discuter.~
 @222 = ~Il est vrai. En outre,une discussion amicale est toujours préférable à une dispute. Que voulez-vous savoir, Dynahéir ?~
 @223 = ~En premier lieu, c'est Ton nom qui attire le plus ma curiosité. Il ne sonne pas pareil que les autres noms elfiques que j'ai pu entendre par le passé. Ils étaient plus mélodieux.~
-@224 = ~Ma mère m'a choisi un nom qui allait avec son humeur et qui était agréable à l'oreille. Cela arrive fréquemment chez les elfes. Hors de la nation de Shilmista, d'où je viens, on l'aurait prononcé différemment : Kethvan. Le 'vent de la forêt'.~
+@224 = ~Ma mère m'a choisi un nom qui allait avec son humeur et qui était agréable à l'oreille. Cela arrive fréquemment chez les elfes. Hors de la nation de Shilmista, d'où je viens, on l'aurait prononcé différemment : Kethvan. Le « vent de la forêt ».~
 @225 = ~Très intéressant, en effet.~
 
 //Banter avec Minsc (2)
@@ -394,12 +394,12 @@ Nourrissent les enfers de leur haine.~
 @321 = ~Et pourtant, <CHARNAME> est une personne intéressante, non ?~
 @322 = ~Ah ! C'est un enfant de Bhaal ! Tu le sais parfaitement !~
 @323 = ~Mais... euh... Mais mis à part ça, vous savez... C'est à dire que... Moman ?~
-@324 = ~Il n'y a pas de 'mis à part ça'. Tu étais en train de rêver des maléfiques pouvoirs que Tu pouvais en retirer.~
+@324 = ~Il n'y a pas de « mis à part ça ». Tu étais en train de rêver des maléfiques pouvoirs que Tu pouvais en retirer.~
 @325 = ~Ecoutez ! J'aime beaucoup <CHARNAME>. Nous avons traversé tellement de choses ensemble, et... Il n'y a pas de mal à rêver un peu, ça c'est sûr. Pas d'une pénurie d'enfants de Bhaal, je veux dire. La pluie est humide, en cette saison, vous ne trouvez pas ?~
 @326 = ~Il est bon que Tu ne sois pas météorologue pour parler de manière aussi désorganisée. Je Te le dis, Zhent, Tu irais à l'encontre des prophéties et laisserais Bhaal revenir une fois encore tourmenter les Royaumes.~
 @327 = ~Je ne suis pas particulièrement porté sur la religion, mais Bhaal... pourrait faire pire. C'est ce que Monty me disait tout le temps. Monty ? Et bien, je suis sûr que vous n'avez aucune *idée* de ce que l'on pourrait faire avec le crâne. Un parricide, par exemple.~
 @328 = ~En effet, je n'en ai aucune idée. Et Toi non plus, j'en suis sûre. Alors contente-Toi de Tes rêves, et pense aux désagréments que cela Te causerait si le Zhentarim venait à apprendre que Tu avais trahi sa confiance uniquement pour servir Ta propre ambition.~
-@329 = ~Yissss ! 'A chaque sujet sa propre saison', hein ? A *chaque* sujet. Sorcière !~
+@329 = ~Yissss ! « À chaque sujet sa propre saison », hein ? À *chaque* sujet. Sorcière !~
 
 //Banter avec Yeslick
 @330 = ~Viens-Tu de Sembie, Yeslick ?~

@@ -50,7 +50,7 @@
 @25    = ~Oui, le monde entier est à portée. Le pouvoir, la richesse, qui n'attendent que moi. J'ai l'intention d'en saisir autant que je pourrai !~
 @26    = ~Tu es encore en train de jacasser, Imoen. Tu sais combien je déteste quand tu fais ça ! Je t'en prie, ferme-la.~
 // Après @23
-@27    = ~C'est 'nous', rappelle-toi ? Et ouais, je suppose que nous n'avons pas vraiment le choix. Quand même, nous pouvons faire beaucoup de bien, je pense.~
+@27    = ~C'est « nous », rappelle-toi ? Et ouais, je suppose que nous n'avons pas vraiment le choix. Quand même, nous pouvons faire beaucoup de bien, je pense.~
 // Après @24
 // fiddle-faddle = balivernes, fadaises, bagatelles ?! Traduit en "sot"
 @28    = ~Je m'en doute. Tu t'inquiètes trop, vieux sot. Quant à moi, je projette de m'amuser !~
@@ -71,7 +71,7 @@
 @34    = ~Hum, que dirais-tu de « Imoen la... » ?~
 @35    = ~Ah ah. Imoen, le Pinacle de Contrariété, l'Exemple-même de Tracasserie et la Championne du Harcèlement !~
 // Après @34
-@36    = ~Chut ! Je réfléchis ! Où en étais-je ? J'aime encore davantage 'Imoen la Vive'. Je me demande si c'est déjà pris ?~
+@36    = ~Chut ! Je réfléchis ! Où en étais-je ? J'aime encore davantage « Imoen la Vive ». Je me demande si c'est déjà pris ?~
 /* Bérégost talk */
 @37    = ~Eh bien nous y voilà ! Bérégost. Qu'en penses-tu ?~
 // Réponses à @37
@@ -271,8 +271,8 @@
 // Après @147
 @150   = ~Ouiii ! Quel sens de l'humour tu as !~
 // Après @148
-@151   = ~Eh bien... on dirait que quelqu'un t'a déjà transformé en quelque chose... un ABRUTI ! Merci de ton 'inquiétude', malgré tout. Hum !~
-         ~Eh bien... on dirait que quelqu'un t'a déjà transformée en quelque chose... une ABRUTIE ! Merci de ton 'inquiétude', malgré tout. Hum !~
+@151   = ~Eh bien... on dirait que quelqu'un t'a déjà transformé en quelque chose... un ABRUTI ! Merci de ton « inquiétude », malgré tout. Hum !~
+         ~Eh bien... on dirait que quelqu'un t'a déjà transformée en quelque chose... une ABRUTIE ! Merci de ton « inquiétude », malgré tout. Hum !~
 // Après @149, @150, @151
 @152   = ~Ces « sorts » ou quoi que ce soit, les choses à la fin ? On dirait que c'est plutôt important. Je ne vais pas y toucher.~
 // Après @152
@@ -369,7 +369,7 @@
 @202   = ~Hé ! Je pense que j'ai celui-là de prêt. Ouais. Simple comme bonjour. Attends, <CHARNAME>, ça va être amusant...~
 // Réponses à @202
 @203   = ~Pourquoi ai-je un mauvais pressentiment à ce sujet ?~
-@204   = ~*attendre qu'elle ait achevé le 'sort'*~
+@204   = ~*attendre qu'elle ait achevé le « sort »*~
 // Après @203, @204
 @205   = ~Regarde ça !~
 // Suivi d'une cinématique où son objet est créé
@@ -483,7 +483,7 @@ Houp-là !~
 @294   = ~Tu vois ? Il y a quelques avantages à être grand ! Aïe ! *lâche M. Câlins tandis qu'elle chancelle et se frictionne le tibia*~
 @295   = ~Regarde ce que tu as fait à ce pauvre M. Câlins ! Le laisser tomber sur le sol sale !~
 /* Branwen 1 */
-@296   = ~Hé, Branwen, si tu adores le 'Seigneur des Batailles', comment se fait-il que ton dieu juge bon de te laisser soigner les gens, au lieu de jeter de belles et croustillantes boules de feu ?~
+@296   = ~Hé, Branwen, si tu adores le « Seigneur des Batailles », comment se fait-il que ton dieu juge bon de te laisser soigner les gens, au lieu de jeter de belles et croustillantes boules de feu ?~
 @297   = ~Si tu souhaites vraiment savoir pourquoi soigner est un élément vital de la guerre, chère enfant, peut-être voudrais-tu que je me retienne de le faire pour toi pendant un moment, jusqu'à ce que tu arrives à comprendre ?~
 @298   = ~*déglutit nerveusement* Oh, je ne faisais que te taquiner, Brany.~
 /* Branwen 2 */
@@ -663,7 +663,7 @@ Houp-là !~
 @445   = ~Comment peux-tu agir aussi cruellement, Montaron ? Les petites-personnes ne sont-elles pas censées être des voleurs et aventuriers qui aiment s'amuser, ou de nature aimable ?~
 @446   = ~Pouah ! J'aime ben m'amuser à mon tour, quand et où ça m'plaît. C'est pas l'cas ici, néanmoins, pas plus qu'vous n'êtes la compagnie qu'je choisirais pour ça. Tiens, toi, fillette. Préfères-tu que nous p'tites-personnes nous inclinions bien bas d'vant toi, afin qu'tu puisses marcher sur nos têtes sans qu't'aies autant d'efforts pour lever tes genoux aussi haut ?~
 @447   = ~Hein ? Qu'est-ce que tu veux dire ?~
-@448   = ~C'est c'que les miens diraient d'*toi*, en admettant qu'tu sois une grande 'typique'.~
+@448   = ~C'est c'que les miens diraient d'*toi*, en admettant qu'tu sois une grande « typique ».~
 @449   = ~Typique ? Je crois que je n'ai jamais réfléchi à ça.~
 @450   = ~Hah ! J'en étais *sûr*. Reste donc à baigner dans le désert de tes pensées ; laisse-moi sur le côté bas et sale, parc'que t'es trop délicate pour ça. Inutile de s'inquiéter d'la façon dont un *autre* grand ou petit s'en tire ici-bas, pas vrai ?~
 @451   = ~*se frotte la tête* Je pense que nous pouvons en rester là. Je ne suis toujours pas convaincue mais j'attrape un mal de tête à essayer de suivre ton raisonnement.~

@@ -10,7 +10,7 @@
 
 // Kivan/Beldin
 @6 = ~M-merci, aventuriers. Je... J'ai trouvé cette gemme en creusant... je la gardais pour ma femme, mais... vous m'avez rendu ma vie, et je n'ai rien d'autre pour payer votre courage...~
-@7 = ~Alors elle revient à votre épouse, mon ami. Partez maintenant, avant que ne viennent davantage de 'démons'.~
+@7 = ~Alors elle revient à votre épouse, mon ami. Partez maintenant, avant que ne viennent davantage de « démons ».~
 @8 = ~Mais votre vie est un présent suffisant pour elle. Merci pour la gemme.~
 @9 = ~Etes-vous encore là, lâche ? Hors de ma vue, avant que je ne vous tue moi-même. Ah ! Effrayé par des kobolds !~
 
@@ -226,7 +226,7 @@
 
 // Teven
 @84 = ~Si cela se passe comme je le désire, vous ne l'ouvrirez plus du tout avant la fin du jour.~
-@85 = ~ Attendez une minute ! Baisse ton capuchon, ordure ! Hé, les gars, c'est le vieil ami de Tazok, celui qu'a buté Gren le Rouge ! On a qu'à apporter sa tête à Tazok et on sera riches !~
+@85 = ~Attendez une minute ! Baisse ton capuchon, ordure ! Hé, les gars, c'est le vieil ami de Tazok, celui qu'a buté Gren le Rouge ! On a qu'à apporter sa tête à Tazok et on sera riches !~
 @86 = ~Teven attaque
 
 J'ai rencontré une partie des bandits qui ravagent actuellement la côte. Leur chef, Teven, a reconnu mon compagnon Kivan... et je crains que cela n'ait terminé de façon violente, et que je ne doive trouver un autre moyen de localiser leur base.~
@@ -261,7 +261,7 @@ J'ai rencontré une partie des bandits qui ravagent actuellement la côte. Leur 
 
 // Cattack
 @99 = ~<CHARNAME>, ce sont ces bandits du Frisson que nous avons promis d'arrêter !~
-@100 = ~Oué, z'avez raison, oreille pointue. Je suis Cattack, membre du Frisson. Le Frisson a reçu l'ordre d'attaquer tous ces empotés d'humains qui porteraient du fer. On fait ça, on aime ça parce que c'est marrant de TUER !~
+@100 = ~Ouais, z'avez raison, oreille pointue. Je suis Cattack, membre du Frisson. Le Frisson a reçu l'ordre d'attaquer tous ces empotés d'humains qui porteraient du fer. On fait ça, on aime ça parce que c'est marrant de TUER !~
 
 
 // Kirian
@@ -271,7 +271,7 @@ J'ai rencontré une partie des bandits qui ravagent actuellement la côte. Leur 
 
 
 
-// Davaeorn
+// Davaëorn
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 214, probablement inutile de traduire ici !
 @102 = ~Vous avez raison sur un point : nous sommes venus mettre fin aux tortures et à l'esclavage que vous imposez à des innocents. Et quant au fait que c'est comme si nous étions morts... nous verrons. Nous ne sommes pas des esclaves affamés et faciles à intimider.~
 

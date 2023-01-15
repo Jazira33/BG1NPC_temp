@@ -226,7 +226,7 @@
 @105   = ~Je ne veux pas les impliquer. Ils ont déjà assez de soucis.~
 /* Jenkal, qui attaque si on l'a traité d'avorton, avec réaction d'Alora à remarque d'Imoen, puis Jenkal en @1008 */
 @106   = ~Je suppose que les petites-personnes sont vraiment susceptibles à propos de leur taille.~
-@107   = ~Quelques-uns d'entre nous le sont, en particulier avec les humains. Ne t'inquiète pas, cependant. Je ne me fâcherai pas si tu m'appelles 'rase-bitume', Imoen, du moment que je peux t'appeler 'Petite Imoen', ou peut-être 'Petite Immy'. Ouais, j'aime mieux le second.~
+@107   = ~Quelques-uns d'entre nous le sont, en particulier avec les humains. Ne t'inquiète pas, cependant. Je ne me fâcherai pas si tu m'appelles « rase-bitume », Imoen, du moment que je peux t'appeler « Petite Imoen », ou peut-être « Petite Immy ». Ouais, j'aime mieux le second.~
 /* Jenkal, échange Imoen - Montaron - Alora - Imoen - Alora */
 @108   = ~Alors, hum, pourquoi les petites-personnes haïssent les kobolds à ce point ?~
 @109   = ~Nous faut-il vraiment une raison pour détester quelqu'un ?~
@@ -271,12 +271,12 @@
 @133   = ~*donne un coup de coude à <CHARNAME>* Je ne suis pas une *nigaude* !~
 /* Mineur Kylee, de Nashkel, qui se sent nu sans sa dague */
 @134   = ~*glousse* Nu sans sa dague ? C'est ce que je dirais aussi ! Ces mineurs, ils ne portent pas grand-chose, hein.~
-/* Rill, quand on accepte de donner les 100 po, selon que le groupe est riche ou non */
+/* Rill, quand on accepte de donner les 100 pièces d'or, selon que le groupe est riche ou non */
 // Rill initie le dialogue lui-même, avec le PJ, donc on peut utiliser l'accord au sexe du PJ
-// Si on a accepté de donner l'argent, et que le groupe avait plus de 1000 po
+// Si on a accepté de donner l'argent, et que le groupe avait plus de 1 000 pièces d'or
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 47, probablement inutile de traduire ici !
 @135   = ~Waouh, <CHARNAME>, nous libérons les esclaves, tout comme les héros dans les chansons !~
-// Si on a accepté de donner l'argent, et que le groupe avait moins de 1000 po (@136 et @137)
+// Si on a accepté de donner l'argent, et que le groupe avait moins de 1 000 pièces d'or (@136 et @137)
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 910, probablement inutile de traduire ici !
 @136   = ~Attends ! Je pense que nous devrions les aider, mais n'allons-nous pas tuer les gardes du coin de toute façon ? Pourquoi aurions-nous besoin de le payer ? Ils seront libres une fois que tous les gardes seront morts, de toute façon. Je veux dire, ce n'est pas comme si nous avions de l'argent en trop, tu sais.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 911, probablement inutile de traduire ici !
@@ -284,7 +284,7 @@
          ~Mais bon... ils peuvent en avoir besoin, pauvres hommes. *soupir* Tu es une femme bonne, c'est pour ça que je t'aime.~
 // Si on prétend être des Griffes noires
 @138   = ~Pourquoi tu as fait ça ? Nous ne sommes pas des gardes, mais bon, je crois que je n'aime pas vraiment davantage le terme mercenaires.~
-// Si on a refusé de donner de l'argent pour libérer les esclaves, alors qu'on a plus de 5000 po
+// Si on a refusé de donner de l'argent pour libérer les esclaves, alors qu'on a plus de 5 000 pièces d'or
 @139   = ~Tu n'avais pas besoin d'être si radin. Je veux dire, j'aime conserver l'argent que j'ai, mais c'était seulement cent pièces et c'était pour une bonne cause. Tu es vraiment un grippe-sou si tu refuses de leur venir en aide alors que nous avons tout cet argent !~
          ~Tu n'avais pas besoin d'être si radine. Je veux dire, j'aime conserver l'argent que j'ai, mais c'était seulement cent pièces et c'était pour une bonne cause. Tu es vraiment une grippe-sou si tu refuses de leur venir en aide alors que nous avons tout cet argent !~
 /* Laryssa */
@@ -532,7 +532,7 @@
 @260   = ~Non, mais ne pense pas te tirer de ce que tu fais aujourd'hui aussi facilement.~
 @261   = ~Peut-être. Nous verrons. Ça dépendra de si tu t'avères une assistante efficace.~
 // Après @261
-@262   = ~Hum... Je n'aime pas ce terme, 'assistante'...~
+@262   = ~Hum... Je n'aime pas ce terme, « assistante »...~
 /* Found Scroll, but Gorion's Body Already Buried */
 @263   = ~Est-ce... Est-ce la lettre que portait Gorion ?~
 // Réponses à @263
@@ -573,7 +573,7 @@
 @279   = ~Un autre assassin. C'est le quatrième. J'en ai rencontré deux avant de quitter Château-Suif. Un autre juste après le départ de Château-Suif. Et maintenant elle...~
 @280   = ~Un autre assassin. C'est le cinquième. J'en ai rencontré deux avant de quitter Château-Suif. Un autre juste après le départ de Château-Suif. Et ce nain à la Gerbe Rouge...~
 @281   = ~Un autre assassin. C'est le cinquième. J'en ai rencontré deux avant de quitter Château-Suif. Un autre juste après le départ de Château-Suif. Et ce mage sur le pas de la porte de l'auberge de Brasamical...~
-@282   = ~Un autre assassin. C'est le sixième. J'en ai rencontré deux avant de quitter Château-Suif. Un autre juste après le départ de Château-Suif. Et ce mage sur le pas de la porte de l'auberge de Brasamical... Et le nain à la 'Gerbe Rouge'.~
+@282   = ~Un autre assassin. C'est le sixième. J'en ai rencontré deux avant de quitter Château-Suif. Un autre juste après le départ de Château-Suif. Et ce mage sur le pas de la porte de l'auberge de Brasamical... Et le nain à la « Gerbe Rouge ».~
 // Après @279, @280, @281 et @282
 @283   = ~Tu veux dire que tu as été attaqué à l'intérieur même des murs de Château-Suif ?! Pourquoi ne me l'as-tu pas dit avant que tu partes ?~
          ~Tu veux dire que tu as été attaquée à l'intérieur même des murs de Château-Suif ?! Pourquoi ne me l'as-tu pas dit avant que tu partes ?~

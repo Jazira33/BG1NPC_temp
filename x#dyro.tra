@@ -1195,7 +1195,7 @@ Trouve cela inintéressant...~
 //Dynahéir dévoile ses sentiments à Charname
 @1124 = ~Seigneur <CHARNAME>...~
 @1125 = ~<CHARNAME>, Dynahéir. Vous pouvez m'appeler <CHARNAME>.~
-@1126 = ~Je vous interdis de m'appeller 'Seigneur', Dynahéir. Ne le faites plus jamais.~
+@1126 = ~Je vous interdis de m'appeller « Seigneur », Dynahéir. Ne le faites plus jamais.~
 @1127 = ~Que souhaite dame Dynahéir ?~
 @1128 = ~Y a-t-il un problème ?~
 @1129 = ~Tu es mon seigneur. J'ai juré de Te servir pour m'avoir délivrée.~
@@ -1362,7 +1362,7 @@ Trouve cela inintéressant...~
 @1284 = ~Si fait, mon peuple porte un amour particulier aux étoiles.~
 @1285 = ~Lorsqu'il est amoureux, même un orque lève les yeux au ciel.~
 @1286 = ~Le ciel de la Côte des Epées est le *seul* que j'ai jamais vu, Dynahéir...~
-@1287 = ~Cette obscurité cache nos ennemis, qui pourraient bien pointer leurs arcs sur nous au moment-même où nous parlons. Ce pays s'appelle 'la Côte des Epées', très chère Dynahéir. Et si on lui a donné ce nom, ce n'est pas en mémoire d'une bataille qui s'est déroulée il y a bien longtemps.~
+@1287 = ~Cette obscurité cache nos ennemis, qui pourraient bien pointer leurs arcs sur nous au moment-même où nous parlons. Ce pays s'appelle « la Côte des Épées », très chère Dynahéir. Et si on lui a donné ce nom, ce n'est pas en mémoire d'une bataille qui s'est déroulée il y a bien longtemps.~
 @1288 = ~Tu n'es qu'un flagorneur à la langue de miel, <CHARNAME>.~
 @1289 = ~Je ne suis ni un menteur, ni un mielleux, ma princesse. Par contre, je vous aime.~
 @1290 = ~J'aurais peut-être dû dire... la plus désirable ?~
@@ -1386,13 +1386,13 @@ Trouve cela inintéressant...~
 @1308 = ~T'écouter parlez d'amour me mène aux portes de la folie... Lorsque je me croyais Ton amie et Ta conseillère, je pensais que Tu parlais de l'amour que Tu portais à une jeune femme sortie de ton imagination.~
 @1309 = ~C'est dans mes cordes, mais ne préféreriez-vous pas... cela ? *Embrasser Dynahéir et lui caresser le dos.* Vous ferez-vous mienne, ce soir, Conseillère Dynahéir ?~
 @1310 = ~Vous êtes toujous ma conseillère et mon amie, Dynahéir. Ceci n'a pas changé.~
-@1311 = ~Silence, femme. Nos ennemis pourraient bien pointer leurs arcs sur nous au moment-même où nous parlons. Ce pays s'appelle 'la Côte des Epées', très chère Dynahéir. Et si on lui a donné ce nom, ce n'est pas en mémoire d'une bataille qui s'est déroulée il y a bien longtemps.~
+@1311 = ~Silence, femme. Nos ennemis pourraient bien pointer leurs arcs sur nous au moment-même où nous parlons. Ce pays s'appelle « la Côte des Épées », très chère Dynahéir. Et si on lui a donné ce nom, ce n'est pas en mémoire d'une bataille qui s'est déroulée il y a bien longtemps.~
 @1312 = ~J'apprécierais que vous cessiez d'exprimer la surprise et l'outrage à chaque fois que je vous le dis, Dynahéir. Vous m'aimez. Acceptez-le.~
 @1313 = ~Ne Te fais point maussade, <CHARNAME>. Je ne sais que très peu de chose dans les arts de la séduction. Je préfèrerais T'embrasser plutôt que de parler.~
 @1314 = ~Je ne faisais guère de récrimination. Il m'est simplement difficile de comprendre Ton peuple. Partout où je vais, les humains sont mûs par les mêmes désirs et les mêmes rêves. Ton peuple est différent.~
 @1315 = ~Dynahéir, j'ai été élevé par un humain. Je ne suis elfe que de sang. Vous n'avez pas besoin de me traiter pareillement à une merveille venue d'un autre monde. A plus forte raison si nous devons être amants.~
 @1316 = ~Nous ne devrions pas transformer cette nuit étoilée en débat culturel. Je vous aime. Cela ne suffit-il pas ? Faut-il que vous compreniez comment cela est arrivé, et pourquoi vos lèvres tremblent de désir ?~
-@1317 = ~Je suis las de faire le compte de nos différences. Puisque vous êtes adepte du 'qui se ressemble s'assemble', nous devrions plutôt nous concentrer sur nos points communs. Nous sommes tous les deux de jeunes magiciens, aventureux et follement amoureux l'un de l'autre... n'est-ce pas suffisant ?~
+@1317 = ~Je suis las de faire le compte de nos différences. Puisque vous êtes adepte du « qui se ressemble s'assemble », nous devrions plutôt nous concentrer sur nos points communs. Nous sommes tous les deux de jeunes magiciens, aventureux et follement amoureux l'un de l'autre... n'est-ce pas suffisant ?~
 @1318 = ~Dans ce cas, pourquoi êtes-vous avec moi, et non avec l'un de ces humains hirsutes ?~
 @1319 = ~Je comprends. Mais je croyais que mon amour vous avait guéri de cette crainte excessive que vous ressentiez envers moi.~
 @1320 = ~Il m'est fort aise que la nuit camoufle mes empourprements... Tes mots me déstabilisent et me laissent alanguie.~
@@ -1472,7 +1472,7 @@ Trouve cela inintéressant...~
 @1392 = ~Je ne suis plus un jeune garçon, vous n'avez pas à me dire de me taire lorsqu'il vous plaît. Je suis un homme respecté tout le long de la Côte des Epées, et je suis votre amant, dame Dynahéir.~
 @1393 = ~Alors Tu n'as rien compris de ce que je T'ai appris. Le destin n'attend personne. Ce que Tu proposes équivaudrait à demander à une vague de suspendre sa course. Chevauche-la, <CHARNAME>, ou alors Tu Te noieras.~
 @1394 = ~*doucement* Des choses terribles se préparent au moment-même où nous parlons, et Tu dois T'y opposer dès maintenant. Ne Te laisse pas tenter par le baiser d'une femme, car cela pourrait Te retarder dans Tes actions, et Te mener à Ta perte. Il... il y aura d'autres nuits pour cela, mon amour.~
-@1395 = ~*Un sourire taquin traverse le visage de Dynahéir.* Je dirais qu'elle fut 'riche en évènements'.~
+@1395 = ~*Un sourire taquin traverse le visage de Dynahéir.* Je dirais qu'elle fut « riche en évènements ».~
 @1396 = ~Et comment fut la Tienne, si Tu me permets ?~
 @1397 = ~*Lui retourner son sourire.* Aussi riche en évènements que la vôtre.~
 @1398 = ~Ce fut une nuit horrible, vraiment horrible ! Le seul remède qui pourrait me faire aller mieux serait de frotter généreusement le corps d'une sorcière au mien. Tout de suite.~
@@ -1530,7 +1530,7 @@ Trouve cela inintéressant...~
 @1447 = ~Vraiment ? Et qu'en est-il de Ton principal adversaire, celui qui a mis fin à la vie de Ton père ? Ressens-Tu quelque chose, de la colère, envers l'homme qui l'a assassiné ?~
 @1448 = ~Fils de Bhaal, Héritier du Trône de Sang ! L'ignorance n'est point Ta bénédiction. Réfléchis avec moi, si Tu ne souhaites le faire seul.~
 @1449 = ~Et qu'en est-il de Sarevok ? Que ressens-Tu, à son sujet ?~
-@1450 = ~Ton plus grand adversaire est maintenant Ton propre frère. Parle-moi en vérité ; ne Te cache pas derrière un 'je ne sais pas'.~
+@1450 = ~Ton plus grand adversaire est maintenant Ton propre frère. Parle-moi en vérité ; ne Te cache pas derrière un « je ne sais pas ».~
 @1451 = ~Il doit être puni pour ses crimes. Je le hais. Tous ceux qui auraient subi ses machinations et ses tentatives d'assassinat le haïraient. Je suis résolu à le traduire en justice.~
 @1452 = ~*à regrets, la tête pendante :* Je... je ne sais pas...~
 @1453 = ~N'est-il pas normal pour un homme qui n'est pas un esclave d'être en colère contre le meurtrier de son père ?~
@@ -1570,8 +1570,8 @@ Trouve cela inintéressant...~
 @1487 = ~Tu n'es guère comme les autres hommes, <CHARNAME>.~
 @1488 = ~J'en conviens. A partir du moment où Ta haine ne Te fait pas perdre raison. Réfléchis-y, <CHARNAME>, et réfléchis bien.~
 @1489 = ~Une noble réponse pour un homme de sang-froid ; d'aucuns diraient même par trop flegmatique.~
-@1490 = ~Hmm... Il serait bien avisé de laisser les dieux traiter d'un cas si complexe. Néanmoins, je ne peux m'empêcher de penser que ce ne serait que trop de précautions. D'aucuns parleraient de... 'lâcheté'.~
-@1491 = ~*Elle vous regarde attentivement et marmonne quelque chose dans sa barbe. Vous croyez parvenir à saisir un mot : 'sang'.*~
+@1490 = ~Hmm... Il serait bien avisé de laisser les dieux traiter d'un cas si complexe. Néanmoins, je ne peux m'empêcher de penser que ce ne serait que trop de précautions. D'aucuns parleraient de... « lâcheté ».~
+@1491 = ~*Elle vous regarde attentivement et marmonne quelque chose dans sa barbe. Vous croyez parvenir à saisir un mot : « sang ».*~
 @1492 = ~Petit idiot, penses-Tu vraiment que tout sera terminé une fois que Tu auras tué Sarevok ?~
 
 
@@ -1581,7 +1581,7 @@ Trouve cela inintéressant...~
 @1495 = ~Eh bien, ma peau recouvre toujours mes os, mes yeux n'ont pas été remplacés par deux petites flammes, et il ne se trouve aucune larme de sang sur mes joues. Si l'on tient compte de mon héritage, cela tient du miracle.~
 @1496 = ~*sombre* Vous n'avez même pas le nez encore sorti de votre journal, Dynahéir.~
 @1497 = ~Majestueux ? Plutôt intimidant, ou plutôt altier ?~
-@1498 = ~Je préfère de loin 'impétueux', ma rose sauvage. *Se baisser et embrasser Dynahéir sur la joue.*~
+@1498 = ~Je préfère de loin « impétueux », ma rose sauvage. *Se baisser et embrasser Dynahéir sur la joue.*~
 @1499 = ~J'en ai eu un aperçu, oui.~
 @1500 = ~*sombre* Vous n'avez même pas le nez encore sorti de votre journal, Dynahéir. Je pense que vous ne préféreriez même pas me regarder.~
 @1501 = ~Ah, mais j'ai ajouté quelques herbes spéciales à l'eau du bain. L'on m'a dit qu'il est des fragrances qui chatouillent les narines des femmes, et qui leur font percevoir un homme comme irrésistible. Dites-moi, Hathran, les ai-je utilisées à bon escient ? *Prendre Dynahéir par les épaules.*~
@@ -1590,8 +1590,8 @@ Trouve cela inintéressant...~
 Un souffle, une vapeur, de l'air que l'on expire...
 Si d'autres se seraient embrasées de désir,
 La rose à épines est prête à faire des reproches...~
-@1504 = ~Un miracle, en effet. Je T'aurais bien appelé 'extraordinairement séduisant', <CHARNAME>, mais je ne voulais pas surdimensionner Ton égo...~
-@1505 = ~Les écritures disent que les pouvoirs des Hathran Rashémi sont 'bienveillants', si ce n'est 'absolus', Dynahéir. Mon coeur sait que votre emprise sur mon égo est bienveillante et absolue... N'est-ce pas ?~
+@1504 = ~Un miracle, en effet. Je T'aurais bien appelé « extraordinairement séduisant », <CHARNAME>, mais je ne voulais pas surdimensionner Ton égo...~
+@1505 = ~Les écritures disent que les pouvoirs des Hathran Rashémi sont « bienveillants », si ce n'est « absolus », Dynahéir. Mon coeur sait que votre emprise sur mon égo est bienveillante et absolue... N'est-ce pas ?~
 @1506 = ~*S'étirer paresseusement.* Comment cela se pourrait-il, mon aimée, si je l'entends de tous les côtés ?~
 @1507 = ~Je ne vous ai jamais dit que je suis l'homme le plus humble de la Côte des Epées, Dynahéir ?~
 @1508 = ~Mais Tu as tort, ogre. Premièrement, j'aime profondément Te regarder. Ensuite, *sourire énigmatique*, c'est Toi que je regarde, lorsque j'ai le nez plongé dans mon journal.~
@@ -1601,10 +1601,10 @@ La rose à épines est prête à faire des reproches...~
 @1512 = ~Eh bien, vous pouvez continuer de regarder. Je vais me coucher.~
 @1513 = ~Je vous ferai savoir que je ne suis guère un ogre. Je suis un orc... un demi-orc !~
 @1514 = ~Mais Tu as tort, héros. *sourire énigmatique* C'est Toi que je regarde, lorsque j'ai le nez plongé dans mon journal...~
-@1515 = ~Je T'aurais bien appelé 'extraordinairement séduisant', <CHARNAME>, mais je ne voulais pas surdimensionner Ton égo.~
+@1515 = ~Je T'aurais bien appelé « extraordinairement séduisant », <CHARNAME>, mais je ne voulais pas surdimensionner Ton égo.~
 @1516 = ~« Impétueux » ? Si Tu veux... Tu es conteur, après tout. Je T'aurais bien appelé « extraordinairement séduisant », <CHARNAME>, mais je ne voulais pas surdimensionner Ton égo.~
 @1517 = ~Les écritures disent que les pouvoirs des Hathran Rashémi sont « bienveillants », si ce n'est « absolus », Dynahéir. Mon coeur sait que votre emprise sur mon égo est bienveillante et absolue... N'est-ce pas ?~
-@1518 = ~*Hume votre gorge.* Ah, oui, c'est effectivement très agréable. Cela change beaucoup de Ton 'Eau de Sueur'.~
+@1518 = ~*Hume votre gorge.* Ah, oui, c'est effectivement très agréable. Cela change beaucoup de Ton « Eau de Sueur ».~
 @1519 = ~J'aurais bien aimé capturer ceci, aussi.~
 @1520 = ~J'ai bien peur qu'au contraire, je n'ai été que par trop prodigue en compliments sur Ton apparence. *Elle jette un coup d'oeil rapide à son journal et sourit énigmatiquement.*~
 @1521 = ~Il m'a été dit qu'il faisait partie des us des bardes d'éxagérer la cruauté de leurs âmes soeurs. C'est le cas en ce moment-même ; j'ai fait de beaux compliments sur Ton apparence... peut-être même de manière excessive. *Elle jette un coup d'oeil rapide à son journal et sourit énigmatiquement.*~
@@ -1707,7 +1707,7 @@ La rose à épines est prête à faire des reproches...~
 @1609 = ~Dynahéir, pour moi, échec est synonyme de mort.~
 @1610 = ~J'ai traversé bien pire que le feu et l'eau, Dynahéir. J'ai passé l'épreuve du sang. Ai-je échoué ?~
 @1611 = ~Lorsque l'on m'a sorti de Château-Suif, je me suis senti comme si la maison où j'avais grandi avait entièrement brûlé. J'ai ouvert les vannes des mines de Bois-Manteau, noyant ainsi hommes et monstres. J'ai entendu le chant de mes exploits dans les tavernes et les auberges. Ai-je passé le test ?~
-@1612 = ~ La vie et le temps nous imposent sans cesse des épreuves et nous jugent en permanence par nos actions. Peu importe leur nom : feu, eau, vivats ou échec ; l'on peut toujours en voir l'existence dans chaque évènement, ou en voir le résultat avec l'âge. Ces épreuves ne sont jamais faciles à affronter, mais l'on ne saurait s'y soustraire. Chaque étape que nous atteignons compte. Ai-je échoué, jusqu'à présent ?~
+@1612 = ~La vie et le temps nous imposent sans cesse des épreuves et nous jugent en permanence par nos actions. Peu importe leur nom : feu, eau, vivats ou échec ; l'on peut toujours en voir l'existence dans chaque évènement, ou en voir le résultat avec l'âge. Ces épreuves ne sont jamais faciles à affronter, mais l'on ne saurait s'y soustraire. Chaque étape que nous atteignons compte. Ai-je échoué, jusqu'à présent ?~
 @1613 = ~Il est bon que Tu ne considères pas la victoire comme allant de soi, <CHARNAME>.~
 @1614 = ~Le destin pourra mener le preux héros à la victoire. Ou alors, le courageux, noble et intelligent jeune homme qui prit l'épée pour venger son père sera défait.~
 @1615 = ~Une cause juste ne se finit pas forcément en triomphe, bien qu'elle puisse conférer une force spirituelle certaine en période de désastre.~

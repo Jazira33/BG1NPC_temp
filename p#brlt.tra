@@ -1,4 +1,5 @@
 // Lovetalk 1
+
 @0    = ~<CHARNAME>, tes talents sont bien affûtés et ta technique est impressionnante. Cela ne peut être que le fruit de nombreuses années de travail régulier, pour le moins. Par qui as-tu été formé, et où ?~
 @1    = ~Je ne souhaite pas en parler. Ces souvenirs, ces blessures... C'est encore trop récent.~
 @2    = ~Ce sont les soldats de Château-Suif qui m'ont enseigné les arts du combat.~
@@ -42,7 +43,8 @@
 @40   = ~<CHARNAME>, je suis désolée de m'être emportée de cette manière. Si ton père s'est battu glorieusement, alors il doit être satisfait de l'existence qui l'attend après sa mort, quelle qu'elle soit. Et je... me contenterai de tes explications.~
 @41   = ~Tu ne vaux guère mieux que Tranzig.~
 
-//Lovetalk 2
+// Lovetalk 2
+
 @42   = ~Je dois admettre que je me sens plus à l'aise en ta compagnie maintenant que j'ai satisfait ma curiosité au sujet de tes jeunes années. Mais je crois qu'il serait injuste que je ne te parle pas des miennes.~
 @43   = ~Mais je t'en prie, continue, Branwen.~
 @44   = ~Oui, j'aimerais bien en savoir un peu plus à ton sujet.~
@@ -106,7 +108,8 @@
 @100  = ~Je n'aime guère les couards, <CHARNAME>, et je vois que tu n'en es pas un.~
 @101  = ~Cependant tu ferais bien de réfléchir à mes paroles : à partir de maintenant, cela ne te fera pas de mal d'être un peu plus direct durant le combat.~
 
-//Lovetalk 4
+// Lovetalk 4
+
 @102  = ~Je me sens presque chez moi dans ton groupe de combattants, je l'avoue. Se déplacer et se perfectionner de bataille en bataille est une bonne chose. A Loup de mer, la vie était calme et morbide jusqu'à l'écoeurement, semblable au taudis d'un homme qui agonise.~
 @103  = ~Dis-moi en plus au sujet de ta vie dans les îles, Branwen. A quoi ressemblait-elle ?~
 @104  = ~Loup de mer ? D'où lui est venu ce nom ?~
@@ -139,7 +142,7 @@
 @131  = ~Mes ancêtres n'étaient pas de simples pêcheurs, <CHARNAME>. Ils suivaient la voie de la mer de diverses manières, tout autant pillards que commerçants et parfois, je l'admets, leur comportement était proche de celui des pirates nélanthères. Mais ne te leurre pas : les pirates sont bien plus brutaux et sans-pitié dans leurs affaires. Quand mes compatriotes faisaient une razzia, si tu te comportais avec bravoure et honneur, tu pouvais être certain que ta famille serait épargnée et qu'ils vous laisseraient suffisamment de réserves pour survivre. Par contre, ces chiens de nélanthères sont sans pitié et c'est pour cette raison que nous attaquons ces pirates à vue et que nous ne leur faisons pas de quartier.~
 @132  = ~Mon ami, merci pour ton écoute attentive. Ce fut un plaisir rare.~
 
-//Lovetalk 5
+// Lovetalk 5
 
 @133  = ~J'ai eu tort de te raconter des histoires et des anecdotes au sujet de Norheim avec la délicatesse d'une chatte en chaleur ou d'une gamine amoureuse. Il est évident que cela t'a rappelé de douloureux souvenirs. Ton visage s'assombrit ; est-ce que tu penses à Château-Suif ?~
 @134  = ~Oui. J'essaie d'oublier mais c'est difficile, Branwen, si difficile...~
@@ -164,7 +167,7 @@
 @153  = ~C'est différent, <CHARNAME>. Aucun mortel ne peut connaître clairement son avenir, et même les visions des prophètes sont vagues. Nous devons accomplir notre destin avec ce que nous avons, et ce qui nous a été accordé.~
 @154  = ~Voilà que je me ramollis comme une fillette. Mène-moi au combat, <CHARNAME>, avant que je ne m'effondre au sol à gémir piteusement que je veux rentrer à la maison.~
 
-//Lovetalk 6
+// Lovetalk 6
 
 @155  = ~<CHARNAME>, je dois admettre que j'ai fini par t'apprécier, en tant que compagnon d'armes. Tu te bats efficacement avec énergie, tu es agréable à vivre et tu m'as délivrée d'un terrible sort. Cependant je tique un peu quand je pense que tu me vois peut-être comme une damoiselle en détresse.~
 @156  = ~Je ne t'ai jamais considérée ainsi. J'apprécie ta force et ton courage, Branwen.~
@@ -198,7 +201,7 @@
 @184  = ~Mon coeur est moins lourd maintenant, mais ne me parle plus jamais comme ça. "tomber en pâmoison, m'évanouir", par Tempus...~
 @185  = ~*pouffe de rire*~
 
-//Lovetalk 7 - repos
+// Lovetalk 7 - repos
 
 @186  = ~Je t'ai entendu gémir dans ton sommeil l'autre nuit. Peut-être que je m'immisce dans ta vie privée <CHARNAME>, mais est-ce que tu fais des cauchemars ?~
 @187  = ~Tu es insupportable, Branwen. Ce dont je rêve ne te concerne pas.~
@@ -221,7 +224,7 @@
 @204  = ~Mes baisers ont la réputation de réveiller les hommes, pas de les endormir.~
 @205  = ~Comme tu voudras, espèce de butor entêté. Hormis mes cris de guerre, tu n'auras plus à m'entendre.~
 
-//Lovetalk 8 - il reste peu d'HP à charname
+// Lovetalk 8 - il reste peu d'HP à charname
 
 @206  = ~Ah ! Tu as encore été blessé durant le dernier combat ! <CHARNAME>, fais plus attention ! Les cicatrices embellissent un guerrier, mais tu pourrais bien perdre un oeil ou une oreille !~
 @207  = ~Franchement Branwen, te soucies-tu de mon allure ?~
@@ -241,7 +244,7 @@
 @221  = ~*rougit* Cette peste essayait de dérober ma pierre porte-bonheur que j'ai amenée de Norheim, en souvenir de ma terre ! Si je l'avais laissé échapper, mon honneur en aurait été entaché !~
 @222  = ~Bon, j'admets que je suis souvent aussi inconsciente et téméraire quand le flot de la bataille me submerge. Nous faisons la paire, <CHARNAME>, hein ?~
 
-//Lovetalk 9 - repos
+// Lovetalk 9 - repos
 
 @223  = ~<CHARNAME>, assieds-toi un moment avec moi.~
 @224  = ~Certainement Branwen. Que se passe-t-il ?~
@@ -277,7 +280,7 @@
 @254  = ~Je ne m'attendais pas à cela de ta part, mais j'avoue que cela me réchauffe le coeur et me remplit de joie.~
 @255  = ~Dors maintenant, <CHARNAME>. J'ai besoin de méditer tes paroles, et je dois adresser une prière à Tempus pour l'en remercier.~
 
-//Lovetalk 10
+// Lovetalk 10
 
 @256  = ~C'est Tempus qui nous a réunis.~
 @257  = ~Tu crois ?~
@@ -312,7 +315,7 @@
 @286  = ~*Branwen sourit et vous embrasse sur la joue.*~
 @287  = ~*Rougit jusqu'aux oreilles* merci <CHARNAME>... bien que ton compliment ait l'air un peu étrange. Mais c'est sans importance.~
 
-//Lovetalk 11 - extérieur
+// Lovetalk 11 - extérieur
 
 @288  = ~*Branwen reste immobile un petit moment, face au vent, ses boucles blondes voletant autour de son visage. Puis elle sourit et se tourne vers vous.*~
 @289  = ~Est-ce que tu aimes ma nouvelle coiffure ? J'ai le meilleur coiffeur au monde.~
@@ -339,7 +342,7 @@
 @310  = ~Tu es plus compétent que je ne le pensais en ce qui concerne les méthodes de séduction.~
 @311  = ~J'attends une démonstration... avec impatience.~
 
-//Lovetalk 12
+// Lovetalk 12
 
 @312  = ~<CHARNAME>, arrête de me dévorer du regard ! Viens m'embrasser, si c'est ce que tu désires !~
 @313  = ~Moi... t'embrasser ? Là, maintenant ? Comme ça ?~
@@ -367,7 +370,7 @@
 @335  = ~Bien sûr <CHARNAME>. Comment pourrais-je refuser ?~
 @336  = ~Quelle honte, <CHARNAME>. Je t'avais promis d'essayer de t'apprendre la conversation galante, mais ta... proximité... me... distrait tellement... Mais ne t'inquiète pas, tu recevras ton premier cours ce soir.~
 
-//Lovetalk 13 - repos, et ça devient chaud
+// Lovetalk 13 - repos, et ça devient chaud
 
 @337  = ~Il est agréable de prendre un peu de repos après de glorieuses batailles au nom de Tempus. Nous en sommes sortis vainqueurs, nous sommes autour d'un bon feu et il n'y a aucun danger à l'horizon. Viens t'asseoir à côté de moi, j'apaiserai tes douleurs et soignerai tes blessures.~
 @338  = ~Je me sens plutôt en forme, Branwen. Nos tâches quotidiennes sont terminées, mais n'avions-nous pas convenu de nous entraîner à la conversation galante ? Et si on commençait la leçon tout de suite ?~
@@ -404,7 +407,7 @@
 @369  = ~*Branwen devient rouge comme une tomate et rejoint son sac de couchage sans un mot. Le regard furieux qu'elle vous lance se passe de commentaire.*~
 @370  = ~Oui... J'ai envie d'être avec toi, je l'avoue. Viens <CHARNAME>. Cette nuit, nous ne ferons qu'un...~
 
-//Lovetalk 14 - le matin après 13
+// Lovetalk 14 - le matin après 13
 
 @371  = ~Les petits elfes sont connus pour dire "par la mer et les étoiles !" Habituellement les nains maugréent dans leur propre langue, les orques grognent et les petites-gens préparent une fête. Mon peuple n'a pas d'expression particulière pour ce genre d'événement.~
 @372  = ~Bien. Je ne crois pas que nous en ayons besoin.~
@@ -424,7 +427,7 @@
 @386  = ~Je...~
 @387  = ~Je sais que ce n'est pas une bonne nouvelle pour toi et que tu vas être déçu. Mais je ne peux pas encore parler d'amour, et je ne suis pas certaine de le faire un jour. Donne-moi du temps pour mettre de l'ordre dans ma tête.~
 
-//Lovetalk 15
+// Lovetalk 15
 
 @388  = ~Vois-tu cette arme, <CHARNAME> ? Retrouver son origine et raconter son histoire prendrait beaucoup de temps. Du minerai noir fut fondu dans une grande fournaise, puis fut placé dans de l'eau glacée, pour enfin être forgé en une noble et solide lame. Eh bien moi aussi. Ma chair a vécu, souffert, et a été changée en pierre par un coup du sort. Et pourtant tu as trouvé moyen de lui rendre vie.~
 @389  = ~Parles-tu de ton corps ou de ton âme ?~
@@ -463,7 +466,7 @@
 @422  = ~La soif de sang fait briller tes yeux, pendant le combat ou en dehors. Cependant, en insistant sur le fait que c'est ta seule passion, tu te rabaisses.~
 @423  = ~Mais nous discutons depuis un certain temps et les ombres s'allongent. Continuons notre route, <CHARNAME>.~
 
-//Lovetalk 16 - Au repos - I love charname
+// Lovetalk 16 - Au repos - I love charname
 
 @424  = ~Le ciel ici est différent de celui de Norheim. Sais-tu ce que je faisais la nuit dernière ? Je comptais les étoiles et je leur donnais des noms. J'ai même envisagé de donner ton nom à l'une d'elles. Devine laquelle, <CHARNAME> ?~
 @425  = ~L'étoile de Mystra ? Bien que je préfère penser à toi lorsque je la regarde : elle est si belle, si brillante...~
@@ -484,7 +487,7 @@
 @440  = ~*rit* Elle peut être aussi longue ou aussi courte que tu le souhaites, <CHARNAME>. Mais je me souviens que tu es capable de renoncer à dormir, à l'occasion. Alors, qu'attends-tu ? Tu me rejoins ? Cela fait beaucoup trop longtemps que tu ne m'as pas serrée dans tes bras, mon fainéant d'amant.~
 @441  = ~Par Tempus, j'ai créé un monstre ! Je suppose que si tu souhaites commencer à écrire ton propre ouvrage sur les étoiles dès maintenant, je dois pouvoir t'aider. Si ce n'est pas le cas, je te suggère de me rejoindre dans mon sac de couchage. Je te fais remarquer que cela fait beaucoup trop longtemps que tu ne m'as pas serrée dans tes bras, mon fainéant d'amant.~
 
-//Lovetalk 17 - mes doutes et moi - psychanalyse de Branwen première partie
+// Lovetalk 17 - mes doutes et moi - psychanalyse de Branwen première partie
 
 @442  = ~Cette laborieuse boucherie que nous pratiquons me dégoûte ! Le combat nécessite finesse et talent, pas simplement de l'acier et du muscle ! Pourquoi devrais-je avoir à supporter la vue de cadavres estropiés, alors qu'un coup tranchant bien porté sépare la tête du corps ?~
 @443  = ~Branwen, que t'arrive-t-il ? Tu étais la première à écraser des côtes, déchirer des membres et réanimer les cadavres de tes anciens ennemis, tout cela au nom de Tempus !~
@@ -515,7 +518,7 @@
 @468  = ~Comme tu voudras. C'est certainement mieux comme ça.~
 @469  = ~Mais nous discutons depuis trop longtemps. Viens <CHARNAME>, continuons notre chemin semé de victoires. Peut-être qu'une nuit de lecture, de prières et tes baisers atténueront mes doutes et dissiperont mes inquiétudes.~
 
-//Lovetalk 18 - Au repos
+// Lovetalk 18 - Au repos
 
 @470  = ~*vous fait la lecture d'un vieux tome* "Et son Altesse le Roi arriva auprès de Sire Chevalier et de la Reine. Ils étaient endormis sur sa cape, protégés par les branches d'un vieux chêne. La grande épée de Sire Chevalier reposait entre leurs deux corps, et le Roi comprit alors qu'il n'avait pas été déshonoré. Son Altesse s'agenouilla et glissa sa bague au doigt de la Reine, puis il s'éloigna..."~
 @471  = ~Je ne suis pas très convaincu de l'efficacité de l'épée. Tu n'échapperais pas à mon étreinte, qu'il y ait une épée entre nous ou pas. Mais j'ai entendu parler d'un rôdeur qui, dans la même situation, se servait d'un loup. Cela a l'air plus efficace.~
@@ -544,7 +547,7 @@
 @494  = ~Va-t-on continuer à parler de ce drow ou allons-nous remettre la suite à demain ? J'ai bien peur que mon endurance ne soit pas à la hauteur de celle de Sire Chevalier ou de Drizzt.~
 @495  = ~Peut-être cette histoire a-t-elle été un peu enjolivée, pourtant je la tiens d'une source très fiable. Mais il se fait tard. Ne pourrions-nous pas mettre un terme à cette conversation et étudier en détail les techniques amoureuses à la place ?~
 
-//Lovetalk 19 - y'a de l'eau dans le gaz... psychanalyse de Branwen deuxième partie
+// Lovetalk 19 - y'a de l'eau dans le gaz... psychanalyse de Branwen deuxième partie
 
 @496  = ~Ça ne marchera pas.~
 @497  = ~Quoi ? Branwen, de quoi parles-tu ?~
@@ -565,7 +568,7 @@
 @512  = ~Tu es un homme rempli de noblesse et de bonté d'âme, <CHARNAME>. Je te remercie du fond du coeur... et tu auras toujours une place dans mes prières. Bonne route.~
 @513  = ~Non, c'était une erreur de t'importuner avec mes problèmes. J'ai besoin d'être seule, pour dissiper mes doutes et mettre mes pensées en ordre. Cette nuit, je dormirai seule.~
 
-//Lovetalk 20 - Chapitre GT6 - Voilaaaaaaaa, c'est finiiiiiiiii...
+// Lovetalk 20 - Chapitre GT6 - Voilàààààààà, c'est finiiiiiiiii...
 
 @514  = ~<CHARNAME>, j'ai pris une décision de la plus haute importance, il faut que tu m'écoutes. Je serai soulagée de la partager avec toi car maintenant je suis apaisée, je me suis retrouvée et étrangement, c'est comme une seconde naissance.~
 @515  = ~Je vais rester à tes côtés. La main de Tempus te guidera au cours de tes combats, et mes prières te protégeront des blessures les plus graves. Mais il n'y aura plus rien d'autre entre nous que de la camaraderie, et il est très probable que je partirai dès que les bardes chanteront la première balade narrant les aventures du Héros de la Côte des Épées.~

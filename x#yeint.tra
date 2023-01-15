@@ -1,7 +1,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 446, probablement inutile de traduire ici !
 @0     = ~Monstre dérangé... tu as transformé ma maison en chambre de torture ! MEURS, POURRITURE !~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 206, probablement inutile de traduire ici !
-@1     = ~Tu connais au moins le nom d'un d'entre nous, mage - Yeslick Orothiar, moi-même, et ça m'rend malade de savoir que tu vas partager la même tombe que les miens. Prépare-toi pour les Enfers, Davaeorn !~
+@1     = ~Tu connais au moins le nom d'un d'entre nous, mage - Yeslick Orothiar, moi-même, et ça m'rend malade de savoir que tu vas partager la même tombe que les miens. Prépare-toi pour les Enfers, Davaëorn !~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 207, probablement inutile de traduire ici !
 @2     = ~Voyons, voyons... le fou s'est évadé, n'est-ce pas ? Voyons voir de qui la tombe va se remplir !~
 
@@ -24,10 +24,10 @@
 @16    = ~Alors vous avez quand même un peu de hargne en vous, hein ? Alors venez... vers votre mort !~
 @17    = ~Mon heure approche... mais pas de la manière à laquelle vous pensez. Et maintenant déguerpissez, tant que vous avez encore des jambes !~
 
-//Mort de Davaeorn
-@18    = ~Et le cruel bâtard est mort ! Une des dettes du Trône de Fer est acquittée... mais pas la dernière, loin de là. Allons, fouillons cet endroit. Davaeorn avait des maîtres, et ces maîtres ont rendez-vous avec un marteau de guerre que je détesterais qu'ils ratent.~
+//Mort de Davaëorn
+@18    = ~Et le cruel bâtard est mort ! Une des dettes du Trône de Fer est acquittée... mais pas la dernière, loin de là. Allons, fouillons cet endroit. Davaëorn avait des maîtres, et ces maîtres ont rendez-vous avec un marteau de guerre que je détesterais qu'ils ratent.~
 
-//En remontant au premier niveau de la mine après la mort de Davaeorn
+//En remontant au premier niveau de la mine après la mort de Davaëorn
 @19    = ~Attendez un instant. Si nous pouvons, j'aimerais que nous libérions les esclaves du Trône avant de submerger à nouveau la mine. Nous devrions retourner à ma cellule... je pense qu'il y a là-bas quelqu'un en mesure de nous aider.~
 @20    = ~Il y a une possibilité de sauver ces pauvres hères ? Alors nous le ferons.~
 @21    = ~J'allais oublier... merci de me le rappeler, Yeslick. Redescendons au niveau inférieur !~
@@ -35,7 +35,7 @@
 @23    = ~Cela impliquerait un pot-de-vin, Yeslick, et nous n'en avons pas les moyens. On ne peut pas.~
 @24    = ~On a suggéré un pot-de-vin, je crois... et ne crache pas de l'or pour de telles charités inutiles.~
 @25    = ~On ne peut pas les sauver, Yeslick.~
-@26    = ~Ah, mais c'est facile à résoudre ! Davaeorn devait cacher de l'or dans les parages... je suis sûr que si on peut le trouver, on aura assez pour marchander la liberté de ces pauvres âmes !~
+@26    = ~Ah, mais c'est facile à résoudre ! Davaëorn devait cacher de l'or dans les parages... je suis sûr que si on peut le trouver, on aura assez pour marchander la liberté de ces pauvres âmes !~
 @27    = ~Quand bien même... je vous dis qu'on ne peut pas les sauver.~
 @28    = ~Oh, très bien ! Nous irons voir ce prisonnier dont vous avez parlé. Montrez le chemin...~
 @29    = ~Je ne vois rien en ces pathétiques esclaves qui vaille l'or que nous coûterait de les sauver.~
@@ -61,13 +61,13 @@
 @48    = ~Allez au diable ! La tombe du clan résonne de tristesse et vous papillonnez ! Je ne le tolèrerai pas ! Je retourne la défendre, peu importe ce que vous pensez !~
 @49    = ~Vous êtes aussi pourri qu'le Trône. Je ne le tolèrerai pas ! ... Clangeddin ait pitié de vos âmes !~
          ~Vous êtes aussi pourrie qu'le Trône. Je ne le tolèrerai pas ! ... Clangeddin ait pitié de vos âmes !~
-@50    = ~Attendez ! Il faut faire demi-tour et inonder la mine ! Une fois noyée à nouveau, on pourra dégager les rats du Trône et sceller la tombe de mon clan en plus ! Davaeorn avait la clé... allons, vite !~
+@50    = ~Attendez ! Il faut faire demi-tour et inonder la mine ! Une fois noyée à nouveau, on pourra dégager les rats du Trône et sceller la tombe de mon clan en plus ! Davaëorn avait la clé... allons, vite !~
 @51    = ~Il y a un moyen de noyer la mine ? Nous vous suivons !~
 @52    = ~J'avais presque oublié... merci de me le rappeler, Yeslick.~
 @53    = ~Vous ne céderez pas ? Moi non plus. Mon honneur m'en empêche, quoi qu'il arrive. Je libérerai les esclaves moi-même dans ce cas, et quand le Trône reviendra sur la sépulture de mon clan, je les décimerai eux aussi... Allez, continuez votre route.~
 @54    = ~Allons-nous inonder la mine, alors ? Le Trône pourrait revenir à tout moment et en reprendre possession !~
 @55    = ~*soupir* Vous ne céderez pas ? Moi non plus. Mon honneur m'en empêche, quoi qu'il arrive. Je libérerai les esclaves moi-même dans ce cas, et quand le Trône reviendra sur la sépulture de mon clan à nouveau, je les décimerai eux aussi... Allez, continuez votre route.~
-@56    = ~ Allez au diable ! La tombe de mon clan est grande ouverte et vous papillonnez ! Je ne le tolèrerai pas ! Je retourne la défendre, peu importe ce que vous pensez !~
+@56    = ~Allez au diable ! La tombe de mon clan est grande ouverte et vous papillonnez ! Je ne le tolèrerai pas ! Je retourne la défendre, peu importe ce que vous pensez !~
 @57    = ~Laissez-moi quelques minutes de silence que je me remémore mon clan. Qu'ils reposent en paix dans leur tombe aquatique, loin des chiens du Trône de Fer.~
 @58    = ~Un travail accompli avec adresse, <CHARNAME>, vraiment.~
 
@@ -102,11 +102,11 @@
 @84    = ~Que... que croyiez-vous que j'allais faire, <CHARNAME> ? Lui souhaiter une bonne journée ? Serrer la main de ce monstre ? Vous pensez qu'il ne m'aurait pas reconnu si je l'avais fait ? Ce rat nous aurait tous tués sans hésitation si nous nous étions tenus devant lui. Mieux vaut l'avoir tué maintenant plutôt que de nager dans une marée d'assassins d'ici à la Porte de Baldur ! Venez, nous ferions mieux d'expliquer aux responsables de cet endroit ce que nous avons fait et pourquoi.~
 @85    = ~Vous savez enfin quelle main a mis fin aux jours de Gorion, <CHARNAME>. Hâtons-nous, et retrouvons ce mécréant qui partage votre sang ! Votre Clan demande vengeance !~
 @86    = ~Mais s'il est mon frère... que disent les lois naines sur le fratricide ?~
-@87    = ~Mon 'clan' n'est plus qu'une simple affaire de sang, Yeslick.~
+@87    = ~Mon « clan » n'est plus qu'une simple affaire de sang, Yeslick.~
 @88    = ~Vous ne connaissiez pas Gorion. Il n'aurait pas voulu que je tue en son nom.~
 @89    = ~Maudite soit la vengeance. S'il est celui qui veut me faire obstacle, il mourra.~
 @90    = ~Vous avez raison, Yeslick. En avant !~
-@91    = ~Pour répondre à cela, je crois que la loi naine est la suivante : 'Ca fait rien de tuer ton frère si c'est un mauvais bâtard sans honneur qui tue des clans'. Ne vous en faites pas pour ça, <CHARNAME>. On va le tuer, lui et tous ceux qui se tiennent entre lui et nous... et on laissera les dieux se charger d'eux après.~
+@91    = ~Pour répondre à cela, je crois que la loi naine est la suivante : « Ça fait rien de tuer ton frère si c'est un mauvais bâtard sans honneur qui tue des clans ». Ne vous en faites pas pour ça, <CHARNAME>. On va le tuer, lui et tous ceux qui se tiennent entre lui et nous... et on laissera les dieux se charger d'eux après.~
 @92    = ~c'est ce que nous allons faire dans ce cas !~
 @93    = ~Non... Gorion ne voudrait pas que je tue un homme en son nom, peu importe les circonstances.~
 @94    = ~Nous verrons ce qui se passe.~

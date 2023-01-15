@@ -1,15 +1,15 @@
 // Notes de Garfield
-// Un dernier petit mot concernant le tu/vous. Comme c'est un des derniers PNJs a avoir été traduit, j'ai du composer avec les choix déjà faits et j'ai essayé d'y trouver une logique. Voila donc ma conception du personnage :
-// -Le 'tu' haineux : Kagain, Eldoth, Montaron, Viconia
-// -Le 'tu' paternaliste : Coran, Immy, Ajantis, Alora, Garrick, Jaheira, Minsc, Xan (ok, là j'avoue que j'ai juste suivi le choix fait dans la traduction de Xan, moi je l'aurais plutôt fait vouvoyer).
-// -Le 'vous' d'indifférence ou de politesse : Branwen, Dynahéir (politesse), Edwin, Faldorn, Khalid (politesse), Kivan, Shar-teel, Skie (politesse)
-// -Le 'vous' d'agacement : Quayle, Safana, Tiax, Xzar
+// Un dernier petit mot concernant le tu/vous. Comme c'est un des derniers PNJs a avoir été traduit, j'ai du composer avec les choix déjà faits et j'ai essayé d'y trouver une logique. Voilà donc ma conception du personnage :
+// -Le "tu" haineux : Kagain, Eldoth, Montaron, Viconia
+// -Le "tu" paternaliste : Coran, Immy, Ajantis, Alora, Garrick, Jaheira, Minsc, Xan (ok, là j'avoue que j'ai juste suivi le choix fait dans la traduction de Xan, moi je l'aurais plutôt fait vouvoyer).
+// -Le "vous" d'indifférence ou de politesse : Branwen, Dynahéir (politesse), Edwin, Faldorn, Khalid (politesse), Kivan, Shar-teel, Skie (politesse)
+// -Le "vous" d'agacement : Quayle, Safana, Tiax, Xzar
 @0    = ~Ça t'apprendra à pas t'essuyer les pieds, sale vaurien ! *crache* Oui... c'est bien ici.~
 @1    = ~Quel est cet endroit ?~
 @2    = ~Quelle direction à présent, Yeslick ?~
 @3    = ~Vous dites qu'un clan entier de Nains vivait ici ? Cet endroit est minuscule !~
 @4    = ~Ce sont qu'les salles de garde. J'ai entraîné ma milice ici, y a longtemps... tous des gars déterminés, doués avec la hache. Je m'attends à ce que le Trône les ait remplis d'hobgobelins et d'vauriens du même genre, alors attentions où vous mettez les pieds.~
-@5    = ~Pour trouver Davaeorn c'est vers le Sud, par les forges... mais au Nord y avait les armureries, ça pourrait valoir le coup d'oeil si le Trône les a pas déjà complètement pillées.~
+@5    = ~Pour trouver Davaëorn c'est vers le Sud, par les forges... mais au Nord y avait les armureries, ça pourrait valoir le coup d'oeil si le Trône les a pas déjà complètement pillées.~
 @6    = ~Oui, maintenant, p't'être. Quand l'eau s'est engouffrée, la majorité du soutènement d'la mine a été emportée, écrasant les tunnels, les quartiers d'habitation et la fort'resse principale. Le maudit Trône a ouvert ce qui l'intéressait et a laissé le reste enseveli sous les rochers.~
 @7    = ~Alors... où sommes-nous exactement ?~
 @8    = ~Par où, maintenant ?~
@@ -25,14 +25,14 @@
 @18   = ~Alors nous ferions mieux de continuer, n'est-ce pas ?~
 @19   = ~Nous leur ferons payer ce blasphème, Yeslick... n'ayez crainte.~
 @20   = ~Toute cette religion me donne mal au crâne. Allez, allons en tuer d'autres.~
-@21   = ~Ouais... Ouais ! DAVAEORN ! Ta fin est proche !~
+@21   = ~Ouais... Ouais ! DAVAËORN ! Ta fin est proche !~
 @22   = ~Ouais, c'est bon d'être sorti de cette cellule... bon d'être en chemin pour venger les miens.~
 @23   = ~Cela me semble triste que vous ne parliez de votre famille qu'en termes de vengeance.~
 @24   = ~Est-ce votre seule raison de vivre, Yeslick ?~
 @25   = ~Je suis heureux que vous soyez des nôtres, aussi lugubre que vous soyez.~
         ~Je suis heureuse que vous soyez des nôtres, aussi lugubre que vous soyez.~
 @26   = ~Oh, la ferme, vieux nain.~
-@27   = ~Content que vous l'appréciez. Je suis heureux de vous avoir libéré.~ 
+@27   = ~Content que vous l'appréciez. Je suis heureux de vous avoir libéré.~
         ~Contente que vous l'appréciez. Je suis heureuse de vous avoir libéré.~
 @28   = ~Je ne peux que vous remercier pour ça. J'ai juré qu'je tiendrais aussi longtemps que possible... mais j'ai peur de ne pas savoir combien de temps cela pourrait durer. Le vieux nain que je suis n'est plus aussi jeune que fût un temps. Et si les brutes de Rieltar avaient suivi leurs envies, le vieux Yeslick s'rait déjà parti rejoindre les siens sans avoir plus que du chagrin à leur apporter. Et plutôt me damner que d'laisser ça se produire !~
 @29   = ~Pourquoi s'attacher autant à venger ceux qui sont morts depuis si longtemps ?~
@@ -51,7 +51,7 @@
 @42   = ~Vous ne pouvez pas penser sans cesse à votre famille, Yeslick. Cela va vous rendre fou.~
 @43   = ~Les choses se finiront bien. J'en ai la certitude.~
 @44   = ~Oui... Je ne le sais que trop bien.~
-@45   = ~Pas juste la famille, <CHARNAME>... mon *clan*. On était une grande communauté, vous voyez ? On travaillait ensemble et on vivait ensemble. J'suis pas un humain ou une petite-personne ou un elfe fantasque qui peut se souvenir que d'une centaine de noms. Je me les rappelle *tous*. Et si vous d'mandez si je regrette leur mort, alors j'vous dirais 'ouais'. *soupire*. Mais c'était il y a un bon siècle...~
+@45   = ~Pas juste la famille, <CHARNAME>... mon *clan*. On était une grande communauté, vous voyez ? On travaillait ensemble et on vivait ensemble. J'suis pas un humain ou une petite-personne ou un elfe fantasque qui peut se souvenir que d'une centaine de noms. Je me les rappelle *tous*. Et si vous d'mandez si je regrette leur mort, alors j'vous dirais « ouais ». *soupire* Mais c'était il y a un bon siècle...~
 @46   = ~C'est une grande tragédie qui les a frappés, Yeslick. Je suis désolé.~
         ~C'est une grande tragédie qui les a frappés, Yeslick. Je suis désolée.~
 @47   = ~Mes propres tragédies sont plus récentes, malheureusement.~
@@ -75,7 +75,7 @@
 @62   = ~Oui. Mon père adoptif a été tué... et je veux la tête de son assassin.~
 @63   = ~J'ai assisté au meurtre de mon père adoptif... et je ne sais toujours pas pourquoi. Il me faut des réponses.~
 @64   = ~Je n'ai pas envie d'en parler.~
-@65   = ~Je me fiche de mon 'clan', nain. Je veux juste trouver qui a essayé de *me* tuer.~
+@65   = ~Je me fiche de mon « clan », nain. Je veux juste trouver qui a essayé de *me* tuer.~
 @66   = ~Je suis peiné de l'apprendre. Je vous le dis, alors, <CHARNAME>. Vous m'aidez à trouver Rieltar et ses voyous et m'laissez prendre ma rétribution dans son sang, et je jure, au nom d'Clangeddin la Double-Hache, au nom d'Moradin le Forgeur d'Ames, et j'invoque la dame Purargent pour témoigner de mon serment solennel, que j'vous aiderai à trouver cet homme... et j'ferai tout mon possible pour m'assurer qu'il soit puni. Entendu ?~
 @67   = ~J'accepte.~
 @68   = ~Entendu.~
@@ -114,21 +114,21 @@
 
 // Coran
 @96   = ~Alors, comment penses-tu tuer une wiverne, elfe ? J'espère qu'tu prévois pas de lui chanter un air.~
-@97   = ~Tu me blesses, Yeslick ! Personne ne part en chasse d'un gibier si gros sans un plan de chasse... C'est normal, après tout. Elle a pour elle sa taille, ses écailles et une méchante queue, et moi j'ai mon arc, et ma répartie toujours acérée. J'ai demandé conseil par-ci par-là, et j'ai eu quelques tuyaux. 'Vise la tête' m'a-t-on dit. L'oeil, ou le dessous de la mâchoire dans le crâne... une flèche juste ici et en un éclair, tu rapportes ta récompense à la maison, ils ont dit ! Aucun problème pour un archer tel que moi.~
+@97   = ~Tu me blesses, Yeslick ! Personne ne part en chasse d'un gibier si gros sans un plan de chasse... C'est normal, après tout. Elle a pour elle sa taille, ses écailles et une méchante queue, et moi j'ai mon arc, et ma répartie toujours acérée. J'ai demandé conseil par-ci par-là, et j'ai eu quelques tuyaux. « Vise la tête » m'a-t-on dit. L'oeil, ou le dessous de la mâchoire dans le crâne... une flèche juste ici et en un éclair, tu rapportes ta récompense à la maison, ils ont dit ! Aucun problème pour un archer tel que moi.~
 @98   = ~Tu me surprends, vraiment.~
 @99   = ~Oh ? Tu ne me crois pas assez intelligent ou brave pour battre une wiverne ? Je suis déçu, Yeslick. Comment ai-je pu te faire une telle impression ?~
 @100  = ~Oh, non, bien sûr, j'ai aucun doute là-dessus... c'est juste qu'avec ton choix habituel d'cibles, Coran ; j'attendais qu'tu vises le coeur, comme d'habitude.~
 @101  = ~Par la Rose d'Or d'Hanali Celanil ! Yeslick - c'était... une blague ? Et une bonne en plus ! Tu es toi-même plein de surprises, Nain.~
 
-// Imoen. La traduction des noms du compte est de mon invention. Accord de 'leur' ligne 122 à vérifier. Jusqu'à 115 c'est avant le repos du groupe, et le reste au réveil.
+// Imoen. La traduction des noms du compte est de mon invention. Accord de "leur" ligne 122 à vérifier. Jusqu'à 115 c'est avant le repos du groupe, et le reste au réveil.
 @102 = ~Zzz... hein ? Que... quoi ? Je suis réveillé ! J'ai juste fermé les yeux un instant - oh, c'est toi, Imoen. Qu'est-ce que tu veux à une heure pareille ?~
 @103 = ~Hé... papy... euh... tu peux me raconter une histoire ?~
 @104 = ~Une histoire ? Au moment de s'coucher ? C'est... un truc un peu bizarre, non ? Pourquoi tu veux une histoire ?~
 @105 = ~Pour me faire dormir, bêta. *Imoen tapote l'épaule de Yeslick avec amusement avant de remarquer l'étonnement inscrit sur son visage.* Les parents nains ne racontent pas d'histoires à leur petits pour les faire dormir ?~
-@106 = ~Mon père m'a jamais rien raconté d'la sorte... Il m'a appris l'hymne de Moradin, pour sûr, quand j'étais un petit orphelin. J'la récitais trois fois le soir avant de laisser ma tête toucher l'oreiller. 'Ô, seigneur Forgeur d'Ames, puisses-tu éloigner les rats, puisses-tu empêcher le toit de s'effondrer sur moi dans mon sommeil...' et tout ça.~
+@106 = ~Mon père m'a jamais rien raconté d'la sorte... Il m'a appris l'hymne de Moradin, pour sûr, quand j'étais un petit orphelin. J'la récitais trois fois le soir avant de laisser ma tête toucher l'oreiller. « Ô, seigneur Forgeur d'Ames, puisses-tu éloigner les rats, puisses-tu empêcher le toit de s'effondrer sur moi dans mon sommeil... » et tout ça.~
 @107 = ~Purée ! Pas étonnant que vous autres portiez toujours un casque ! Dormir en souterrain avec juste une petite poutre en bois pour tenir le toit ! Je crois que je deviendrais folle à me demander si le toit irait pas s'effondrer sur moi.~
 @108 = ~Bah, tu t'y f'rais. Bref, une histoire ! Je connais bien quelques fables qu'on racontait lors des festivités. Elles déclenchaient toujours des applaudissements, celles-là. Est-ce que l'conte de la Chute du Seigneur Fargrim te conviendra ? C'est une histoire d'sang, d'guerre et d'tristesse !~
-@109 = ~Bien sûr ! Ca ressemble à quelque chose que ce vieux Grosventre raconterait. Donne-moi juste un moment pour me mettre dans l'ambiance.~ 
+@109 = ~Bien sûr ! Ca ressemble à quelque chose que ce vieux Grosventre raconterait. Donne-moi juste un moment pour me mettre dans l'ambiance.~
 @110 = ~D'accord, alors installe toi, installe toi. *se racle la gorge* « Cette histoire se déroule dans les temps où l'enclume tonnait, dans l'année de la colère du Forgeur d'Ames, quand le Seigneur Fargrim, Roi de la Montagne Scintillante, Maitre du Clan Tuetroll, Forgeur de l'Epieu des Cieux, était le dirigeant du Val des Ombres et y régnait en maître. Car il y avait là un puissant chef de guerre Troll qui ne le combattait pas... et... »~
 @111 = ~« ... et c'est ainsi qu'Alric, Maître des armées du clan, Marteau des Gobelins, Casque-d'Acier, l'envoya quérir. Et le fils du Troll était connu sous plusieurs noms ; Dent-Acérée, Peau-de-Serpent, la Griffe des Montagnes, mais principalement sous le nom de Garglish, chef de la tribu de la Lune Putride. »~
 @112 = ~Et tiens-toi bien, « Garglish, Dent-Acérée, Peau-de-Serpent, la Griffe des Montagnes, chef de la tribu de la Lune Putride vint effectivement à la rencontre d'Alric, Maître des armées du clan, Marteau des Gobelins, Casque-d'Acier comme émissaire privilégié de son père, l'infâme Grargar, Gorgecrocs, Griffe-Lamineuse. Et aux côtés d'Alric, Maître des armées du clan, Marteau des Gobelins, Casque-d'Acier se tenait Fargrim, Maître-des-Monts, Tueur-de-Troll,Forge-Epieu. »~
@@ -207,10 +207,10 @@
 @171  = ~Quoi ? Pourquoi jures-tu à mon adresse, nain ?~
 @172  = ~Vos mains ! *Regardez* vos mains ! Y a pas un cal ou une cicatrice dessus ! Elles sont lisses comme celle d'un nourrisson ! Par le marteau de Moradin, Edwin, avez-vous jamais vécu un jour de travail ?!~
 @173  = ~Nain, un homme sophistiqué et bien éduqué tel que moi, ne laissera jamais ses mains trahir des signes de labeur manuel. En effet, j'ai le sentiment de devoir les garder dans un état parfait, si je veux que mes gestes incantatoires soient tout aussi parfaits !~
-@174  = ~Mon 'jour de travail' est bien plus ésotérique, bien plus subtil et puissant que de frapper des cailloux avec des bâtons ou transporter ceci-cela, et il y a plein de gens dont le but dans la vie est d'accomplir de telles tâches après tout. (Oh oui, il y aura... un jour)~
+@174  = ~Mon « jour de travail » est bien plus ésotérique, bien plus subtil et puissant que de frapper des cailloux avec des bâtons ou transporter ceci-cela, et il y a plein de gens dont le but dans la vie est d'accomplir de telles tâches après tout. (Oh oui, il y aura... un jour)~
 @175  = ~'Un état parfait', vous dîtes ? Et dire que j'pensais que vous les mages vous jouiez avec de l'urine de chauve-souris et des queues d'rats et ce genre de trucs peu ragoûtants. Lancer des sorts c'est salissant, ou du moins j'l'ai toujours pensé. Personnellement, ça m'étonne que vous ayez réussi à garder votre robe rouge de princesse propre, avec toute la crasse que vous devez endurer pour jeter vos sorts.~
 @176  = ~Nain, je suis d'humeur magnanime aujourd'hui... voici donc mon conseil : n'essaie pas de comprendre ce qui dépasse ton imagination limitée. Creuse ta terre, et laisse les esprits éclairés discuter de magie. (Et ce mineur crasseux a l'esprit aussi obscur que l'on peut espérer, hah.)~
-@177  = ~J'pense que vous seriez étonné de toute la sagesse qu'on trouve dans la boue et les roches bonnes et honnêtes. J'dis qu'un jour dans les mines vous ferait tout le bien du monde, Edwin, mais qui suis-je pour donner conseil à 'un esprit éclairé', hein... ?~
+@177  = ~J'pense que vous seriez étonné de toute la sagesse qu'on trouve dans la boue et les roches bonnes et honnêtes. J'dis qu'un jour dans les mines vous ferait tout le bien du monde, Edwin, mais qui suis-je pour donner conseil à « un esprit éclairé », hein... ?~
 
 //Eldoth. J'ai pas pu résister au final à la Thierry Lermitte pour traduire un Whatever.
 @178  = ~Pourquoi tu m'regardes, barde ? Garde tes yeux de chats chez toi !~
@@ -233,7 +233,7 @@
 @193  = ~J'utilise l'arbre pour allumer un feu, et le feu pour fondre mon métal, et j'en fais dix épées. J'donne les dix épées à dix chevaliers dignes de mes armes, et ils tuent dix orques chacun. Ces orques avaient eux-mêmes brulé un millier d'arbres. Vous me dites que la Nature ne peut pas sacrifier un arbrisseau et un peu de métal pour un tel résultat ?~
 @194  = ~Un arbrisseau ? Grrr ! Pour nourrir ta forge. Combien d'autres arbres devront bruler pour pouvoir fondre assez de métal pour dix épées ? Et es-tu en train de me dire que toi, un nain, tu vas t'arrêter de miner une fois que tu auras assez de métal pour dix épées ? Mensonges !~
 @195  = ~*soupire* Au temps pour ma logique...~
-@196  = ~J'aimerais voir des chevaliers chasser des bois les ennemis de la Nature... Mais certains de ses chevaliers pourrait eux-mêmes être des citadins. Leur engeance servirait mieux la Nature comme nourriture que comme 'protecteurs'. Laisse les Druides de l'Ombre défendre la Nature, nain. Si tu veux te racheter aux yeux de la Grande Mère, fais ce que j'ordonne, plutôt que de m'offrir d'inutiles énigmes.~
+@196  = ~J'aimerais voir des chevaliers chasser des bois les ennemis de la Nature... Mais certains de ses chevaliers pourrait eux-mêmes être des citadins. Leur engeance servirait mieux la Nature comme nourriture que comme « protecteurs ». Laisse les Druides de l'Ombre défendre la Nature, nain. Si tu veux te racheter aux yeux de la Grande Mère, fais ce que j'ordonne, plutôt que de m'offrir d'inutiles énigmes.~
 
 //Garrick+Shar-Teel en 198
 @197  = ~Par Clangeddin, mon garçon, qu'est-ce que tu espères faire en furetant à l'arrière-garde quand y a des crânes à fracasser, hein ?~
@@ -273,9 +273,9 @@
 
 //Kagain
 @225  = ~Je m'bas pour la justice, la valeur et mon clan... et *toi*, Kagain ?~
-@226  = ~*renifle* La justice ! 'La récompense au vainqueur' c'est tout la justice dont j'ai besoin, crétin de prêcheur !~
+@226  = ~*renifle* La justice ! « La récompense au vainqueur » c'est tout la justice dont j'ai besoin, crétin de prêcheur !~
 @227  = ~Vermine vénale ! C'est la raison pour laquelle nous autres nains sommes parfois si haïs !~
-@228  = ~Tchah ! Si la paix payait plus que la guerre, je serais aussi pur qu'un agneau. C'est vous les 'justiciers' qui créez des problèmes quand les affaires sont prospères.~
+@228  = ~Tchah ! Si la paix payait plus que la guerre, je serais aussi pur qu'un agneau. C'est vous les « justiciers » qui créez des problèmes quand les affaires sont prospères.~
 
 //Kagain
 @229  = ~T'es avare, impie et tu respectes rien, ni ton clan ni tes Dieux ! Je commence vraiment à te détester, Kagain, même si nous sommes frères.~
@@ -332,15 +332,15 @@
 @270  = ~J'imagine qu'il y pas de moyen de faire ça gentiment. Montaron, j'te surveille.~
 @271  = ~Ohoh, j'ai un auditoire, apparemment ? Si tu peux pas trouver autre chose à r'garder, t'es encore plus idiot que je l'pensais.~
 @272  = ~Je regarde juste le dos de qui t'observe... en m'demandant dans qui tu vas planter ton couteau en premier. C'est bizarre, ces trucs-là m'intéressent, les mécréants de meurtriers comme toi et tout ça... et j'vois qu'tu regardes un peu trop le dos d'<CHARNAME>. J'te préviens... oublie ça.~
-@273  = ~Pffft. 'Meurtrier', moi ? Mon couteau s'occupe d'la viande et des oignons et y a rien d'meurtrier à un dîner sur la route, mais tu l'as p'têtre oublié, avec le « service d'étage » de la cellule où on t'a trouvé. L'pote <CHARNAME>, l'a pas oublié.~
-@274  = ~Tu m'embobineras pas avec ton blabla culinaire... tu mens peut-être pas, mais tu dis pas non plus la vérité. D'puis quand z'êtes 'potes' ? T'es vicieux, petit-homme, et les p'tits bâtards vicieux comme toi ont pas de 'potes'... ou pas pour longtemps.~
-@275  = ~T'y connais que dalle en amis toi, vu comme t'as choisi les tiens. T'enfermer, c'est p't-être bien la seule chose sensée qu'ils aient faite. Mais ils ont fait d'aut' chose, et c'est pour ça que mes 'potes' m'ont demandé de m'charger d'eux. Donc moi et Xzar, on trouve <CHARNAME> sur la même mission et on d'vient tous potes tant que c'Trône de Fer tient toujours. Même chose pour toi ; c'pendant j'pige pas bien pourquoi on attend qu'ce soient *eux* qui t'mettent dans en boîte.~
+@273  = ~Pffft. « Meurtrier », moi ? Mon couteau s'occupe d'la viande et des oignons et y a rien d'meurtrier à un dîner sur la route, mais tu l'as p'têtre oublié, avec le « service d'étage » de la cellule où on t'a trouvé. L'pote <CHARNAME>, l'a pas oublié.~
+@274  = ~Tu m'embobineras pas avec ton blabla culinaire... tu mens peut-être pas, mais tu dis pas non plus la vérité. D'puis quand z'êtes « potes » ? T'es vicieux, petit-homme, et les p'tits bâtards vicieux comme toi ont pas de « potes »... ou pas pour longtemps.~
+@275  = ~T'y connais que dalle en amis toi, vu comme t'as choisi les tiens. T'enfermer, c'est p't-être bien la seule chose sensée qu'ils aient faite. Mais ils ont fait d'aut' chose, et c'est pour ça que mes « potes » m'ont demandé de m'charger d'eux. Donc moi et Xzar, on trouve <CHARNAME> sur la même mission et on d'vient tous potes tant que c'Trône de Fer tient toujours. Même chose pour toi ; c'pendant j'pige pas bien pourquoi on attend qu'ce soient *eux* qui t'mettent dans une boîte.~
 @276  = ~Des menaces ? Alors en voici une de ma part, criminel de caniveau. A partir de maintenant, *j'écouterai* en plus d'observer. Maintenant, décampe. Tu m'ennuies.~
 @277  = ~Ooh... j't'ennuie, c'est vrai ? Pas un mauvais début, mais c'est pas encore tout à fait ça. Pas tout à fait...~
 
 //Montaron, reprise des lignes 271 et 273, la différence est dans le codage du dialogue
 @278  = ~Ohoh, j'ai un auditoire, apparemment ? Si tu peux pas trouver autre chose à r'garder, t'es encore plus idiot que je l'pensais.~
-@279  = ~Pffft. 'Meurtrier', moi ? Mon couteau s'occupe d'la viande et des oignons et y a rien d'meurtrier à un dîner sur la route, mais tu l'as p'têtre oublié, avec le « service d'étage » de la cellule où on t'a trouvé. L'pote <CHARNAME>, l'a pas oublié..~
+@279  = ~Pffft. « Meurtrier », moi ? Mon couteau s'occupe d'la viande et des oignons et y a rien d'meurtrier à un dîner sur la route, mais tu l'as p'têtre oublié, avec le « service d'étage » de la cellule où on t'a trouvé. L'pote <CHARNAME>, l'a pas oublié..~
 
 //Quayle + Kagain en 286
 @280  = ~Ça vous dérangerait de rester silencieux une minute, Quayle ? J'essaie de prier, et je n'y arrive pas à cause de votre babil auto-proclamé intelligent.~
@@ -373,13 +373,13 @@
 @303  = ~Votre coeur est dévoué à la bataille, Shar-teel, mais votre âme est vide, à ce que je vois... avez-vous, hum, pensé à offrir votre dévotion à un pouvoir supérieur ?~
 @304  = ~Je suppose que c'est une introduction pour te donner une ouverture afin de prêcher et de m'asséner ton blabla sacré sur les vertus de Clangeddin ? J'te jure, les dieux mâles des Royaumes supérieurs sont des créatures rustres et stupides, mais j'ai jamais entendu parler d'un panthéon plus rempli de chiens odieux, barbus et d'outres à bière que celui des nains !~
 @305  = ~Hoi, c'est complètement... c'est... complètement gratuit, femme ! Il y a plein de grandes déesses naines, vraiment !~
-@306  = ~Appelle-moi 'femme' encore une fois, et je... je trancherais avec joie ta tête si je n'avais pas peur d'ébrécher ma lame sur ta nuque de pierre ! Nomme-moi une déesse naine qui...~
+@306  = ~Appelle-moi « femme » encore une fois, et je... je trancherais avec joie ta tête si je n'avais pas peur d'ébrécher ma lame sur ta nuque de pierre ! Nomme-moi une déesse naine qui...~
 @307  = ~Il y a... il y a Berronar Purargent, la Mère de Sûreté elle-même, déesse du foyer et du clan...~
 @308  = ~Un bel exemple des raisons pour lesquelles les femmes autour du monde doivent se soumettre à des hommes faiblards. Avec des déesses pareilles, qui a encore besoin des mâles ?~
 @309  = ~D'accord, d'accord ! C'est un mauvais exemple. Et Haela Brille-Hache alors ? Cette fille suit l'exemple de son oncle Clangeddin et va même plus loin encore !~
 @310  = ~Complète et indépendante... vraiment ?~
 @311  = ~Les Vierges de Sang de la Dame des Mêlées sont un spectacle terrifiant sur les champs de bataille nains... des berserkers pleines de cicatrices, trempées de sang, qui s'ouvrent un chemin à la hache sur Féérune, défiant monstres et démons pour la simple raison de leur présence, et toujours avec un coeur vaillant et un sourire lugubre !~
-@312  = ~Par les enfers, il y a eu beaucoup de prêtres nains hommes fiers d'être appelés 'Vierges de Sang' au nom d'Haela, et ça se comprend facilement.~
+@312  = ~Par les enfers, il y a eu beaucoup de prêtres nains hommes fiers d'être appelés « Vierges de Sang » au nom d'Haela, et ça se comprend facilement.~
 @313  = ~Hmm. Je peux pas dire que ça me déplaise... continue, s'il te plaît...~
 
 //Skie
@@ -451,17 +451,17 @@
 @371  = ~Mon cher nain, c'est... c'est brillant ! Ma réputation est faite ! Je serai publié dans le Nécromancien Illustré Trimestriel ! Hum... vous n'auriez pas par hasard de l'huile de palme à me prêter ? Oh, et une veine ?~
 @372  = ~Euh... J'ai pas d'huile de palme, et... Hoi ! Vous pouvez arrêter de manger mon bras des yeux, dérangé mental !~
 
-//Divers conflits entre Yeslick et Kagain dont la bataille à mort. Petit doute sur l'utilisation du mot 'réac' en 384-385 dans la bouche de Kagain mais ça décrit bien ce qu'il pense de Yeslick je crois. Anachronique ou pas?
+//Divers conflits entre Yeslick et Kagain dont la bataille à mort. Petit doute sur l'utilisation du mot "réac" en 384-385 dans la bouche de Kagain mais ça décrit bien ce qu'il pense de Yeslick je crois. Anachronique ou pas?
 @373  = ~<CHARNAME> !~
 @374  = ~Vas-y, bats-toi !~
 @375  = ~Hé, arrêtez ces idioties !~
 @376  = ~Quittez le groupe, tous les deux ! Réglez ça entre vous !~
 @377  = ~Ça t'apprendra, vermine-à-gages obsédée par l'or ! Présente tes excuses à Clangeddin ! Ouais... j'considère tous les nains comme mes frères, mais celui-là va pas m'manquer. Venez, <CHARNAME>. Laissons-le aux chacals.~
-@378  = ~ Ça t'apprendra, vermine-à-gages obsédée par l'or ! Présente tes excuses à Clangeddin ! Maint'nant... si vous voulez bien m'excuser, 'camarades', j'ai encore une ou deux histoires à régler. Hors de mon ch'min !~
+@378  = ~ Ça t'apprendra, vermine-à-gages obsédée par l'or ! Présente tes excuses à Clangeddin ! Maint'nant... si vous voulez bien m'excuser, « camarades », j'ai encore une ou deux histoires à régler. Hors de mon ch'min !~
 @379  = ~Je suis désolé, <CHARNAME>, mais j'peux pas supporter c't'infâme... païen plus longtemps !~
 @380  = ~J'peux pas non plus t'supporter, chien galeux d'esclave !~
 @381  = ~J't'avais dit de pas remettre ça sur l'tapis - maintenant tu vas payer ! CLANGEDDIN !~
 @382  = ~Tu vas crever, grande-gueule !~
 @383  = ~Bien... c'est ce qu'on va faire, alors. Kagain, c'est ici qu'ça s'termine ! CLANGEDDIN !~
 @384  = ~Hah ! Ça lui a servi d'leçon, à ce vieux fou réac' ! Quelqu'un d'AUTRE veut goûter d'ma hache, tant qu'j'y suis ? Nan ? Alors on la ferme et on marche...~
-@385  = ~ Hah ! Ça lui a servi d'leçon, à ce vieux fou réac' ! Quelqu'un d'AUTRE veut goûter d'ma hache, tant qu'j'y suis ? Nan ? Alors on la ferme et on marche... 'reusement que j'me barre, alors, bande de nazes.~
+@385  = ~Hah ! Ça lui a servi d'leçon, à ce vieux fou réac' ! Quelqu'un d'AUTRE veut goûter d'ma hache, tant qu'j'y suis ? Nan ? Alors on la ferme et on marche... 'reusement que j'me barre, alors, bande de nazes.~

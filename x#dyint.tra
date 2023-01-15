@@ -169,7 +169,7 @@
 
 //interjection avec Kirian
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 203, probablement inutile de traduire ici !
-@62 = ~Comme on dit en Rashéménie, 'il faut deux imbéciles pour démarrer un combat.'~
+@62 = ~Comme on dit en Rashéménie, « il faut deux imbéciles pour démarrer un combat ».~
 
 //interjection avec Davaeörn
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 208, probablement inutile de traduire ici !
@@ -252,7 +252,7 @@
 @100 = ~Tss, tss, Edwin... quel petit farceur ! Tu sais parfaitement que je suis venu jusqu'ici pour m'assurer que la sorcière se fasse tuer de manière à ce que Thay en retire toute la gloire possible. N'est-ce pas ?~
 @101 = ~... prêt à mourir ? Qui te le demande, macaque ?~ ~... prête à mourir ? Qui te le demande, macaque ?~
 @102 = ~Un Magicien Rouge de Thay ne sert que Thay... ou son propre intérêt. Pour quelqu'un qui est né pour rassembler tout Thay sous sa coupe, cela revient exactement au même. Peu importe que tu sois complètement inutile pour accomplir mes volontés, <CHARNAME>, mes soi-disant supérieurs sont plus faibles qu'un singe bavard des terres barbares. Tu auras besoin de mon aide pour les défaire... (Et de mon côté, je serai totalement libre de conspirer sans être constamment surveillé et rabaissé par ces bureaucrates insignifiants.)~
-@103 = ~Ca, macaque, c'est une question qui ne devrait même pas te venir à l'esprit !~
+@103 = ~Ça, macaque, c'est une question qui ne devrait même pas te venir à l'esprit !~
 @104 = ~Je ne devrais même pas avoir à me fatiguer avec les paperasses... Nevron est un crétin, il avalera bien la première histoire venue...~
 @105 = ~Je trouve ça dur à avaler. Edwin, rendez-vous enfin utile, et aidez-moi à m'occuper de ces... bouffons.~
 @106 = ~Voilà qui est très amusant, Edwin. Lorsque j'aurai de nouveaux ordres pour vous, je vous contacterai. Oh... et voici le remboursement de votre dernière dépense, bien que je ne comprenne toujours pas comment acheter les plaisirs d'une esclave drow a pu vous aider dans la capture de la sorcière.~

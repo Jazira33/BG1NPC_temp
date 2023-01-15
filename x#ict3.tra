@@ -560,7 +560,7 @@
 @202  = ~Je déteste tuer de jolies dames, particulièrement quand elles ont une étincelle en elles.~
 // Dynahéir - Kirian (@205)
 // BG1 NPC : texte identique dans le fichier x#dyint.tra au numéro 62
-@203  = ~Comme on dit en Rashéménie, 'il faut deux imbéciles pour démarrer un combat.'~
+@203  = ~Comme on dit en Rashéménie, « il faut deux imbéciles pour démarrer un combat. »~
 // Kivan - Kirian (@925)
 // BG1 NPC : texte identique dans le fichier x#kiint.tra au numéro 101
 @204  = ~Aviez-vous besoin de provoquer cette femme ? Ces meurtres auraient pu être évités, <CHARNAME>, si nous avions pour chef un homme avisé.~
@@ -655,7 +655,7 @@ L'aventurier se réjouit.~
 /* Shistal (4e étage de la bibliothèque, doppleganger) */
 // Coran - Shistal (@928)
 // BG1 NPC : texte identique dans le fichier x#coint.tra au numéro 112
-@234  = ~Autrefois je jalousais les doppelgangers, durant le carnaval. Les femmes semblaient toujours me reconnaître, en dépit de mes déguisements.~
+@234  = ~Autrefois je jalousais les doppelgängers, durant le carnaval. Les femmes semblaient toujours me reconnaître, en dépit de mes déguisements.~
 // Shar-Teel - Shistal
 // BG1 NPC : texte identique dans le fichier x#shint.tra au numéro 127
 @235  = ~Ah, cet endroit est trop terne. Que penserais-tu de le redécorer avec ton propre sang ?!~
@@ -1133,7 +1133,7 @@ L'aventurier se réjouit.~
 /* Lamalha, demande si on est <CHARNAME> avant d'attaquer (chasseurs de prime à la sortie des mines) */
 // Edwin
 // BG1 NPC : texte identique dans le fichier x#edint.tra au numéro 54
-@401  = ~J'ai assez d'expérience pour savoir que dans les questions de vie ou de mort, il est toujours salutaire de mentir. Mais tu peux être honnête avec ces crétins, si tu y tiens - ils ont ce petit quelque chose en eux... Comment pourrais-je le décrire ? Ah, 'pions voués à être massacrés d'un instant à l'autre'.~
+@401  = ~J'ai assez d'expérience pour savoir que dans les questions de vie ou de mort, il est toujours salutaire de mentir. Mais tu peux être honnête avec ces crétins, si tu y tiens - ils ont ce petit quelque chose en eux... Comment pourrais-je le décrire ? Ah, « pions voués à être massacrés d'un instant à l'autre ».~
 // Xan - Xan - Xan
 // BG1 NPC : texte identique dans le fichier x#xaint.tra au numéro 40
 @402  = ~*soupir* Quelle est cette terre où votre nom seul fait que des brutes tentent de vous massacrer ?~
@@ -1351,7 +1351,7 @@ L'aventurier se réjouit.~
 // BG1 NPC : texte proche dans le fichier x#viint.tra au numéro 62
 @478  = ~Un étrange choix de livre ; je devine que le vieux fou lui-même ne pouvait pas en digérer la lecture.~
 @479  = ~Oui, c'est sombre, mais comme l'est souvent l'Histoire.~
-/* Gallor, qui a proposé 900 po pour tuer Charleston et les ouvriers */
+/* Gallor, qui a proposé 900 pièces d'or pour tuer Charleston et les ouvriers */
 // Garrick
 // BG1 NPC : texte proche dans le fichier x#gaint.tra au numéro 90
 @480  = ~<CHARNAME>, quel est le prix d'une vie innocente ? Je suggère que nous refusions l'offre de ce Gallor et en informions Charleston.~
@@ -2075,7 +2075,7 @@ L'aventurier se réjouit.~
 // BG1 NPC : texte identique dans le fichier x#alint.tra au numéro 117
 @739  = ~Yiiiii !~
 // BG1 NPC : texte identique dans le fichier x#alint.tra au numéro 118
-@740  = ~Ne me crie pas 'Yiiii', fillette !~
+@740  = ~Ne me crie pas « Yiiii », fillette !~
 /* Non utilisé */
 @741  = ~Alors que voulez-vous ?~
 /* Veuve de Joseph */
@@ -2562,7 +2562,7 @@ L'aventurier se réjouit.~
 @908  = ~Regardez cet elfe de surface dépérir une fois sous terre ! Ah ! Au moins cet iblith réalise l'absurdité de son existence.~
 // BG1 NPC : texte identique dans le fichier x#viint.tra au numéro 134
 @909  = ~Un... une drow ! Je dois être mort.~
-/* Rill, quand on a donné l'argent, si le groupe avait moins de 1000 po */
+/* Rill, quand on a donné l'argent, si le groupe avait moins de 1 000 pièces d'or */
 // Rill interpelle le PJ, donc accord possible selon le sexe du PJ
 // Imoen - Imoen
 // BG1 NPC : texte identique dans le fichier x#imint.tra au numéro 136

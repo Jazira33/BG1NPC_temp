@@ -283,15 +283,15 @@ Non utilisable par :
 // Fin sons
 @125   = ~Cru la Dame Ogre~
 // Ensemble de sons présents dans BG II et aussi BG, à conserver tel quel
-@126   = ~ Unh ? Qu'est que vous voulez ?~ [HUMAN01]
-@127   = ~ Nooooooooon !~ [HUMAN09]
-@128   = ~ RAAAAHHHHR ! Vous allez mourir ! Mourir !~ [HUMAN05]
-@129   = ~ Je vais vous écraser !~ [HUMAN06]
+@126   = ~Unh ? Qu'est que vous voulez ?~ [HUMAN01]
+@127   = ~Nooooooooon !~ [HUMAN09]
+@128   = ~RAAAAHHHHR ! Vous allez mourir ! Mourir !~ [HUMAN05]
+@129   = ~Je vais vous écraser !~ [HUMAN06]
 @130   = ~[HUMAN 07]~ [HUMAN07]
 @131   = ~[HUMAN 08]~ [HUMAN08]
-@132   = ~ Je vous ai à l'oeil !~ [HUMAN02]
-@133   = ~ Parlez, humain ! Et vite !~ [HUMAN03]
-@134   = ~ Nos deux races ne s'entendent pas très bien !~ [HUMAN04]
+@132   = ~Je vous ai à l'oeil !~ [HUMAN02]
+@133   = ~Parlez, humain ! Et vite !~ [HUMAN03]
+@134   = ~Nos deux races ne s'entendent pas très bien !~ [HUMAN04]
 // Fin sons
 @135   = ~Chop la Dame Ogre~
 @136   = ~Assistante de David~
@@ -345,7 +345,7 @@ Poids : 20~
 @170   = ~Le Précis Ultime~
 @171   = ~Il s'agit d'une copie presque neuve de la première édition du Précis Ultime des Héros Célèbres Méconnus, par le renommé érudit Saemon Schama. Quel dommage qu'il ne soit pas signé, mais bon, vous ne pouvez pas tout avoir !
 
-Bien que le titre puisse paraître inapproprié, c'est le genre de livre que les prétentieux historiens du dimanche aiment posséder afin de pouvoir bavarder et prétendre être intellectuel lors de diners ou autres mondanités.
+Bien que le titre puisse paraître inapproprié, c'est le genre de livre que les prétentieux historiens du dimanche aiment posséder afin de pouvoir bavarder et prétendre être intellectuel lors de dîners ou autres mondanités.
 
 Une section parvient à attirer votre attention : elle mentionne qu'on dit que le fantôme du célèbre barde Myr'Cutio errerait près des ruines de l'École de Magie d'Ulcaster à la recherche de nouvelles aventures. Myr'Cutio ? Vous n'avez jamais entendu parler de lui, mais ça vaudrait peut-être le coup de vérifier...~
 @172   = ~Cotte de mailles de barde~
@@ -477,14 +477,14 @@ Utilisable uniquement par :
 @238   = ~Natan~
 @239   = ~Rashel~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@240   = ~ Ceux qui ont la foi sont toujours accueillis avec bienveillance.~ [GPRIF02]
-@241   = ~ Démon ! Démon !~ [GPRIF08]
-@242   = ~ Vous êtes une insulte envers toutes mes convictions !~ [GPRIF05]
+@240   = ~Ceux qui ont la foi sont toujours accueillis avec bienveillance.~ [GPRIF02]
+@241   = ~Démon ! Démon !~ [GPRIF08]
+@242   = ~Vous êtes une insulte envers toutes mes convictions !~ [GPRIF05]
 @243   = ~~ [GPRIF06]
 @244   = ~~ [GPRIF07]
-@245   = ~ Vous êtes le bienvenu ici.~ [GPRIF01] ~[FEMALE PRIEST GOOD 01] Vous êtes la bienvenue ici.~ [GPRIF01]
-@246   = ~ Mon dieu nous protège et nous surveille tous.~ [GPRIF03]
-@247   = ~ Je suis ici pour servir.~ [GPRIF04]
+@245   = ~Vous êtes le bienvenu ici.~ [GPRIF01] ~Vous êtes la bienvenue ici.~ [GPRIF01]
+@246   = ~Mon dieu nous protège et nous surveille tous.~ [GPRIF03]
+@247   = ~Je suis ici pour servir.~ [GPRIF04]
 // Fin sons
 // Ensemble de sons présents dans BG, manifestement transférés par Tutu, à conserver tel quel
 @248   = ~[SHAR-TEEL 35] Espèce de gros tas de bouse masculine et inutile !~ [%tutu_var%SHART35]
@@ -533,12 +533,12 @@ Utilisable uniquement par :
 @264   = ~Jozzi Serpent de Mer~
 @265   = ~Serpent de Mer~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@266   = ~ Nous n'abandonnerons jamais les bois !~ [ELSOL101]
+@266   = ~Nous n'abandonnerons jamais les bois !~ [ELSOL101]
 @267   = ~~ [ELSOL107]
 @268   = ~~ [ELSOL105]
 @269   = ~~ [ELSOL106]
-@270   = ~ Ces noirauds ne nous vaincront jamais.~ [ELSOL103]
-@271   = ~ La Seldarine veille sur nous... la victoire sera nôtre.~ [ELSOL104]
+@270   = ~Ces noirauds ne nous vaincront jamais.~ [ELSOL103]
+@271   = ~La Seldarine veille sur nous... la victoire sera nôtre.~ [ELSOL104]
 // Fin sons
 // Elfe aquatique de la quête de Kivan
 @272   = ~Keth'sim Dwin'anea~
@@ -630,41 +630,41 @@ Utilisable uniquement par :
 // Translation Retriever: perfect match found in file dialog ToB En.tra at Id 73368
 @316   = ~Esprit de la forêt~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@317   = ~ La nature sait beaucoup de choses sur vous.~ [DRYAD02]
+@317   = ~La nature sait beaucoup de choses sur vous.~ [DRYAD02]
 @318   = ~~ [DRYAD08]
 @319   = ~~ [DRYAD09]
-@320   = ~ Les arbres parlent de votre présence.~ [DRYAD01]
-@321   = ~ Tu ne profaneras plus !~ [SUAVAT03]
-@322   = ~ Accepte ce que tu mérites.~ [SUAVAT04]
+@320   = ~Les arbres parlent de votre présence.~ [DRYAD01]
+@321   = ~Tu ne profaneras plus !~ [SUAVAT03]
+@322   = ~Accepte ce que tu mérites.~ [SUAVAT04]
 @323   = ~~ [SUAVAT05]
 @324   = ~~ [SUAVAT06]
-@325   = ~ Tout ce qui pourra être fait sera fait.~ [SUAVAT01]
+@325   = ~Tout ce qui pourra être fait sera fait.~ [SUAVAT01]
 // Fin sons
 @326   = ~Mûre~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@327   = ~ Bien le bonjour. Votre puissance est impressionnante.~ [EPRIM01]
-@328   = ~ Pitié ! Pitié !~ [EPRIM08]
-@329   = ~ Vous me supplierez de vous achever quand j'en aurai fini avec vous !~ [EPRIM05]
+@327   = ~Bien le bonjour. Votre puissance est impressionnante.~ [EPRIM01]
+@328   = ~Pitié ! Pitié !~ [EPRIM08]
+@329   = ~Vous me supplierez de vous achever quand j'en aurai fini avec vous !~ [EPRIM05]
 @330   = ~~ [EPRIM06]
 @331   = ~~ [EPRIM07]
-@332   = ~ Que venez-vous chercher parmi les croyants ?~ [EPRIM02]
+@332   = ~Que venez-vous chercher parmi les croyants ?~ [EPRIM02]
 // Fin sons
 @333   = ~Orage~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@334   = ~ Et si nous dansions un peu ?~ [HVILLM02]
-@335   = ~ Autre temps, autre lieu !~ [HVILLM08]
-@336   = ~ Je vais vous planter ma lame dans l'estomac !~ [HVILLM05]
+@334   = ~Et si nous dansions un peu ?~ [HVILLM02]
+@335   = ~Autre temps, autre lieu !~ [HVILLM08]
+@336   = ~Je vais vous planter ma lame dans l'estomac !~ [HVILLM05]
 @337   = ~~ [HVILLM06]
 @338   = ~~ [HVILLM07]
-@339   = ~ Préparez-vous à finir en patée pour chiens.~ [HVILLM01]
+@339   = ~Préparez-vous à finir en patée pour chiens.~ [HVILLM01]
 // Fin sons
 @340   = ~Zosya~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@341   = ~ Ne vous frottez pas à la nature, ou elle se frottera à vous.~ [DRUID02]
+@341   = ~Ne vous frottez pas à la nature, ou elle se frottera à vous.~ [DRUID02]
 @342   = ~~ [DRUID05]
 @343   = ~~ [DRUID06]
-@344   = ~ Il serait bon que vous preniez garde à ce que vous faites dans ce bois.~ [DRUID01]
-@345   = ~ La civilisation semble bien loin quand on vient de la ville.~ [DRUID03]
+@344   = ~Il serait bon que vous preniez garde à ce que vous faites dans ce bois.~ [DRUID01]
+@345   = ~La civilisation semble bien loin quand on vient de la ville.~ [DRUID03]
 // Fin sons
 //
 // Eléments liés à la quête de Xzar : un garde du poing enflammé préfère éviter la folie de Xzar quand il joue avec son anneau
@@ -746,8 +746,8 @@ Utilisable uniquement par :
 @374   = ~Druide~
 @375   = ~Druide de Bois-Manteau~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@376   = ~ J'ai bien peur que cela prenne tu temps, et que cela ne fasse très mal...~ [HVILLM03]
-@377   = ~ Oh, oui, vous allez souffrir, oui...~ [HVILLM04]
+@376   = ~J'ai bien peur que cela prenne tu temps, et que cela ne fasse très mal...~ [HVILLM03]
+@377   = ~Oh, oui, vous allez souffrir, oui...~ [HVILLM04]
 // Fin sons
 @378   = ~Lance enflammée +1~
 @379   = ~La pointe de cette lance porte des runes ornées représentant les forces ardentes de la nature. La légende dit que la lance fut créée par un puissant archidruide de Norlandie dans les Sélénae pour venir en aide à la terre ainsi qu'au porteur en périodes d'hiver et de froid glacial. Elle s'avéra aussi une arme puissante face aux géants du givre des montagnes Jotunhammer.
@@ -805,53 +805,53 @@ Inutilisable par :
 // Enlèvement par Irénicus
 @400   = ~Etranger~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@401   = ~ Vous n'avez aucune chance de me vaincre !~ [IRENIC03]
-@402   = ~ Vous allez tous mourir, TOUS !~ [IRENIC04]
+@401   = ~Vous n'avez aucune chance de me vaincre !~ [IRENIC03]
+@402   = ~Vous allez tous mourir, TOUS !~ [IRENIC04]
 @403   = ~~ [IRENIC05]
 @404   = ~~ [IRENIC06]
-@405   = ~ Vous n'êtes qu'un moucheron comparé à mon pouvoir.~ [IRENIC01]
-@406   = ~ Mon Dieu, qu'il est dur d'être humble, lorsqu'on est parfait en tout point.~ [ELMIN07]
+@405   = ~Vous n'êtes qu'un moucheron comparé à mon pouvoir.~ [IRENIC01]
+@406   = ~Mon Dieu, qu'il est dur d'être humble, lorsqu'on est parfait en tout point.~ [ELMIN07]
 // Fin sons
 @407   = ~Arel~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@408   = ~ Cela ne prendra pas longtemps.~ [BODHIX04]
-@409   = ~ Préparez-vous, car le sommeil éternel vous attend.~ [BODHIX05]
+@408   = ~Cela ne prendra pas longtemps.~ [BODHIX04]
+@409   = ~Préparez-vous, car le sommeil éternel vous attend.~ [BODHIX05]
 @410   = ~~ [BODHIX06]
 @411   = ~~ [BODHIX07]
-@412   = ~ Vous vivrez aussi longtemps que je le permettrai.~ [BODHIX01]
+@412   = ~Vous vivrez aussi longtemps que je le permettrai.~ [BODHIX01]
 // Fin sons
 // Translation Retriever: perfect match found in file dialog ToB En.tra at Id 15245
 @413   = ~Lassal~
 // Ensemble de sons présents dans BG II, à conserver tel quel
 // Translation Retriever: Likely string found in file dialog ToB En.tra at Id 61709, likeliness 99.7 %
-@414   = ~ Votre sang a une odeur appétissante.~ [VAMPM01]
-@415   = ~ Ce n'est pas encore la fin !~ [VAMPM09]
-@416   = ~ Approchez ! Que je vous étreigne !~ [VAMPM05]
-@417   = ~ Votre existence touche à son terme, mortel !~ [VAMPM06]
+@414   = ~Votre sang a une odeur appétissante.~ [VAMPM01]
+@415   = ~Ce n'est pas encore la fin !~ [VAMPM09]
+@416   = ~Approchez ! Que je vous étreigne !~ [VAMPM05]
+@417   = ~Votre existence touche à son terme, mortel !~ [VAMPM06]
 @418   = ~~ [VAMPM07]
 @419   = ~~ [VAMPFX08]
-@420   = ~ Ahhh, des mortels.~ [VAMPM02]
-@421   = ~ Vous n'êtes rien devant le pouvoir de la mort.~ [VAMPM03]
+@420   = ~Ahhh, des mortels.~ [VAMPM02]
+@421   = ~Vous n'êtes rien devant le pouvoir de la mort.~ [VAMPM03]
 @422   = ~~ [VAMPM04]
 // Translation Retriever: perfect match found in file dialog ToB En.tra at Id 41130
 @423   = ~Tanova~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@424   = ~ Je suis le loup qui vit au milieu des moutons.~ [VAMPFX01]
-@425   = ~ Je reviendrai !~ [VAMPFX09]
-@426   = ~ Je vais me repaître de votre coeur !~ [VAMPFX05]
-@427   = ~ Soyez honorés d'être à mon menu !~ [VAMPFX06]
+@424   = ~Je suis le loup qui vit au milieu des moutons.~ [VAMPFX01]
+@425   = ~Je reviendrai !~ [VAMPFX09]
+@426   = ~Je vais me repaître de votre coeur !~ [VAMPFX05]
+@427   = ~Soyez honorés d'être à mon menu !~ [VAMPFX06]
 @428   = ~~ [VAMPFX07]
-@429   = ~ Voyons quel goût vous avez...~ [VAMPFX02]
-@430   = ~ La mort vous attend... et je vais l'aider.~ [VAMPFX03]
+@429   = ~Voyons quel goût vous avez...~ [VAMPFX02]
+@430   = ~La mort vous attend... et je vais l'aider.~ [VAMPFX03]
 @431   = ~~ [VAMPFX04]
 // Fin sons
 // Translation Retriever: perfect match found in file dialog ToB En.tra at Id 25708
 @432   = ~Valen~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@433   = ~ Vous êtes stupide de vouloir défier ma maîtresse !~ [VALENX03]
+@433   = ~Vous êtes stupide de vouloir défier ma maîtresse !~ [VALENX03]
 @434   = ~~ [VALENX04]
 @435   = ~~ [VALENX05]
-@436   = ~ Je ne sers que ma maîtresse.~ [VALENX01]
+@436   = ~Je ne sers que ma maîtresse.~ [VALENX01]
 // Fin sons
 @437   = ~Ulvar~
 // Translation Retriever: perfect match found in file dialog ToB En.tra at Id 14171
@@ -892,11 +892,11 @@ Inutilisable par :
 // Fin sons
 @462   = ~Setta~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@463 = ~ Salutations, cher client.~ [FEMER01] ~[FEMALE MERCHANT 01] Salutations, chère cliente.~ [FEMER01]
+@463 = ~Salutations, cher client.~ [FEMER01] ~Salutations, chère cliente.~ [FEMER01]
 @464   = ~~ [FEMER05]
 @465   = ~~ [FEMER06]
-@466   = ~ Nous sommes au royaume des marchands, mon bon ami... un véritable paradis pour ceux qui en ont les moyens.~ [FEMER03] ~[FEMALE MERCHANT 03] Nous sommes au royaume des marchands, ma bonne amie... un véritable paradis pour ceux qui en ont les moyens.~ [FEMER03]
-@467   = ~ Si tu as besoin de quelque chose, je peux sûrement te le fournir.~ [FEMER02]
+@466   = ~Nous sommes au royaume des marchands, mon bon ami... un véritable paradis pour ceux qui en ont les moyens.~ [FEMER03] ~Nous sommes au royaume des marchands, ma bonne amie... un véritable paradis pour ceux qui en ont les moyens.~ [FEMER03]
+@467   = ~Si tu as besoin de quelque chose, je peux sûrement te le fournir.~ [FEMER02]
 // Fin sons
 @468   = ~Parchemin de <CHARNAME>~
 @469   = ~Serment de fidélité de Dynahéir :
@@ -953,12 +953,12 @@ Inutilisable par :
 C'est la bague de fiançailles qu'Ajantis vous a donnée. La bague est un trésor de la famille Ilvastarr. Elle est ornée d'une façon plutôt simple, avec seulement quelques décorations recherchées autour d'une gemme bleue clair.~
 @481   = ~Douglas~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@482   = ~ Bonne journée à vous.~ [GNMAL02]
-@483   = ~ Ma sentence sera rapide et sans appel !~ [GNMAL03]
+@482   = ~Bonne journée à vous.~ [GNMAL02]
+@483   = ~Ma sentence sera rapide et sans appel !~ [GNMAL03]
 @484   = ~~ [KAYLXX04]
 @485   = ~~ [MANCO04]
-@486   = ~ Bienvenue.~ [GNMAL01]
-@487   = ~ C'est moi que vous regardez ? C'est moi que vous regardez !~ [AMNSO04]
+@486   = ~Bienvenue.~ [GNMAL01]
+@487   = ~C'est moi que vous regardez ? C'est moi que vous regardez !~ [AMNSO04]
 // Fin sons
 // Ensemble de sons présents dans BG II et aussi BG, manifestement transférés par Tutu, à conserver tel quel
 @488   = ~[MALE THREAT 3] J'ai là une lame rien que pour vous.~ [%tutu_var%GENMT03]
@@ -983,14 +983,14 @@ Quand elle regarde dans ce miroir, <CHARNAME> paraît plus belle qu'elle n'est~
 @491   = ~Maître des Défis~
 @492   = ~Maître des Défis~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@493   = ~ J'ai parcouru tout Féérune, et il y a toujours quelque chose de nouveau à découvrir.~ [VOLOO05]
-@494   = ~ Ce n'est pas du tout mon jour !~ [VOLOO02]
-@495   = ~ Peut-être une autre fois ! Je ne suis pas d'humeur à me battre aujourd'hui ! Comme n'importe quel autre jour, d'ailleurs !~ [VOLOO03]
+@493   = ~J'ai parcouru tout Féérune, et il y a toujours quelque chose de nouveau à découvrir.~ [VOLOO05]
+@494   = ~Ce n'est pas du tout mon jour !~ [VOLOO02]
+@495   = ~Peut-être une autre fois ! Je ne suis pas d'humeur à me battre aujourd'hui ! Comme n'importe quel autre jour, d'ailleurs !~ [VOLOO03]
 @496   = ~~ [VOLOO08]
 @497   = ~~ [VOLOO09]
-@498   = ~ C'est incroyable ce que l'on peut apprendre à l'occasion d'une simple fête campagnarde.~ [VOLOO04]
-@499   = ~ Vous connaissez bien votre arme, n'est-ce pas ? Et ça, après un simple verre.~ [VOLOO06]
-@500   = ~ J'ai une histoire pour chaque homme, femme et enfant de Faur'n. Toutefois, les droits d'auteur m'interdisent de les raconter.~ [VOLOO07]
+@498   = ~C'est incroyable ce que l'on peut apprendre à l'occasion d'une simple fête campagnarde.~ [VOLOO04]
+@499   = ~Vous connaissez bien votre arme, n'est-ce pas ? Et ça, après un simple verre.~ [VOLOO06]
+@500   = ~J'ai une histoire pour chaque homme, femme et enfant de Faur'n. Toutefois, les droits d'auteur m'interdisent de les raconter.~ [VOLOO07]
 // Fin sons
 // Translation Retriever: perfect match found in file dialog ToB En.tra at Id 8754
 @501   = ~Xvart~
@@ -1038,19 +1038,19 @@ Quand elle regarde dans ce miroir, <CHARNAME> paraît plus belle qu'elle n'est~
 // Translation Retriever: perfect match found in file dialog ToB En.tra at Id 43966
 @533   = ~Elhan~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@534   = ~ Vous verrez que les elfes ne sont pas des cibles faciles !~ [ELHAN103]
-@535   = ~ Goûtez à l'acier elfe !~ [ELHAN104]
+@534   = ~Vous verrez que les elfes ne sont pas des cibles faciles !~ [ELHAN103]
+@535   = ~Goûtez à l'acier elfe !~ [ELHAN104]
 @536   = ~~ [ELHAN105]
 @537   = ~~ [ELHAN106]
-@538   = ~ Beaucoup reste à faire.~ [ELHAN101]
+@538   = ~Beaucoup reste à faire.~ [ELHAN101]
 // Fin sons
 @539   = ~Reine Ellesime~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@540   = ~ Au nom de la Seldarine, arrêtez-vous !~ [ELLESI03]
-@541   = ~ Votre règne de terreur s'arrête ici !~ [ELLESI04]
+@540   = ~Au nom de la Seldarine, arrêtez-vous !~ [ELLESI03]
+@541   = ~Votre règne de terreur s'arrête ici !~ [ELLESI04]
 @542   = ~~ [ELLESI05]
 @543   = ~~ [ELLESI06]
-@544   = ~ Je vous salue au nom de Suldanessalar.~ [ELLESI01]
+@544   = ~Je vous salue au nom de Suldanessalar.~ [ELLESI01]
 // Fin sons
 // Translation Retriever: perfect match found in file dialog ToB En.tra at Id 8454
 @545   = ~Dragon d'argent~
@@ -1058,11 +1058,11 @@ Quand elle regarde dans ce miroir, <CHARNAME> paraît plus belle qu'elle n'est~
 @546   = ~Dragon rouge~
 @547   = ~Cautz'qu'ati'kan~
 // Ensemble de sons présents dans BG II, à conserver tel quel
-@548   = ~ C'est le moment de mourir, humanoïde !~ [FIRKRA03]
+@548   = ~C'est le moment de mourir, humanoïde !~ [FIRKRA03]
 @549   = ~~ [FIRKRA04]
 @550   = ~~ [FIRKRA05]
 @551   = ~~ [FIRKRA06]
-@552   = ~ Oh, pourquoi s'ennuyer avec ça...~ [FIRKRA01]
+@552   = ~Oh, pourquoi s'ennuyer avec ça...~ [FIRKRA01]
 // Deuxième dragon (hubby = époux/épouse)
 @553   = ~Epoux de Cautz'qu'ati'kan~
 @554   = ~~ [FIRKRA05]
@@ -1125,7 +1125,7 @@ Le 30 Marpenoth 1 367 : J'ai rencontré les dirigeants du Frisson et des Griffes
 
 Le 3 Uktar 1 367 : Un nouveau rêve cette nuit. Mère me parlait... Mais peu à peu son visage s'est mis à se congestionner et à perdre ses couleurs... Sa voix est devenue plus faible. Elle demandait que je la protège de Rieltar. Je voyais le garrot autour de son cou, mais je ne réagissais pas. Ce n'était qu'un rêve.
 
-Le 8 Uktar 1 367 : Aujourd'hui je suis retourné à notre quartier général nouvellement achevé à la Porte de Baldur et j'ai fait mon rapport à Rieltar. L'imbécile tient encore à m'appeler son fils, et je laisse faire pour l'instant. Il suppose que je lui suis loyal parce qu'il m'a élevé. Eh bien, loyal je suis, mais uniquement tant qu'il m'est utile. Il m'a effectivement placé aux commandes des opérations avec les mercenaires, tandis qu'il supervise les intrigues avec les doppelgangers et que Davaëorn surveille la situation minière. La démonstration du poison minéral était très impressionnante.
+Le 8 Uktar 1 367 : Aujourd'hui je suis retourné à notre quartier général nouvellement achevé à la Porte de Baldur et j'ai fait mon rapport à Rieltar. L'imbécile tient encore à m'appeler son fils, et je laisse faire pour l'instant. Il suppose que je lui suis loyal parce qu'il m'a élevé. Eh bien, loyal je suis, mais uniquement tant qu'il m'est utile. Il m'a effectivement placé aux commandes des opérations avec les mercenaires, tandis qu'il supervise les intrigues avec les doppelgängers et que Davaëorn surveille la situation minière. La démonstration du poison minéral était très impressionnante.
 
 Le 9 Uktar 1 367 : Winski a été lui-aussi bien occupé pendant mon absence et aujourd'hui il m'a donné l'emplacement proche d'une secte de Cyriquistes, qui ont pris l'habitude de rechercher tout ce qu'ils peuvent sur Bhaal, et en particulier sur son successeur. C'est tout à fait logique que Cyric soit très intéressé par la progéniture de son ennemi mort, se levant pour se réapproprier son héritage. Winski veut capturer un ou plusieurs de leurs chefs et leur soutirer leurs connaissances mais je dis que nous devrions viser plus haut et les interroger tous. Cela nécessite cependant plus de deux personnes, alors il va falloir que je commence à sélectionner des partisans avec prudence. Bien que je me rende parfaitement compte que mon ascendance doit rester un grand secret, en particulier pour Rieltar, il est temps que le Fils du Meurtre ait les acolytes qu'il mérite.
 
@@ -1168,7 +1168,7 @@ Le 9 Kythorn 1 368 : De retour à la Porte de Baldur, brièvement, pour la réun
 
 Le 12 Kythorn 1 368 : <CHARNAME> a finalement rejoint la Porte de Baldur et a tissé des liens très amicaux avec La Balafre, mais il n'a pas encore entrepris d'action directe contre le Trône de Fer. D'après le ton de sa lettre, Rieltar est à la limite de la panique, et s'attend à ce que des assassins sortent de son lit à tout instant. Il me presse de venir immédiatement en ville et fait part de sa volonté que je sois présent à un entretien important dans un endroit sûr. Quelque chose me dit que le lâche cherche toutes les excuses pour rester hors de portée de <CHARNAME>. Heureusement Tazok est désormais complètement rétabli et a de nouveau la force de se battre, alors il pourra reprendre ses anciennes responsabilités tandis que je retournerai à la ville pour reprendre les choses en main.
 
-Le 14 Kythorn 1 368 : Je connaissais depuis longtemps les tendances des plus pacifistes de Rieltar mais je ne me serais jamais attendu à ce qu'il organise vraiment un rendez-vous avec les Chevaliers de l'Ecu pour EMPÊCHER une guerre qui lui serait très profitable. Personne ne reprocherait à mon « père » mortel d'être un homme charmant, mais il peut certainement se montrer mielleux lorsque c'est nécessaire, alors il faut que j'intervienne. Mais le secret et la tromperie sont cruciaux à présent : si je veux que la Roue du Destin tourne librement sous mon contrôle, il me faudra être très rusé. Par conséquent j'ai informé Rieltar que la petite bande de mercenaires de <CHARNAME> a été exécutée et adroitement remplacée par une équipe de doppelgangers comme convenu. Par conséquent, quand ils feront soudainement irruption dans la réunion, sa réaction de panique ne fera que favoriser un résultat sanglant. Mais il y a trop en jeu pour laisser quoi que ce soit dans les mains de la chance : il faudra que les doppelgangers et moi soyons présents également, mais sous une fausse apparence. Je vais demander à mes acolytes de préparer quelque chose de convenable. Heureusement, la secte de Cyric a quelques vieux textes qui satisferont sans doute les exigences d'entrée à Château-Suif, et Winski et Semaj ont déjà recopié tout ce qui était pertinent.
+Le 14 Kythorn 1 368 : Je connaissais depuis longtemps les tendances des plus pacifistes de Rieltar mais je ne me serais jamais attendu à ce qu'il organise vraiment un rendez-vous avec les Chevaliers de l'Ecu pour EMPÊCHER une guerre qui lui serait très profitable. Personne ne reprocherait à mon « père » mortel d'être un homme charmant, mais il peut certainement se montrer mielleux lorsque c'est nécessaire, alors il faut que j'intervienne. Mais le secret et la tromperie sont cruciaux à présent : si je veux que la Roue du Destin tourne librement sous mon contrôle, il me faudra être très rusé. Par conséquent j'ai informé Rieltar que la petite bande de mercenaires de <CHARNAME> a été exécutée et adroitement remplacée par une équipe de doppelgängers comme convenu. Par conséquent, quand ils feront soudainement irruption dans la réunion, sa réaction de panique ne fera que favoriser un résultat sanglant. Mais il y a trop en jeu pour laisser quoi que ce soit dans les mains de la chance : il faudra que les doppelgängers et moi soyons présents également, mais sous une fausse apparence. Je vais demander à mes acolytes de préparer quelque chose de convenable. Heureusement, la secte de Cyric a quelques vieux textes qui satisferont sans doute les exigences d'entrée à Château-Suif, et Winski et Semaj ont déjà recopié tout ce qui était pertinent.
 
 Le 19 Kythorn 1 368 : J'ai à peine le temps d'écrire, mais je ne dois pas négliger mon journal pour autant. Les morts à venir doivent savoir comment le Seigneur du Meurtre vint à nouveau à eux. Peut-être devrais-je engager un scribe, quand le temps le permettra. En fin de compte, je n'ai même pas eu besoin de manoeuvrer pour qu'un des livres des Cyriquistes finisse entre les mains de <CHARNAME>, puisque le Duc Eltan a été plus que disposé à donner un de ses propres textes à mon petit bouc émissaire. Il y a quelques instants, j'ai vu <CHARNAME> pénétrer entre les murs de Château-Suif et je m'attends à ce que notre petit drame commence à tout moment. Mon soi-disant père, Rieltar, est dans les étages avec deux représentants des Chevaliers de l'Ecu. Comme je m'y attendais, il a bloqué toutes mes tentatives visant à intensifier les hostilités à la frontière. Vraiment désolé, « père », mais ma véritable parenté m'appelle et tu me bloques le passage. Au cas où la rencontre à venir ne tourne pas immédiatement au bain de sang, il faut que je pense à donner des instructions aux dopplegangers sur la manière exacte dont Rieltar doit mourir. Je pense qu'un garrot serait parfait pour cette tâche.
 
@@ -1249,8 +1249,8 @@ Inutilisable par :
 @732 = ~~ [EARTH03]
 @733 = ~~ [EARTH06]
 @734 = ~~ [EARTH07]
-@735 = ~ Au secours !~
-@736 = ~ Pitié ! Pitié !~
+@735 = ~Au secours !~
+@736 = ~Pitié ! Pitié !~
 // Sounds available in BGEE, without text
 @737 = ~[VAMPF 01]~ [VAMPF01]
 @738 = ~[VAMPF 02]~ [VAMPF02]

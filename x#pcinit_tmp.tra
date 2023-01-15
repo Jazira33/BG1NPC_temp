@@ -396,7 +396,7 @@ Mais si tu n'es point poltron,
 Avance et bats-toi sur l'heure !~
 @236 = ~*Elle vous gifle du plat de son épée, comme si vous étiez une mouche.*~
 @237 = ~*Shar-Teel se renfrogne encore plus. Vous jureriez qu'elle vous mordrait si vous insistiez.*~
-@238 = ~Bien sûr que si, mais à condition que tu te mettes à dire quelque chose d'utile, pour changer. Comme : 'A l'attaque !'~
+@238 = ~Bien sûr que si, mais à condition que tu te mettes à dire quelque chose d'utile, pour changer. Comme : « A l'attaque ! »~
 @239 = ~Si j'avais su que tu passais ton temps à taper la discute au lieu de te battre, je ne t'aurais jamais loué mes services.~
 @240 = ~Non.~
 @241 = ~Pourquoi ne tuer que ceux qui « s'opposent à nous » ? Arrête tes simagrées de noble héros, et trouve-nous un carnage sanglant.~ ~Pourquoi ne tuer que ceux qui « s'opposent à nous » ? Arrête tes simagrées de noble héroïne, et trouve-nous un carnage sanglant.~
@@ -531,7 +531,7 @@ Avance et bats-toi sur l'heure !~
 @370 = ~Tu en as essayé un ? Ha, qui aurait cru que quelqu'un trouverait douces la sueur et les larmes...~
 @371 = ~Comme Eldoth est doux envers Skie ? S'il y a une seule chose qui est douce chez ce serpent, <CHARNAME>, c'est son poison.~
 @372 = ~Trop de joie est un signe de folie.~
-@373 = ~Comme c'est juste ! Maintenant, je sais pourquoi ils disent tout le temps : 'encore plus amusant qu'une tombe, ou que Xan'...~
+@373 = ~Comme c'est juste ! Maintenant, je sais pourquoi ils disent tout le temps : « encore plus amusant qu'une tombe, ou que Xan »...~
 @374 = ~Les hommes sont le sexe faible, <CHARNAME>. Il n'y a rien de plus à ajouter.~
 @375 = ~Les hommes sont le sexe faible, <CHARNAME>. Et si l'un d'entre eux a la malchance de naître fort, et bien il finit avec un hamster en guise de cerveau.~
 @376 = ~Ah oui. Leurs pensées volent tellement haut qu'on ne les voit même plus...~
@@ -623,7 +623,7 @@ Avance et bats-toi sur l'heure !~
 @462 = ~*Shar-Teel ne s'éloigne pas de vous ; elle se tient droite dans votre étreinte, telle une statue. Néanmoins, vous pouvez sentir son coeur battre plus rapidement alors que vous la tenez dans vos bras.*~
 @463 = ~Dois-tu vraiment faire ça, mon petit amant ? *Vous ne sauriez dire avec certitude si Shar-Teel est vraiment irritée, ou si elle aime ça mais fait semblant d'être irritée.*~
 @464 = ~Je préfèrerais que tu réserves ces trucs de se toucher pour quand on est sous les draps. En ce moment, nous avons un carnage sur le feu, et nous n'avons pas de temps pour...~
-@465 = ~*Shar-Teel se dégage de vos bras et se détourne de vous. 'L'amour', ce mot qu'elle n'a pas dit, reste comme suspendu dans les airs entre vous, tel un drapeau un jour sans vent.*~
+@465 = ~*Shar-Teel se dégage de vos bras et se détourne de vous. « L'amour », ce mot qu'elle n'a pas dit, reste comme suspendu dans les airs entre vous, tel un drapeau un jour sans vent.*~
 @466 = ~*Shar-Teel vous tend une main crasseuse, un rictus confiant sur son visage.*~
 @467 = ~*Sa main est dure et calleuse. Cependant, vous n'arrivez qu'à peine à remarquer ce détail car Shar-Teel vous écrase la main d'une poigne puissante et assurée. La concentration qui se lit dans son regard n'est égalée que par votre détermination à ne pas perdre face à elle.*~
 @468 = ~*Vous posez votre coude sur une table et commencez le bras de fer. Vous y mettez toute votre force, ce qui ne vous empêche pas de remarquer combien les muscles impressionnants de Shar-Teel commencent à se dessiner sous sa peau.*~
@@ -1706,7 +1706,7 @@ Avance et bats-toi sur l'heure !~
 @1295 = ~Tu es bien curieux ; mais si je ne t'ennuie guère avec mes histoires, sache que la plus grande partie de notre commerce avec l'extérieur concerne la vente des cuirs et des fourrures, ainsi que les objets taillés des mains de nos artisans. Le jhuild, que l'on appelle « flammevin » dans cette région, est aussi un commerce assez lucratif pour les Rashémi. Il s'agit d'un alcool fort, si Tu n'étais pas déjà au courant.~ ~Tu es bien curieuse ; mais si je ne t'ennuie guère avec mes histoires, sache que la plus grande partie de notre commerce avec l'extérieur concerne la vente des cuirs et des fourrures, ainsi que les objets taillés des mains de nos artisans. Le jhuild, que l'on appelle « flammevin » dans cette région, est aussi un commerce assez lucratif pour les Rashémi. Il s'agit d'un alcool fort, si Tu n'étais pas déjà au courant.~
 @1296 = ~En Rashéménie, les troupeaux de chèvres et de rothés ne se comptent plus, et ma terre dispose d'énormes ressources de métal. Mais les marchands Rashémi font plutôt le commerce de grain, de bois et de tissus.~
 @1297 = ~Eh bien, peut-être seras-Tu intéressé de savoir qu'en Rashéménie, nous avons le sjorl, qui est un fromage fumé. Son goût me manque ; je n'ai rien goûté de tel en Ton pays.~ ~Eh bien, peut-être seras-Tu intéressée de savoir qu'en Rashéménie, nous avons le sjorl, qui est un fromage fumé. Son goût me manque ; je n'ai rien goûté de tel en Ton pays.~
-@1298 = ~J'ai entendu tantôt un conteur chanter la Rashéménie comme étant la 'Terre des Berserkers'. Et en effet, la force de nos guerriers se manifeste dans leur frénésie indomptable.~
+@1298 = ~J'ai entendu tantôt un conteur chanter la Rashéménie comme étant la « Terre des Berserkers ». Et en effet, la force de nos guerriers se manifeste dans leur frénésie indomptable.~
 @1299 = ~Tu n'es peut-être pas sans savoir qu'une guerre et une invasion a été déclenchée par un pays limitrophe au sud de la Rashéménie : Thay. Durant les seuls cent derniers hivers, nous avons repoussé pas moins de vingt incursions dans notre pays.~
 @1300 = ~Nous résistons face aux assauts de Thay. Le Pays Lointain, comme ils disent, ne se pliera jamais face à des étrangers, qu'ils viennent de Thay ou de Mulhorande.~
 @1301 = ~Nos seigneurs de guerre sont appelés Huhrongs, les Seigneurs de Fer. Ils dirigent nos armées à partir de leur quartier général, la place forte de la ville d'Immilmar. Les tours de guet du château-fort sont grandes, et celui qui sera choisi pour siéger au sommet de l'une d'entre elles doit être un homme de grande puissance.~
@@ -1988,7 +1988,7 @@ Avance et bats-toi sur l'heure !~
 @1544 = ~Pourrais-je... quoi, Dynahéir ?~
 @1545 = ~Bien entendu ! Excusez-moi d'être resté ici à bailler aux corneilles. *Vous allez chercher la botte et la rapportez à Dynahéir.*~
 @1546 = ~Je crois que je vais plutôt vous laisser apprendre votre leçon ; ne rejetez jamais l'aide que l'on vous l'offre.~
-@1547 = ~Oh... peut-être que si vous disiez le mot magique, 's'il vous plaît'...~
+@1547 = ~Oh... peut-être que si vous disiez le mot magique, « s'il vous plaît »...~
 @1548 = ~M'aider.~
 @1549 = ~*Dynahéir vous regarde du coin de l'oeil alors que vous allez récupérer sa botte.* C'est très galant de Ta part.~
 @1550 = ~*Vous vous agenouillez devant elle et lui remettez sa botte aussi lentement que possible.*~
@@ -2179,7 +2179,7 @@ Avance et bats-toi sur l'heure !~
 @1721 = ~Tu accordes bien trop de pouvoir à ces mots. Mes actions sont plus démonstratives de mes allégeances et de ma loyauté.~
 @1722 = ~Par les Trois, enfin quelqu'un en ces lieux qui ne trouve pas que je parle d'une manière étrange ! C'est... c'est agréable.~
 @1723 = ~N'en es-Tu point sûr ?~
-@1724 = ~Non, non. C'est juste que, parfois, ça semble... euh... étrange. J'aimerais que vous vous adressiez à moi avec un simple 'vous'.~
+@1724 = ~Non, non. C'est juste que, parfois, ça semble... euh... étrange. J'aimerais que vous vous adressiez à moi avec un simple « vous ».~
 @1725 = ~Il était un barde qui s'était une fois demandé :
 
 'Pourquoi sommes-nous passés de vous à Tu ?
@@ -2406,7 +2406,7 @@ Mais ce qui compte vraiment est ce que l'on a perdu...~
 @1895  = ~Les villes sont la pire offense faite à la nature. Nous devrions brûler la Porte de Baldur, <CHARNAME>, c'est ce à quoi je suis en train de penser...~
 @1896  = ~J'ai des choses plus importantes en tête en ce moment. A moins que tu ne sois maintenant d'accord pour aller tuer ces fermiers ?~
 @1897  = ~Chaque humain a une bête en lui. Dans ton cas, c'est une pie.~
-@1898  = ~Dans la langue de mon peuple, il signifie 'donné par le corbeau'. C'est comme cela qu'ils m'ont appelée quand ils m'ont offerte aux druides, et c'est souvent comme ça qu'on m'appelait dans le bosquet.~
+@1898  = ~Dans la langue de mon peuple, il signifie « donné par le corbeau ». C'est comme cela qu'ils m'ont appelée quand ils m'ont offerte aux druides, et c'est souvent comme ça qu'on m'appelait dans le bosquet.~
 @1899  = ~Souvent ? Pas toujours ?~
 @1900  = ~Ah, ça te va très bien.~
 @1901  = ~Quel est donc ton véritable nom alors ? Le connais-tu ?~
@@ -2788,7 +2788,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2164 = ~Nous rencontrons beaucoup de gens dans le besoin, mais je pense que si nous ne tordons pas rapidement le cou au Trône de Fer, ils seront davantage à souffrir des conséquences de cette folie. Concentrons nos efforts sur la recherche des coupables et la perturbation de leurs plans.~
 @2165 = ~Lle naa belegohtar - vous êtes un puissant guerrier.~
 @2166 = ~Cormlle naa tanya tel'raa - vous avez un coeur de lion.~
-@2167 = ~Il y a un salut ancien : Elen sila lumenn omentilmo. On peut le traduire approximativement par 'Une étoile brillera sur l'heure de notre rencontre.'~
+@2167 = ~Il y a un salut ancien : Elen sila lumenn omentilmo. On peut le traduire approximativement par « Une étoile brillera sur l'heure de notre rencontre ».~
 @2168 = ~Mellonamin, si vous voulez discuter en Elfique afin de pratiquer les leçons que vous avez pu recevoir à Château-Suif, allons-y, mais je ne vois pas l'intérêt de prononcer quelques mots dans ma langue uniquement pour vous distraire.~
 @2169 = ~Cuamin linduva yassen megrille - mon arc chantera avec votre épée.~
 @2170 = ~I'narr en gothrim glinuva nuin I'anor ! Je crois que le cri de bataille du Cormanthir est approprié aujourd'hui : "Les os de nos ennemis reluiront au soleil".~
@@ -3159,7 +3159,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2409 = ~Qu'importe, je les donnerai à quelqu'un d'autre. Hé, toi ! Ah non, c'était juste une ombre. Pas grave. Hé toi !~
 @2410 = ~Je te demande de rester poli ! Vraiment, tu m'as insulté tant de fois que c'est miraculeux que je sois encore avec toi !~
 @2411 = ~Non, <CHARNAME>, certainement pas. Tu apprendras à les apprécier.~
-@2412 = ~Ne te décourage pas ! Écoute juste un peu mieux et tu arrêteras de les considérer 'inutiles'.~
+@2412 = ~Ne te décourage pas ! Écoute juste un peu mieux et tu arrêteras de les considérer « inutiles ».~
 @2413 = ~Qu'est-ce que tu viens de dire ? Quelque chose de stupide, certainement.~
 @2414 = ~Inutiles ? Est-ce une métaphore signifiant « de qualité largement supérieure » ?~
 @2415 = ~*Quayle fait le fier.*~
@@ -3845,7 +3845,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2968 = ~Non. Ta mère n'approuverait pas.~
 @2969 = ~Non. Nous ne devons pas ennuyer Moman, n'est-ce pas ?~
 @2970 = ~Berk ! Ne soyez pas dégoûtant, <CHARNAME> ! Des cygnes en chocolat - ou des sylphes - feront bien l'affaire.~ ~Berk ! Ne soyez pas dégoûtante, <CHARNAME> ! Des cygnes en chocolat - ou des sylphes - feront bien l'affaire.~
-@2971 = ~Pas pour le 'dîner', certainement ! Mais en dessert... Des plaisirs aussi puérils sont étonnamment... réjouissants.~
+@2971 = ~Pas pour le « dîner », certainement ! Mais en dessert... Des plaisirs aussi puérils sont étonnamment... réjouissants.~
 @2972 = ~Oui, eh bien le plaisir *est* supposé être réjouissant, après tout.~
 @2973 = ~Voilà que *je* suis puéril, maintenant ? Tu me laisses quelquefois perplexe, Xzar.~ ~Voilà que *je* suis puérile, maintenant ? Tu me laisses quelquefois perplexe, Xzar.~
 @2974 = ~En fait, j'étais en train de réfléchir aux moyens de doubler ton plaisir en y mêlant les ingrédients reposant sur cette fameuse table de nuit.~
@@ -3978,7 +3978,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @3059 = ~C't'un chemin dangereux que vous suivez. Je vous le dis, si vous avancez avec prudence, et que vous ne faites pas le mal, j'vous aiderai et Clangeddin aussi. Si non... *soupire* je prierai pour vous, au moins.~
 @3060 = ~Donnez-moi un moment alors. C'est quelque chose que j'dois faire seul.~
 @3061 = ~Oui, c'est une demande raisonnable. J'prierai pour vous tous.~
-@3062 = ~ Quand on s'arrêtera pour la nuit, j'le ferai. C'est pas prudent de faire ça ici.~
+@3062 = ~Quand on s'arrêtera pour la nuit, j'le ferai. C'est pas prudent de faire ça ici.~
 @3063 = ~J'ai été en prison pendant trop longtemps. Je ne sais rien de ce qui peut se passer à la surface. Tout ce que je peux vous dire, c'est que, quelles que soient les manigances du Trône de Fer, ce ne sera pas bon, pas bon du tout.~
 @3064 = ~Ouais, ça m'peine de voir les mines ruinées. Les miens sont tous morts, mais il fut un temps, <PRO_GIRLBOY>, où les Mines de Bois-Manteau des Orothiars étaient un succès. J'y ai moi-même été un apprenti forgeron jusqu'à ma soixante-dixième année. Oui... nous avons même combattu les wivernes qui nichaient à Bois-Manteau, et ma valeur a été remarquée par Torgrim, le prêtre Alaghor. Il m'a pris comme acolyte, et j'ai enseigné le dogme de Clangeddin depuis que j'ai remplacé Torgrim à son décès.~
 @3065 = ~Mais tout a été submergé par un mauvais coup du destin. J'ai moi-même consacré la mine pour qu'elle serve de sépulture permanente aux miens, la laissant comme monument à la mémoire de ma famille. Une poignée d'entre eux avait survécu à l'époque, mais une poignée c'est pas un clan. Je me suis assez bien débrouillé en Sembie par la suite, si ce n'est que je me suis fait embobiner par le Trône de Fer.~
@@ -4103,7 +4103,7 @@ Mais tu es la plus belle que j'ai vue.~
 @3139 = ~Et quelque chose d'autre... A quoi étais-je en train de penser ? Quelque chose d'importance mineure mais à surveiller, si tu n'as pas de chance... Ah oui ! Les pièges.~
 @3140 = ~Cours ! Nous réfléchirons plus tard... ou jamais.~
 @3141 = ~Cette douce vieille bique de Phlydia m'a demandé de lui rapporter un livre, laissé près d'une vache. Je me suis surpris à ruminer en me demandant quelle était la plus belle femme des deux. Donc, mon plan d'action préféré est de gagner un endroit plus animé aussi tôt que possible.~
-@3142 = ~Nous pourrions nous installer ici pour l'après-midi afin de lire les appendices de 'L'Histoire de la Pièce Fatidique', à l'ombre d'un pommier en fleur, avec trois représentants de la population locale choisis au hasard - ou probablement pas, ils s'avèreraient être les anciens sages et experts des appendices de la 'Pièce Fatidique'.~
+@3142 = ~Nous pourrions nous installer ici pour l'après-midi afin de lire les appendices de « L'Histoire de la Pièce Fatidique », à l'ombre d'un pommier en fleur, avec trois représentants de la population locale choisis au hasard - ou probablement pas, ils s'avèreraient être les anciens sages et experts des appendices de la « Pièce Fatidique ».~
 @3143 = ~Ou bien nous pourrions nous tirer d'ici, par les Enfers !~
 @3144 = ~Cet endroit représente la mort pour l'esprit d'un homme : si calme, et la jeune fille de plus belle apparence est un dessin plutôt vulgaire dans les latrines de Winthrop.~
 @3145 = ~Bon sang, dis-moi, comment as-tu pu vivre ici pendant toutes ces années ?~
@@ -4421,7 +4421,7 @@ Vagues et cascade de soie de Shuan.~
 @3451 = ~*Coran dit doucement* Je ne mords pas les femmes... sauf pour leur plaire.~
 @3452 = ~*Coran frotte sa joue contre votre front.*~
 @3453 = ~*Coran tourne légèrement la tête, de manière à ce que ses lèvres touchent votre peau.*~
-@3454 = ~*La main de Coran caresse doucement votre visage.*~ 
+@3454 = ~*La main de Coran caresse doucement votre visage.*~
 //
 // Edwin
 //
@@ -4545,7 +4545,7 @@ Vagues et cascade de soie de Shuan.~
 @3532 = ~Je n'ai pas de temps à perdre avec ta stupidité ! Arrête ça, ou affronte le courroux d'un Mage Rouge de Thay !~
 @3533 = ~Alora ? Hé bien, sa présence dans ce groupe est presque supportable, comparée à celle de certains *autres* membres. Je pense que tu sais de qui je parle ?~
 @3534 = ~Alora est une jolie fille, pleine de vivacité. J'espère que tu ne vas pas me priver... ah, nous priver de ses talents de voleuse suffisamment utiles ? (Oui, ses talents de voleuse. C'était tout ce que j'avais à l'esprit. Oui.)~
-@3535 = ~(Je viens d'entendre les mots 'mascotte halfeling'. A-t-il réellement dit ça tout bas, ou n'est-ce que le produit de mon imagination ? Peu importe, si cela continue, je vais devoir prendre des mesures. Fatales, de préférence.)~ ~(Je viens d'entendre les mots 'mascotte halfeling'. A-t-elle réellement dit ça tout bas, ou n'est-ce que le produit de mon imagination ? Peu importe, si cela continue, je vais devoir prendre des mesures. Fatales, de préférence.)~
+@3535 = ~(Je viens d'entendre les mots « mascotte halfeling ». A-t-il réellement dit ça tout bas, ou n'est-ce que le produit de mon imagination ? Peu importe, si cela continue, je vais devoir prendre des mesures. Fatales, de préférence.)~ ~(Je viens d'entendre les mots « mascotte halfeling ». A-t-elle réellement dit ça tout bas, ou n'est-ce que le produit de mon imagination ? Peu importe, si cela continue, je vais devoir prendre des mesures. Fatales, de préférence.)~
 @3536 = ~Ah... euh... peu importe.~
 @3537 = ~Je le fais pour ma propre élévation, et, par extension, pour la gloire de Thay.~
 @3538 = ~Tu ne peux pas me soutirer des informations ! (Comme s'ils avaient assez d'intelligence pour une telle tâche !)~
@@ -4654,7 +4654,7 @@ Vagues et cascade de soie de Shuan.~
 @3593 = ~Pas une suggestion, mais plutôt une requête. Si vous pouviez *simplement* mourir de manière particulièrement héroïque, mon oeuvre aurait beaucoup plus de succès.~
 @3594 = ~Hmm. « Si tu ne peux les battre, fais-t'en des alliés » a toujours été un adage plein de sens pour moi. Mais il est bien évidemment trop tard pour que nous l'appliquions.~
 @3595 = ~« À Eauprofonde, fais comme les Aquafondais ». J'ai bien peur que cela n'aide pas, mais je suis assez distrait par la pensée de tous les endroits où je préfèrerais être.~
-@3596 = ~Ne jouez jamais aux cartes avec quelqu'un qui s'appelle Doc. Ne mangez jamais dans un endroit qui s'appelle 'Chez Maman'. Et ne couchez jamais avec une fille qui a plus d'ennuis que vous.~
+@3596 = ~Ne jouez jamais aux cartes avec quelqu'un qui s'appelle Doc. Ne mangez jamais dans un endroit qui s'appelle « Chez Maman ». Et ne couchez jamais avec une fille qui a plus d'ennuis que vous.~
 @3597 = ~Si *vous* me demandez ça sérieusement, <CHARNAME>, je ne peux que suggérer que nous partions très loin pendant très longtemps pour effectuer des recherches et autres reconnaissances de terrain.~
 @3598 = ~*lorgne du côté de Skie* Endurez ce dont vous ne pouvez vous débarrasser... pour l'amour de vos rêves.~
 @3599 = ~*fait une oeillade à Skie* Oubliez l'Avenir ! Embrassez l'éternel Maintenant !~
@@ -4662,16 +4662,16 @@ Vagues et cascade de soie de Shuan.~
 //////////
 /*réponses à @3549 = ~Le moral des troupes devrait s'améliorer, barde. Auriez-vous quelque chant qui pourrait égayer l'atmosphère ?~*/
 //////////
-@3601 = ~Bien sûr. Vous préfèreriez un chant sur la mort des rois ? Ou sur la mort des princes ? Ou d'une belle princesse, peut-être ? Laissez-moi vous suggérer 'La Tragique Ballade de l'Aventurier Pompeux'...~ ~Bien sûr. Vous préfèreriez un chant sur la mort des rois ? Ou sur la mort des princes ? Ou d'une belle princesse, peut-être ? Laissez-moi vous suggérer 'La Tragique Ballade de l'Aventurière Pompeuse'...~
+@3601 = ~Bien sûr. Vous préfèreriez un chant sur la mort des rois ? Ou sur la mort des princes ? Ou d'une belle princesse, peut-être ? Laissez-moi vous suggérer « La Tragique Ballade de l'Aventurier Pompeux »...~ ~Bien sûr. Vous préfèreriez un chant sur la mort des rois ? Ou sur la mort des princes ? Ou d'une belle princesse, peut-être ? Laissez-moi vous suggérer « La Tragique Ballade de l'Aventurière Pompeuse »...~
 @3602 = ~Eh bien, j'en ai bien un qui s'appelle « Le Temps n'Attend pour Personne »... Mais je pense qu'elle convient *un peu trop* à la situation.~
-@3603 = ~Voyons voir... « L'Éducation Paysanne » est un peu didactique, mais elle peut peut-être aider. Quoi que 'La Duperie du Rustaud' porte sur le même thème. En plus crûment, évidemment.~
+@3603 = ~Voyons voir... « L'Éducation Paysanne » est un peu didactique, mais elle peut peut-être aider. Quoi que « La Duperie du Rustaud » porte sur le même thème. En plus crûment, évidemment.~
 @3604 = ~Hmm. Il y a « Noyé dans l'Océan du Destin », « Écrasé sous la Roue », « Perdu et Sans Espoir ». Non. Je ne connais aucun chant qui permette d'égayer l'atmosphère.~
 @3605 = ~Ah, « Un Cœur d'Or à Vendre » peut enflammer l'imagination, ne pensez-vous pas ?~
 @3606 = ~*lance une oeillade à Skie* « Le Trépas du Soupirant Délaissé » est le seul chant que je pourrais chanter avec conviction en ce moment.~
 @3607 = ~Je n'ai pas fini de le composer, mais « Allez en Enfer avec Votre Sottise et Votre Suffisance » conviendra on ne peut mieux.~
 @3608 = ~Il y a toujours « Complainte pour un Père » - si toutefois vous voulez un instant d'ironie sur votre situation.~
-@3609 = ~Hmm. Il y aurait bien 'Les Damnés de la Crypte de Musgrave'. Ca pourrait être suffisamment joyeux, du moins comparé à notre situation actuelle, pour vous plaire.~
-@3610 = ~J'aurais bien une très *vieille* chanson populaire... 'Brute Hirsute'... Mais je ne me souviens pas vraiment des paroles.~
+@3609 = ~Hmm. Il y aurait bien « Les Damnés de la Crypte de Musgrave ». Ca pourrait être suffisamment joyeux, du moins comparé à notre situation actuelle, pour vous plaire.~
+@3610 = ~J'aurais bien une très *vieille* chanson populaire... « Brute Hirsute »... Mais je ne me souviens pas vraiment des paroles.~
 //////////
 /*réponse à @3543 à @3548, le personnage a échoué*/
 //////////
@@ -5162,7 +5162,7 @@ Vagues et cascade de soie de Shuan.~
 @3915 = ~Eliminons ces bandits. Ces criminels ne seront plus longtemps une menace pour les voyageurs !~
 @3916 = ~Nous sommes sur le point de détruire le camp des bandits. Nous devons faire en sorte que leur présence n'infecte plus longtemps ces contrées !~
 @3917 = ~Voyons si les bandits sont derrière tous ces événements maléfiques et libérons la Côte des Epées de leur présence malveillante !~
-@3918 = ~Trouvons ce Davaeorn dont parlent les notes. Il doit être quelque part !~
+@3918 = ~Trouvons ce Davaëorn dont parlent les notes. Il doit être quelque part !~
 @3919 = ~Continuons à fouiller Bois-Manteau pour en débusquer ses habitants maléfiques. Leur quartier général doit se trouver quelque part par ici !~
 @3920 = ~A présent nous verrons qui est derrière toutes ces activités de banditisme ! Allons-y et combattons le mal que nous trouvons !~
 @3921 = ~Nous n'avons pas d'autre choix sinon de rechercher notre adversaire à la Porte de Baldur. Suivons la piste infime que nous avons.~

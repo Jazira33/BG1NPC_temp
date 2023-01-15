@@ -65,7 +65,7 @@
 @28 = ~Non ! NON ! Pas cet espèce de lâche qui n'arrête pas de geindre ! Je te jure que j'ai entendu les murs trembler pendant notre bataille, tellement il était terrifié. Et cette voix ! Xan ressemble à un loup gémissant qui aurait attrapé la grippe !~
 
 //réaction à l'arrivée de Yeslick dans le groupe
-@29 = ~Ce Yeslick, qu'est-ce qu'il a... Il te rappelle ton arrière-arrière-arrière-grand-père, c'est ça ? <CHARNAME>, puis-je te rappeler que nous sommes ici pour 'l'aventure', et pas pour surveiller un vieux nabot sénile ?~
+@29 = ~Ce Yeslick, qu'est-ce qu'il a... Il te rappelle ton arrière-arrière-arrière-grand-père, c'est ça ? <CHARNAME>, puis-je te rappeler que nous sommes ici pour « l'aventure », et pas pour surveiller un vieux nabot sénile ?~
 
 //réaction à l'arrivée d'Eldoth dans le groupe
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 387, probablement inutile de traduire ici !
@@ -268,7 +268,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 201, probablement inutile de traduire ici !
 @112 = ~Enfin ! Vous deux, vous aimez bien trop palabrer. Par les dieux, qu'est-ce que j'aime les bains de sang !~
 
-//rencontre avec Davaeorn
+// rencontre avec Davaëorn
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 211, probablement inutile de traduire ici !
 @113 = ~Comme on dit :
 Magicien de bon matin,

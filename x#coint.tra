@@ -211,7 +211,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 202, probablement inutile de traduire ici !
 @91 = ~Je déteste tuer de jolies dames, particulièrement quand elles ont une étincelle en elles.~
 
-//Davaeorn
+// Davaëorn
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 210, probablement inutile de traduire ici !
 @92 = ~Quelqu'un a parlé de richesses ? Rien n'est plus doux que le butin honnêtement gagné en tuant des bâtards !~
 
@@ -256,7 +256,7 @@
 
 //Shistal (4e étage de la bibliothèque, doppleganger)
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 234, probablement inutile de traduire ici !
-@112 = ~Autrefois je jalousais les doppelgangers, durant le carnaval. Les femmes semblaient toujours me reconnaître, en dépit de mes déguisements.~
+@112 = ~Autrefois je jalousais les doppelgängers, durant le carnaval. Les femmes semblaient toujours me reconnaître, en dépit de mes déguisements.~
 
 //entrée à BG
 @113 = ~Ah, j'aime cette cité !~
