@@ -55,13 +55,13 @@ Drizzt le Rôdeur a trouvé une page du journal de Dynahéir. Il pense que le re
 @39 = ~Des gnolls ! Minsc déteste les gnolls ! Pas vrai, Bouh ? Ce sont eux qui ont pris Dynahéir !~
 @40 = ~Doucement, Minsc. <CHARNAME>, si Tu le veux bien, permets-moi d'avoir une petite discussion avec ces gnolls.~
 @41 = ~Ecoutez-moi attentivement. Vous, les gnolls, je suis un héros, et je vais tous vous tuer !~
-@42 = ~L'Ancien... Ce ne sont pas les magiciens hommes Rashémi que l'on appelle les Anciens ?~
+@42 = ~L'Ancien... Ce ne sont pas les magiciens hommes rashémis que l'on appelle les Anciens ?~
 @43 = ~Très bien, Dynahéir. Mais un seul geste agressif de leur part et je les tranche en deux sur le champ.~
 @44 = ~"Ancien" ? Qui est cet "Ancien" dont vous parlez ?~
 @45 = ~Dynahéir, laissez-moi m'occuper de ça. Ces créatures maléfiques doivent être tuées à vue. Nous pourrons fouiller leurs corps pour retrouver votre journal plus tard.~
-@46 = ~En effet, <CHARNAME>, un magicien Rashémi est appelé Vremyonni, l'Ancien. Mais je ne comprends pas pourquoi quelqu'un de mon pays orchestrerait ma chute. Soit il s'agit d'un renégat, soit son titre est une coïncidence.~
+@46 = ~En effet, <CHARNAME>, un magicien rashémi est appelé Vremyonni, l'Ancien. Mais je ne comprends pas pourquoi quelqu'un de mon pays orchestrerait ma chute. Soit il s'agit d'un renégat, soit son titre est une coïncidence.~
 @47 = ~On dirait. Bon, qu'est-ce qu'il veut, le Vieux ? Il veut vous parler, ou vous tuer ?~
-@48 = ~Je propose que nous tuions ces gnolls et que nous nous occupions des magiciens puissants, Rashémi ou non, lorsque nous les aurons en face de nous.~
+@48 = ~Je propose que nous tuions ces gnolls et que nous nous occupions des magiciens puissants, rashémis ou non, lorsque nous les aurons en face de nous.~
 @49 = ~Ou alors, vos Othlors ont décidé que votre association avec un enfant de Bhaal était un crime.~
 @50 = ~Non... Les Othlors sont sages. Elles n'utiliseraient pas les gnolls pour me ramener à elle... ou pour Te ramener à elles. Il se pourrait que le gnoll sache ce qui nous attend. Dis-moi, mon bon gnoll, qui est cet Ancien, et que me veut-il ?~
 @51 = ~L'Ancien est un sorcier de grand pouvoir. Il veut la sorcière. Je n'en sais pas plus.~
@@ -75,7 +75,7 @@ Drizzt le Rôdeur a trouvé une page du journal de Dynahéir. Il pense que le re
 @59 = ~Le livre de la sorcière nous a montré que tuer, c'est mal !~
 @60 = ~Hum... et bien, je suppose que je dois vous remercier, gnoll. Et sauriez-vous où nous pourrons trouver le journal de Dynahéir ? Est-ce que c'est l'Ancien qui l'a ?~
 @61 = ~Bon, Dynahéir, c'est vous qui décidez. Qu'est-ce qu'on fait maintenant ?~
-@62 = ~L'Ancien ? C'est étrange, <CHARNAME>. Les magiciens hommes Rashémi sont appelés les Vremyonnis, les Anciens...~
+@62 = ~L'Ancien ? C'est étrange, <CHARNAME>. Les magiciens hommes rashémis sont appelés les Vremyonnis, les Anciens...~
 @63 = ~Ils veulent peut-être me parler, ou Te parler... mais non.~
 @64 = ~Ca ne serait pas la première fois que je verrais des gens se retourner contre moi.~
 @65 = ~Vous ne pensez pas que ces créatures maléfiques vous veulent du mal ?~
@@ -99,7 +99,7 @@ Drizzt le Rôdeur a trouvé une page du journal de Dynahéir. Il pense que le re
 
 //Charname retrouve le journal de Dynahéir. Minsc et Edwin peuvent intervenir.
 @83 = ~C'est mon journal ! Je Te remercie, <CHARNAME>. Il y avait un parchemin bien caché entre les pages. Il est à Toi.~
-@84 = ~<CHARNAME>, j'espère que tu te doutes que je ne peux pas laisser me passer sous le nez le journal d'une sorcière Rashémi. La sécurité de Thay pourrait dépendre de ce que je pourrais y trouver. Donne-le moi, macaque, et je te récompenserai.~
+@84 = ~<CHARNAME>, j'espère que tu te doutes que je ne peux pas laisser me passer sous le nez le journal d'une sorcière rashémie. La sécurité de Thay pourrait dépendre de ce que je pourrais y trouver. Donne-le moi, macaque, et je te récompenserai.~
 @85 = ~Edwin, je ne trahirai pas la confiance de Dynahéir ! En plus, je lui ai déjà donné le journal.~
 @86 = ~Tu devras la tuer pour obtenir son journal, Thayen. Tout seul.~
 @87 = ~Je veux bien lui demander de te prêter son journal au nom de la paix entre les nations de Thay et de Rashéménie.~
@@ -165,7 +165,7 @@ Drizzt le Rôdeur a trouvé une page du journal de Dynahéir. Il pense que le re
 @135 = ~Et bien dans ce cas, tu l'accompagneras, berserker.~
 @136 = ~Et juste pour m'assurer que vous n'allez pas nous suivre, je vous présente mes jouets. Bon amusement avec ces créatures. HORS DE MON CHEMIN !~
 @137 = ~Ne me menace pas, magicien. Rien de bon ne pourra en résulter.~
-@138 = ~Oh, non... Encore un autre combat ! Allez avec lui, Dynahéir. Je refuse de me mêler à des affaires Rashémi, quelles qu'elles soient.~
+@138 = ~Oh, non... Encore un autre combat ! Allez avec lui, Dynahéir. Je refuse de me mêler à des affaires rashémies, quelles qu'elles soient.~
 @139 = ~*Vous vous interposez entre Dynahéir et Winski, l'air sinistre, mais résolu, l'arme au poing.* Est-ce que vous essayez de *me* voler ? Quelle idée ! Et bien, allez-y, l'ami. J'ai toujours aimé empaler des magiciens.~
 @140 = ~*Vous vous interposez entre Dynahéir et Winski, sourire aux lèvres et arme au poing.* Ca, c'est un air que j'aime entendre ! Vous faites encore un pas en sa direction, et je vous combattrai jusqu'à ce que mort s'en suive pour délivrer ma dame de vos griffes.~
 @141 = ~*Vous vous interposez entre Dynahéir et Winski tout en dégainant votre arme d'un air ferme.* La dame a dit qu'elle préférait rester avec moi. Reculez immédiatement, ou sinon je vous organise une rencontre avec mon épée. Et vous n'en reviendrez pas, faites-moi confiance.~
@@ -189,7 +189,7 @@ Drizzt le Rôdeur a trouvé une page du journal de Dynahéir. Il pense que le re
 @159 = ~Imbécile, vous êtes amoureux ? De la sorcière ? Les dieux prennent les abrutis en grâce !~
 @160 = ~Sur la tombe de mes ancêtres, je jure de vous ramener la Wychlaran Dynahéir saine et sauve. Les gnolls sous mes ordres ne lui ont pas touché un seul cheveu.~
 @161 = ~Je refuse de confier une amie à un homme qui complote avec des gnolls ! Dynahéir a raison, votre parole ne vaut rien ! Vous la voulez ? Il va falloir me passer sur le corps !~
-@162 = ~Vous venez de l'appeler Wychlaran encore une fois ? Ce ne sont pas là les manières de quelqu'un qui a du respect envers les sorcières Rashémi ! Si vous aviez été un vrai Vremyonni Rashémi, vous l'auriez appelée Hathran ! Vous êtes un imposteur, jamais je ne vous laisserai Dynahéir !~
+@162 = ~Vous venez de l'appeler Wychlaran encore une fois ? Ce ne sont pas là les manières de quelqu'un qui a du respect envers les sorcières rashémies ! Si vous aviez été un vrai Vremyonni rashémi, vous l'auriez appelée Hathran ! Vous êtes un imposteur, jamais je ne vous laisserai Dynahéir !~
 
 //Après avoir vaincu les créatures de Winski Perorate. Minsc, Edwin, Imoen et Kivan peuvent intervenir.
 @163 = ~Je ne suis pas sûre de me sentir soulagée que nous ayons repoussé les assauts de ce mage, <CHARNAME>.~
@@ -203,14 +203,14 @@ Drizzt le Rôdeur a trouvé une page du journal de Dynahéir. Il pense que le re
 @169 = ~Ainsi, tu es venue pour moi, sorcière. *Le rire amer qu'il laisse échapper laisse place à une toux frénétique.*~
 @170 = ~Je ne Te connais point, magicien. Je suis venue de Rashéménie pour retrouver l'enfant de Bhaal Sarevok, dont j'ai entendu parler jusqu'en Sembie... Et c'est ainsi que je me suis retrouvée à aider <CHARNAME> d'empêcher la guerre de Sarevok Anchev. Qui que Tu sois, Tu n'as jamais eu le moindre droit sur moi.~
 @171 = ~Arrête de mentir ! *replie ses bras sur sa poitrine* Les Othlors... les Hathrans... elles me recherchaient depuis que... depuis que j'ai fui la Rashéménie. Elles t'ont envoyées me tuer pour que je ne révèle pas leurs petits secrets. Elles ne devaient pas me tenir en haute estime pour m'avoir envoyée une simple Wychlaran...~
-@172 = ~Je Te le répète : ce n'est pas pourquoi je suis venue. Serais-Tu un exilé, un de ces Vremyonni qui ont choisi de partir, mais qui portent toujours la responsabilité de l'Art ?~
+@172 = ~Je Te le répète : ce n'est pas pourquoi je suis venue. Serais-Tu un exilé, un de ces Vremyonnis qui ont choisi de partir, mais qui portent toujours la responsabilité de l'Art ?~
 @173 = ~Jamais personne durant les quatre-vingts dernières années ne s'est comporté ainsi.~
-@174 = ~C'était plus... que ça pour moi. Je déteste les gens comme toi, et je déteste les Rashémi ! Faut-il être ainsi cruel pour... pour obliger un homme à étudier la Magie sous l'unique prétexte qu'il a un talent ? Est-ce juste qu'il doive devenir un exilé apatride s'il... s'il refuse cette responsabilité ? Tu ne me pourchassais pas, mais après tout... c'est quasiment la même chose.~
+@174 = ~C'était plus... que ça pour moi. Je déteste les gens comme toi, et je déteste les Rashémis ! Faut-il être ainsi cruel pour... pour obliger un homme à étudier la Magie sous l'unique prétexte qu'il a un talent ? Est-ce juste qu'il doive devenir un exilé apatride s'il... s'il refuse cette responsabilité ? Tu ne me pourchassais pas, mais après tout... c'est quasiment la même chose.~
 @175 = ~La Rashéménie m'a peut-être conduit aux ténèbres, mais je me suis vengé. J'ai été le mentor de Sarevok. Je lui ai appris les rituels les plus sombres. S'il réussit maintenant, je mourrai sans doute, mais mon nom, lui, vivra grâce à son ascension.~
 @176 = ~Si l'on meurt selon certaines conditions, certaines choses peuvent nous atteindre par-delà la mort. Après tout, pourquoi la postérité ne retiendrait-elle pas le nom de l'architecte qui a dicté ses actions au nouveau Seigneur du Meurtre ? Tu ne peux pas comprendre ; tu es né pour marquer les Royaumes de ton sceau. Le reste d'entre nous tous doit se tailler sa propre place par tous les moyens nécessaires.~
 @177 = ~Je laisserai les Trois Te juger pour le mal, quel qu'il soit, que Tu as causé à la Rashéménie... Ou alors, je laisserai les Othlors le faire. Prête-nous main forte dans notre quête, et elles pourraient éventuellement pardonner Tes crimes. Parle-moi de Ton maître, Sarevok, et nous Te soignerons.~
 @178 = ~Tu panserais mes blessures pour que l'on puisse me ramener en Rashéménie et me poursuivre pour allégeance à Bhaal ? Non...~
-@179 = ~De toute façon, tu ne pourrais me soigner... même si j'acceptais de me confronter... à cette parodie de justice que tu m'offres. J'ai allongé ma durée de vie par des moyens surnaturels, en utilisant la magie des Vremyonni... les soins ne peuvent pas ramener les années perdues... Je me meurs, sorcière. Avec toi pour seul témoin.~
+@179 = ~De toute façon, tu ne pourrais me soigner... même si j'acceptais de me confronter... à cette parodie de justice que tu m'offres. J'ai allongé ma durée de vie par des moyens surnaturels, en utilisant la magie des Vremyonnis... les soins ne peuvent pas ramener les années perdues... Je me meurs, sorcière. Avec toi pour seul témoin.~
 @180 = ~Ne souhaites-Tu pas partir en paix ? En aidant le Bien que Tu as renié toutes les années où Tu étais au service de Bhaal ?~
 @181 = ~Bhaal m'a abandonné, tout comme les Trois. Personne n'aime les traîtres. Ni toi, sorcière, ni tes compagnons. Je souhaite mourir en paix... en paix, sorcière, et pas en racontant tout ce que je sais de mon maître à ses ennemis. Je peux encore vous envoyer six pieds sous terre...~
 @182 = ~J'en appelle à ton pacte de sang, nabassu, tanar'ri. Par ton vrai nom, débarrasse-nous d'eux, "Aravaata" !~

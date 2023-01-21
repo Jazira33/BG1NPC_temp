@@ -26,8 +26,8 @@
 
 @13    = ~J'aimerais en savoir plus au sujet des paladins, Ajantis.~
 @14    = ~Hum... heureux de vous rendre service, madame. Tenez, je pense que la devise que l'un des nobles frères de mon ordre porte sur son bouclier décrit parfaitement un paladin. Écoutez-la, Faldorn : « inébranlable, incorruptible, inarrêtable ».~
-@15    = ~A mon avis, "malpoli, mal lavé, mal rasé" serait plus approprié ; ceci dit, tu es le seul paladin que je connaisse.~
-@16    = ~A mon avis, "malpoli, mal lavé, mal rasé" serait plus approprié ; ceci dit, <CHARNAME> et toi êtes les seuls paladins que je connaisse.~
+@15    = ~A mon avis, « malpoli, mal lavé, mal rasé » serait plus approprié ; ceci dit, tu es le seul paladin que je connaisse.~
+@16    = ~A mon avis, « malpoli, mal lavé, mal rasé » serait plus approprié ; ceci dit, <CHARNAME> et toi êtes les seuls paladins que je connaisse.~
 @17    = ~Vous êtes trop sévère, Faldorn ! Il est vrai qu'un juron peut parfois s'échapper de mes lèvres en plein coeur du combat, mais ce n'est que pour extérioriser ma rage devant le Mal auquel nous faisons face.~
 @18    = ~Laisser la bête en toi s'exprimer ! GROARRR !~
 @19    = ~C'est... quelque chose comme ça, oui.~
@@ -115,7 +115,7 @@
 // Faldorn - Dynaheir
 
 @79    = ~Dynahéir, est-ce que tu en sais beaucoup au sujet des prophéties et des choses comme ça ?~
-@80    = ~J'ai des connaissances en ce qui concerne les Rashémi, Faldorn.~
+@80    = ~J'ai des connaissances en ce qui concerne les Rashémis, Faldorn.~
 @81    = ~Bon je ferai avec, puisque tu as l'air d'en savoir plus que les autres. Je fus amenée au bosquet des druides le jour où l'un des plus célèbres d'entre eux, Kador du Cormyr, fit sa dernière apparition. Certains disent que ce fut aussi le jour de sa mort. Cela m'a fait réfléchir...~
 @82    = ~Penses-Tu avoir été le réceptacle de son esprit ?~
 @83    = ~Oui Dynahéir, c'est ce que j'ai pensé. Est-ce possible ?~
@@ -180,7 +180,7 @@
 @124   = ~On n'est pas dans une salle de bal, mauviette. Fais de plus grand pas !~
 @125   = ~Par le parchemin d'Oghma, ce crapaud parle ! Et de salles de bal, qui plus est !~
 @126   = ~Faldorn, quand avez-vous participé à un bal pour la dernière fois ?~
-@127   = ~Je n'ai jamais participé à une telle sottise, c'est bon pour des hommes dérangés, "civilisés" !~
+@127   = ~Je n'ai jamais participé à une telle sottise, c'est bon pour des hommes dérangés, « civilisés » !~
 @128   = ~Et elle en est fière ! Comme c'est amusant ! D'où vient votre savoir considérable au sujet des pas de danse, Faldorn ? De l'observation de fermiers ivres qui se pavanent dans une fête de village ?~
 @129   = ~Fermiers... Je déteste les fermiers ! Je n'ai jamais...~
 @130   = ~Si je puis me permettre, je suppose que vous n'avez jamais vu personne danser ? Oui, c'est ce que je pensais. Faldorn, j'ai beaucoup dansé, J'ai même eu le plaisir de danser aux bals organisés par Lord Piergeiron d'Eauprofonde en personne.~
@@ -440,7 +440,7 @@ Où trouver l'autre moitié...~
 @306   = ~L'Equilibre doit être restauré à tout prix.~
 @307   = ~Tu as l'air de vouloir cet "équilibre" à tout prix, druidesse. Je ne comprends pas. Pourquoi gaspiller tes efforts pour un objectif si inutile ?~
 @308   = ~L'harmonie ultime, Shar-Teel. Un monde où les terres sauvages ne seraient pas la proie des civilisations, un monde où chaque bête mènerait une vie pleine et entière, un monde guidé par la main de la Grande Mère.~
-@309   = ~*étouffe un bâillement* Tu as cet esprit guerrier en toi, Faldorn, mais tu me plairais beaucoup plus si tu ne gobais pas tout ce galimatias au sujet des idéaux et de l'"équilibre". Ne peux-tu donc pas tuer tes ennemis et te satisfaire du sang versé ?~
+@309   = ~*étouffe un bâillement* Tu as cet esprit guerrier en toi, Faldorn, mais tu me plairais beaucoup plus si tu ne gobais pas tout ce galimatias au sujet des idéaux et de l'« équilibre ». Ne peux-tu donc pas tuer tes ennemis et te satisfaire du sang versé ?~
 @310   = ~Ce *galimatias*, Shar-Teel, est la raison même pour laquelle je me bats ! Il passe avant tout le reste. Avant ces vertus dont les gens civilisés se vantent tant : miséricorde, pitié, honneur et autres. Avant la richesse et le savoir. Avant ma propre vie.~
 @311   = ~Tu places ton but au-dessus de la miséricorde et de la pitié ; cela me va très bien. Mais placer quoi que ce soit au dessus de toi-même est stupide. Peut-être un jour le comprendras-tu, et tu deviendras alors une véritable guerrière. En attendant, tu es esclave de tes propres "idéaux".~
 

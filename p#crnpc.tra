@@ -21,9 +21,9 @@
 @20   = ~*serre <CHARNAME> dans ses bras* Non, non, pas de soupirs en ma présence ! Dis, tu veux faire des roues ? Ça me tire toujours les hommes de l'esprit !~
 @21   = ~Voudriez-vous écouter ma dernière composition, <CHARNAME> ? Elle s'intitule "Premier Amour" et énumère, avec des exemples illustratifs, les diverses folies d'un engouement naïf.~
 @22   = ~D'accord, allez-y.~
-@23   = ~Non, contentez-vous de la mettre par écrit, et je pourrai l'empiler proprement dans la boîte où je garde déjà vos "Une Femme et la Nature Sauvage", "Le Coeur est Entente" et "Qui Puis-Je Croire dans ce Monde en Mouvement Constant..."~
+@23   = ~Non, contentez-vous de la mettre par écrit, et je pourrai l'empiler proprement dans la boîte où je garde déjà vos « Une Femme et la Nature Sauvage », « Le Coeur est Entente » et « Qui Puis-Je Croire dans ce Monde en Mouvement Constant »...~
 @24   = ~J'ai peur de ne pas être capable d'apprécier la beauté entière de votre composition, Eldoth. En général, les choses de cette nature sont les plus touchantes lorsqu'on se trouve dans le même état d'esprit que le héros lyrique. Malheureusement, l'auditrice qui ne partage par le sentiment du héros lyrique a tendance à glousser trop souvent ou à vomir sur le pied du barde jusque quand celui-ci atteint l'apogée de son éloquence...~
-@25   = ~Etes-vous certain que vous ne plagiez pas cette histoire rashémi sur une fille qui portait toujours ses vêtements froissés et... ah, peu importe, chantez votre chanson.~
+@25   = ~Êtes-vous certain que vous ne plagiez pas cette histoire rashémie sur une fille qui portait toujours ses vêtements froissés et... ah, peu importe, chantez votre chanson.~
 @26   = ~Une demoiselle aimant pour la première fois
 Visita une sorcière toute ridée
 "Si je succombe à l'amour, ah !
@@ -104,7 +104,7 @@ Quand on s'écrase comme une génisse.~
 @93   = ~Quoi ? Vous deux, vous faites équipe contre moi ? Seul un imbécile resterait pour faire face à de telles furies !~
 @94   = ~Est-ce que la petite <CHARNAME> a besoin d'aide ? La dernière fois que le méchant elfe a dit ça, elle a gémi de souffrance pendant un long moment.~
 @95   = ~*grogne* Oh, non !~
-@96   = ~Oh, peut-être que c'était Coran, alors. En fait, c'était "Oh, oui...", quelque chose du genre. Hum... Minsc est persuadé que la vaillante <CHARNAME> ne pourrait pas faire de mal à Coran.~
+@96   = ~Oh, peut-être que c'était Coran, alors. En fait, c'était « Oh, oui... », quelque chose du genre. Hum... Minsc est persuadé que la vaillante <CHARNAME> ne pourrait pas faire de mal à Coran.~
 @97   = ~Bouh ? Bouh, qu'est-ce que tu fais ? Ce n'est pas un derrière maléfique que tu mords, c'est le mien !~
 @98   = ~Si c'est le cas, c'était la douleur la plus douce du monde.~
 @99   = ~Qu'est-ce qui se passe ici ? Je vous ai laissés, les enfants, seuls pendant une minute et... Coran, je t'ai spécifiquement dit de mettre ta couche à l'autre bout du camp par rapport à <CHARNAME>.~
@@ -169,14 +169,14 @@ Quand on s'écrase comme une génisse.~
 @158  = ~Peu de temps, si je te coupe en deux. Ah-ah.~
 @159  = ~*jette un regard à Coran et sourit* Qui sait ?~
 @160  = ~Pfff ! La vie n'est que le stade larvaire de la mort et n'a pas besoin d'être comprise. Pas plus que la mort, en fait. Ce n'est rien d'autre que l'organisation bénéfique de gentilles Momans, partout dans le monde, en vue de notre amélioration et de notre amusement.~
-@161  = ~Hmm. Deux "moi" est un concept complexe, mais positif. Vas-y, alors.~
+@161  = ~Hmm. Deux « moi » est un concept complexe, mais positif. Vas-y, alors.~
 @162  = ~*Coran vous rend votre sourire.*~
 @163  = ~Euh... pourquoi perdons-nous notre temps à parler à un dément, ma douce ?~
 @164  = ~<CHARNAME>, je me disais justement : et si nous... Ki-kivan ? Bon, j'imagine que j'aurais dû réaliser qu'il y avait plus entre vous à la manière dont tu la regardais. Mais j'avais écarté cette possibilité... jusqu'à maintenant.~
 @165  = ~Ma douce, vous ne lui rendez pas service, en restant silencieuse vous aussi, vous savez ça ?~
 @166  = ~*Avec un soupir, vous relevez la tête de la poitrine de Kivan et la tournez de côté pour jeter un coup d'oeil à Coran* Tu es toujours là ?~
 @167  = ~Tu es subtil et séduisant, Coran. C'est juste que je choisirais Kivan plutôt que toi n'importe quel jour de la semaine et deux fois le dimanche.~
-@168  = ~Pour la dernière fois, je ne suis pas "votre douce". Et tu mènes un combat perdu d'avance, Coran. Non, pas perdu... Tu mènes un combat que d'autres, à savoir Kivan et moi, n'ont jamais mené. Je suis désolée si tu t'es mépris, mais j'ai été amicale avec toi, rien d'autre. Mon coeur n'appartient qu'à un seul homme : Kivan.~
+@168  = ~Pour la dernière fois, je ne suis pas « votre douce ». Et tu mènes un combat perdu d'avance, Coran. Non, pas perdu... Tu mènes un combat que d'autres, à savoir Kivan et moi, n'ont jamais mené. Je suis désolée si tu t'es mépris, mais j'ai été amicale avec toi, rien d'autre. Mon coeur n'appartient qu'à un seul homme : Kivan.~
 @169  = ~Kivan... Ecoutez-moi. Ce n'est pas que j'apprécie Coran. C'est le cas, mais ça n'a pas d'importance. C'est simplement que ce que j'ai fait était mal, depuis le début. Vous n'aimez que Déhériana... et je suis fatiguée de me mentir à moi-même. Et n'essayez même pas de me détromper. Je suis désolée que les choses se soient déroulées de cette manière, et j'espère que vous pourrez... me pardonner.~
 @170  = ~Je sais. Kivan. Je voulais juste... Cela s'est produit, simplement. Je n'ai pas pu m'empêcher de tomber amoureuse de Coran.~
 @171  = ~Vrai. Kivan, je m'ennuie. Je veux un amant souriant, du rire et de la joie dans ma vie...~
@@ -192,7 +192,7 @@ Quand on s'écrase comme une génisse.~
 @181  = ~Quel dommage.~
 @182  = ~Oh, je peux te parler des nombreuses dames qui m'ont aimé, mais j'ai peur qu'aucune d'entre elles ne soit morte... Es-tu certaine de le vouloir ?~
 @183  = ~Toi, nabot pervers ! Ecarte-toi de moi !~
-@184  = ~Je ne vais pas te donner la carte qui mène à mon coeur, Coran. Un conseil cependant. J'en ai entendu assez sur ces "autres femmes" pour me durer toute une vie.~
+@184  = ~Je ne vais pas te donner la carte qui mène à mon coeur, Coran. Un conseil cependant. J'en ai entendu assez sur ces « autres femmes » pour me durer toute une vie.~
 @185  = ~Hum... oui. Mais tu es un gars plein d'imagination, et les jérémiades ne sont pas ton fort. Alors surprends-moi avec une approche plus créative.~
 @186  = ~*Vous repoussez Coran.* Oh, mets ton ego, et tout le reste, au repos, elfe. Je suis fatiguée de vous deux. Les hommes ne sont bons qu'à deux choses de toute façon : coucher, quand ils ne prennent pas subitement les choses au sérieux, et tuer, mais pas nécessairement dans cet ordre.~
 @187  = ~Il n'y a rien à pardonner... *vous embrasse doucement* Puissiez-vous rencontrer quelqu'un qui vous plaît davantage.~
@@ -205,13 +205,13 @@ Quand on s'écrase comme une génisse.~
 @194  = ~*Quelque chose que vous n'avez jamais vu auparavant se produit : Kivan sourit. Oui, un vrai sourire : chaleureux, authentique, même un peu mutin, et ses yeux sombres brillent avec vivacité. Kivan se penche vers vous, vous embrasse doucement et profondément, glissant à nouveau ses mains sous votre chemise. Toute pensée concernant Coran quitte votre esprit.*~
 @195  = ~*Kivan ferme délicatement votre chemise et vous serre fermement contre sa poitrine. Ses doigts glissent, caressant, dans votre chevelure. Personne ne pourrait douter de ce que vous et Kivan étiez en train de faire.~
 @196  = ~Sesa'min, kela. S'il vous plaît, partez.~
-@197  = ~*avec la grimace moqueuse qui est si naturelle sur son visage* Ainsi tu "as" réchauffé son lit avant moi. Pas quelque chose que j'aurais imaginé, ça non, avec tous ces discours sur l'amour mort et les liens brisés. *Ses yeux sont sur vous, à présent* Mais je ne suis pas surpris, cependant, elle est plutôt... séduisante.~
+@197  = ~*avec la grimace moqueuse qui est si naturelle sur son visage* Ainsi tu « as » réchauffé son lit avant moi. Pas quelque chose que j'aurais imaginé, ça non, avec tous ces discours sur l'amour mort et les liens brisés. *Ses yeux sont sur vous, à présent* Mais je ne suis pas surpris, cependant, elle est plutôt... séduisante.~
 @198  = ~*Coran*. Je répondrai de mes manquements. Mais pas devant vous.~
 @199  = ~*Les yeux à nouveau sur Kivan* Ton seul manquement a été de ne rien me dire, Kivan...~
 @200  = ~Pourquoi ?~
 @201  = ~Je sais que tu n'es pas du genre causant, mais par Hanali, combien de temps encore comptais-tu rester silencieux ?! Jusqu'à ce que nous nous rencontrions sous ses draps ?~
 @202  = ~*calmement mais fermement* Je ne permettrai pas que vous disiez du mal de ma dame.~
-@203  = ~*soupire* Ta dame. Kivan, "ta" dame me sourit de manière très douce depuis un certain temps, maintenant. La pitié, mon ami, a gagné quelques coeurs, mais quand la pitié fait son lit, ce n'est jamais aussi doux ou accueillant que celui que font la passion et l'amour. Regarde les choses en face, Kivan, <CHARNAME> ne t'aime plus.~
+@203  = ~*soupire* Ta dame. Kivan, « ta » dame me sourit de manière très douce depuis un certain temps, maintenant. La pitié, mon ami, a gagné quelques coeurs, mais quand la pitié fait son lit, ce n'est jamais aussi doux ou accueillant que celui que font la passion et l'amour. Regarde les choses en face, Kivan, <CHARNAME> ne t'aime plus.~
 @204  = ~La promiscuité que tu imposes à <CHARNAME> ces derniers temps pourrait mener à un attachement romantique, Coran. Mon Ordre sourcille face à ces choses, car trop souvent ce sont les graines de passions funestes qui détruisent l'amour entre camarades, une chose essentielle au succès de tout groupe d'aventuriers.~
 @205  = ~*à bout de souffle* M'aimes-tu, Ajantis ?~
 @206  = ~Coran, permets-moi d'être honnête. J'aimerais avoir autour de moi davantage de personnes dignes de véritables liens d'amitié et d'amour, et malheur à toi si tu oses à nouveau interpréter mes paroles de manière frivole. Je trouve que tu fais un compagnon d'aventure insatisfaisant : non pas en prouesse au combat, mais en esprit et tempérament.~

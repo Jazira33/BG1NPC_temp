@@ -570,7 +570,7 @@ Avance et bats-toi sur l'heure !~
 @409 = ~Shar-Teel, tu viens de me faire découvrir une nouvelle forme d'art : ces traces de sang sur ton armure, elles sont uniques, et étrangement, elles me fascinent.~
 @410 = ~Parce que.~
 @411 = ~J'essayais juste de repérer les points faibles de ton armure, au cas où tu m'attaquerais encore une fois.~
-@412 = ~Oui, je vois. Tu peux y lire : "Salut à toi, Shar-Teel la Victorieuse !"~
+@412 = ~Oui, je vois. Tu peux y lire : « Salut à toi, Shar-Teel la Victorieuse ! »~
 @413 = ~De mon côté, je serai fascinée le jour où tu auras autant de décorations que moi.~
 @414 = ~Bien.~
 @415 = ~Tais-toi.~
@@ -616,7 +616,7 @@ Avance et bats-toi sur l'heure !~
 @455 = ~Je prends du butin ce que je veux quand je le veux ! Et comme ce stupide collier m'a attiré le regard, je clame sa propriété !~
 @456 = ~Quel anneau ? *Cependant, une lueur dans ses yeux vous murmure qu'elle se souvient parfaitement de quel anneau vous parlez.*~
 @457 = ~*Le corps entier de Shar-Teel se raidit dans vos bras. Lorsque vous la lâchez, elle semble passablement choquée, mais reprend très rapidement ses esprits... Toutefois, cela vous vaut quelques regards suspicieux dans votre direction peu après.*~
-@458 = ~*Shar-Teel semble avoir compris qu'il s'agissait d'une lutte à mains nues. Elle se saisit de vous, et vous tombez tous deux à terre, entremêlant vos deux corps dans une masse de bras et de jambes. Vous ne semblez pas être sensiblement dérangé de la tournure que prennent les évènements, mais Shar-Teel ne semble pas confortable à l'idée de voir son corps pressé contre le vôtre ; elle abandonne son emprise trop rapidement. Mais pas avant de s'être assurée d'avoir gagné, bien entendu.*~
+@458 = ~*Shar-Teel semble avoir compris qu'il s'agissait d'une lutte à mains nues. Elle se saisit de vous, et vous tombez tous deux à terre, entremêlant vos deux corps dans une masse de bras et de jambes. Vous ne semblez pas être sensiblement dérangé de la tournure que prennent les événements, mais Shar-Teel ne semble pas confortable à l'idée de voir son corps pressé contre le vôtre ; elle abandonne son emprise trop rapidement. Mais pas avant de s'être assurée d'avoir gagné, bien entendu.*~
 @459 = ~*Elle vous donne un coup de poing dans le nez.* Ah ! Tu m'as prise par surprise, <CHARNAME>. Respire bien profondément, et tu récupèreras bien vite. En tout cas, ça semblait marcher avec les autres hommes.~
 @460 = ~*Vous appréciez ce contact et cette proximité avec Shar-Teel, mais cette dernière n'est pas du tout du même avis. Alors que vous commencez à l'entourer de vos bras, elle se dégage de votre étreinte et vous repousse doucement.* Dans cette position, tu es plus vulnérable aux attaques, <CHARNAME>. Je te déconseille d'essayer ça trop souvent.~
 @461 = ~*Le corps entier de Shar-Teel se raidit dans vos bras pendant un moment, puis elle se détend et se repose sur vous.*~
@@ -887,7 +887,7 @@ Avance et bats-toi sur l'heure !~
 @684 = ~Je crois que je vais rester ici. L'écho de mes éternuements est *tellement* plaisant. Et le fait qu'il y ait *tant* de poussière pour les provoquer est absolument charmant.~
 @685 = ~Un gaspillage pitoyable d'efforts, égayé par un peu de divertissement. Un tout petit peu.~
 @686 = ~*petit rire* Si tu as à poser la question, chéri, je suis à peu près certaine que tu ne comprendras pas la réponse.~ ~*petit rire* Si tu as à poser la question, chérie, je suis à peu près certaine que tu ne comprendras pas la réponse.~
-@687 = ~Oh, les quêtes pour se "trouver soi-même" sont tellement cliché. C'était à la mode il y a quelques décennies, mon chéri...~ ~Oh, les quêtes pour se "trouver soi-même" sont tellement cliché. C'était à la mode il y a quelques décennies, ma chérie...~
+@687 = ~Oh, les quêtes pour se « trouver soi-même » sont tellement cliché. C'était à la mode il y a quelques décennies, mon chéri...~ ~Oh, les quêtes pour se "trouver soi-même" sont tellement cliché. C'était à la mode il y a quelques décennies, ma chérie...~
 @688 = ~J'ai vécu une aventure tout-à-fait merveilleuse. Mais *celle-ci* ne l'était pas.~
 @689 = ~Tu as beau être l'enfant d'un dieu, tu ne t'illustres guère.~
 @690 = ~Si tu avais été un peu plus prévoyant, je suis certaine que tu aurais pu nous égarer dans un endroit plus attrayant que celui-ci.~ ~Si tu avais été un peu plus prévoyante, je suis certaine que tu aurais pu nous égarer dans un endroit plus attrayant que celui-ci.~
@@ -1696,15 +1696,15 @@ Avance et bats-toi sur l'heure !~
 @1287 = ~Ta fascination est aussi la mienne, <CHARNAME>... *Elle trace amoureusement du doigt la côte dentelée qui relie Château-Suif à la Porte de Baldur.*~
 @1288 = ~*Elle vous sourit en retour* Nous pourrions presque être des enfants qui refont le monde, rêvant de visiter de lointaines contrées. *Elle redevient sérieuse.* Des enfants qui vivent le nez dans leurs livres, de loin dépassés par les vastes étendues du monde qu'ils mesurent pour la première fois. Mais tel n'est pas le cas...~
 @1289 = ~Non, en effet. Nous sommes allés dans ces lointaines contrées, et avons goûté aux aventures qu'elles nous promettaient.~
-@1290 = ~Je me souviens comment j'étais à cet âge... Je pouvais me perdre pendant des heures dans une carte, ou dans les chants des bardes. J'étais si excité à l'idée de vivre un vrai combat lorsque Jondalar m'a montré mes premières passes d'armes avec une épée en bois ! J'écoutais toujours très attentivement les étrangers qui venaient rendre visite à Gorion, essayant de reconstituer les intrigues et les évènements qu'il racontaient... Je vivais des aventures grandioses, lorsque je jouais, enfant, jurant que le seigneur démoniaque dont je suivais la trace ne vivrait pas plus longtemps, qu'à jamais j'aimerais mon âme soeur au coeur pur...~ ~Je me souviens comment j'étais à cet âge... Je pouvais me perdre pendant des heures dans une carte, ou dans les chants des bardes. J'étais si excitée à l'idée de vivre un vrai combat lorsque Jondalar m'a montré mes premières passes d'armes avec une épée en bois ! J'écoutais toujours très attentivement les étrangers qui venaient rendre visite à Gorion, essayant de reconstituer les intrigues et les évènements qu'il racontaient... Je vivais des aventures grandioses, lorsque je jouais, enfant, jurant que le seigneur démoniaque dont je suivais la trace ne vivrait pas plus longtemps, qu'à jamais j'aimerais mon âme soeur au coeur pur...~
+@1290 = ~Je me souviens comment j'étais à cet âge... Je pouvais me perdre pendant des heures dans une carte, ou dans les chants des bardes. J'étais si excité à l'idée de vivre un vrai combat lorsque Jondalar m'a montré mes premières passes d'armes avec une épée en bois ! J'écoutais toujours très attentivement les étrangers qui venaient rendre visite à Gorion, essayant de reconstituer les intrigues et les événements qu'il racontaient... Je vivais des aventures grandioses, lorsque je jouais, enfant, jurant que le seigneur démoniaque dont je suivais la trace ne vivrait pas plus longtemps, qu'à jamais j'aimerais mon âme soeur au coeur pur...~ ~Je me souviens comment j'étais à cet âge... Je pouvais me perdre pendant des heures dans une carte, ou dans les chants des bardes. J'étais si excitée à l'idée de vivre un vrai combat lorsque Jondalar m'a montré mes premières passes d'armes avec une épée en bois ! J'écoutais toujours très attentivement les étrangers qui venaient rendre visite à Gorion, essayant de reconstituer les intrigues et les événements qu'il racontaient... Je vivais des aventures grandioses, lorsque je jouais, enfant, jurant que le seigneur démoniaque dont je suivais la trace ne vivrait pas plus longtemps, qu'à jamais j'aimerais mon âme soeur au coeur pur...~
 @1291 = ~*Pensive, comme si elle récitait un poème qu'elle a aimé jadis, mais qu'elle a presque oublié depuis.* ... et elles avaient un goût doux-amer, telles les eaux vives de la Rivière des Larmes, telle une victoire chèrement gagnée, tel le baiser d'amants qui se séparent...~
 @1292 = ~Tes actes héroïques sont la preuve que Tu jouais aux bons jeux et lisait les bons livres, <CHARNAME>.~
 
 //réponses à @1232
 @1293 = ~Avec plaisir. La Rashéménie est le territoire connu des Royaumes le plus à l'est. Au-delà, il n'y a que d'immenses plaines verdoyantes, où vivent les nomades de la Horde Tuigane, et peut-être d'autres peuplades.~
-@1294 = ~Certainement. Mon peuple, les Rashémènes, que l'on nomme aussi Rashémi, sont généralement moins grands mais plus robustes que les humains peuplant Ta région. L'on trouve parmi nous bon nombre de bergers et d'artisans spécialisés dans la taille de pierres et de petits objets.~
-@1295 = ~Tu es bien curieux ; mais si je ne t'ennuie guère avec mes histoires, sache que la plus grande partie de notre commerce avec l'extérieur concerne la vente des cuirs et des fourrures, ainsi que les objets taillés des mains de nos artisans. Le jhuild, que l'on appelle « flammevin » dans cette région, est aussi un commerce assez lucratif pour les Rashémi. Il s'agit d'un alcool fort, si Tu n'étais pas déjà au courant.~ ~Tu es bien curieuse ; mais si je ne t'ennuie guère avec mes histoires, sache que la plus grande partie de notre commerce avec l'extérieur concerne la vente des cuirs et des fourrures, ainsi que les objets taillés des mains de nos artisans. Le jhuild, que l'on appelle « flammevin » dans cette région, est aussi un commerce assez lucratif pour les Rashémi. Il s'agit d'un alcool fort, si Tu n'étais pas déjà au courant.~
-@1296 = ~En Rashéménie, les troupeaux de chèvres et de rothés ne se comptent plus, et ma terre dispose d'énormes ressources de métal. Mais les marchands Rashémi font plutôt le commerce de grain, de bois et de tissus.~
+@1294 = ~Certainement. Mon peuple, les Rashémènes, que l'on nomme aussi Rashémis, sont généralement moins grands mais plus robustes que les humains peuplant Ta région. L'on trouve parmi nous bon nombre de bergers et d'artisans spécialisés dans la taille de pierres et de petits objets.~
+@1295 = ~Tu es bien curieux ; mais si je ne t'ennuie guère avec mes histoires, sache que la plus grande partie de notre commerce avec l'extérieur concerne la vente des cuirs et des fourrures, ainsi que les objets taillés des mains de nos artisans. Le jhuild, que l'on appelle « flammevin » dans cette région, est aussi un commerce assez lucratif pour les Rashémis. Il s'agit d'un alcool fort, si Tu n'étais pas déjà au courant.~ ~Tu es bien curieuse ; mais si je ne t'ennuie guère avec mes histoires, sache que la plus grande partie de notre commerce avec l'extérieur concerne la vente des cuirs et des fourrures, ainsi que les objets taillés des mains de nos artisans. Le jhuild, que l'on appelle « flammevin » dans cette région, est aussi un commerce assez lucratif pour les Rashémis. Il s'agit d'un alcool fort, si Tu n'étais pas déjà au courant.~
+@1296 = ~En Rashéménie, les troupeaux de chèvres et de rothés ne se comptent plus, et ma terre dispose d'énormes ressources de métal. Mais les marchands rashémis font plutôt le commerce de grain, de bois et de tissus.~
 @1297 = ~Eh bien, peut-être seras-Tu intéressé de savoir qu'en Rashéménie, nous avons le sjorl, qui est un fromage fumé. Son goût me manque ; je n'ai rien goûté de tel en Ton pays.~ ~Eh bien, peut-être seras-Tu intéressée de savoir qu'en Rashéménie, nous avons le sjorl, qui est un fromage fumé. Son goût me manque ; je n'ai rien goûté de tel en Ton pays.~
 @1298 = ~J'ai entendu tantôt un conteur chanter la Rashéménie comme étant la « Terre des Berserkers ». Et en effet, la force de nos guerriers se manifeste dans leur frénésie indomptable.~
 @1299 = ~Tu n'es peut-être pas sans savoir qu'une guerre et une invasion a été déclenchée par un pays limitrophe au sud de la Rashéménie : Thay. Durant les seuls cent derniers hivers, nous avons repoussé pas moins de vingt incursions dans notre pays.~
@@ -1714,11 +1714,11 @@ Avance et bats-toi sur l'heure !~
 //réponses à @1233
 @1302 = ~Les Seigneurs de Fer sont choisis par les Hathrans, celles que l'on appelle ici les sorcières de Rashéménie. Mais je ne peux dire grand-chose de mes soeurs. Minsc a eu tort de parler aussi ouvertement de ce que je suis. Si nous ne sommes pas en Rashéménie, je préfère garder ma fonction secrète, même en tant qu'apprentie. Mais je ne saurais me résoudre à blâmer Minsc pour cela ; il n'a plus toutes ses facultés mentales.~
 @1303 = ~La Rashéménie possède une puissante armée que l'on appelle les Crocs de Rashéménie. Le gros de ses troupes est composé de cavaleries légères, maniant aussi bien la lance que l'arc. Durant la Bataille de la Rivière des Larmes, les Crocs et les Hathrans ont infligé une cuisante défaite aux Tuigans. Ils ont amputé la Horde d'un quart de leurs effectifs, bien que ces derniers étaient en surnombre ; ils se battaient à quatre contre un.~
-@1304 = ~Plusieurs de mes soeurs vivent dans la ville d'Urling. En Rashéménie, on reconnaît les Hathran à leurs robes noires et leurs masques gris.~
-@1305 = ~Sans le savoir, Tu as été le bras de la loi Rashémi en exécutant les gnolls qui me retenaient captive. En effet, désobéir à une Hathran est puni de mort. Mais les Hathrans sont des personnes charitables ; jamais elles n'invoquent une telle sentence, à moins qu'il n'ait été commis un acte impardonnable.~
+@1304 = ~Plusieurs de mes soeurs vivent dans la ville d'Urling. En Rashéménie, on reconnaît les Hathrans à leurs robes noires et leurs masques gris.~
+@1305 = ~Sans le savoir, Tu as été le bras de la loi rashémie en exécutant les gnolls qui me retenaient captive. En effet, désobéir à une Hathran est puni de mort. Mais les Hathrans sont des personnes charitables ; jamais elles n'invoquent une telle sentence, à moins qu'il n'ait été commis un acte impardonnable.~
 @1306 = ~Le grand Lac Ashane, aussi connu sous le nom de la Rivière des Larmes, fut aussi un champ de bataille dans la guerre opposant Thay et la Rashéménie. Pour contrer les ambitions Thayennes, les Hathrans ont créé des bateaux magiques, les bateaux-sorcières, qui traversent le lac par la seule force de volonté de son utilisateur tout en envoyant des effluves toxiques et des bêtes monstrueuses en direction des vaisseaux de guerre Thayens.~
 @1307 = ~Dans mon peuple, il est considéré comme honorable d'être fort de corps et d'esprit, aussi bien chez les hommes que chez les femmes. Cet état d'esprit se manifeste jusque dans les jeux auxquels jouent les miens. Il faut bien connaître la Rashéménie pour savoir ce qu'est la course sur neige. En fait, il s'agit simplement d'une course, sauf que... Il faut le voir pour en mesurer l'importance.~
-@1308 = ~Au nord de la Rashéménie se trouvent de nombreuses ruines que les aventuriers explorent, cherchant la gloire et l'or, ou plutôt les gemmes, dans les cas des Rashémi, pour qui l'amour des pierres précieuses n'a d'égale que celui des nains.~
+@1308 = ~Au nord de la Rashéménie se trouvent de nombreuses ruines que les aventuriers explorent, cherchant la gloire et l'or, ou plutôt les gemmes, dans les cas des Rashémis, pour qui l'amour des pierres précieuses n'a d'égale que celui des nains.~
 @1309 = ~Les ruines dont je parlais tantôt sont celles des grandes citadelles de Raumathar, une nation puissante mais qui appartient à un lointain passé. A l'ouest se trouvait un empire magique du nom de Narfell. Il ne s'agit pas du Narfell d'aujourd'hui. Les deux puissants pays voisins se sont entre-dévorés ; il y a une leçon à retirer de leur chute mutuelle.~
 @1310 = ~*sourit* Eh bien, je suppose que Minsc T'a parlé de son dajemma. Il s'agit d'un voyage rituel marquant le passage à l'âge adulte que les jeunes personnes de mon pays effectuent. Il s'agit d'un voyage dangereux, mais ceux qui en reviennent sont auréolés de mille honneurs ; en outre, ces voyages dans des régions lointaines permettent d'acquérir un certain savoir et d'ouvrir son esprit à autre chose qu'à une terre rustique.~
 @1311 = ~Le climat âpre de la Rashéménie a formé un peuple farouche. Le Lac Tirulag et ses eaux glaciales est le lieu privilégie des concours d'endurances, mais nul n'a été suffisamment fort pour atteindre le grand trésor que l'on dit se trouver au fond du lac et gardé par un dragon blanc presque invisible à des yeux normaux.~
@@ -1742,7 +1742,7 @@ Avance et bats-toi sur l'heure !~
 @1327 = ~L'on voyage en Aglarond par griffon, par bateau ou à travers les forêts. Son commerce est principalement composé de bois, de pierres précieuses, et un peu de verre, de fer, de tissus et de nourriture lorsque des vaisseaux marchands arrivent dans les ports. En revanche, l'Aglarond n'affrète aucun bateau de commerce.~
 @1328 = ~L'Aglarond n'a pas les moyens de lever une armée, ni une flotte militaire, mais à l'intérieur de ses bois, les forestiers font des troupes mortellement efficaces et expertes dans le combat avec les armes à feu, et dans les attaques nocturnes maritimes à l'aide de sloops de guerre à voiles et à rames. Ces forestiers sont aussi formés au déplacement d'arbre en arbre et au combat dans des fourrés.~
 @1329 = ~Comme tous les pays proches de Thay, l'Aglarond souffre de ce voisinage. L'on ne compte plus les assauts menés par des guerriers se battant pour la gloire de Thay ou par des mercenaires que Thay a engagés. Pis encore, Thay voit en Aglarond l'obstacle à sa domination la plus complète sur la Mer des Etoiles Déchues. Mais l'Aglarond se défend bien face aux Magiciens Rouges. Lors des batailles des Sables Chantants et des Crânes Brisés, les forces de l'Aglarond ont repoussé les invasions de Thay, mais à quel prix...~
-@1330 = ~La plus grande force de l'Aglarond est sa dirigeante, la Simbule. Elle est une magicienne puissante, mais ses motivations profondes restent inconnues. L'on dit qu'elle convoite secrètement les terres du nord, cherchant à influer sur tous les évènements qui s'y déroulent. De telles actions sont sans doute favorables à la sécurité de son pays, bien que d'aucuns accusent la Simbule de collusion avec la société secrète connue sous le nom des Ménestrels.~
+@1330 = ~La plus grande force de l'Aglarond est sa dirigeante, la Simbule. Elle est une magicienne puissante, mais ses motivations profondes restent inconnues. L'on dit qu'elle convoite secrètement les terres du nord, cherchant à influer sur tous les événements qui s'y déroulent. De telles actions sont sans doute favorables à la sécurité de son pays, bien que d'aucuns accusent la Simbule de collusion avec la société secrète connue sous le nom des Ménestrels.~
 
 //réponse à @1227 à @1231
 @1331 = ~Je suis Dynahéir, sorcière de Rashéménie. Mon compagnon Minsc et moi avons été envoyés par la wychlaran pour vérifier la véracité des prophéties d'Alaundo. Nous cherchons la progéniture de Bhaal.~
@@ -1763,7 +1763,7 @@ Avance et bats-toi sur l'heure !~
 @1343 = ~J'ai encore rêvé de vous, Dynahéir.~
 @1344 = ~*Dynahéir, crispée de douleur, s'appuie contre un arbre.*~
 @1345 = ~*Jouer avec ses cheveux.*~
-@1346 = ~*Vous murmurez :* "Dynahéir." *Prononcer son nom laisse une sensation agréable sur vos lèvres.*~
+@1346 = ~*Vous murmurez :* « Dynahéir ». *Prononcer son nom laisse une sensation agréable sur vos lèvres.*~
 @1347 = ~*La regarder dans les yeux.*~
 @1348 = ~J'ai rêvé de vous, Dynahéir.~
 @1349 = ~*Regarder le portrait qu'a fait Dynahéir.*~
@@ -2053,7 +2053,7 @@ Avance et bats-toi sur l'heure !~
 @1605 = ~De quoi Te languis-Tu, ma douce amie ?~
 @1606 = ~*La laisser.*~
 @1607 = ~Il était une fois un magicien originaire du Cormyr, qui faisait usage de ses pouvoirs en facéties qui déplaisaient fortement à ses supérieurs. C'est ainsi que ces derniers le réprimandaient régulièrement ; mais aucune méthode ne semblait l'assagir. Un jour, un officier frustré l'interpella dans la rue, et lui demanda comment se faisait-il que toutes les sanctions et les corrections qu'il avait subies n'avaient aucun effet sur son comportement. Le magicien répondit alors : "Oh, mais tout ceci fonctionne à merveille. Tous les simulacres sans exception aucune que j'ai envoyés s'en sont trouvés changés du tout au tout !"~
-@1608 = ~Un jour, un commerçant humain décéda. Or, il se trouve qu'à moultes reprises, sa foi avait changé de direction. Les dieux concernés en ont tous fait une affaire personnelle, et tous se disputaient son âme. Après les avoir écoutés un moment, le commerçant prit la parole : "Ecoutez, cela m'ennnuie de causer autant de problèmes. Faisons un marché : je vous promets de choisir l'un d'entre vous, et me tenir à ce choix pendant cinquante ans. Tout ce qu'il faut faire, c'est me ramener à la vie."~
+@1608 = ~Un jour, un commerçant humain décéda. Or, il se trouve qu'à moultes reprises, sa foi avait changé de direction. Les dieux concernés en ont tous fait une affaire personnelle, et tous se disputaient son âme. Après les avoir écoutés un moment, le commerçant prit la parole : « Ecoutez, cela m'ennnuie de causer autant de problèmes. Faisons un marché : je vous promets de choisir l'un d'entre vous, et me tenir à ce choix pendant cinquante ans. Tout ce qu'il faut faire, c'est me ramener à la vie. »~
 @1609 = ~Il était un jeune barde qui avait un contentieux avec son ami, un apprenti magicien. Ce dernier arguait qu'un homme intelligent était en mesure d'inventer plusieurs moyens de s'attirer les faveurs d'une jeune demoiselle. Le barde répondait que cela était impossible, et que la séduction était un art où l'intelligence seule ne pouvait fonctionner. C'est alors qu'une belle jeune femme entra dans la taverne où ils se trouvaient. Le barde mit alors au défi le jeune mage de séduire cette jeune dame. L'apprenti fabriqua un bouquet de fleurs phantasmagoriques et l'envoya accompagné de la note suivante : "Si votre âme est aussi belle et extravagante que ces fleurs, alors votre admirateur secret saura éveiller votre intérêt." La réponse ne se fit pas attendre : une autre note lui fut renvoyée tout aussi promptement : "Aucune femme ne veut d'un homme dont les sentiments sont aussi artificiels et vaniteux que ces fleurs."~
 @1610 = ~Ce n'est rien, mon amour. *Elle dépose un léger baiser sur votre front. Ses yeux se mettent à briller d'une lueur affectueuse pendant un court instant, mais la mélancolie revient avant même que votre peau n'ait le temps de se remettre du frisson de son baiser.*~
 @1611 = ~Les sombres pensées sont un poison plus virulent encore que les amandes les plus amères. Je n'aurais pas dû abandonner mon esprit aux sirènes du désespoir. Prends-moi dans Tes bras, <CHARNAME>. S'il Te plaît.~
@@ -2116,7 +2116,7 @@ Avance et bats-toi sur l'heure !~
 @1664 = ~Parce que ma gorge s'est asséchée à force de cris de guerre...~
 @1665 = ~Parfois, les mots dits tout bas ont plus de poids que ceux prononcés à voix haute.~
 @1666 = ~Parfois, un murmure a plus de poids qu'un cri.~
-@1667 = ~Je m'adapte à la distance. La dernière fois, j'ai hurlé à pleins poumons... maintenant, il est temps de prononcer un doux et contemplatif "Dynahéir"...~
+@1667 = ~Je m'adapte à la distance. La dernière fois, j'ai hurlé à pleins poumons... maintenant, il est temps de prononcer un doux et contemplatif « Dynahéir »...~
 @1668 = ~Alors je saurai la réchauffer. *Elle embrasse votre cou, réchauffant votre gorge...*~
 @1669 = ~Tu es asséché, et pourtant Tu continues d'appeler Ta Dynahéir ? Mon héros ! Un tel courage mérite assurément récompense. *Elle vous caresse la joue.*~
 @1670 = ~Il est vrai...~
@@ -2218,7 +2218,7 @@ Mais ce qui compte vraiment est ce que l'on a perdu...~
 @1754 = ~*Dynahéir fronce les sourcils lorsqu'elle voit les zones boisées près de la Porte de Baldur.* Les mines de Bois-Manteau sont bien cachées au milieu de ces bois. Nul n'aurait pu deviner qu'elles se trouvaient en plein dans le domaine des druides ; Tes ennemis ont été bien avisés de les trouver et de les utiliser à leur avantage. Je me demande comment ils en sont arrivés à déjouer leurs défenses et leur ruse.~
 @1755 = ~Ta fascination est aussi la mienne, <CHARNAME>... *Elle trace amoureusement du doigt la côte dentelée sur la carte, et pendant un bref instant, vos mains se touchent. Ses doigts fins tremblent légèrement avant de reprendre leur course de Château-Suif à la Porte de Baldur.*~
 @1756 = ~*Elle vous sourit en retour* Nous pourrions presque être des enfants qui refont le monde, rêvant de visiter de lointaines contrées. *Elle redevient sérieuse.* Des enfants qui vivent le nez dans les livres, de loin dépassés par les vastes étendues du monde qu'ils mesurent pour la première fois. Mais tel n'est pas le cas...~
-@1757 = ~Je me souviens comment j'étais à cet âge... Je pouvais me perdre dans les chants des bardes. J'étais si excité à l'idée de vivre un vrai combat lorsque Jondalar m'a montré mes premières passes d'armes avec une épée en bois ! J'écoutais toujours très attentivement les étrangers qui venaient rendre visite à Gorion, essayant de reconstituer les intrigues et les évènements qu'il racontaient... Je vivais des aventures grandioses, lorsque je jouais, enfant, jurant que le seigneur démoniaque dont je suivais la trace ne vivrait pas plus longtemps, que j'aimerais à tout jamais la plus belle des demoiselles...~
+@1757 = ~Je me souviens comment j'étais à cet âge... Je pouvais me perdre dans les chants des bardes. J'étais si excité à l'idée de vivre un vrai combat lorsque Jondalar m'a montré mes premières passes d'armes avec une épée en bois ! J'écoutais toujours très attentivement les étrangers qui venaient rendre visite à Gorion, essayant de reconstituer les intrigues et les événements qu'il racontaient... Je vivais des aventures grandioses, lorsque je jouais, enfant, jurant que le seigneur démoniaque dont je suivais la trace ne vivrait pas plus longtemps, que j'aimerais à tout jamais la plus belle des demoiselles...~
 @1758 = ~Mais nous pourrions faire comme si... juste un instant, Dynahéir... *Vous vous rapprochez d'elle, et vous posez doucement le côté de votre tête contre la sienne.*~
 @1759 = ~*Pensive, comme si elle récitait un poème qu'elle a aimé jadis, mais qu'elle a presque oublié depuis.* ... et elles avaient un goût doux-amer, telles les eaux vives de la Rivière des Larmes, telle une victoire chèrement gagnée, tel le baiser d'amants qui se séparent...~
 @1760 = ~*Vous glissez votre front contre sa joue et son cou... Sa peau est chaude, et sa chevelure sent bon.*~
@@ -2230,7 +2230,7 @@ Mais ce qui compte vraiment est ce que l'on a perdu...~
 @1764 = ~*Passer vos doigts sur la couture, et toucher « accidentellement » le genou rond et séduisant qui se trouve dessous.*~
 @1765 = ~*Passer vos doigts sur la couture, et toucher « accidentellement » le genou nu qui se trouve en-dessous.*~
 @1766 = ~*Passer vos doigts sur la couture, caresser « par inadvertance » le genou nu et rond en-dessous.*~
-@1767 = ~Est-ce un motif traditionnel Rashémi, Dynahéir ? Je n'en ai jamais vu de tel, sur la Côte des Épées.~
+@1767 = ~Est-ce un motif traditionnel rashémi, Dynahéir ? Je n'en ai jamais vu de tel, sur la Côte des Épées.~
 @1768 = ~*Vous regardez le genou et la cheville de Dynahéir que ses jupes révèlent, et votre imagination rajoute le reste de ses jambes... et deux ou trois autres choses à côté. Vous souriez et sifflotez.*~
 @1769 = ~*Vous regardez le genou et la cheville de Dynahéir que ses jupes révèlent, et votre imagination fait rapidement le reste. Ainsi que deux-trois autres choses. Vous souriez et sifflotez.*~
 @1770 = ~*Vous regardez le genou et la cheville de Dynahéir que ses jupes révèlent, et votre imagination fait rapidement le reste. Vous vous sentez rougir.*~
@@ -2438,7 +2438,7 @@ Mais ce qui compte vraiment est ce que l'on a perdu...~
 @1927  = ~Si la Grande Mère m'ordonne de la servir de cette manière-là et que tu es le mâle dominant de notre meute, alors je t'appellerai en hurlant quand je serai fertile.~
 @1928  = ~Femme, n'as-tu aucune décence ? Ah, question stupide...~
 @1929  = ~C'est cela, Faldorn, c'est cela.~
-@1930  = ~Cela fait trop de "si" à mon goût, Faldorn. Pourquoi ne pas essayer lors de notre prochaine halte, sans rien dire à ta maman ?~
+@1930  = ~Cela fait trop de « si » à mon goût, Faldorn. Pourquoi ne pas essayer lors de notre prochaine halte, sans rien dire à ta maman ?~
 @1931  = ~Grr ! Je suis une adulte ! Je peux avoir des petits et...~
 @1932  = ~Oui, oui, bien sûr.~
 @1933  = ~Oh ? Voilà une réflexion intéressante.~
@@ -2816,7 +2816,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 //
 // Minsc
 //
-@2192 = ~*Bouh fait une sieste dans la poche de Minsc. Si vous voulez parler au grand Rashémi sans que le hamster n'interfère, c'est le moment ou jamais !*~
+@2192 = ~*Bouh fait une sieste dans la poche de Minsc. Si vous voulez parler au grand rashémi sans que le hamster n'interfère, c'est le moment ou jamais !*~
 @2193 = ~*Vous décidez que cela n'en vaut pas la peine, après tout vous pourriez découvrir des choses que vous n'avez pas envie de savoir à propos de Minsc.*~
 @2194 = ~Bon, Minsc, peux-tu m'en dire plus à ton sujet ?~
 @2195 = ~*Vous posez beaucoup de questions personnelles à Minsc.~
@@ -2915,7 +2915,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2249 = ~Je serais heureux de dire à petit <CHARNAME> quoi faire, si cela concernait les animaux ou le combat. Mais <CHARNAME> a une petite étincelle dans l'oeil, donc Minsc pense qu'il veut parler de stratégie et de tactique, et d'autres choses que Minsc ne maîtrise pas très bien...~ ~Je serais heureux de dire à petite <CHARNAME> quoi faire, si cela concernait les animaux ou le combat. Mais <CHARNAME> a une petite étincelle dans l'oeil, donc Minsc pense qu'elle veut parler de stratégie et de tactique, et d'autres choses que Minsc ne maîtrise pas très bien...~
 @2250 = ~Bouh se demande où est notre sorcière. La rage me consume, quand je pense à ce qui pourrait être en train de se passer ! Et Bouh aussi !~
 @2251 = ~Bouh dit que la détérioration du minerai de fer n'est pas une affaire simple, et que <CHARNAME> doit découvrir qui se trouve là derrière. Et je lui botterai les fesses ! Beaucoup de bonnes choses sont faites en fer.~
-@2252 = ~Un grand mal attend au fond d'une gouffre. Ou bien était-ce "le Mal est un gouffre sans fond", Bouh ? Parle plus fort, pas besoin d'être timide. Ils ne peuvent pas t'entendre, de toute façon.~
+@2252 = ~Un grand mal attend au fond d'une gouffre. Ou bien était-ce « le Mal est un gouffre sans fond », Bouh ? Parle plus fort, pas besoin d'être timide. Ils ne peuvent pas t'entendre, de toute façon.~
 @2253 = ~Chasser les bandits, c'est super ! Bouh aime ce qui est petit et les bandits sont tous grands, alors quand Minsc les tue, Bouh se réjouit !~
 @2254 = ~Si les ennemis sont en surnombre, surprends-les !~
 @2255 = ~Une autre mine, plus de bandits ? Bouh a l'impression qu'il a déjà fait ça, mais qui se plaindrait quand les bonnes choses se répètent ?~
@@ -2926,7 +2926,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2260 = ~Bouh se demande si <CHARNAME> perçoit la belle structure dans ses mouvements : Château-Suif - la Porte de Baldur - Château-Suif...~
 @2261 = ~Ce n'est pas le bon moment pour des conseils ! Bouh aiguise ses dents pour la grande bataille !~
 @2262 = ~Celui qui combat les monstres doit prendre garde, sinon il deviendra un monstre lui-même. La vie n'est-elle pas cent fois trop courte pour commencer à nous ennuyer ?~
-@2263 = ~Celui qui a un "pourquoi" assez fort, peut supporter presque n'importe quel "comment", <CHARNAME>.~
+@2263 = ~Celui qui a un « pourquoi » assez fort, peut supporter presque n'importe quel "comment", <CHARNAME>.~
 @2264 = ~Celui qui veut apprendre à voler un jour doit d'abord apprendre à se tenir debout, marcher, courir, grimper et danser. On ne peut pas voler pour voler.~
 @2265 = ~Ahh ! Minsc discutait avec Bouh du fait qu'il a cru voir un autre hamster géant de l'espace miniature, hier.~
 @2266 = ~Des épées, pas des pensées ! Ou bien des pensées à propos d'épées. Euh, c'est ça, Bouh ?~
@@ -3037,7 +3037,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2329 = ~Faisons c'pourquoi on est v'nus puis tirons-nous ! En général, ça marche.~
 @2330 = ~Ouais. Je vais par ici. Tu vas par là. Espérons qu'on s'revoie jamais !~
 @2331 = ~Tu vois d'la belladone, d'la ciguë ou d'l'amanite dans le coin ? Non ? Alors j'ai pas d'réponse pour toi.~
-@2332 = ~Seulement que je m'grouille pour que ta "seigneurie" puisse suivre le plus tôt possible.~
+@2332 = ~Seulement que je m'grouille pour que ta « seigneurie » puisse suivre le plus tôt possible.~
 @2333 = ~Je "suggérerais" qu'tu t'trouves un tas d'bon sens. Mais j'aime pas gaspiller ma salive.~
 @2334 = ~Hé-hé. Des bains d'puces.~
 @2335 = ~D'accord. Quittons c'te pile de caillasses, trouvons un bon feu, un bon lit et une maxi bière !~
@@ -3398,7 +3398,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2564  = ~Interrogé sur son passé, XAN évoque d'un air mélancolique le bastion elfe d'Evereska, où il est Grismanteau. Il semble qu'on lui a donné pour mission d'enquêter sur la pénurie de fer et la menace qu'elle pourrait représenter pour l'ensemble de la région. La tâche n'est pas mince et c'est avec anxiété qu'il s'en acquitte. Vous avez cependant l'impression qu'il aborde chaque situation avec anxiété. Il a consacré sa vie à la magie, ce qui lui a permis de devenir un magicien doué, mais sa dévotion à ses études l'a empêché de se faire des amis ou de pratiquer un passe-temps. Il vous paraît très capable, bien que son influence sur le moral d'un groupe reste à déterminer.~ [DUMMYSND]
 @2565  = ~Amis ? *Xan vous jette un sourire plein d'ironie.* ~
 @2566  = ~*Son visage s'assombrit.* Oui... amis... certainement.~
-@2567  = ~J'espère t'être utile, certainement. Nous sommes probablement "alliés", alors.~
+@2567  = ~J'espère t'être utile, certainement. Nous sommes probablement « alliés », alors.~
 @2568  = ~Le mot "vague" me fait penser à la mort, <CHARNAME>. Je préférerai que tu ne l'emploies pas.~
 @2569  = ~Pourquoi poses-tu la question ? Ce soir, demain, le surlendemain... Nous allons mourir, quelle que soit la nature de notre relation.~
 @2570  = ~Parce que je... non, <CHARNAME>, ce n'est ni le l'endroit ni le moment de parler de telles choses.~
@@ -3485,7 +3485,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2651  = ~*Sans un mot, Xan prend votre main, et vous marchez ensemble, en silence.*~
 @2652  = ~*Les coins de la bouche de Xan se tournent vers le haut à leur tour, puis il secoue la tête.* Je n'ai aucune raison de sourire, <CHARNAME>.~
 @2653  = ~*soupir* <CHARNAME>, nous sommes entourés par les ennemis et les dangers, et pourtant tu t'entêtes à traiter notre voyage comme s'il s'agissait d'une promenade de santé. Tu continueras à sourire, même sur ton lit de mort, on dirait.~
-@2654  = ~*Alors qu'il se détourne, vous entendez un sourire presque inaudible : "Et la mort elle-même hésitera et fléchira."*~
+@2654  = ~*Alors qu'il se détourne, vous entendez un sourire presque inaudible : « Et la mort elle-même hésitera et fléchira. »*~
 @2655  = ~*Xan vous jette un sourire peu enthousiaste. On dirait plus une grimace, mais cela lui va tout de même bien.*~
 @2656  = ~*Une expression rêveuse sur le visage de Xan démontre clairement qu'il apprécie le spectacle, mais il tressaille et l'émotion disparaît pour son masque habituel d'aigre mélancolie.* Ton sourire m'a rappelé ma patrie, <CHARNAME>. Si seulement la beauté n'était pas aussi fugace et la mort aussi inévitable... *soupir* Laisse tomber ; je me perds en paroles encore une fois.~
 @2657  = ~Je suis en pleine santé, <CHARNAME>. Comme tu l'as probablement deviné, les donjons emplis de vase, les refuges pour ivrognes, et les camps de bandits m'ont toujours ravi.~
@@ -3599,7 +3599,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2765  = ~*Xan vous jette un regard soucieux, fait un pas vers vous, et pose son bras sur vos épaules, tentant de vous réconforter.* Estel'amin, combien j'aimerais pouvoir te dire que tout ira bien...~
 @2766  = ~Oui, <CHARNAME>. *soupir* Beaucoup de choses ont effectivement changé.~
 @2767  = ~Tellement changé, que l'impossible est devenu possible, <CHARNAME>.~
-@2768  = ~Je ne pourrais pas dire que les circonstances de notre première rencontre furent agréables, mais les évènements qui suivirent... *Xan se penche vers vous, et dépose un long baiser tendre sur vos lèvres.*~
+@2768  = ~Je ne pourrais pas dire que les circonstances de notre première rencontre furent agréables, mais les événements qui suivirent... *Xan se penche vers vous, et dépose un long baiser tendre sur vos lèvres.*~
 @2769  = ~*Xan vous regarde avec mélancolie.* C'est vrai, mais je crains que les changements à venir seront moins plaisants.~
 @2770  = ~<CHARNAME>, même si je le voulais, j'en serais incapable. Il nous reste très peu de temps pour les changements. *soupir* Nous sommes tous perdus, tu sais.~
 @2771  = ~*Mais un petit sourire se cache au coin de ses yeux, et vous en déduisez qu'il apprécie votre geste.*~
@@ -3701,7 +3701,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2867  = ~Le Bois de Valped ou le Bois de Lars, <CHARNAME>. Nous devrions continuer nos recherches dans ces endroits.~
 @2868  = ~Es-tu sûr de vouloir continuer ? Les bandits vont nous exterminer d'un moment à l'autre ! *soupir* Ah, ainsi soit-il. On ne m'écoute jamais.~ ~Es-tu sûre de vouloir continuer ? Les bandits vont nous exterminer d'un moment à l'autre ! *soupir* Ah, ainsi soit-il. On ne m'écoute jamais.~
 @2869  = ~Je ne sais pas, <CHARNAME>. Je suis tellement submergé par ma liberté inattendue que même la mort ne semble pas si proche. Cette sensation s'estompera, je le sais, mais pour l'instant j'en profite, tant que c'est encore possible.~
-@2870  = ~Avant d'être capturé, j'ai entendu parler d'évènements curieux au nord-est de l'auberge de Brasamical. Peut-être allons-nous trouver le repaire des bandits là-bas.~
+@2870  = ~Avant d'être capturé, j'ai entendu parler d'événements curieux au nord-est de l'auberge de Brasamical. Peut-être allons-nous trouver le repaire des bandits là-bas.~
 @2871  = ~Je suis désolé, <CHARNAME>, mais je n'ai pas de conseils à te donner. Demande à quelqu'un d'autre.~
 @2872  = ~*Xan observe les environs, les yeux écarquillés.* J'ai commis la plus grosse erreur de ma vie en acceptant de voyager à tes côtés, on dirait.~
 @2873  = ~Je suis certain que Durlag protégeait bien sa demeure. Nous allons devoir briser les enchantements qu'il a sans aucun doute dû mettre en place ici, si tu es réellement décidé à continuer. Pour ce faire, tu auras besoin d'une pierre magique.~ ~Je suis certain que Durlag protégeait bien sa demeure. Nous allons devoir briser les enchantements qu'il a sans aucun doute dû mettre en place ici, si tu es réellement décidée à continuer. Pour ce faire, tu auras besoin d'une pierre magique.~
@@ -3815,7 +3815,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2938 = ~Bien sûr. J'aimerais que vous y soyez aussi. Ou non, si vous préférez.~
 @2939 = ~Ah... Voilà de quoi les doux rêves sont faits.~
 @2940 = ~Je suis précisément là où j'étais il y a cinq minutes. Ou deux jours, peut-être. J'ai oublié lequel.~
-@2941 = ~Naturellemment. J'y suis toujours. La question, mon cher <CHARNAME>, est la suivante : "Où êtes-*vous* ?"~
+@2941 = ~Naturellemment. J'y suis toujours. La question, mon cher <CHARNAME>, est la suivante : « Où êtes-*vous* ? »~
 @2942 = ~Un seul d'entre nous l'est-il ? J'ai pourtant l'impression que nous *devrions* être quelque part. Ailleurs, en fait.~
 @2943 = ~Oui. Mais il me semble que je suis sur le point de partir. Peut-être auriez-vous les moyens d'y remédier ?~
 @2944 = ~Probablement. La vertigineuse impression d'irresponsabilité qui vous entoure est inratable, <CHARNAME>.~
@@ -4326,11 +4326,11 @@ Mais tu es la plus belle que j'ai vue.~
 @3361 = ~Couleur de miel ?~
 @3362 = ~Coran, c'est une affaire sérieuse ! Ce n'est pas de tes plaisanteries que j'ai besoin !~
 @3363 = ~Hmmm... pas tellement étonnant qu'ils aient eu des soucis. Il n'y a pas de mot pour décrire cela... c'est unique !~
-@3364 = ~Vois donc, ils avaient mis "jaune" ! Maintenant cela sonne beaucoup mieux : <CHARNAME> de Château-Suif, dont les cheveux d'or brillent au soleil, rivalisant avec lui.~
-@3365 = ~Vois donc, ils avaient mis "rouge" ! Maintenant cela sonne beaucoup mieux : <CHARNAME> de Château-Suif, dont les boucles auburn dansent autour de son front comme des langues de feu.~
-@3366 = ~Vois donc, ils avaient mis "sombres" ! Maintenant cela sonne beaucoup mieux : <CHARNAME> de Château-Suif, aux cheveux plus noirs que l'aile d'un corbeau.~
-@3367 = ~Vois donc, ils avaient mis "blancs" ! Maintenant cela sonne beaucoup mieux : <CHARNAME> de Château-Suif, dont les cheveux d'argent brillent au clair de lune, rivalisant avec elle.~
-@3368 = ~Vois donc, ils avaient mis "bruns" ! Maintenant cela sonne beaucoup mieux : <CHARNAME> de Château-Suif, aux cheveux étincelants, couleur de miel.~
+@3364 = ~Vois donc, ils avaient mis « jaune » ! Maintenant cela sonne beaucoup mieux : <CHARNAME> de Château-Suif, dont les cheveux d'or brillent au soleil, rivalisant avec lui.~
+@3365 = ~Vois donc, ils avaient mis « rouge » ! Maintenant cela sonne beaucoup mieux : <CHARNAME> de Château-Suif, dont les boucles auburn dansent autour de son front comme des langues de feu.~
+@3366 = ~Vois donc, ils avaient mis « sombres » ! Maintenant cela sonne beaucoup mieux : <CHARNAME> de Château-Suif, aux cheveux plus noirs que l'aile d'un corbeau.~
+@3367 = ~Vois donc, ils avaient mis « blancs » ! Maintenant cela sonne beaucoup mieux : <CHARNAME> de Château-Suif, dont les cheveux d'argent brillent au clair de lune, rivalisant avec elle.~
+@3368 = ~Vois donc, ils avaient mis « bruns » ! Maintenant cela sonne beaucoup mieux : <CHARNAME> de Château-Suif, aux cheveux étincelants, couleur de miel.~
 @3369 = ~C'est pourquoi ils n'ont mentionné tes cheveux nulle part... mais je vais réécrire cela : aux cheveux de la plus belle couleur que Coran ait vue, et il l'appela : couleur <CHARNAME>.~
 @3370 = ~Ah, tu as remarqué combien c'est mal écrit, toi aussi ? Ça ne te rend pas justice du tout ! Viens donc, mon amour, réécrivons-le ! Hum... couleur des yeux... c'est trop plat... quel serait le meilleur mot ?~
 @3371 = ~Azurés ?~
@@ -4646,7 +4646,7 @@ Vagues et cascade de soie de Shuan.~
 //////////
 /*réponse à @3543 à @3548, le personnage a réussi*/
 //////////
-@3591 = ~Je serais ravi de vous en dire plus sur ma personne. Je suis né à Ruathym, un endroit où les femmes sont laides et ennuyeuses. Je me suis installé très jeune à Eauprofonde pour affiner mes talents, et j'en suis reparti quelques temps après un évènement particulier. J'aurais pu continuer, mais il y a plus important, dans la vie.~
+@3591 = ~Je serais ravi de vous en dire plus sur ma personne. Je suis né à Ruathym, un endroit où les femmes sont laides et ennuyeuses. Je me suis installé très jeune à Eauprofonde pour affiner mes talents, et j'en suis reparti quelques temps après un événement particulier. J'aurais pu continuer, mais il y a plus important, dans la vie.~
 @3592 = ~Eh bien, en tant que meilleur ami, je peux vous dire quelques petites choses. La Porte de Baldur est confrontée à un grave problème économique. Il y a une pénurie de fer, et à cause des tensions entre l'Amn et la Porte de Baldur, cela commence à inquiéter les gens. Une organisation de marchands appelée le Trône de Fer s'est infiltrée dans les rouages économiques de la Porte de Baldur.~
 //////////
 /*réponses à @3550 = ~Eldoth, vous avez vu beaucoup de choses et en avez entendu plus encore. Auriez-vous quelque suggestion à faire pour le futur ?~*/
@@ -4777,11 +4777,11 @@ Vagues et cascade de soie de Shuan.~
 @3668 = ~Non, vraiment, tout va bien. Vous en avez ?~
 @3669 = ~Je vais bien ! Laissez-moi vous chanter une chanson pour le prouver ! "La Marche des Héros" !~
 @3670 = ~Oh, merci pour cette question. C'est vraiment agréable de savoir que vous vous en souciez, en vérité.~
-@3671 = ~Bien sûr ! Je vais vous chanter "Un Bouquet de Roses", c'est ma chanson préférée !~
+@3671 = ~Bien sûr ! Je vais vous chanter « Un Bouquet de Roses », c'est ma chanson préférée !~
 @3672 = ~Euh, êtes-vous sûr ? Je veux dire, j'aimerais chanter, mais ce n'est pas vraiment le moment idéal.~ ~Euh, êtes-vous sûre ? Je veux dire, j'aimerais chanter, mais ce n'est pas vraiment le moment idéal.~
 @3673 = ~J'imagine que "Joe le Bizarre" conviendra. D'accord, tout le monde, commençons !~
-@3674 = ~Je connais une jolie chanson appelée "Amour Glorieux sous le Soleil" mais, euh, certains passages ne sont pas adaptés aux jeunes filles, si vous voyez ce que je veux dire.~
-@3675 = ~Oui, <SIRMAAM> ! Voici "Le Coeur de Lion" !~
+@3674 = ~Je connais une jolie chanson appelée « Amour Glorieux sous le Soleil » mais, euh, certains passages ne sont pas adaptés aux jeunes filles, si vous voyez ce que je veux dire.~
+@3675 = ~Oui, <SIRMAAM> ! Voici « Le Coeur de Lion » !~
 @3676 = ~Voudriez-vous une chanson d'amour ? Oui, j'en étais sûr ! Et "Embrasse-moi doucement, Embrasse-moi profondément" fera parfaitement l'affaire !~
 @3677 = ~Vous avez raison, <SIRMAAM> ! La vie est merveilleuse, et il est temps de le célébrer en chansons !~
 @3678 = ~D'accord, je suppose, mais avons-nous assez de temps ?~

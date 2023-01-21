@@ -246,18 +246,18 @@
 @196 = ~Oui, oui, ce sont là des défis posés à l'esprit borné. Ceux qui sont acceptés dans les rangs des Mages rouges sont doués au-delà de ce que les barbares d'ici peuvent imaginer. Ils excellent ainsi à la fois en magie et en politique.~
 @197 = ~Les véritables mages ne devraient pas se retirer du monde, ils devraient le diriger. Garder les mages à l'écart du commandement laisserait le monde trébucher dans le noir comme un poulet sans tête.~
 ///* Edwin and Dynaheir */
-@198 = ~<CHARNAME>, quelle partie de "Je te commande de tuer la sorcière Rashémi" n'as-tu pas comprise ? Peut-être devrais-je utiliser des termes plus simples, plus courts ? Faudrait-il que je te l'écrive et que je te lise tout bas cinq fois par jour, afin que cela puisse s'implanter dans ton minuscule cerveau ?~
+@198 = ~<CHARNAME>, quelle partie de "Je te commande de tuer la sorcière rashémie" n'as-tu pas comprise ? Peut-être devrais-je utiliser des termes plus simples, plus courts ? Faudrait-il que je te l'écrive et que je te lise tout bas cinq fois par jour, afin que cela puisse s'implanter dans ton minuscule cerveau ?~
 @199 = ~Pourquoi as-tu besoin de la tuer, au juste ? Est-ce une personne de quelque importance ?~
 @200 = ~Hum... Cette idée de lire à voix basse n'est pas si mauvaise. J'aime le son de ta voix presque autant que toi, Edwin.~
 @201 = ~Je t'ai promis de la tuer, et j'honorerai ma parole.~
 @202 = ~*soupir* <CHARNAME> fais ceci, <CHARNAME> fais cela... que quelqu'un donne une banane à ce singe !~
 @203 = ~Peut-être devrais-je te couper la gorge et voir si ton sang est aussi rouge que ta jupe.~
-@204 = ~Quelle partie de "Je suis fatigué d'entendre ta voix" n'as-tu pas comprise ?~
-       ~Quelle partie de "Je suis fatiguée d'entendre ta voix" n'as-tu pas comprise ?~
+@204 = ~Quelle partie de « Je suis fatigué d'entendre ta voix » n'as-tu pas comprise ?~
+       ~Quelle partie de « Je suis fatiguée d'entendre ta voix » n'as-tu pas comprise ?~
 @205 = ~Oh, j'ai compris tous les mots que tu as prononcés... j'étais juste en train de t'ignorer.~
-@206 = ~C'est une sorcière Rashémi, et la détruire est la tâche qui m'a été assignée. C'est tout ce que tu as besoin de savoir. (Et tout ce qu'il peut comprendre, de toute façon. Qu'est-ce qu'un simien pourrait savoir des perspectives qui s'ouvriront à moi si je gagne la confiance de Nevron ?)~
-       ~C'est une sorcière Rashémi, et la détruire est la tâche qui m'a été assignée. C'est tout ce que tu as besoin de savoir. (Et tout ce qu'elle peut comprendre, de toute façon. Qu'est-ce qu'une simienne pourrait savoir des perspectives qui s'ouvriront à moi si je gagne la confiance de Nevron ?)~
-@207 = ~C'est une sorcière Rashémi, et la détruire est la tâche qui m'a été assignée. Disons que son trépas sera la première marche de ma glorieuse ascension.~
+@206 = ~C'est une sorcière rashémie, et la détruire est la tâche qui m'a été assignée. C'est tout ce que tu as besoin de savoir. (Et tout ce qu'il peut comprendre, de toute façon. Qu'est-ce qu'un simien pourrait savoir des perspectives qui s'ouvriront à moi si je gagne la confiance de Nevron ?)~
+       ~C'est une sorcière rashémie, et la détruire est la tâche qui m'a été assignée. C'est tout ce que tu as besoin de savoir. (Et tout ce qu'elle peut comprendre, de toute façon. Qu'est-ce qu'une simienne pourrait savoir des perspectives qui s'ouvriront à moi si je gagne la confiance de Nevron ?)~
+@207 = ~C'est une sorcière rashémie, et la détruire est la tâche qui m'a été assignée. Disons que son trépas sera la première marche de ma glorieuse ascension.~
 @208 = ~Ah, oui, en effet - le son de ma voix. Je dois te faire savoir que beaucoup d'autres avant toi l'ont trouvé séduisante, tout particulièrement au coucher du soleil. Pourtant, je me sens obligé de te rappeler que cette voix fabuleuse ne sera plus là pour que tu puisses en profiter, si la sorcière continue de vivre.~
 @209 = ~Est-ce une personne de quelque importance ?~
 @210 = ~Avez-vous, elle et toi... euh... été liés de quelque manière auparavant, pour que tu désires si ardemment sa mort, mon cher ?~
@@ -295,7 +295,7 @@
 @239 = ~Et si tu es... inquiet de la résistance qu'elle pourrait opposer... Je peux arranger un... accident...~
        ~Et si tu es... inquiète de la résistance qu'elle pourrait opposer... Je peux arranger un... accident...~
 @240 = ~Tu as raison, Edwin. Applique ton plan.~
-@241 = ~Dynahéir vivra, Edwin. Ou devrais-je rapporter à ton Zulkir que tu as échoué dans ta mission et que tu t'associes volontairement à une sorcière Rashémi ?~
+@241 = ~Dynahéir vivra, Edwin. Ou devrais-je rapporter à ton Zulkir que tu as échoué dans ta mission et que tu t'associes volontairement à une sorcière rashémie ?~
 @242 = ~Mon cher comédien amateur, tes paroles, pour le Zulkir, auraient moins d'importance que le cliquetis d'un caillou coincé dans la semelle de sa chaussure. Je te conseille de ne pas essayer de jouer à ce jeu-là avec moi, <CHARNAME>. Ce serait trop ennuyeux de l'emporter sur toi.~
        ~Ma chère comédienne amatrice, tes paroles, pour le Zulkir, auraient moins d'importance que le cliquetis d'un caillou coincé dans la semelle de sa chaussure. Je te conseille de ne pas essayer de jouer à ce jeu-là avec moi, <CHARNAME>. Ce serait trop ennuyeux de l'emporter sur toi.~
 @243 = ~Ce sera fait en temps utile.~
@@ -579,7 +579,7 @@ De l'autre côté.~
 ///* Shar-Teel avec Jaheira, et un peu Minsc */
 @469 = ~Shar-Teel, j'aimerais te poser une question. Détestes-tu les rats ?~
 @470 = ~Oh ! On dirait que tu as récemment grimpé sur un arbre de trop, druidesse. Qu'est-ce que c'est que cette question ?~
-@471 = ~Une question suffisamment simple pour que tu puisses y répondre. Je recommence : "Détestes-tu les rats ?"~
+@471 = ~Une question suffisamment simple pour que tu puisses y répondre. Je recommence : « Détestes-tu les rats ? »~
 @472 = ~Non, je ne les déteste pas particulièrement, mais je ne m'intéresse pas non plus à eux. Maintenant, tu vas me demander ce que je ressens envers les marmottes, ou cette discussion va-t-elle nous mener à quelque chose de concret ?~
 @473 = ~Ooh, et il faut aussi poser des questions sur les hamsters !~
 @474 = ~Non, mon enfant. Le but de ma question te sera révélé en temps voulu. Maintenant, si tu devais tuer un rat, un chien ou un renne, que choisirais-tu de tuer ?~

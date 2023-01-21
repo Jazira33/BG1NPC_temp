@@ -1,8 +1,8 @@
 @0 = ~Oooh... tant de livres ! Tu dois être très malin, <CHARNAME>, puisque tu as grandi ici...~
      ~Oooh... tant de livres ! Tu dois être très maligne, <CHARNAME>, puisque tu as grandi ici...~
 @1 = ~Pas vraiment. Je n'en ai pas lu un seul.~
-@2 = ~Je n'aurais pas dit "malin", mais oui, j'ai lu pas mal, en grandissant.~
-     ~Je n'aurais pas dit "maligne", mais oui, j'ai lu pas mal, en grandissant.~
+@2 = ~Je n'aurais pas dit « malin », mais oui, j'ai lu pas mal, en grandissant.~
+     ~Je n'aurais pas dit « maligne », mais oui, j'ai lu pas mal, en grandissant.~
 @3 = ~Tu peux le croire ! Je les ai lus du premier au dernier !~
 @4 = ~Bouh est tellement heureux d'être ici. Il dit qu'il est impatient de prévenir sa famille qu'il a trouvé un tel festin ! Oui, des vieilles pages graisseuses, rangée après rangée après rangée, prêtes à être dévorées par des hamsters appliqués...~
 @5 = ~*squiiik*~ [GAM_48]
@@ -32,7 +32,7 @@
 @29 = ~Minsc, c'est qui cet Orovar ? Le Lac des Dragons... C'est quelque part dans les Vaux, non ?~
 @30 = ~Désolé, Bouh. Imoen veut que je lui parle d'Orovar. Euh, nous avons pris le même bâteau qu'Orovar pour nous rendre à Port Ponant, et il aimait vraiment bien Dynahéir...~
 @31 = ~Minsc ! Imoen, j'apprécierais que Tu ne harcèles pas notre ami avec ceci.~
-@32 = ~Tu m'apprends "Mains Brûlantes" ?~
+@32 = ~Tu m'apprends « Mains Brûlantes » ?~
 @33 = ~Ce n'est pas matière à plaisanter. Tu pourrais lancer un feu de forêt si Tu ne faisais pas attention.~
 @34 = ~Bon, Minsc, revenons-en à Orovar...~
 @35 = ~D'un autre côté, Tu es plutôt prudente pour une roublarde. Il n'est pas coutumier des Hathrans de repousser quelqu'un qui désire apprendre. Peut-être puis-je me persuader de Te l'enseigner.~
@@ -44,7 +44,7 @@
 @41 = ~Oui, oui, donne le moi ! Après deux semaines de travail laborieux, j'ai enfin terminé le Compte-Rendu de la Mort du Roi de Fer Yegoriy Yasnoi, ses Quatre Cent Cinquante Meilleurs Hommes et Trente Hathrans... Maintenant je dois juste faire sécher l'encre. (Je ne voudrais pas en perdre la moindre lettre !)~
 @42 = ~J'ai dû en prendre dans le bac à crottes de secours de Bouh...~
 @43 = ~Quoi ? Tant pis, je doute que Nevron vive assez longtemps pour en voir la dernière page.~
-@44 = ~Oui, oui... il ne vivra pas assez longtemps... (L'ennui comme technique d'assassinat - une idée telle que seul un esprit aussi élaboré que le mien peut l'avoir imaginée. Et connaissant Nevron, il lira chaque page avec attention, vu le nombre de "la révélation de la stratégie rashémi", "confidentiel", "top secret", "à brûler après lecture"... que j'ai mis dans la lettre d'accompagnement. La mort de Nevron fera de moi un Zulkir.)~
+@44 = ~Oui, oui... il ne vivra pas assez longtemps... (L'ennui comme technique d'assassinat - une idée telle que seul un esprit aussi élaboré que le mien peut l'avoir imaginée. Et connaissant Nevron, il lira chaque page avec attention, vu le nombre de "la révélation de la stratégie rashémie", "confidentiel", "top secret", "à brûler après lecture"... que j'ai mis dans la lettre d'accompagnement. La mort de Nevron fera de moi un Zulkir.)~
 @45 = ~Oui... Votre ami loyal, Edwin Odesseiron. Voilà. C'est signé !~
 @46 = ~Voici le pigeon que tu as demandé, Edwin. Alors, tu disais qu'envoyer ceci mettrait fin aux attaques de Thay sur la Rashéménie ?~
 @47 = ~J'ai dit que j'enverrais ton histoire à mon supérieur, et Edwin Odesseiron est un homme de parole.~
@@ -61,7 +61,7 @@
 @58 = ~Mais Khalid et Jaheira, presque chaque nuit... en fait, juste en ce moment, ils sont à la "recherche de baies sauvages" ! En pleine nuit !~
 @59 = ~Ce n'est pas le problème d'Eldoth, ce que nos bons amis mariés font ! Minsc a toujours dit que Khalid était un brave homme, et cela le prouve encore plus !~
 @60 = ~Mon cher Minsc, peut-être pouvons-nous parvenir à un arrangement ? Je pense qu'il me reste toujours un peu de vin du Téthyr et...~
-@61 = ~Eldoth le malpropre va retourner dans son propre lit, ou Minsc va lui faire ce que nos berserkers font aux Thayens en maraude qui ennuient les gentilles filles rashémi !~
+@61 = ~Eldoth le malpropre va retourner dans son propre lit, ou Minsc va lui faire ce que nos berserkers font aux Thayens en maraude qui ennuient les gentilles filles rashémies !~
 @62 = ~Je ne suis pas certain de ce que "circoncision étendue" veut dire, mais Minsc le réalisera volontiers sur Eldoth ! Plusieurs fois !~
 @63 = ~Euh... Maintenant que tu le mentionnes... je crois que je vais dormir dans mon propre lit, désormais... euh... bonne nuit, Minsc.~
 @64 = ~Bonne nuit, Eldoth le malpropre.~
@@ -97,7 +97,7 @@
 @94 = ~Vraiment ?! Alors Minsc et Bouh veulent s'engager !~
 @95 = ~TOI ?! Et le hamster ? Faire partie du Très Noble Ordre du Coeur Radieux ? Pourquoi ?~
 @96 = ~Et bien, les grands festins que la Loge organisait chaque fois que nous avions piétiné quelques nids de vilenie manquent à Minsc...~
-@97 = ~Ah... oui, le bon temps, quand la bière coulait à flots et que les Vremyonnis et les Wychlaran distribuaient leur sagesse, tandis que de belles dames aux hanches larges accueillaient les héros victorieux et dansaient avec leur bustier à moitié délacé et ces jupes rayonnantes...~
+@97 = ~Ah... oui, le bon temps, quand la bière coulait à flots et que les Vremyonnis et les Wychlarans distribuaient leur sagesse, tandis que de belles dames aux hanches larges accueillaient les héros victorieux et dansaient avec leur bustier à moitié délacé et ces jupes rayonnantes...~
 @98 = ~ELLES FAISAIENT QUOI ?!~
 @99 = ~Elles accueillaient les héros victorieux. Oh, c'est chouette, Minsc est tellement content d'avoir trouvé une nouvelle loge dans ce pays lointain. Regarde, même Bouh tremble d'anticipation en songeant à la grande fête que ton Ordre va organiser en notre honneur à la fin de cette quête.~
 @100 = ~Oh je vois... Mmmm... et bien, désolé de te décevoir, Minsc, mais les pratiques de l'Ordre ne sont pas aussi exotiques que celles que tu viens de décrire avec tant de... détails. Une bonne action est une récompense en soi.~
@@ -161,7 +161,7 @@
 @158 = ~C'est Bouh, seulement je l'ai lavé. Namara n'arrête pas de le mettre dans sa bouche, donc...~
 @159 = ~J'aime bien quand la petite Namara joue avec lui. Mais pourquoi le laver ? Oh, tant pis, je peux voir qu'il reprend sa couleur, déjà, en se roulant sur le sol.~
 @160 = ~*soupire* Laver, encore laver...~
-@161 = ~Mage Rouge diabolique ! Minsc et Bouh vont t'expliquer pourquoi les Thayens ne vaincront jamais les Rashémi.~
+@161 = ~Mage Rouge diabolique ! Minsc et Bouh vont t'expliquer pourquoi les Thayens ne vaincront jamais les Rashémis.~
 @162 = ~Oh. Exactement le type d'exercice mental dont j'avais besoin ! (Mon ironie est sans rivale, je dois l'avouer...) Discuter politique avec un hamster ! (C'est toujours mieux que de discuter politique avec son propriétaire, cela dit.) Parle donc. Amuse-moi.~
 @163 = ~Voici l'histoire, pleine de sagesse, de la mort du vaillant Fyrra Vsevolod et de ses sept serviteurs.~
 @164 = ~Fascinant...~
@@ -182,8 +182,8 @@
 @179 = ~Il ne peut pas être arrêté, on ne peut pas discuter avec lui, il ne connaît pas la pitié... Heureusement, Fyrra Vsevolod voyageait avec une petite escorte, et cela va s'arrêter bien assez tôt.~
 @180 = ~Alors le septième des serviteurs de Fyrra Vsevolod fut mené devant le maléfique Tarchion et on lui demanda s'il plierait devant Thay et s'agenouillerait devant Tarchion. Et le septième serviteur de Fyrra Vsevolod répondit que jusqu'à sa dernière goutte de sang, il serait loyal à la Rashéménie et combattrait Thay. Alors le maléfique Tarchion ordonna que le septième serviteur de Fyrra soit saigné à mort, et son corps fut jeté aux chacals.~
 @181 = ~Comme c'était... riche d'enseignements. Je suis impressionné par mon propre ennui. Je ne me suis jamais autant ennuyé de toute ma vie. Les limites de l'ennui connu viennent d'être repoussées jusqu'à des extrémités nouvelles, et la taille de mon cerveau se réduit à chaque mot que tu prononces. (Incroyable mais vrai, malheureusement. Je suis marqué à vie.)~
-@182 = ~Bouh dit qu'il ne sent pas qu'Edwin est convaincu. *Le regard de Minsc s'éclaire* Mais nous pouvons toujours te raconter comment le brave Seigneur de Fer Yegoriy Yasnoi, ses quatre cent cinquante meilleurs hommes et trente Hathrans sont morts en défendant la citadelle Rashémi contre les Thayens maléfiques...~
-@183 = ~Je... Je suis convaincu que les Rashémi ont un esprit indomptable. Peut-être pourrais-tu me soumettre cette histoire par écrit, pour que je puisse la transmettre à mes supérieurs ? (Nevron adorerait, j'en suis certain).~
+@182 = ~Bouh dit qu'il ne sent pas qu'Edwin est convaincu. *Le regard de Minsc s'éclaire* Mais nous pouvons toujours te raconter comment le brave Seigneur de Fer Yegoriy Yasnoi, ses quatre cent cinquante meilleurs hommes et trente Hathrans sont morts en défendant la citadelle rashémie contre les Thayens maléfiques...~
+@183 = ~Je... Je suis convaincu que les Rashémis ont un esprit indomptable. Peut-être pourrais-tu me soumettre cette histoire par écrit, pour que je puisse la transmettre à mes supérieurs ? (Nevron adorerait, j'en suis certain).~
 @184 = ~Oh... Minsc et Bouh ne sont pas suffisamment fous pour écrire une aussi longue histoire. Mais ils peuvent la dicter au sorcier maléfique. Sors ta plume ! Bon, il était une fois (Bouh ne se souvient jamais des dates) le Seigneur de Fer Yegoriy Yasnoi...~
 @185 = ~Où qu'aillent Minsc et Bouh, le Mal tremble dans ses chausses.~
 @186 = ~Veux-tu dire que le Mal subit des convulsions induites par la peur seulement dans la partie inférieure de son corps, quand tu approches ? Ou bien les tremblements se répandent-ils graduellement vers le haut, depuis les rotules ?~
@@ -246,7 +246,7 @@
 @243 = ~Ah ! Nous te remercions. Bouh est un hamster de l'espace très curieux, et tu lui as bien répondu.~
 @244 = ~Ami Kivan, Bouh pense que Kivan devrait venir en Rashéménie avec Minsc et Bouh une fois que le Trône de Fer aura été piétiné par nos bottes puissantes de rôdeurs !~
 @245 = ~Merci pour votre invitation, Minsc, mais je suis déjà engagé après la fin de notre quête.~
-@246 = ~Ah, rien ne peut être plus important que de rentrer chez soi le sourire aux lèvres. Les filles rashémi savent comment rallumer l'esprit du guerrier dans le coeur d'un homme ! En plus de brasser le meilleur alcool...~
+@246 = ~Ah, rien ne peut être plus important que de rentrer chez soi le sourire aux lèvres. Les filles rashémies savent comment rallumer l'esprit du guerrier dans le coeur d'un homme ! En plus de brasser le meilleur alcool...~
 @247 = ~Déhériana est la seule femme qui me convienne, Minsc.~
 @248 = ~Eh bien, Bouh dit qu'elle est, euh, morte.~
 @249 = ~Peut-être que Bouh n'a jamais rencontré d'elfes auparavant. Les miens ne meurent pas, Minsc, pas vraiment. Ils s'en vont vers un pays très lointain...~
@@ -257,7 +257,7 @@
 @254 = ~Garde tes distances, petit-homme. Le nez avisé de Bouh a flairé tes mauvaises intentions.~
 @255 = ~Il a intérêt à garder son nez pour lui-même, sinon il va le perdre ! Personne ne me flaire et s'éveille le matin suivant !~
 @256 = ~La puanteur de Monty est un véritable somnifère ! Ainsi parlent Minsc et Bouh !~
-@257 = ~Mon nom est pas "Monty", crétin de barbare ! C'est "Montaron" ! Maintenant, dégage, je dois préparer un ragoût pour ce soir, et je dois me remémorer la recette !~
+@257 = ~Mon nom est pas « Monty », crétin de barbare ! C'est "Montaron" ! Maintenant, dégage, je dois préparer un ragoût pour ce soir, et je dois me remémorer la recette !~
 @258 = ~Euh... un ragoût ? Y'aura des champignons ? Bouh adore les champignons !~
 @259 = ~J'cuisine pas pour ton rat ! Mais oui, y'aura des champignons ! C'est la seule chose qu'on peut trouver dans ces bois. A moins qu't'ailles nous chasser un cerf.~
 @260 = ~Bouh n'accepterait jamais que Minsc tue une gentille créature de la forêt quand il y a d'autres choses comestibles à disposition.~
@@ -280,7 +280,7 @@
 @277 = ~Alors tu es Vremyonni. Cache-toi !~
 @278 = ~Quoi ? Où ? Pourquoi ? Oh...~
 @279 = ~Oui, Bouh, des gens bizarres, mais c'est pour ça que ce sont des étrangers, oui. En Rashéménie, si un homme peut devenir mage, mais qu'il ne veut pas, il part en exil, mais Maître Quayle, ici, est mage et il est en exil. Et il marche sans protection, Bouh, à découvert ! Cela donne mal à la tête de Minsc.~
-@280 = ~Attends, mon intellect démesuré a trouvé la lumière là où un homme moyen marcherait des années dans les ténèbres. Parmi les Rashémi, les hommes mages sont appelés Vremyonni et les femmes, Wychlaran... et il semble que ton peuple prenne grand soin de protéger les uns et les autres... Qui aurait cru que des coutumes aussi raffinées existent parmi les sauvages de l'Est ?~
+@280 = ~Attends, mon intellect démesuré a trouvé la lumière là où un homme moyen marcherait des années dans les ténèbres. Parmi les Rashémis, les hommes mages sont appelés Vremyonnis et les femmes, Wychlarans... et il semble que ton peuple prenne grand soin de protéger les uns et les autres... Qui aurait cru que des coutumes aussi raffinées existent parmi les sauvages de l'Est ?~
 @281 = ~Tu es vraiment presque aussi futé que Bouh, Quayle ! Même si tu ne veux pas te cacher, tu ne peux pas manquer l'opportunité de parler avec un autre savant et apprendre de la sagesse de Bouh, alors recule et ne t'inquiète pas de l'ennemi, Minsc surveille la piste et vous protège tous les deux.~
 @282 = ~Hélas, bien que je sois un géant de l'esprit, j'ai laissé mes pensées galoper trop vite. Je dois réévaluer cette déclaration sur les gens de l'Est à la lumière de cette dernière découverte : un de leur espèce croit que mon incroyable capacité intellectuelle est inférieure à celle d'un vulgaire hamster.~
 @283 = ~Arrête de pousser ce rongeur de taille inhabituelle dans mon capuchon, Minsc ! Ça chatouille ! Ay-ay-ay !~

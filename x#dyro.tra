@@ -47,7 +47,7 @@
 @45   = ~Alors Te crois-Tu destiné à un avenir exceptionnel ? Et si tel était le cas, serais-Tu prêt pour les devoirs et obligations que cela implique, ou l'accepterais-Tu aveuglément ?~
 @46   = ~Ah, j'accepterais tant de choses venant de vous...~
 @47   = ~Eh bien, en me délivrant de ma captivité, bien entendu ! Cet achèvement à lui seul est preuve de grandeur. Es-Tu prêt pour les devoirs et obligations qu'elle implique, ou l'accepteras-Tu aveuglément ?~
-@48   = ~Nous pourrions peut-être discuter de sujets historiques un peu plus légers, tels que "L'Histoire de Dame Dynahéir". Cela va me tenir éveillé, pour sûr.~
+@48   = ~Nous pourrions peut-être discuter de sujets historiques un peu plus légers, tels que « L'Histoire de Dame Dynahéir ». Cela va me tenir éveillé, pour sûr.~
 @49   = ~Je peux Te jurer que je ne porte moi-même aucun intérêt aux discussions stériles, et aux pertes de temps qu'elles impliquent. Je ne peux qu'espérer que Tu sauras apprécier ces débats à leur juste valeur.~
 @50   = ~Je devrais essayer de maintenir suffisamment Ton intérêt pour que Tu ne T'endormes point. Mais si la fatigue venait à Te submerger, Tu as ma parole que je Te couvrirai de Ta cape, et que je Te laisserai Te reposer jusqu'à l'aube.~
 @51   = ~Je commence à me dire que m'endormir pourrait s'avérer être plus intéressant que la conversation, ma petite érudite. *Faire du pied à Dynahéir.*~
@@ -91,7 +91,7 @@
 @86   = ~Le Raumathar et le Narfell étaient deux grands Empires des temps anciens. Le Narfell figurait un royaume grand et cruel, dont les dirigeants avaient conclu de sombres pactes avec des créatures venues d'autres mondes. Le Raumathar était une nation de nomades de l'est, qui vivaient dans la Désolation Infinie, et qui avait fini par s'étendre de Sossal au nord jusqu'au Lac Brumeux au sud. Leurs célèbres mages de bataille se sont révélés être un défi de taille pour les cavaliers et les démonologistes Nar. Bien que séparés par le Grand Glacier, les deux empires étaient des ennemis mortels.~
 @87   = ~Après des siècles de disputes frontalières, la guerre éclata. De grands héros luttèrent dans les steppes et les marais baignés dans le sang, et, pour certains d'entre eux, les sables du temps nous empêchent de chanter leurs louanges. Rauthok, Jesthren et Halduplac en furent, et leurs exploits sont dès lors devenus célèbres. L'on dit que le Narfell et le Raumathar ont rassemblé toutes leurs puissances en une dernière bataille. Des fiélons venus des mondes Nether ont fait face aux dragons ; des hommes et des nains mourrurent ; des villes furent brûlées ; et en fin de compte, là où se tenaient deux fiers Empires, se dresse aujourd'hui la Désolation Infinie.~
 @88   = ~Dynahéir, pensez-vous que la Porte de Baldur et l'Amn se sont engagés sans le savoir sur le même chemin ?~
-@89   = ~Oui, mais à moins que je ne me trompe, ces guerres ont donné vie à votre propre pays, sorcière, non ? N'est-ce pas ainsi que l'esprit des guerriers Rashémi s'est forgé, telle une lame, alors que votre peuple s'est battu, pris entre deux Empires en guerre ? A quelque chose, malheur est toujours bon.~
+@89   = ~Oui, mais à moins que je ne me trompe, ces guerres ont donné vie à votre propre pays, sorcière, non ? N'est-ce pas ainsi que l'esprit des guerriers rashémis s'est forgé, telle une lame, alors que votre peuple s'est battu, pris entre deux Empires en guerre ? A quelque chose, malheur est toujours bon.~
 @90   = ~Un récit intéressant, Dynahéir, mais nous devons y aller.~
 @91   = ~Non. Mais je crains que les peuplades de l'Amn et de la Porte de Baldur soient manipulées pour entrer dans cette guerre par quelqu'un qui connait l'Histoire.~
 @92   = ~Dynahéir, je ne comprends pas...~
@@ -99,11 +99,11 @@
 @94   = ~Jeune homme, il m'est parfois bien difficile de croire que Tu a été élevé dans la citadelle du savoir ! Très bien, je ne prêterai guère attention à Tes manières irrévérencieuses au nom de choses plus pressantes. Maintenant, écoute-moi attentivement.~
 @95   = ~Tu es bien naïf, si Tu crois que cette guerre a eu un gagnant. Certes, le pays du Narfell existe encore aujourd'hui, mais son peuple est primitif, et la seule chose qui les sépare des Raumvira, c'est le fait que leur nom est resté sur les cartes de notre temps, alors que "l'Infini Empire Raumathar" n'existe plus que dans les vieux manuscrits de Ta bibliothèque.~
 @96   = ~Vous êtes une femme très sage, Dynahéir, et je ne peux qu'être d'accord avec vous. Pensez-vous que la Porte de Baldur et l'Amn se sont engagés sans le savoir sur le même chemin d'auto-destruction ?~
-@97   = ~Oui, oui, mais à moins que je ne me trompe, ces guerres ont donné vie à votre propre pays, sorcière, non ? N'est-ce pas ainsi que l'esprit des guerriers Rashémi s'est forgé, telle une lame, alors que votre peuple s'est battu, pris entre deux Empires en guerre ? A quelque chose, malheur est toujours bon.~
+@97   = ~Oui, oui, mais à moins que je ne me trompe, ces guerres ont donné vie à votre propre pays, sorcière, non ? N'est-ce pas ainsi que l'esprit des guerriers rashémis s'est forgé, telle une lame, alors que votre peuple s'est battu, pris entre deux Empires en guerre ? A quelque chose, malheur est toujours bon.~
 @98   = ~*sourit* L'on a certes grand besoin d'un héros, mais a-t-on vraiment besoin d'un gouvernant ? Je crains que parmi les puissants, quelqu'un cherche à provoquer cette guerre entre les deux nations.~
 @99   = ~Vous pensez que quelqu'un complote délibérément pour provoquer une guerre entre les deux nations ? Mais pourquoi ?~
 @100  = ~*Dynahéir sourit à votre plaisanterie, et vous répond d'un ton léger.* Si fait, Tu pourrais bien être celui dont parlent toutes les anciennes légendes.~
-@101  = ~Je n'ai pas de certitude absolue, <CHARNAME>, mais ces évènements ne me semblent pas être survenus... par accident. Il est des hommes pareils à des sangsues : il se gonflent au contact du sang. *pensive* J'espère... j'espère que Tu n'es point de ceux-là.~
+@101  = ~Je n'ai pas de certitude absolue, <CHARNAME>, mais ces événements ne me semblent pas être survenus... par accident. Il est des hommes pareils à des sangsues : il se gonflent au contact du sang. *pensive* J'espère... j'espère que Tu n'es point de ceux-là.~
 @102  = ~Vous voulez dire... des vampires ? Je ne suis pas du tout un vampire, ma beauté. Dans le cas contraire, je ne serais pas en train de discuter avec vous, je serais plutôt en train de mordre votre joli petit cou.~
 @103  = ~Je suis un tueur efficace, Dynahéir, mais je ne retire aucun plaisir au carnage.~
 @104  = ~Peu importe. Reprenons la route.~
@@ -113,7 +113,7 @@
 @108  = ~Je crains que parmi ceux qui ont le pouvoir, quelqu'un cherche à provoquer cette guerre entre les deux nations.~
 @109  = ~Gorion T'a bien éduqué.~
 @110  = ~Par les Trois ! Tu n'es qu'un gamin qui ne sait pas quand il convient de plaisanter, et quand il faut être sérieux !~
-@111  = ~*Dynahéir acquiesce avec contentement, et murmure quelque chose. Vous avez cru entendre un mot dans ce murmure : "espoir".*~
+@111  = ~*Dynahéir acquiesce avec contentement, et murmure quelque chose. Vous avez cru entendre un mot dans ce murmure : « espoir ».*~
 @112  = ~*Dynahéir hausse des épaules, comme si ce que vous avez dit n'avait pas d'importance, mais elle pince doucement le haut de son nez, comme elle fait chaque fois qu'elle pense à quelque chose d'important.*~
 
 
@@ -197,7 +197,7 @@
 @189  = ~Je serais bien médiocre historienne si j'agissais de la sorte, non ? *Dynahéir parle à la légère, mais vous sentez de la surprise dans sa voix.*~
 @190  = ~J'aime mieux ça.~
 @191  = ~Par les trois ! N'est-il donc pas une seule de Tes pensées qui ne soit grivoise ?~
-@192  = ~*sourit* Peut-être... si "idiot" signifie valeureux.~
+@192  = ~*sourit* Peut-être... si « idiot » signifie valeureux.~
 
 
 //Dynahéir et Charname se reposent dans une auberge ; Dyna fait sa timide
@@ -312,27 +312,27 @@
 @298  = ~Justement, je veux apprendre. Je sais que je peux me permettre de faire des erreurs. Donc, quel est le problème ?~
 @299  = ~Aurais-je oublié de vous féliciter pour votre centième anniversaire, vieille Dynahéir ?~
 @300  = ~Si votre objectif était de tout ficher par terre, alors bravo. Vous avez réussi.~
-@301  = ~Ne sois pas irréfléchi, <CHARNAME>. Les évènements ne Te prendront pas au dépourvu.~
+@301  = ~Ne sois pas irréfléchi, <CHARNAME>. Les événements ne Te prendront pas au dépourvu.~
 @302  = ~Tu as raison. Ce n'est rien, crois-moi.~
-@303  = ~J'aimerais que Tu sois plus précautionneux, <CHARNAME>. D'aucuns ici-bas ont le pouvoir d'influencer... le cours des évènements. Tu pourrais bien être l'une de ces personnes.~
-@304  = ~Non, ce n'est point un péché... Mais j'aimerais simplement que Tu sois plus précautionneux, <CHARNAME>. D'aucuns ici-bas ont le pouvoir d'influencer... le cours des évènements. Tu pourrais bien être l'une de ces personnes.~
-@305  = ~<CHARNAME> ! Tu ne pourras pas T'en tirer en sarcasmes. Fais bien attention à ce que Tu fais et à ce qui Te pousse à le faire. D'aucuns ici-bas ont le pouvoir d'influencer... le cours des évènements. Tu pourrais bien être l'une de ces personnes.~
+@303  = ~J'aimerais que Tu sois plus précautionneux, <CHARNAME>. D'aucuns ici-bas ont le pouvoir d'influencer... le cours des événements. Tu pourrais bien être l'une de ces personnes.~
+@304  = ~Non, ce n'est point un péché... Mais j'aimerais simplement que Tu sois plus précautionneux, <CHARNAME>. D'aucuns ici-bas ont le pouvoir d'influencer... le cours des événements. Tu pourrais bien être l'une de ces personnes.~
+@305  = ~<CHARNAME> ! Tu ne pourras pas T'en tirer en sarcasmes. Fais bien attention à ce que Tu fais et à ce qui Te pousse à le faire. D'aucuns ici-bas ont le pouvoir d'influencer... le cours des événements. Tu pourrais bien être l'une de ces personnes.~
 
 
 //Dynahéir et Charname parlent de Château-Suif et des prophéties d'Alaundo
 @306  = ~Je T'envie d'avoir grandi à Château-Suif. L'esprit d'Alaundo le Sage emplit ces lieux.~
 @307  = ~*sourire* En effet. Le Chant des Prophéties Inaccomplies reste ininterrompu... Oh Dynahéir, si seulement vous pouviez voir les moines chanter ce qui ne s'est pas encore produit. Cela est... inspirant.~
 @308  = ~Ah, ma dame, les legs d'Alaundo font partie de ces choses qu'un jeune homme tel que moi racontait aux visiteurs, espérant une pièce en retour, mais sans y penser vraiment. Aujourd'hui, j'aurais aimé y avoir prêté plus attention... mais cela a toujours fait partie de mon environnement, et c'est pourquoi je ne me suis jamais intéressé aux Neuf Présages d'Alaundo, ni écouté le Chant des Prophéties Inaccomplies.~
-@309  = ~Alaundo ? Le nom m'est bien familier, mais je ne me suis jamais intéressé aux diseurs de bonne aventure. Tous ces grands évènements et ces références boiteuses à la chute des Rois, ce n'est pas ma tasse de thé.~
+@309  = ~Alaundo ? Le nom m'est bien familier, mais je ne me suis jamais intéressé aux diseurs de bonne aventure. Tous ces grands événements et ces références boiteuses à la chute des Rois, ce n'est pas ma tasse de thé.~
 @310  = ~Dynahéir, vous êtes vraiment géniale ! Envier mon éducation aux côtés de l'esprit d'Alaundo ! *pouffement* Tout ce que je voulais, c'était ne pas être l'un de ces trente moines qui devaient mémoriser les neuf mille prophéties par coeur. Si je devais vous en réciter dix par jour, cela me prendrait trois bonnes années pour parcourir tout le répertoire. La quantité à elle seule est décourageante.~
 @311  = ~Alaundo était un suivant d'Augathra la Démente. Le saviez-vous, ma dame ?~
 @312  = ~*prudemment* Tu dis que c'est... inspirant... De quelle manière ?~
-@313  = ~Personne ne le dirait mieux qu'Alaundo lui-même, Hathran. "La connaissance de l'avenir n'est pas la clef du bonheur, et ne doit apporter nulle satisfaction, seulement la paix et la vérité. Aussi terrible que soit la tragédie future, avant que le jour-dit ne vienne, il y aura toujours un lendemain." Je... j'y trouve un sens particulier depuis la mort de Gorion.~
+@313  = ~Personne ne le dirait mieux qu'Alaundo lui-même, Hathran. « La connaissance de l'avenir n'est pas la clef du bonheur, et ne doit apporter nulle satisfaction, seulement la paix et la vérité. Aussi terrible que soit la tragédie future, avant que le jour-dit ne vienne, il y aura toujours un lendemain. » Je... j'y trouve un sens particulier depuis la mort de Gorion.~
 @314  = ~Bah, si un érudit de bas étage arrive à devenir un grand homme en écrivant des tomes et des tomes de vers incompréhensibles, alors c'est qu'il y a de l'espoir pour nous.~
 @315  = ~Je n'apprécie guère la lueur qu'il y a dans vos yeux, Hathran. C'est celle d'un chasseur qui scrute sa proie avant de décocher sa flèche.~
 @316  = ~Tu n'as donc connaissance d'aucune prophétie ? As-Tu seulement étudié les Neuf Présages ?~
 @317  = ~Gorion m'en avait récité quelques uns, mais je me suis toujours dit qu'il fallait être un érudit possédant la sagesse de l'âge pour vraiment les apprécier.~
-@318  = ~Je me souviens de celui qui parle du Temps des Troubles selon eux. "L'oiseau blanc disparaîtra du Nord, et un grand mal mourra et renaîtra." Pourquoi cela concerne le Temps des Troubles, je ne m'en rappelle pas. Je croyais que cela faisait référence à un été particulièrement chaud au Val de Bise, avec toute la neige qui fondrait, et l'hiver qui reviendrait au bout d'un certain temps...~
+@318  = ~Je me souviens de celui qui parle du Temps des Troubles selon eux. « L'oiseau blanc disparaîtra du Nord, et un grand mal mourra et renaîtra. » Pourquoi cela concerne le Temps des Troubles, je ne m'en rappelle pas. Je croyais que cela faisait référence à un été particulièrement chaud au Val de Bise, avec toute la neige qui fondrait, et l'hiver qui reviendrait au bout d'un certain temps...~
 @319  = ~J'ai honte de l'avouer, mais je ne m'en souviens que d'un seul, et qui tient plus de l'anecdote, Hathran. Année 1 263, l'Année du Tressym... "Dans la cité de la lune, les Oiseaux de la Dame chanteront..." Je me souviens qu'il s'est murmuré que Dame Alustriel a simplement haussé les épaules, rappelant que les prophéties d'Alaundo était aussi éparpillées que les tressym de cette année-là... qui ont effectivement hanté les toits de Lunargent pendant près de deux semaines.~
 @320  = ~Non... pas vraiment... Non, attendez ! Quel était ce chant, le jour où j'ai quitté Château-Suif ? Hmmm... une prophétie de mauvaise augure... *Imiter le Chanteur.* "Le Seigneur du Meurtre périra, mais avant sa chute il engendrera une lignée de mortels qui sèmeront le chaos sur leur passage. C'est ce que dit le sage Alaundo."~
 @321  = ~Non... pas vraiment... Non, attendez ! Quel était ce chant, le jour où j'ai quitté Château-Suif ? Je crois que la Voix de l'Est chantait quelque chose comme ça : "Durant l'année des Tourelles, un hôte prestigieux nous viendra de l'Est comme une épidémie de sauterelles. C'est ce que dit le sage Alaundo."~
@@ -347,7 +347,7 @@
 @330  = ~Les prophéties d'Alaundo semblent vous passionner, Dynahéir.~
 @331  = ~Je ne saurais me targuer de connaître les neuf mille prophéties d'Alaundo par coeur. Mais je m'en rappelle d'une bonne partie.~
 @332  = ~Gorion m'avait récité quelques uns de ces Présages, mais je me suis toujours dit qu'il fallait être un érudit possédant la sagesse de l'âge pour vraiment les apprécier.~
-@333  = ~Je me souviens de celui qui parle du Temps des Troubles selon eux. "L'oiseau blanc disparaîtra du Nord, et un grand mal mourra et renaîtra." Pourquoi cela concerne le Temps des Troubles, je ne m'en rappelle pas. Je croyais que cela faisait référence à un été particulièrement chaud au Val de Bise, avec toute la neige qui fondrait, et l'hiver qui reviendrait au bout d'un certain temps...~
+@333  = ~Je me souviens de celui qui parle du Temps des Troubles selon eux. « L'oiseau blanc disparaîtra du Nord, et un grand mal mourra et renaîtra. » Pourquoi cela concerne le Temps des Troubles, je ne m'en rappelle pas. Je croyais que cela faisait référence à un été particulièrement chaud au Val de Bise, avec toute la neige qui fondrait, et l'hiver qui reviendrait au bout d'un certain temps...~
 @334  = ~J'ai honte de l'avouer, mais je ne m'en souviens que d'un seul, et qui tient plus de l'anecdote, Hathran. Année 1 263, l'Année du Tressym... "Dans la cité de la lune, les Oiseaux de la Dame chanteront..." Je me souviens qu'il s'est murmuré que Dame Alustriel a simplement haussé les épaules, rappelant que les prophéties d'Alaundo était aussi éparpillées que les tressym de cette année-là... qui ont effectivement hanté les toits de Lunargent pendant près de deux semaines.~
 @335  = ~Non... pas vraiment... Non, attendez ! Quel était ce chant, le jour où j'ai quitté Château-Suif ? Hmmm... une prophétie de mauvaise augure... *Imiter le Chanteur.* "Le Seigneur du Meurtre périra, mais avant sa chute il engendrera une lignée de mortels qui sèmeront le chaos sur leur passage. C'est ce que dit le sage Alaundo."~
 @336  = ~Pardonne-moi si j'ai remué le couteau dans la plaie par inadvertance, <CHARNAME>. *Dynahéir semble confuse sans que vous ne sachiez pourquoi, et s'éloigne sans autre forme de procès.*~
@@ -430,7 +430,7 @@
 @410  = ~Est-ce que vous êtez en train de me dire que je vous ai violée spirituellement dans ce rêve idiot ?!~
 @411  = ~Ne cherche pas Ton erreur, la faute est mienne uniquement.~
 @412  = ~Je ne suis guère pleutre, <CHARNAME>. Mais à l'avenir, je ne connaitrai le contenu de Tes rêves uniquement lorsque Tu m'en feras part.~
-@413  = ~Je suis une Hathran, <CHARNAME>, et je suis entraînée à la magie de combat, à lire et décrypter les anciens manuscrits, et à observer les évènements. Cela satisfait-il Ta curiosité ?~
+@413  = ~Je suis une Hathran, <CHARNAME>, et je suis entraînée à la magie de combat, à lire et décrypter les anciens manuscrits, et à observer les événements. Cela satisfait-il Ta curiosité ?~
 @414  = ~Oui, ça me suffit. Vous êtes un compagnon de valeur.~
 @415  = ~*sourire malicieux* Il m'est fort aise que vous n'ayez point d'affinité avec les poisons ; je dormirai mieux à partir de maintenant.~
 @416  = ~Vous savez quoi, femme ? Vous êtes effrayante. J'espère que vous comprendrez que je souhaite prendre mes distances, à partir de maintenant.~
@@ -457,47 +457,47 @@
 
 //Dynahéir parle de son peuple, et du conflit qui l'oppose à Thay
 @436  = ~...et c'est ainsi que Thay tenta sa première incursion en l'an de grâce 934 dans les Gorges de Gauros, mais fut repoussé.~
-@437  = ~Oh, Dynahéir, doit-on vraiment parler d'évènements aussi anciens ?~
+@437  = ~Oh, Dynahéir, doit-on vraiment parler d'événements aussi anciens ?~
 @438  = ~Et maintenant, quatre cents ans plus tard, ils n'ont toujours pas réussi. Votre pays doit avoir de sacrées tripes pour repousser ces envahisseurs étrangers, Dynahéir.~
 @439  = ~Dynahéir, d'après ce que vous m'avez dit de la Rashéménie... qu'est-ce qui peut autant motiver Thay pour l'envahir ?~
 @440  = ~*sourire* Et le dernier chapitre de cette lutte éternelle se joue sous mon nez.~
-@441  = ~Et les femmes Rashémi, ont-elles toujours été aussi belles qu'à présent ?~
-@442  = ~Ce sont les évènements passés qui définissent notre présent. Nous nous devons d'y porter intérêt, <CHARNAME>.~
+@441  = ~Et les femmes rashémies, ont-elles toujours été aussi belles qu'à présent ?~
+@442  = ~Ce sont les événements passés qui définissent notre présent. Nous nous devons d'y porter intérêt, <CHARNAME>.~
 @443  = ~La dernière invasion sournoise sur la Rashéménie nous a été infligée il y a de cela trois ans. Les Magiciens Rouges ont tenté de faire fondre les glaciers au sommet des Montagnes du Levant.~
 @444  = ~Dynahéir... vous avez toute mon attention. Pourquoi les Thayens auraient voulu faire fondre les glaciers ?~
 @445  = ~Par les Neuf Enfers ! Mais pourquoi ?!~
-@446  = ~Laissez-moi deviner : cela a causé une inondation, et les armées de Thay ont lancé leurs assauts alors que les Hathran étaient distraites par les réparations.~
+@446  = ~Laissez-moi deviner : cela a causé une inondation, et les armées de Thay ont lancé leurs assauts alors que les Hathrans étaient distraites par les réparations.~
 @447  = ~Et ce juste après avoir comploté avec les Tuigans qui avaient envahi Thay ! On doit bien leur reconnaître ça, aux Magiciens Rouges : ils sont bigrement têtus et finauds.~
 @448  = ~Quelle ignominie ! Les glaces fondues ont dû causer des inondations, semant chaos et destruction sur leur passage !~
 @449  = ~Dynahéir, laissons donc l'histoire de la guerre tranquille une journée.~
 @450  = ~Je Te remercie pour ces paroles, <CHARNAME>. Nous devrions en effet être fiers de nos exploits, car nous n'avons pas d'autre choix que d'être des guerriers. Thay ne laissera guère de repos à notre terre.~
 @451  = ~Par orgueil pur et simple. Les sous-sols de Thay sont plus riches que les nôtres, et leur terre est plus accueillante. Mais leur soif de conquêtes est sans fin : Rashéménie, Aglarond, même la Mulhorande. Je ne puis guère appréhender une telle avidité.~
-@452  = ~Hélas, Edwin Odesseiron ne fait guère exception ; ceux de son pays sont légions à faire preuve de la même obstination à l'égard des Rashémi, ainsi qu'envers tout le reste du monde qu'ils ne possèdent point. Il est difficile de comprendre une telle avidité...~
+@452  = ~Hélas, Edwin Odesseiron ne fait guère exception ; ceux de son pays sont légions à faire preuve de la même obstination à l'égard des Rashémis, ainsi qu'envers tout le reste du monde qu'ils ne possèdent point. Il est difficile de comprendre une telle avidité...~
 @453  = ~En temps de survie, <CHARNAME>, la beauté n'est que futilité. La force du bras qui manie l'épée et la puissance des sortilèges, la pureté de l'âme et la capacité à commander autant que celle à obéir... voilà ce qui compte.~
 @454  = ~Pour un homme, certes, mais une jeune femme ressemblant à un cheval n'aurait guère mon respect, même si elle surpasse Téthir le Tueur de Dragons en combat et peut vraincre Elminster dans un duel de magie.~
 @455  = ~Vous vous trompez. En temps de survie, protéger la beauté est l'une des choses qui fait que l'on continue de se battre. Que ça soit la beauté de la terre ou de son peuple.~
 @456  = ~Pour des compagnons d'armes, oui, c'est ce qui importe. Mais parfois... parfois, en des temps particulièrement agités, en des circonstances particulièrement défavorables, la camaraderie n'est pas le seul lien qui peut se former entre des personnes.~
 @457  = ~Et tout ce que vous venez de dire contribue à la beauté, Hathran. Vous, par exemple, vous êtes une femme intelligente et volontaire. Votre coeur est honnête, et au coeur de la bataille, je ne ressens pas le besoin de vous surveiller pour vérifier que vous avez besoin d'être secourue. Et néanmoins, parmi toutes les autres demoiselles, vous paraissez telle la lune au milieu des étoiles.~
 @458  = ~Ces qualités que vous décrivez sont indissociables de la beauté. La gemme au pommeau d'une puissante épée est belle, mais elle contribue aussi à l'équilibre de l'arme et fait partie intégrante de sa puissance. Ma dame est tout aussi belle que valeureuse... et je ne saurais dissocier ces deux qualités.~
-@459  = ~Pour distraire les Hathran. La fonte des glace a causé des inondations à Immilmar et à Mulsantir. Mes soeur y sont allées réparer les dégâts et sauver ce qu'elles pouvaient. Au même moment, les forces Thayennes ont traversé les collines du Haut Pays.~
+@459  = ~Pour distraire les Hathrans. La fonte des glace a causé des inondations à Immilmar et à Mulsantir. Mes soeur y sont allées réparer les dégâts et sauver ce qu'elles pouvaient. Au même moment, les forces Thayennes ont traversé les collines du Haut Pays.~
 @460  = ~Comment avez-vous réussi à les arrêter ?~
 @461  = ~Quelle ignominie !~
 @462  = ~*Dynahéir acquiesce doucement.* Oui. En l'an de grâce 1 362, alors qu'ils essayaient d'entrer en Rashéménie par le Thesk, le long de la Voie Dorée, les Thayens ont été encore une fois vaincus, mais ils ont saccagé la côte ouest de la Rivière des Larmes. En l'an de grâce 1 360, ils avaient dirigé la Horde Tuigane sur nous...~
 @463  = ~Dynahéir, avez-vous participé à chacune de ces batailles ?~
 @464  = ~L'on aurait pu croire que les Thayens se seraient lassés, après quatre cents ans de défaites.~
-@465  = ~Pourquoi ne parlerions-nous pas d'un sujet plus léger, Dynahéir ? Par exemple : les femmes Rashémi, ont-elles toujours été aussi belles qu'à présent ?~
+@465  = ~Pourquoi ne parlerions-nous pas d'un sujet plus léger, Dynahéir ? Par exemple : les femmes rashémies, ont-elles toujours été aussi belles qu'à présent ?~
 @466  = ~J'ai grandi dans un endroit de paix, Dynahéir... par conséquent, il m'est difficile d'imaginer votre situation. Et pourtant... j'ai... pitié pour vous, qui avez été forcée de grandir en sachant que la question n'était pas de savoir si, mais quand se déroulerait la prochaine guerre. Et de grâce, ne vous méprenez pas sur le sens de ma "pitié".~
 @467  = ~*froidement* Tu as oublié que deux ans après son alliance avec les Tuigans, Thay a tenté d'entrer en Rashéménie par le Thesk, le long de la Voie Dorée ; les Thayens ont été encore une fois vaincus, mais ils ont saccagé la côte ouest de la Rivière des Larmes.~
 @468  = ~J'ai grandi dans un endroit de paix, Dynahéir... par conséquent, il m'est difficile d'imaginer votre situation. Et pourtant... j'ai... pitié pour vous, qui avez été forcée de grandir en sachant que la question n'était pas de savoir si, mais quand se déroulerait la prochaine guerre. Et de grâce, ne vous méprenez pas sur le sens de ma "pitié".~
 @469  = ~*Dynahéir rit à la vue de votre imitation ; elle fait montre d'une joie enfantine inattendue.*~
 @470  = ~Eh bien, je croyais aussi que ceci valait mieux que de se disputer avec lui. Mais parlez-moi donc plus avant de Thay et de la Rashéménie.~
 @471  = ~*Heureux d'avoir déridé la sorcière pour un moment, vous vous lancez dans un grand éclat de rire et vous joignez à elle face à la retraite d'Edwin.*~
-@472  = ~Oh, Dynahéir ! Si seulement vous étiez plus joviale. Votre sourire vous rend éblouissante ! Les femmes Rashémi étaient-elles aussi belles, durant les temps ancestraux ?~
-@473  = ~Sois prudent quant aux conseils du Magicien Rouge, <CHARNAME>. Nous autres, les Rashémi, ne connaissons que trop bien la vilénie dont les Thayens peuvent faire montre.~
+@472  = ~Oh, Dynahéir ! Si seulement vous étiez plus joviale. Votre sourire vous rend éblouissante ! Les femmes rashémies étaient-elles aussi belles, durant les temps ancestraux ?~
+@473  = ~Sois prudent quant aux conseils du Magicien Rouge, <CHARNAME>. Nous autres, les Rashémis, ne connaissons que trop bien la vilénie dont les Thayens peuvent faire montre.~
 @474  = ~Tu n'as encore rien accompli ; Ton respect ne signifierait pas grand-chose pour une telle femme. J'ose espérer que Gorion T'a mieux éduqué dans d'autres domaines. A présent, pourrions-nous en revenir à l'histoire des guerres ?~
 @475  = ~Je n'avais pas encore considéré les choses sous cet angle, <CHARNAME>. Cela est bien dit. Et c'est une excellente raison de manier l'épée. Maintenant, pourrions-nous en revenir à l'histoire des guerres ?~
 @476  = ~C'est ce que les chants des bardes racontent, bien souvent. Mais de tels récits sont réalisés en temps de paix, la plupart du temps. Mais que demander, lorsqu'il n'y a ni paix, ni répit ?~
-@477  = ~Tu parles bien, <CHARNAME>. Si j'étais une jeune femme de Ton expérience, je demanderais à en entendre davantage. Mais il me semble que mon devoir est de Te parler des évènements du monde qui nous entoure, et non de mes qualitées, fussent-elles réelles ou imaginaires. Maintenant, s'il Te plaît, écoute bien l'histoire des guerres.~
+@477  = ~Tu parles bien, <CHARNAME>. Si j'étais une jeune femme de Ton expérience, je demanderais à en entendre davantage. Mais il me semble que mon devoir est de Te parler des événements du monde qui nous entoure, et non de mes qualitées, fussent-elles réelles ou imaginaires. Maintenant, s'il Te plaît, écoute bien l'histoire des guerres.~
 @478  = ~Les élémentaires furent outrés par une telle utilisation détournée de la nature, et sont venus nous porter assistance. C'est ainsi que Thay fut, une fois encore, défait. Mais les Magiciens Rouges font bien peu cas de ce qui les entoure, même de la Grande Mère elle-même. En l'an de grâce 1 362, alors qu'ils étaient en pleine retraite, les Thayens ont saccagé la côte ouest de la Rivière des Larmes. En l'an de grâce 1 360, lorsqu'ils avaient dirigé la Horde Tuigane sur nous, ils ont scindé les eaux de la rivière en deux pour permettre à la Horde de se retirer...~
 @479  = ~J'ai fait front avec mes soeurs lors de la bataille finale, mais mon dajemma m'a tenue éloignée lorsque la Horde fut venue.~
 @480  = ~Vous étiez déjà en dajemma ?~
@@ -511,11 +511,11 @@
 @485  = ~<CHARNAME>, Tes aventures me font fortement penser à une coutume de mon peuple : le dajemma.~
 @486  = ~Et qu'est-ce, au juste, le dajemma, Dynahéir ?~
 @487  = ~Minsc et vous répétez souvent ce mot... dajemma. Mais qu'est-ce donc ?~
-@488  = ~Effectivement. Les Rashémi ont pour habitude de voyager en des terres étrangères. Mais moi, je suis en train de découvrir mon propre pays.~
+@488  = ~Effectivement. Les Rashémis ont pour habitude de voyager en des terres étrangères. Mais moi, je suis en train de découvrir mon propre pays.~
 @489  = ~Que voilà une coutume des plus sages. Il faut voir le monde et rencontrer des gens différents avant de pouvoir se dire complètement adulte.~
 @490  = ~Dynahéir, les vôtres partent en dajemma, et vous voyez ça au mieux comme une grande aventure, et au pire comme une grande course festive. Mais moi, j'ai été chassé de ma terre natale, traqué jusque par-delà les collines et les plaines par un mystérieux adversaire. Comment pouvez-vous nous comparer ?~
-@491  = ~Gorion m'avait dit, une fois, que ma mère avait du sang Rashémi. Personne ne peut me dire si c'est vrai, et ce qu'elle faisait ici, si loin à l'ouest... Il est possible que je ne fasse que poursuivre un dajemma interrompu il y a des années de cela...~
-@492  = ~Gorion m'avait dit, une fois, que ma mère avait du sang Rashémi. Je n'y avais pas repensé, récemment... en apprenant de qui je suis l'enfant. Il est possible que je ne fasse que poursuivre un dajemma interrompu il y a des années de cela par un crime atroce.~
+@491  = ~Gorion m'avait dit, une fois, que ma mère avait du sang rashémi. Personne ne peut me dire si c'est vrai, et ce qu'elle faisait ici, si loin à l'ouest... Il est possible que je ne fasse que poursuivre un dajemma interrompu il y a des années de cela...~
+@492  = ~Gorion m'avait dit, une fois, que ma mère avait du sang rashémi. Je n'y avais pas repensé, récemment... en apprenant de qui je suis l'enfant. Il est possible que je ne fasse que poursuivre un dajemma interrompu il y a des années de cela par un crime atroce.~
 @493  = ~C'est le rite de passage à l'âge adulte de mon peuple. Un Rashémi doit avoir voyagé dans des terres lointaines avant l'âge de vingt ans, afin d'acquérir la connaissance des pays étrangers, et de soi-même. Mon compagnon, Minsc, était en train d'accomplir ce voyage permettant d'acquérir la sagesse.~
 @494  = ~Mon coeur saigne de concert avec le vôtre pour notre compagnon tombé au champ d'honneur.~
 @495  = ~Ma dame, je n'ignore point que vous souhaiteriez que votre compagnon soit à vos côtés, mais ce n'est pas possible pour le moment. Soyez assurée, cependant, que ma compagnie vaut celle d'un garde du corps.~
@@ -534,7 +534,7 @@
 @508  = ~Je pense que l'objectif d'un dajemma est de se découvrir soi-même, et non un pays étranger.~
 @509  = ~Une tradition des plus avisées, bien qu'elle soit souvent maltraitée, ces derniers temps.~
 @510  = ~Et comment donc, Dynahéir ?~
-@511  = ~*rictus* La rumeur dit que, de nos jours, les jeunes Rashémi considèrent le dajemma comme une excursion joyeuse, une excuse pour se complaire dans le stupre et la débauche, loin de la surveillance des anciens.~
+@511  = ~*rictus* La rumeur dit que, de nos jours, les jeunes rashémis considèrent le dajemma comme une excursion joyeuse, une excuse pour se complaire dans le stupre et la débauche, loin de la surveillance des anciens.~
 @512  = ~L'on peut faire abus de toute chose, Dynahéir. Mais certains suivent cette tradition sans réserve aucune ; je le sais car c'est ce que je vois en vous.~
 @513  = ~C'est bien dommage. Savent-ils seulement que la connaissance qu'ils cherchent est la connaissance d'eux-mêmes ?~
 @514  = ~Les circonstances importent peu ; seul le résultat compte. Chaque jour que les dieux font, je vois de plus en plus en Toi le vaillant homme que Tu aurais tardé à devenir. Voilà pourquoi je clame que Tu es en dajemma.~
@@ -575,14 +575,14 @@
 @549  = ~Je Te le concède.~
 @550  = ~*sourit* Bien que Tu figures preuve vivante du contraire.~
 @551  = ~Ce n'était guère une critique, et je Te présente mes excuses si mes propos T'ont paru par trop passionnés. Un homme aussi talentueux que Toi devrait se fixer comme obectif d'apprendre autant qu'il peut du monde qui l'entoure, par crainte de se retrouver aveuglé, et que l'on finisse par le considérer tel une mule que l'on monterait pour aller en des destinations insolites. Tu Te dois de comprendre par Toi-même ce qui est bien, et ce qui ne l'est point.~
-@552  = ~Et moi qui croyais que les Hathran n'avaient aucun scrupule à manipuler les autres pour leurs propres fins...~
+@552  = ~Et moi qui croyais que les Hathrans n'avaient aucun scrupule à manipuler les autres pour leurs propres fins...~
 @553  = ~Parlez-vous au fils de Bhaal, ou à <CHARNAME> ?~
 @554  = ~Je n'en crois pas mes oreilles, Hathran. Je croyais que votre but était justement de vous faufiler et de me contrôler... pour la bonne cause, s'entend.~
 @555  = ~J'aime ce que vous dîtes, Hathran. Maintenant, retournons-en à nos explorations !~
 @556  = ~Donc, ça veut dire que vous pensez que je suis en dajemma, moi aussi ?~
 @557  = ~C'est une généralisation. Et comme toutes les généralisations, il ne faut pas s'y fier.~
 @558  = ~Les terres sont différentes. Les peuplades aussi.~
-@559  = ~Certes, il s'agit là de la partie la plus importante du dajemma. Et je vois qu'en Toi, cela fonctionne mieux qu'avec bien des nobles Rashémi, qui ignorent tout du sens et de la finalité de ce voyage.~
+@559  = ~Certes, il s'agit là de la partie la plus importante du dajemma. Et je vois qu'en Toi, cela fonctionne mieux qu'avec bien des nobles rashémis, qui ignorent tout du sens et de la finalité de ce voyage.~
 @560  = ~La plupart des jeunes nobles y voient une excuse pour voyager où bon leur semble, pour passer leur temps en beuveries et débauches, plutôt que d'en apprendre plus sur les autres pays, et sur eux-mêmes. Le véritable but du dajemma est de découvrir sa propre âme, de voir de quel bois l'on est fait... et néanmoins, ils sont tant à oublier le sens et la finalité de ce voyage.~
 @561  = ~<CHARNAME>, en Toi, je vois comment cela devrait agir sur les jeunes gens.~
 @562  = ~Soit, mais ne crois pas que ceux qui dévient du chemin soient des héros. L'esprit de rebellion sied bien à la jeunesse, mais ne saurait se substituer à la connaissance de soi. Car tel est l'objectif du dajemma.~
@@ -599,7 +599,7 @@
 @570  = ~Reculez, tout le monde ! RECULEZ ! La sorcière de Minsc veut parler à <CHARNAME> en PRIVE !~
 @571  = ~Squiik !~
 @572  = ~Les efforts de Minsc et de Bouh ! Mon hamster est aussi sur ses gardes pour toi !~
-@573  = ~Mais bien entendu, tu ne peux pas comprendre tout ceci, sorcière, car tu es issue d'un peuple d'esclaves, tandis que nous, Thayens, sommes une nation de maîtres. N'essaie pas de faire craquer la noix qui te sert de cervelle. <CHARNAME>, je n'ai jamais eu une haute opinion de toi, mais écouter une de ces Hathran primitives, alors qu'un Magicien Rouge (et j'ajouterais : un Magicien Rouge divinement intelligent et éduqué parmi les meilleurs) marche à tes côtés, cela fait de toi le nouveau mètre-étalon de la bêtise humaine.~
+@573  = ~Mais bien entendu, tu ne peux pas comprendre tout ceci, sorcière, car tu es issue d'un peuple d'esclaves, tandis que nous, Thayens, sommes une nation de maîtres. N'essaie pas de faire craquer la noix qui te sert de cervelle. <CHARNAME>, je n'ai jamais eu une haute opinion de toi, mais écouter une de ces Hathrans primitives, alors qu'un Magicien Rouge (et j'ajouterais : un Magicien Rouge divinement intelligent et éduqué parmi les meilleurs) marche à tes côtés, cela fait de toi le nouveau mètre-étalon de la bêtise humaine.~
 @574  = ~Edwin... nous autres, les singes débiles, sommes tellements bêtes que nous ne pourrions même pas bénéficier des conseils que tu pourrais nous donner. Hou hou ! Ha ha ! HOU HOU HA HA ! *Vous commencez à sauter partout en vous gratouillant les aisselles et en vous tapotant l'arrière-train, imitant le singe, et ce jusqu'à ce qu'Edwin s'éloigne, indigné.*~
 @575  = ~Ca me fatigue tellement, de vous entendre vous chamailler tous les deux... *soupir* Aujourd'hui, c'est la journée de Dynahéir, Edwin. Demain, tu pourras me dire tout ce que tu veux.~
 @576  = ~Vous savez, Dynahéir, Edwin n'a pas tort. Nous avons suffisamment parlé pour aujourd'hui. Maintenant, je vais bavarder un peu avec Edwin.~
@@ -618,7 +618,7 @@
 @586  = ~Vos études, Dynahéir... pourquoi avaient-elle été interrompues ? Je croyais qu'un dajemma devait durer aussi longtemps qu'il le fallait.~
 @587  = ~Effectivement, le Fyrra est un seigneur de guerre local dont les fonctions comprennent la défense de sa colonie.~
 @588  = ~*sourire* Eh bien, il n'aura qu'à se trouver une autre Gardienne. <CHARNAME> de Château-Suif a besoin d'une Dynahéir à ses côtés.~
-@589  = ~Il faut que Tu comprennes que je ne servais pas le Fyrra. Je remplissais mes devoirs envers mon peuple... ce que je continue de faire même en ce moment. Faire partie des Hathran n'implique pas des responsabilités temporaires ; elles servent la Rashéménie en permanence. J'ai une dette de sang envers Toi car Tu m'as sauvé la vie. Je resterai à Tes côtés aussi longtemps que Tu le requéreras, mais ma loyauté va à mon pays en premier lieu.~
+@589  = ~Il faut que Tu comprennes que je ne servais pas le Fyrra. Je remplissais mes devoirs envers mon peuple... ce que je continue de faire même en ce moment. Faire partie des Hathrans n'implique pas des responsabilités temporaires ; elles servent la Rashéménie en permanence. J'ai une dette de sang envers Toi car Tu m'as sauvé la vie. Je resterai à Tes côtés aussi longtemps que Tu le requéreras, mais ma loyauté va à mon pays en premier lieu.~
 @590  = ~*mal à l'aise* Et si une Othlor demandait ma tête, la lui accorderiez-vous ?~
 @591  = ~La Rashéménie est à des lieues d'ici, même à vol d'oiseau le voyage prendrait plusieurs jours. Moi, par contre, l'homme qui vous a tiré des griffes d'une sombre fin et des horreurs du cachot, me tiens juste devant vous. Et pourtant, vous refusez de me jurer féauté. Cela ne me plaît guère, et me fait douter de votre loyauté.~
 @592  = ~Il est toujours bon de savoir lesquels de vos compagnons de route suivent leurs propres objectifs et ne se laissent pas bêtement mener par moi.~
@@ -639,7 +639,7 @@ Est une rouge et sauvage fleur...~
 @603  = ~Ah, je vois. Et votre dajemma ? Vous n'avez voyagé qu'en Sembie ?~
 @604  = ~Bien, j'ai compris. Vous devriez m'en parler plus avant, un de ces jours, mais pas maintenant. Nous devrions y aller.~
 @605  = ~J'ai fait mon dajemma juste après l'époque chaotique qui a suivi le Temps des Troubles. Hélas, alors que mes soeurs et moi-même faisions cap dans la Mer des Etoiles Déchues, nous apprîmes que les hordes Tuiganes avaient envahi les Steppes. Incapables de venir en aide à nos compatriotes en Rashéménie, nous nous portâmes volontaires pour faire partie de la croisade du Roi Azoun pour combattre la horde. Pour faire notre part du travail ; pour aider à rendre les Royaumes plus sûrs.~
-@606  = ~Après cela, mes camarades firent route en direction de la Sembie... et l'on me fit comprendre que j'avais passé mon dajemma avec succès. Néanmoins, toute têtue que j'étais, je choisis de continuer à voyager avec le groupe, car je pensais que mon dajemma n'était pas encore terminé. Les Hathran me suggérèrent d'étudier les écrits des temples de Mystra et d'Azouth, à Saerloon, ce que je m'empressa de faire. J'y ai trouvé une personne extraordinaire, avec qui j'ai continué mes études. Je m'en suis trouvée fort aise.~
+@606  = ~Après cela, mes camarades firent route en direction de la Sembie... et l'on me fit comprendre que j'avais passé mon dajemma avec succès. Néanmoins, toute têtue que j'étais, je choisis de continuer à voyager avec le groupe, car je pensais que mon dajemma n'était pas encore terminé. Les Hathrans me suggérèrent d'étudier les écrits des temples de Mystra et d'Azouth, à Saerloon, ce que je m'empressa de faire. J'y ai trouvé une personne extraordinaire, avec qui j'ai continué mes études. Je m'en suis trouvée fort aise.~
 @607  = ~Ce que j'ignorais alors, c'était que mes soeurs étaient engagées dans de secrètes négociations en vue d'évincer des agents Thayens de Saerloon. Malheureusement, elles furent trahies au profit des Thayens, et après que l'une des nôtres fut tuée dans un guet-apens, l'on nous donna ordre de revenir en Rashéménie.~
 @608  = ~Donc, vous êtes retournée en Sembie, et vous y avez fini les recherches que vous aviez précédemment entreprises. Et où comptiez-vous aller, de là, Dynahéir ?~
 @609  = ~*sourire* Cette fois, vous avez voyagé seule, ainsi, vous étiez sûre que rien n'entraverait vos études. Est-ce que vouliez visiter Château-Suif ? Vous auriez pu me rencontrer, là-bas, si les choses avaient tourné différemment.~
@@ -647,7 +647,7 @@ Est une rouge et sauvage fleur...~
 @611  = ~A moins que...~
 @612  = ~A moins que ?~
 @613  = ~*Vous lancez un sourire mi-figue mi-raisin à Dynahéir.* A moins que je ne devienne fou-furieux, et que je commence à massacrer les gens par centaines ?~
-@614  = ~*Vous prenez la paume de Dynahéir dans votre main et l'amenez doucement à vos lèvres. Délicatement, vous déposez un baiser sur ses doigts bagués.* Il n'y a pas de "à moins que", Dynahéir. Vous voulez que je reste en vie, non ?~
+@614  = ~*Vous prenez la paume de Dynahéir dans votre main et l'amenez doucement à vos lèvres. Délicatement, vous déposez un baiser sur ses doigts bagués.* Il n'y a pas de « à moins que », Dynahéir. Vous voulez que je reste en vie, non ?~
 @615  = ~Bien, je vois. Nous reparlerons de tout ça à la prochaine occasion. Nous devrions y aller, maintenant.~
 @616  = ~Ne me reproche pas ma loyauté envers mon pays, <CHARNAME>. Seul le chagrin ne pourra ressortir de tels sentiments.~
 @617  = ~*mal à l'aise* Eh bien, espérons qu'aucune Othlor ne vous demandera ma tête.~
@@ -658,7 +658,7 @@ Est une rouge et sauvage fleur...~
 @622  = ~*Dynahéir vous regarde attentivement, ses yeux sombres indiquant clairement qu'il vaut mieux laisser tomber le sujet.* Et si je Te parlais plutôt de mes voyages, des terres que j'ai traversées pour arriver jusqu'ici ?~
 @623  = ~*sévèrement* Viens-Tu seulement de composer ceci ? Tu devrais tenir Ton don en plus haute estime, plutôt que de le gaspiller en farces inutiles.~
 @624  = ~*Dynahéir vous regarde attentivement, ses yeux sombres indiquant clairement qu'il vaut mieux laisser tomber le sujet.* Et si je Te parlais plutôt de mes voyages, des terres que j'ai traversées pour arriver jusqu'ici ?~
-@625  = ~Nous voyageâmes jusqu'à Port-Ponant par la mer ; de Port-Ponant, Minsc et moi atteignâmes Ireabor, puis nous prîmes la route reliant Berdusk à Nashkel. A Nashkel, nous avions pour objectif de traverser la Voie du Lion, et suivre au Nord jusqu'à Château-Suif. J'avais un livre sur le folklore Rashémi avec moi, une rareté dans la région, dont je comptais faire don en échange de mon entrée dans la bibliothèque. Mais nous avons fait fausse route, et la suite, Tu la connais, <CHARNAME>.~
+@625  = ~Nous voyageâmes jusqu'à Port-Ponant par la mer ; de Port-Ponant, Minsc et moi atteignâmes Ireabor, puis nous prîmes la route reliant Berdusk à Nashkel. A Nashkel, nous avions pour objectif de traverser la Voie du Lion, et suivre au Nord jusqu'à Château-Suif. J'avais un livre sur le folklore rashémi avec moi, une rareté dans la région, dont je comptais faire don en échange de mon entrée dans la bibliothèque. Mais nous avons fait fausse route, et la suite, Tu la connais, <CHARNAME>.~
 @626  = ~Hé, Dynahéir, on dirait bien que vous venez de me couper une partie de l'histoire. *Pourquoi* avez-vous fait fausse route ?~
 @627  = ~Effectivement, je connais la suite de l'histoire... et pourtant, j'ai toujours le sentiment que je ne vous connais pas. Parlez-moi plus de vous, Dynahéir.~
 @628  = ~Puis, vous vous êtes faite capturer par des monstres malséants, et moi, le grand héros, suis venu vous sauver ! Tra-la-la !
@@ -756,9 +756,9 @@ Que des réprimandes et sortilèges !~
 @706  = ~Te souviens-Tu de l'Année des Ombres, que l'on connaît aussi sous le nom de Temps des Troubles ?~
 @707  = ~Tu es né peu de temps avant.~
 @708  = ~Dynahéir, est-ce qu'on peut parler d'autre chose ? N'IMPORTE QUOI ! S'il vous plaît... Je suis las d'écouter les histoires de Baine, de Myrkul, des Tablettes du Destin et de Bhaal qui avait tout prévu !~
-@709  = ~J'étais un petit garçon de onze ans lors du Temps des Troubles, même si je clamais à qui voulait l'entendre que j'étais déjà un homme, à cette époque-là. Je ne sais rien de plus sur le Temps des Troubles qu'un homme terré dans sa cave n'a l'idée d'une tempête. Il entend le tonnerre, mais il n'en reçoit ni la pluie, ni les éclairs... Gorion n'aimait pas en parler... Je comprends pourquoi, maintenant. Je... j'aimerais bien votre version des évènements, Dynahéir.~
+@709  = ~J'étais un petit garçon de onze ans lors du Temps des Troubles, même si je clamais à qui voulait l'entendre que j'étais déjà un homme, à cette époque-là. Je ne sais rien de plus sur le Temps des Troubles qu'un homme terré dans sa cave n'a l'idée d'une tempête. Il entend le tonnerre, mais il n'en reçoit ni la pluie, ni les éclairs... Gorion n'aimait pas en parler... Je comprends pourquoi, maintenant. Je... j'aimerais bien votre version des événements, Dynahéir.~
 @710  = ~Ah, c'était la débâcle des dieux humains. Je suppose que ça devrait éveiller ma curiosité, vu que mon père s'est révélé être l'un d'entre eux, mais en vérité, je ne m'y suis jamais intéressé. Mais, venant de vous, Dynahéir, toute histoire est la bienvenue. Racontez-moi celle de l'Année des Ombres.~
-@711  = ~J'étais jeune, lors de l'Année des Ombres, et j'étais isolé du monde extérieur. Je ne sais rien de plus sur le Temps des Troubles qu'un homme terré dans sa cave n'a l'idée d'une tempête. Il entend le tonnerre, mais il n'en reçoit ni la pluie, ni les éclairs... Gorion n'aimait pas en parler... Je comprends pourquoi, maintenant. Je... j'aimerais bien votre version des évènements, Dynahéir.~
+@711  = ~J'étais jeune, lors de l'Année des Ombres, et j'étais isolé du monde extérieur. Je ne sais rien de plus sur le Temps des Troubles qu'un homme terré dans sa cave n'a l'idée d'une tempête. Il entend le tonnerre, mais il n'en reçoit ni la pluie, ni les éclairs... Gorion n'aimait pas en parler... Je comprends pourquoi, maintenant. Je... j'aimerais bien votre version des événements, Dynahéir.~
 @712  = ~J'étais à Château-Suif, à l'époque, l'endroit grouillait de sages et de sorciers. Ils ne m'en parlaient pas beaucoup, mais je sentais leurs peurs. Voilà mes seuls souvenirs du Temps des Troubles.~
 @713  = ~Bien sûr, que je me souviens du Temps des Troubles ! J'étais encore plus puissant que Gorion lui-même, grâce à la magie dans mon sang ! Vive moi !~
 @714  = ~Bien sûr, que je me souviens du Temps des Troubles... Il n'y avait plus personne pour veiller sur la Toile, et les magiciens ne pouvaient pas y accéder. Comme nous ne pouvions relâcher la magie, elle envahissait les sorciers comme moi. Je souffrais le martyr ; par moments, mon sang se trouvait froid et circulait au ralenti, épaissi par la magie, alors qu'en d'autres occasions, il surchauffait et explosait dans mes veines... J'ai été à deux doigts de me les ouvrir pour le laisser s'échapper, Dynahéir.~
@@ -767,9 +767,9 @@ Que des réprimandes et sortilèges !~
 @717  = ~Chauntea elle-même a souffert au cours de cette année maléfique. D'étranges créatures ont surgi de son sein pour envahir le monde, les tempêtes ont pullulé en mer, et des vents sauvages ont soufflé à travers les terres. J'étais jeune, à l'époque, mais le déséquilibre de la Balance m'a atteint jusque dans mon âme...~
 @718  = ~Et la Guerre des Dieux, T'en souviens-Tu ?~
 @719  = ~Il me semble... oui, mais ça ne m'a jamais vraiment intéressé.~
-@720  = ~J'étais un petit garçon de onze ans lors du Temps des Troubles, même si je clamais à qui voulait l'entendre que j'étais déjà un homme, à cette époque-là. Je ne sais rien de plus sur le Temps des Troubles qu'un homme terré dans sa cave n'a l'idée d'une tempête. Il entend le tonnerre, mais il n'en reçoit ni la pluie, ni les éclairs... J'aimerais bien votre version des évènements, Dynahéir.~
+@720  = ~J'étais un petit garçon de onze ans lors du Temps des Troubles, même si je clamais à qui voulait l'entendre que j'étais déjà un homme, à cette époque-là. Je ne sais rien de plus sur le Temps des Troubles qu'un homme terré dans sa cave n'a l'idée d'une tempête. Il entend le tonnerre, mais il n'en reçoit ni la pluie, ni les éclairs... J'aimerais bien votre version des événements, Dynahéir.~
 @721  = ~Ah, c'était la débâcle des dieux humains. Mais, venant de vous, Dynahéir, toute histoire est la bienvenue. Racontez-moi celle de l'Année des Ombres.~
-@722  = ~J'étais jeune, lors de l'Année des Ombres, et j'étais isolé du monde extérieur. Je ne sais rien de plus sur le Temps des Troubles qu'un homme terré dans sa cave n'a l'idée d'une tempête. Il entend le tonnerre, mais il ne reçoit ni la pluie, ni les éclairs... J'aimerais bien votre version des évènements, Dynahéir.~
+@722  = ~J'étais jeune, lors de l'Année des Ombres, et j'étais isolé du monde extérieur. Je ne sais rien de plus sur le Temps des Troubles qu'un homme terré dans sa cave n'a l'idée d'une tempête. Il entend le tonnerre, mais il ne reçoit ni la pluie, ni les éclairs... J'aimerais bien votre version des événements, Dynahéir.~
 @723  = ~Voilà pourquoi il ne m'a guère plu que Ton mentor ne T'ait dit la vérité. Il aurait dû mieux Te préparer aux épreuves qu'impliquent Ton héritage. Un peu comme l'on élève un Prince à l'aune des us de son pays, et des devoirs qui l'attendront lorsqu'il deviendra Roi... Et Ton devoir est de loin plus compliqué que celui d'un Prince.~
 @724  = ~Vous ne seriez pas en train d'essayer de corriger ses erreurs en une semaine ? Laissez tomber, Dynahéir ! J'en sais déjà bien assez sur le Temps des Troubles.~
 @725  = ~*soupir* Mon devoir... bien sûr. Bon, parlez-moi du Temps des Troubles, dans ce cas.~
@@ -778,7 +778,7 @@ Que des réprimandes et sortilèges !~
 @728  = ~Euh... Dynahéir, je sais déjà tout ça. Nous devrions nous remettre en route.~
 @729  = ~Et les Tablettes du Destin sont... ?~
 @730  = ~C'est pourquoi le Seigneur Ao a condamnés les dieux à vivre dans des enveloppes mortelles... jusqu'à ce que les Tablettes soient retrouvées. C'est ainsi qu'a commencé la Guerre des Avatars.~
-@731  = ~Il me semble me souvenir que Labelas Enoreth n'est pas resté impartial, face à la débâcle des dieux "humains". Cette histoire devrait Te toucher même au plus profond de Ton coeur, elfe. En l'an de grâce 1 358, Baine et Myrkul ont subtilisé les Tablettes du Destin au Seigneur Ao.~
+@731  = ~Il me semble me souvenir que Labelas Enoreth n'est pas resté impartial, face à la débâcle des dieux « humains ». Cette histoire devrait Te toucher même au plus profond de Ton coeur, elfe. En l'an de grâce 1 358, Baine et Myrkul ont subtilisé les Tablettes du Destin au Seigneur Ao.~
 @732  = ~Euh... Dynahéir, je sais déjà tout ça. Nous devrions nous remettre en route.~
 @733  = ~Et comment Labelas Enoreth a-t-il fait pour se distinguer ainsi ?~
 @734  = ~Ah, maintenant je me souviens qu'Enoreth a combattu Barbedargent à Ruathym. Mais, vraiment, Dynahéir, je crois que Vartan Hai Sylvar et vous-même êtes les deux seules personnes à vous souvenir de ça !~
@@ -790,7 +790,7 @@ Que des réprimandes et sortilèges !~
 @740  = ~Dynaaaaahéir, je ne suis vraiment pas d'humeur pour une énigme... nous devrions... aller combattre quelque chose, d'accord ?~
 @741  = ~Euh... Je pense qu'un certain nombre de dieux sont morts... et que de nouveaux ont été créés. Pourquoi le demandez-vous ?~
 @742  = ~Le plus grand changement, ô mon érudite amie, est que depuis ce jour, la puissance des dieux provient directement du nombre et de la ferveur de leurs fidèles. J'ai réussi l'épreuve, Dynahéir ?~
-@743  = ~Ce fut le plus grand changement que le cataclysme de la Guerre des Dieux apporta au monde de Toril. Mais quel autre évènement important s'est produit ?~
+@743  = ~Ce fut le plus grand changement que le cataclysme de la Guerre des Dieux apporta au monde de Toril. Mais quel autre événement important s'est produit ?~
 @744  = ~La mort des dieux. Voilà qui rappellera pendant longtemps le pouvoir d'Ao, et que toute chose a une fin.~
 @745  = ~Si ma réponse n'était pas celle que vous attendiez de moi, ma dame, peut-être pouvez-vous répondre par vous-même ; ainsi j'aurai appris quelque chose.~
 @746  = ~Là où nous étions, l'une de ces tempêtes a éclaté sur la grande flotte Mulhorandi, qui était sur le point d'apporter la guerre dans nos régions. Elle se dirigeait vers Thay, mais je suis tout de même reconnaissante des tempêtes, car quel Empire aurait pu arrêter ces conquérants victorieux ?~
@@ -826,7 +826,7 @@ Que des réprimandes et sortilèges !~
 @776  = ~Heaum avait pour ordre de défendre l'Escalier Céleste de tous les autres dieux. Mais son pouvoir de persuasion n'était pas très puissant, car il a dû tuer Mystra au lieu d'éviter le conflit.~
 @777  = ~Baine est venu à la ville de Tantras. Là-bas, il fut défait en combat par Torm, mais Torm aussi est tombé. Bhaal a été tué par Cyric, qui portait l'épée magique Fléau des Dieux, au pont de Boareskyr. Il a aussi trahi ses compagnons, et a tué Kelemvor, mais Ao a jugé qu'il était juste d'élever ce dernier à la divinité, et de lui accorder le Royaume des Morts. Myrkul fut détruit au sommet du Mont Eauprofonde par Minuit, qui disposait alors du pouvoir de Mystra. Cette dernière avait été massacrée par Heaum, mais Minuit a choisi de garder son nom et ses attributions, lorsqu'elle devint déesse.~
 @778  = ~Mystra a été tuée, par la main de Heaum, alors qu'elle le défiait pour emprunter l'Escalier Céleste. Sa servante, Minuit, porte son nom et ses attributions, maintenant.~
-@779  = ~Ce fut un plaisir. Souviens-Toi que les temps d'autrefois reprennent souvent vie à la lueur des évènements présents.~
+@779  = ~Ce fut un plaisir. Souviens-Toi que les temps d'autrefois reprennent souvent vie à la lueur des événements présents.~
 
 
 //Charname est blessé, et Dynahéir s'inquiète
@@ -934,7 +934,7 @@ Elle me traitera en grand dadais !~
 @871  = ~Non, ce qui nous éloigne de nos maisons est toujours différent. Pour chacun d'entre nous la route n'est jamais la même, même si nos bottes laissent leurs empreintes sur le même sol boueux. Est-ce que... est-ce que Tu comprends ce que je veux dire ?~
 @872  = ~Pas un mot ! Je suppose que c'est votre charabia habituel. Mais j'aime le son de votre voix... alors je vous en prie, continuez.~
 @873  = ~Parfaitement. *sourire discret* Vous marchez à mes côtés, mais quelle est votre route, Hathran ? Où a-t-elle commencé ? Et pourquoi avez-vous marché aussi loin ?~
-@874  = ~Ô Rashémi, je ne souhaite que vous comprendre. Peut-être que si vous m'en disiez plus sur vous...~
+@874  = ~Ô Rashémie, je ne souhaite que vous comprendre. Peut-être que si vous m'en disiez plus sur vous...~
 @875  = ~Votre petit pied délicat n'aurait jamais dû entrer en contact avec le sol boueux de notre route, ma dame. Je vous aurais bien portée dans mes bras, si seulement vous me l'aviez permis...~
 @876  = ~Tu as raison. *soupir*~
 @877  = ~Dynahéir... vous saurez trouver ici une meilleure oreille que votre loyal compagnon. Une oreille plus... sensible. Voulez-vous essayez ?~
@@ -954,7 +954,7 @@ Elle me traitera en grand dadais !~
 @891  = ~Peut-être vaudrait-il mieux que je n'en fasse rien.~
 @892  = ~Je vous taquinais ! Voyez comme nous en savons si peu l'un sur l'autre ! Nous devrions nous attacher à changer cela... Pourquoi ne commencerions-nous pas par parler de notre passé ? Vous commencez. Après tout, vous en savez plus long sur mon histoire que moi sur la vôtre...~
 @893  = ~Oui, cela vaudrait mieux.~
-@894  = ~Il n'y a pas grand-chose à dire, <CHARNAME>. Je suis née dans une colonie appelée Borovsk, située sur les côtes du Lac des Larmes. Mon père était un seigneur de guerre local, un Fyrra. Comme je Te l'ai déjà dit il y a peu, j'ai été testée par les Hathran à l'âge de cinq ans, et me suis révélée digne de devenir l'une d'entre elles.~
+@894  = ~Il n'y a pas grand-chose à dire, <CHARNAME>. Je suis née dans une colonie appelée Borovsk, située sur les côtes du Lac des Larmes. Mon père était un seigneur de guerre local, un Fyrra. Comme je Te l'ai déjà dit il y a peu, j'ai été testée par les Hathrans à l'âge de cinq ans, et me suis révélée digne de devenir l'une d'entre elles.~
 @895  = ~Donc, on vous a enlevée ?~
 @896  = ~Etes-vous jamais retournée à Borovsk ?~
 @897  = ~J'entrevois quelques similitudes. Moi aussi, j'ai perdu ma famille très jeune, et été élevé par un magicien qui m'a tout appris.~
@@ -962,7 +962,7 @@ Elle me traitera en grand dadais !~
 @899  = ~J'ai arpenté suffisamment de routes pour ne pas me soucier de la boue à mes chaussures, barde.~
 @900  = ~Et c'est exactement pourquoi je souhaite être celui qui vous sortira de la boue pour vous porter vers les nuages.~
 @901  = ~Parlez-moi donc de ces routes, Hathran.~
-@902  = ~Je commence à en avoir assez de toutes vos piques. J'aurais pensé que l'on apprenait aux Hathran à accepter les compliments avec grâce et courtoisie...~
+@902  = ~Je commence à en avoir assez de toutes vos piques. J'aurais pensé que l'on apprenait aux Hathrans à accepter les compliments avec grâce et courtoisie...~
 @903  = ~Minsc pense peut-être un brin lentement ; il n'est point pour autant insensible, <CHARNAME>. En fait, avec ce... rongeur à son côté, je crains qu'il ne soit plus sensible que nécessaire.~
 @904  = ~Minsc est... eh bien... c'est Minsc. Maintenant, parlez-moi de vous, madame.~
 @905  = ~Vous avez tout compris, Dynahéir. *rictus* Aussi amusant qu'il soit de discuter de votre garde du corps, nous devons y aller.~
@@ -989,7 +989,7 @@ Elle me traitera en grand dadais !~
 @926  = ~Non, non, ma dame... Ne me dites pas ce que je suis ! J'aime tellement être une énigme... y compris pour moi-même. Mais si vous voulez discuter, je suis tout disposé à écouter votre histoire.~
 @927  = ~Oui.~
 @928  = ~*Poser vos mains sur celles de Dynahéir, et lui serrer délicatement les doigts.* Vous semblez triste, ma dame.~
-@929  = ~J'y suis retournée. Les Hathran me l'ont déconseillé, mais je l'ai quand même fait.~
+@929  = ~J'y suis retournée. Les Hathrans me l'ont déconseillé, mais je l'ai quand même fait.~
 @930  = ~J'ai marché dans des rues crasseuses, longé les maisons en bois et coqs vaniteux en haut des granges, à la poursuite de mes souvenirs d'enfance. Et sur le moment, j'ai reconnu quelques ornements faits à partir de crânes de chevaux taillés, des appuis de fenêtres blancs et quelques fleurs qui s'évertuaient à pousser à travers dans la boue, près du puits.~
 @931  = ~Les lilas fleurissaient, s'appuyant lourdement sur les barrières blanches et violettes.~
 @932  = ~Le temple des Trois en bois se réfléchissait toujours sur les eaux bleues du Lac Impresk ; j'en ai compté les tours... il y en avait toujours douze, construites sur le modèle du célèbre temple de Kitej-grad, dont on dit qu'il est devenu invisible, et qu'il s'est plongé au fond du Lac des Larmes, plutôt que d'être détruit des mains des Thayens.~
@@ -1019,7 +1019,7 @@ Elle me traitera en grand dadais !~
 @956  = ~De quoi parlez-vous ?~
 @957  = ~Vous marmonnez encore, sorcière, et pour le moment, je n'ai pas le temps d'essayer de comprendre.~
 @958  = ~Je la connais, Ta solitude...~
-@959  = ~Je suis née dans une colonie appelée Borovsk, située sur les côtes du Lac des Larmes. Mon père était un seigneur de guerre local, un Fyrra. Comme je Te l'ai déjà dit il y a peu, j'ai été testée par les Hathran à l'âge de cinq ans, et me suis révélée digne de devenir l'une d'entre elles. Puis l'on m'a enlevée à ma famille.~
+@959  = ~Je suis née dans une colonie appelée Borovsk, située sur les côtes du Lac des Larmes. Mon père était un seigneur de guerre local, un Fyrra. Comme je Te l'ai déjà dit il y a peu, j'ai été testée par les Hathrans à l'âge de cinq ans, et me suis révélée digne de devenir l'une d'entre elles. Puis l'on m'a enlevée à ma famille.~
 @960  = ~Oh, arrêtez ça. Je ne veux pas me complaire dans l'auto-apitoiement, et je ne vous laisserai pas le faire vous non plus !~
 @961  = ~Mais il y autre chose, non ?~
 @962  = ~Tes actes héroïques nous ont montrés que Tu es un homme de valeur, <CHARNAME>. Ta race et Ta couleur de peau n'ont aucune importance. Tes sentiments et Tes actes, eux, en ont.~
@@ -1086,10 +1086,10 @@ Elle me traitera en grand dadais !~
 @1020 = ~Oh, Eldoth... tu es tellement romantique !~
 @1021 = ~Regarde, Bouh, des jolis rubans ! Oui, je sais que tu n'as pas rencontré de dame hamster, ces derniers temps... Oh, ne sois pas triste. Nous allons en prendre un pour notre sorcière, pas vrai, Bouh ?!~
 @1022 = ~Je n'ai guère besoin de ruban, Minsc.~
-@1023 = ~Toute bonne dame Rashémi a besoin de beaucoup de rubans à mettre à ses cheveux pour danser au festival du Solstice d'Eté !~
+@1023 = ~Toute bonne dame rashémie a besoin de beaucoup de rubans à mettre à ses cheveux pour danser au festival du Solstice d'Eté !~
 @1024 = ~Je ne...~
 @1025 = ~Ah, le Festival du Solstice d'Eté ! Minsc le regrette beaucoup ! Minsc était celui qui buvait le plus d'hydromel, et qui sautait le plus haut. Quoi, Bouh ? Oh, je parlais de sauter par-dessus les feux de joie en tenant une jolie fille par la main...~
-@1026 = ~Minsc, les traditions des peuples sont assez similaires, de par Féérune ; <CHARNAME> n'a pas besoin de savoir toutes les particularités des fêtes Rashémi.~
+@1026 = ~Minsc, les traditions des peuples sont assez similaires, de par Féérune ; <CHARNAME> n'a pas besoin de savoir toutes les particularités des fêtes rashémies.~
 @1027 = ~Par ailleurs, nous devrions laisser cette jeune marchande repartir, si nous n'achetons rien.~
 @1028 = ~En fait, je trouve ceci fascinant ! Et Bouh a l'air intéressé. Dis-nous en plus, Minsc.~
 @1029 = ~Je pense que je vais vous acheter un ruban, juste au cas où, Dynahéir. Et si nous devions aller en Rashéménie le jour du Solstice d'Eté ? Je serais le seul homme dont la fille à son bras ne porterait aucun ruban. Ce serait inconvenant.~
@@ -1101,7 +1101,7 @@ Trouve cela inintéressant...~
 @1032 = ~*doucement* Je croyais que vous vouliez que j'en sache plus sur l'histoire et les coutumes des autres, Dynahéir. Cela a-t-il donc changé ?~
 @1033 = ~Dynahéir, j'aimerais en savoir plus sur mon propre peuple.~
 @1034 = ~Cela me rappelle le festival du Solstice d'Eté de Rashéménie, où les jeunes femmes mettent des rubans à leurs cheveux, et dansent et sautent par-dessus des feux de joie avec les garçons.~
-@1035 = ~Ah, mais les traditions des peuples sont assez similaires, de par Féérune ; je ne devrais pas T'ennuyer avec les particularités des fêtes Rashémi.~
+@1035 = ~Ah, mais les traditions des peuples sont assez similaires, de par Féérune ; je ne devrais pas T'ennuyer avec les particularités des fêtes rashémies.~
 @1036 = ~En fait, je trouve cela fascinant ! Dites-m'en plus, Dynahéir.~
 @1037 = ~Je pense que je devrais vous acheter un ruban, Dynahéir. Et si nous devions aller en Rashéménie le jour du Solstice d'Eté ? Je serais le seul homme dont la fille à son bras ne porterait aucun ruban. Ce serait inconvenant.~
 @1038 = ~Pour qui vous prenez-vous, pour clamer savoir mieux que tout le monde ce que veut <CHARNAME>, Dynahéir ? Continuez.~
@@ -1256,7 +1256,7 @@ Trouve cela inintéressant...~
 @1184 = ~Je suis suffisamment grand pour savoir que nous séparer ne me fera pas arrêter de vous aimer. Et peu importe la distance que vous mettrez entre nous, vos rêves ne cesseront guère. A ce titre, pourquoi résister ?~
 @1185 = ~Tu es clairvoyant. C'est bien. Tu n'as plus besoin de moi autant qu'avant.~
 @1186 = ~J'aimerais que Tu... me laisses partir, monseigneur. Si Tu ne m'aimes point, fais-le par ressentiment. Si Tu m'aimes, fais-le par amour.~
-@1187 = ~Je ne le dirais pas comme cela... mais si tel est Ton souhait... oui, c'est "à ce point."~
+@1187 = ~Je ne le dirais pas comme cela... mais si tel est Ton souhait... oui, c'est « à ce point ».~
 @1188 = ~Suffisamment pour que je Te demande... de me laisser partir, monseigneur. Si Tu ne m'aimes point, fais-le par ressentiment. Si Tu m'aimes, fais-le par amour.~
 @1189 = ~Tu parles trop pour quelqu'un qui ne souhaite que le silence, barde. Tiens Ta parole maintenant, et laisse-moi parler. Notre amour est un problème qui ne peut se résoudre qu'en l'éliminant purement et simplement. Je Te supplie de me laisser partir.~
 @1190 = ~Eh bien, partez, si cela peut vous rendre heureuse. Partez. Peut-être nous reverrons-nous, à l'avenir.~
@@ -1313,7 +1313,7 @@ Trouve cela inintéressant...~
 @1238 = ~S'il est bien une chose que j'ai apprise de mes voyages passés, c'est que la malchance n'est que combinaison d'incompétence et de mauvaise planification.~
 @1239 = ~Autrefois vivait un puissant seigneur de guerre : Helg le Courageux.~
 @1240 = ~Alors au faîte de sa gloire, Helg et ses suivants se trouvaient en train de cavaler. C'est alors qu'ils rencontrèrent une sorcière, qui boitillait sur leur chemin. Le seigneur de guerre arrêta ses chevaux, et dit à la sorcière qu'elle ne devait avoir nulle crainte de lui, ou de ses puissants compagnons...~
-@1241 = ~"Dites-moi de quelle façon je mourrai", commanda Helg. "En récompense, je vous ferai don du cheval de votre convenance. Mais ne vous avisez point de me mentir." La sorcière leva les yeux et regarda Helg, puis répondit : "Les sorcières ne ressentent nulle crainte devant les puissants seigneurs, et n'ont que faire de leurs cadeaux. Je te le dis en vérité ; c'est par Ton cheval que Ta mort viendra."~
+@1241 = ~« Dites-moi de quelle façon je mourrai », commanda Helg. « En récompense, je vous ferai don du cheval de votre convenance. Mais ne vous avisez point de me mentir. » La sorcière leva les yeux et regarda Helg, puis répondit : "Les sorcières ne ressentent nulle crainte devant les puissants seigneurs, et n'ont que faire de leurs cadeaux. Je te le dis en vérité ; c'est par Ton cheval que Ta mort viendra."~
 @1242 = ~Helg resta silencieux un moment. Comme tout seigneur, il aimait son cheval. Il posa pied à terre, et confia ce dernier à ses suivants. "Mon ami et loyal serviteur, dit-il, jamais plus je ne Te monterai."~
 @1243 = ~J'imagine que ce ne fut pas aussi simple que ça.~
 @1244 = ~Dynahéir, je suis trop las pour apprécier l'histoire à sa juste valeur. Vous me la raconterez un autre jour.~
@@ -1321,7 +1321,7 @@ Trouve cela inintéressant...~
 @1246 = ~*Poser les mains sur les épaules de Dynahéir nonchalamment.* Si la morale de l'histoire est que tout seigneur de guerre doit se trouver une femme avisée, je ne peux qu'agréer de tout mon coeur.~
 @1247 = ~Chez moi, l'on dit que le silence est d'or, et la parole d'argent...~
 @1248 = ~Je mourrais de faim, chez vous. Je gagne ma vie en expirant de l'air à travers mes cordes vocales, et en l'expulsant de ma bouche... autrement dit, en chantant. Je savais que j'aurais dû faire jongleur !~
-@1249 = ~Certes. Telle est le fonctionnement des proverbes : là où l'un fera l'éloge d'une vertu, l'autre la dénoncera. Que pensez-vous de... "le silence est l'or des fous" ?~
+@1249 = ~Certes. Telle est le fonctionnement des proverbes : là où l'un fera l'éloge d'une vertu, l'autre la dénoncera. Que pensez-vous de... « le silence est l'or des fous » ?~
 @1250 = ~*Acquiescer, en signe d'accord, et rester silencieux en signe de votre désir de ne plus jamais parler.*~
 @1251 = ~C'est plutôt malin. Pourquoi l'ouvrir et passer pour un idiot, alors que l'on pourrait faire croire le contraire à tout le monde en gardant le silence ?~
 @1252 = ~Si je résume, vous avez rompu le silence pour me dire que le silence est une vertu ?~
@@ -1332,7 +1332,7 @@ Trouve cela inintéressant...~
 @1257 = ~Tu imagines bien.~
 @1258 = ~Helg croyait que la vieille femme voulait dire qu'il ferait une mauvaise chute sur ce cheval, ou qu'il se ferait vaincre au combat par sa faute. Mais il n'en était rien.~
 @1259 = ~Quelques années passèrent. A force de batailles et de festins, Helg partit très loin. Enfin, il s'en retourna chez lui. Le seigneur demanda après son cheval, et il lui fut rapporté que ce dernier était mort.~
-@1260 = ~"Je n'aurais pas dû écouter les mots de cette vieille sorcière !", cria Helg. Il demanda alors à voir l'endroit où sa monture avait été mise en terre.~
+@1260 = ~« Je n'aurais pas dû écouter les mots de cette vieille sorcière ! », cria Helg. Il demanda alors à voir l'endroit où sa monture avait été mise en terre.~
 @1261 = ~On le mena alors là où ses ossements avaient été entreposés, sur une haute colline, régulièrement balayée par les pluies. Il s'agenouilla de tristesse, et à ce moment, une vipère s'échappa du crâne de son cheval, et mordit la main du seigneur de guerre, lui infligeant une blessure qui lui fut fatale.~
 @1262 = ~C'est ainsi que la mort vint à Helg de son cheval. Il fut par la suite surnommé Helg le Prévenu, ou Helg le destiné...~
 @1263 = ~Des serpents... je hais les serpents.~
@@ -1472,9 +1472,9 @@ Trouve cela inintéressant...~
 @1392 = ~Je ne suis plus un jeune garçon, vous n'avez pas à me dire de me taire lorsqu'il vous plaît. Je suis un homme respecté tout le long de la Côte des Epées, et je suis votre amant, dame Dynahéir.~
 @1393 = ~Alors Tu n'as rien compris de ce que je T'ai appris. Le destin n'attend personne. Ce que Tu proposes équivaudrait à demander à une vague de suspendre sa course. Chevauche-la, <CHARNAME>, ou alors Tu Te noieras.~
 @1394 = ~*doucement* Des choses terribles se préparent au moment-même où nous parlons, et Tu dois T'y opposer dès maintenant. Ne Te laisse pas tenter par le baiser d'une femme, car cela pourrait Te retarder dans Tes actions, et Te mener à Ta perte. Il... il y aura d'autres nuits pour cela, mon amour.~
-@1395 = ~*Un sourire taquin traverse le visage de Dynahéir.* Je dirais qu'elle fut « riche en évènements ».~
+@1395 = ~*Un sourire taquin traverse le visage de Dynahéir.* Je dirais qu'elle fut « riche en événements ».~
 @1396 = ~Et comment fut la Tienne, si Tu me permets ?~
-@1397 = ~*Lui retourner son sourire.* Aussi riche en évènements que la vôtre.~
+@1397 = ~*Lui retourner son sourire.* Aussi riche en événements que la vôtre.~
 @1398 = ~Ce fut une nuit horrible, vraiment horrible ! Le seul remède qui pourrait me faire aller mieux serait de frotter généreusement le corps d'une sorcière au mien. Tout de suite.~
 @1399 = ~C'était magique, Dynahéir. Mais vous vouliez me réveiller... et je suis levé. Allons-y.~
 @1400 = ~Je T'ai apporté du pain, avec un peu de fromage et des olives. Un peu de viande sèche, aussi. Ce n'est pas vraiment un petit-déjeuner, mon amour, mais ça devra faire l'affaire.~
@@ -1591,7 +1591,7 @@ Un souffle, une vapeur, de l'air que l'on expire...
 Si d'autres se seraient embrasées de désir,
 La rose à épines est prête à faire des reproches...~
 @1504 = ~Un miracle, en effet. Je T'aurais bien appelé « extraordinairement séduisant », <CHARNAME>, mais je ne voulais pas surdimensionner Ton égo...~
-@1505 = ~Les écritures disent que les pouvoirs des Hathran Rashémi sont « bienveillants », si ce n'est « absolus », Dynahéir. Mon coeur sait que votre emprise sur mon égo est bienveillante et absolue... N'est-ce pas ?~
+@1505 = ~Les écritures disent que les pouvoirs des Hathrans rashémies sont « bienveillants », si ce n'est « absolus », Dynahéir. Mon coeur sait que votre emprise sur mon égo est bienveillante et absolue... N'est-ce pas ?~
 @1506 = ~*S'étirer paresseusement.* Comment cela se pourrait-il, mon aimée, si je l'entends de tous les côtés ?~
 @1507 = ~Je ne vous ai jamais dit que je suis l'homme le plus humble de la Côte des Epées, Dynahéir ?~
 @1508 = ~Mais Tu as tort, ogre. Premièrement, j'aime profondément Te regarder. Ensuite, *sourire énigmatique*, c'est Toi que je regarde, lorsque j'ai le nez plongé dans mon journal.~
@@ -1603,7 +1603,7 @@ La rose à épines est prête à faire des reproches...~
 @1514 = ~Mais Tu as tort, héros. *sourire énigmatique* C'est Toi que je regarde, lorsque j'ai le nez plongé dans mon journal...~
 @1515 = ~Je T'aurais bien appelé « extraordinairement séduisant », <CHARNAME>, mais je ne voulais pas surdimensionner Ton égo.~
 @1516 = ~« Impétueux » ? Si Tu veux... Tu es conteur, après tout. Je T'aurais bien appelé « extraordinairement séduisant », <CHARNAME>, mais je ne voulais pas surdimensionner Ton égo.~
-@1517 = ~Les écritures disent que les pouvoirs des Hathran Rashémi sont « bienveillants », si ce n'est « absolus », Dynahéir. Mon coeur sait que votre emprise sur mon égo est bienveillante et absolue... N'est-ce pas ?~
+@1517 = ~Les écritures disent que les pouvoirs des Hathrans rashémies sont « bienveillants », si ce n'est « absolus », Dynahéir. Mon coeur sait que votre emprise sur mon égo est bienveillante et absolue... N'est-ce pas ?~
 @1518 = ~*Hume votre gorge.* Ah, oui, c'est effectivement très agréable. Cela change beaucoup de Ton « Eau de Sueur ».~
 @1519 = ~J'aurais bien aimé capturer ceci, aussi.~
 @1520 = ~J'ai bien peur qu'au contraire, je n'ai été que par trop prodigue en compliments sur Ton apparence. *Elle jette un coup d'oeil rapide à son journal et sourit énigmatiquement.*~
@@ -1644,9 +1644,9 @@ La rose à épines est prête à faire des reproches...~
 @1552 = ~Suffit ! *Elle vous tape légèrement le front avec le livre, et se met à rire.* Mais il est assez efficace de soulager sa frustration en ce moyen si peu distingué.~
 @1553 = ~*Caresser de vos doigts ses cheveux détachés sur votre épaule.* Chhhut... ça ne peut pas être si terrible que cela.~
 @1554 = ~*Se tenir sur un coude.* Qu'est-ce qui ne va pas, Dynahéir ?~
-@1555 = ~*soupir* En Rashéménie, les hommes et les femmes peuvent aussi bien l'un que l'autre s'entraîner dans les arts de la magie profane. Les magiciennes, comme moi, sont appelées Hathran, et les magiciens, Vremyonni. L'apprentissage des Vremyonni n'est en rien plus facile que le nôtre.~
-@1556 = ~Mais la fabrication d'objets magiques n'est permise qu'aux Vremyonni seuls.~
-@1557 = ~Cela est prohibé parmi les Hathran.~
+@1555 = ~*soupir* En Rashéménie, les hommes et les femmes peuvent aussi bien l'un que l'autre s'entraîner dans les arts de la magie profane. Les magiciennes, comme moi, sont appelées Hathrans, et les magiciens, Vremyonnis. L'apprentissage des Vremyonnis n'est en rien plus facile que le nôtre.~
+@1556 = ~Mais la fabrication d'objets magiques n'est permise qu'aux Vremyonnis seuls.~
+@1557 = ~Cela est prohibé parmi les Hathrans.~
 @1558 = ~Il existe toujours un savoir interdit, Dynahéir. Et si l'on en croit les sages, briser les règles mène souvent à la catastrophe.~
 @1559 = ~Il y a toujours une limite à ne pas franchir, si l'on veut éviter les désastres. C'est pourquoi Mystra a limité le pouvoir que les mages ont à leur disposition. Il y a toujours de bonnes raisons, Dynahéir.~
 @1560 = ~En tant qu'originaire de Château-Suif, tout ce que je peux dire, c'est qu'un élève sérieux ne devrait pas se voir dénier le droit d'apprendre...~
@@ -1658,7 +1658,7 @@ La rose à épines est prête à faire des reproches...~
 @1566 = ~Je ne suis pas très à l'aise à l'idée de vous faire désobéir aux règles, mais j'aimerais quand même bien savoir si vous pourriez faire d'un objet tout à fait commun un objet magique.~
 @1567 = ~Pour une seule fois, je suis sûr que cela ne ferait de mal à *rien* ni à *personne*. Et personne d'autre que moi n'aurait à le savoir.~
 @1568 = ~Ah, sans le savoir, Tu m'as présenté l'argument le plus convaincant. Il y a parfois du vrai dans les lieux communs, et l'on doit s'en souvenir.~
-@1569 = ~Peut-être cette interdiction existe-t-elle pour tester l'orgueil, l'ambition et l'avidité des Hathran.~
+@1569 = ~Peut-être cette interdiction existe-t-elle pour tester l'orgueil, l'ambition et l'avidité des Hathrans.~
 @1570 = ~Je ne vois pas en quoi un stupide veto sur la création d'objets magiques peut représenter un test !~
 @1571 = ~Nous sommes bien loin de la Rashéménie. Qui viendrait vous l'interdire ?~
 @1572 = ~Dynahéir, si tout le monde suivait les règles et faisait toujours ce qu'il faut faire, aucune découverte n'aurait jamais été faite. La grandeur réside dans la victoire contre sa peur de ne pas être comme tout le monde.~
@@ -1666,7 +1666,7 @@ La rose à épines est prête à faire des reproches...~
 @1574 = ~Il est bon d'être libre d'apprendre ce que l'on veut.~
 @1575 = ~Je ne vois pas en quoi un stupide veto sur la création d'objets magiques peut être une loi respectable !~
 @1576 = ~Je suppose que vous avez raison. Bon, allons dormir, avant que vous ne décidiez à nous faire tomber le ciel sur la tête, puisqu'il ne s'est trouvé personne pour vous interdire *celà*.~
-@1577 = ~*petit gémissement* En Rashéménie, les hommes et les femmes peuvent aussi bien l'un que l'autre s'entraîner dans les arts de la magie profane. Les magiciennes, comme moi, sont appelées Hathran, et les magiciens, Vremyonni. L'apprentissage des Vremyonni n'est en rien plus facile que le nôtre.~
+@1577 = ~*petit gémissement* En Rashéménie, les hommes et les femmes peuvent aussi bien l'un que l'autre s'entraîner dans les arts de la magie profane. Les magiciennes, comme moi, sont appelées Hathrans, et les magiciens, Vremyonnis. L'apprentissage des Vremyonnis n'est en rien plus facile que le nôtre.~
 @1578 = ~Les Othlor, oui. *Ses yeux se tournent vers l'est, comme si elle espérait voir un compatriote venir de Rashéménie.*~
 @1579 = ~Les Othlor sont bien loin d'ici.~
 @1580 = ~Mais ne le sauront-elles pas, lorsque vous reviendrez en Rashéménie ?~
@@ -1707,7 +1707,7 @@ La rose à épines est prête à faire des reproches...~
 @1609 = ~Dynahéir, pour moi, échec est synonyme de mort.~
 @1610 = ~J'ai traversé bien pire que le feu et l'eau, Dynahéir. J'ai passé l'épreuve du sang. Ai-je échoué ?~
 @1611 = ~Lorsque l'on m'a sorti de Château-Suif, je me suis senti comme si la maison où j'avais grandi avait entièrement brûlé. J'ai ouvert les vannes des mines de Bois-Manteau, noyant ainsi hommes et monstres. J'ai entendu le chant de mes exploits dans les tavernes et les auberges. Ai-je passé le test ?~
-@1612 = ~La vie et le temps nous imposent sans cesse des épreuves et nous jugent en permanence par nos actions. Peu importe leur nom : feu, eau, vivats ou échec ; l'on peut toujours en voir l'existence dans chaque évènement, ou en voir le résultat avec l'âge. Ces épreuves ne sont jamais faciles à affronter, mais l'on ne saurait s'y soustraire. Chaque étape que nous atteignons compte. Ai-je échoué, jusqu'à présent ?~
+@1612 = ~La vie et le temps nous imposent sans cesse des épreuves et nous jugent en permanence par nos actions. Peu importe leur nom : feu, eau, vivats ou échec ; l'on peut toujours en voir l'existence dans chaque événement, ou en voir le résultat avec l'âge. Ces épreuves ne sont jamais faciles à affronter, mais l'on ne saurait s'y soustraire. Chaque étape que nous atteignons compte. Ai-je échoué, jusqu'à présent ?~
 @1613 = ~Il est bon que Tu ne considères pas la victoire comme allant de soi, <CHARNAME>.~
 @1614 = ~Le destin pourra mener le preux héros à la victoire. Ou alors, le courageux, noble et intelligent jeune homme qui prit l'épée pour venger son père sera défait.~
 @1615 = ~Une cause juste ne se finit pas forcément en triomphe, bien qu'elle puisse conférer une force spirituelle certaine en période de désastre.~
@@ -1716,7 +1716,7 @@ La rose à épines est prête à faire des reproches...~
 @1618 = ~Je me vois d'ici, vaincu par mon ténébreux adversaire, crachant ma dernière goutte de sang, pensant avec satisfaction : "Au moins, ma mort aura servi une juste cause." Pour moi, échec est synonyme de mort.~
 @1619 = ~Par les Trois, je peux Te jurer que Tu m'as mal comprise. Je refuse les lamentations lorsqu'elles ne sont pas encore nécessaires.~
 @1620 = ~Je le sais, mon amour, et mon coeur saigne à l'idée du prix de l'échec. Ce n'est sans doute pas ce que Tu penses, mais le jour viendra où ce ne sera plus qu'une question de vie ou de mort. Que feras-Tu, lorsque ce sera le cas ? Que seras-Tu prêt à sacrifier au nom de la victoire ?~
-@1621 = ~Pourquoi prévoir des évènements aussi lointains, mon amour ?~
+@1621 = ~Pourquoi prévoir des événements aussi lointains, mon amour ?~
 @1622 = ~Jugez-moi par mes actions présentes. Ai-je jamais échoué à faire le bon choix ?~
 @1623 = ~J'ai confiance en ma capacité à estimer avec justesse le prix de ce à quoi j'aspire. Et en le fait que cela ne changera pas...~
 @1624 = ~Le sacrifice est toujours une preuve, une preuve d'amour, de foi, de dévotion... Et pourtant, vous semblez le considérer avec circonspection.~
@@ -1760,7 +1760,7 @@ La rose à épines est prête à faire des reproches...~
 //pendant un repos, Dynahéir initie un long monologue
 @1660 = ~*Dynahéir vous réveille, mais c'est avec difficulté que vous ouvrez les paupières. La Hathran paraît fraîche et reposée, mais pourtant, ses yeux semblent briller d'un éclat intense. Elle pose un doigt froid sur vos lèvres, vous interdisant toute parole.*~
 @1661 = ~Chut. Pas un mot. Contente-Toi d'écouter. Je T'ai jeté un sort pour que mes mots Te reviennent en cas de besoin, lorsque Tu seras seul, vide et froid.~
-@1662 = ~Les Hathran sont des magiciennes de combat, <CHARNAME>. Notre destin est de mourir sur le champ de bataille, et ce malgré les pouvoirs dont nous disposons, ou peut-être à cause d'eux, car les ennemis s'en prennent toujours à leur adversaire le plus puissant.~
+@1662 = ~Les Hathrans sont des magiciennes de combat, <CHARNAME>. Notre destin est de mourir sur le champ de bataille, et ce malgré les pouvoirs dont nous disposons, ou peut-être à cause d'eux, car les ennemis s'en prennent toujours à leur adversaire le plus puissant.~
 @1663 = ~La mort ne nous est pas inattendue, mais pas plus que la vie, bien sûr. Je dispose de quelque talent pour la Divination, et cela m'a toujours attiré. J'ai donc regardé, avant d'entreprendre ce dajemma, pour voir si j'avais suffisamment de temps devant moi. A moins qu'il ne s'agisse que de curiosité féminine.~
 @1664 = ~J'ai vu ma mort dans le cristal. J'ai vu aussi qu'elle était liée au fait que Tu devais continuer à vivre, et à être Toi-même. J'ai vu qu'elle était liée à tout l'amour que je ressens envers Toi. Au départ, j'ai cru que je pouvais empêcher ceci de se produire, mais maintenant, j'ai mûrement réfléchi.~
 @1665 = ~L'ennemi qui T'attend à la Porte de Baldur est puissant, mais bien après lui se trouve une ombre plus ténébreuse que la nuit elle-même. Je l'ai vue, et j'ai vu que je paraissais insignifiante en face, telle une fourmi aux pieds d'un géant. Ni ma magie, ni mon amour ne pourront l'arrêter. Mais il y a une chose que je peux faire, et je le ferai, pour Toi.~
@@ -1815,7 +1815,7 @@ La rose à épines est prête à faire des reproches...~
 @1705 = ~*Maugréer.* Et qu'est-ce que je suis censé apprendre ?~
 @1706 = ~Qui n'as-Tu donc pas poignardé, <CHARNAME> ?~
 @1707 = ~Ce n'est pas important, Dynahéir. Ce n'était qu'un mauvais rêve.~
-@1708 = ~Mulahey... Je l'ai vu, dans mon rêve. Il était mort... et j'aurais pu l'annihiler complètement. Tout ce que j'avais à faire, c'était de le poignarder avec une dague ; mais je n'ai pas pu. Je n'ai même pas mis la main sur cette foutue dague ! Ensuite, la lame s'est envolée en direction de mon coeur, mais elle ne m'a jamais atteint. Après cela, quelqu'un... quelqu'un a dit : "vous finirez par apprendre"... comme si j'avais mal fait quelque chose.~
+@1708 = ~Mulahey... Je l'ai vu, dans mon rêve. Il était mort... et j'aurais pu l'annihiler complètement. Tout ce que j'avais à faire, c'était de le poignarder avec une dague ; mais je n'ai pas pu. Je n'ai même pas mis la main sur cette foutue dague ! Ensuite, la lame s'est envolée en direction de mon coeur, mais elle ne m'a jamais atteint. Après cela, quelqu'un... quelqu'un a dit : « vous finirez par apprendre »... comme si j'avais mal fait quelque chose.~
 @1709 = ~*Dynahéir se cramponne à vous, essayant de vous réfreiner avant de se rendre compte que vous avez retrouvé tous vos esprits. Peu à peu, elle relâche son étreinte, et vous demande d'un ton imperturbable.* Que se passe-t-il, <CHARNAME> ?~
 @1710 = ~Une dague, une putain de dague en os !~
 @1711 = ~*Vous ignorez Dynahéir, essayant de recomposer les souvenirs de votre rêve qui commencent à disparaître, et maugréez :* Et qu'est-ce que je suis censé apprendre ?~
@@ -1922,7 +1922,7 @@ Tels sont les mauvais rêves que j'ai faits ce soir...
 Mais, ma dame, alors, pourquoi dois-je aller en guerre
 Au lieu de voler en rond dans les cimetières ?~
 @1799 = ~Continue.~
-@1800 = ~J'ai rêvé de Château-Suif. Je n'étais qu'un jeune garçon, à l'époque, et je n'avais cure des conversations qu'entretenaient Gorion et Ulraunt, le Gardien des Tomes. Ils se disputaient, et moi, je m'asseyais au bord de la fontaine, jouant avec l'eau, insouciant, comme tous les enfants. C'est alors que j'ai vu le reflet d'un corbeau dans l'eau. Ulraunt disait à mon père que nous pouvions rester, mais que je finirais par provoquer sa mort. Etrangement, ça a été le cas... et je l'ai vu mort. Oh, et j'avais les yeux d'un corbeau, lorsque j'ai regardé une seconde fois le reflet, dans l'eau de la fontaine. "Tel père, tel fils", disait mon reflet... et c'est alors que je me suis réveillé. Qu'en pensez-vous ?~
+@1800 = ~J'ai rêvé de Château-Suif. Je n'étais qu'un jeune garçon, à l'époque, et je n'avais cure des conversations qu'entretenaient Gorion et Ulraunt, le Gardien des Tomes. Ils se disputaient, et moi, je m'asseyais au bord de la fontaine, jouant avec l'eau, insouciant, comme tous les enfants. C'est alors que j'ai vu le reflet d'un corbeau dans l'eau. Ulraunt disait à mon père que nous pouvions rester, mais que je finirais par provoquer sa mort. Etrangement, ça a été le cas... et je l'ai vu mort. Oh, et j'avais les yeux d'un corbeau, lorsque j'ai regardé une seconde fois le reflet, dans l'eau de la fontaine. « Tel père, tel fils », disait mon reflet... et c'est alors que je me suis réveillé. Qu'en pensez-vous ?~
 @1801 = ~Ce serait trop long à expliquer, pour le moment, mais ça semblait suggérer que Gorion est mort à cause de moi, Dynahéir... à cause de mon père, quel qu'il fut ; j'en suis sûr, à présent, et je suis plus déterminé que jamais à avoir le fin mot de toute cette histoire. Nous devrons bientôt retourner à Château-Suif.~
 @1802 = ~Voilà qui me semble avisé.~
 @1803 = ~Voilà qui est... inspiré, mais cela m'en dit bien peu sur la nature de Ton rêve, <CHARNAME>.~

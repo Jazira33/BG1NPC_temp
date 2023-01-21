@@ -23,7 +23,7 @@
 @13 = ~Vraiment ? Je suis déçu.~
       ~Vraiment ? Je suis déçue.~
 @14 = ~Ce n'était qu'une conjecture.~
-@15 = ~Je parlais au figuré. Un vieux parchemin que j'ai lu autrefois appelait les elfes "seigneurs des bois", et ça m'a plu. Oh... Je crains d'être un irrécupérable rat de bibliothèque, Kivan.~
+@15 = ~Je parlais au figuré. Un vieux parchemin que j'ai lu autrefois appelait les elfes « seigneurs des bois », et ça m'a plu. Oh... Je crains d'être un irrécupérable rat de bibliothèque, Kivan.~
 @16 = ~Nous sommes semblables alors, et cela ne se réduit pas à la seule apparence. Vous me rappelez comment j'étais lors de ma première expédition. Je me demande si, comme moi, vous avez l'impression qu'il est temps pour vous de commencer à vivre. Et, si je ne me trompe pas, vous êtes plutôt enchanté du changement.~
       ~Nous sommes semblables alors, et cela ne se réduit pas à la seule apparence. Vous me rappelez comment j'étais lors de ma première expédition. Je me demande si, comme moi, vous avez l'impression qu'il est temps pour vous de commencer à vivre. Et, si je ne me trompe pas, vous êtes plutôt enchantée du changement.~
 @17 = ~A la fois enchanté et effrayé, pour dire la vérité.~
@@ -130,7 +130,7 @@ Qu'elle nous guide encore...~
 @98 = ~Suivez-nous, moi et les feuilles, <CHARNAME>.~
 
 /* Friend Talk 5 */
-@99 = ~Savez-vous ce que "Shilmista" signifie en langage commun ?~
+@99 = ~Savez-vous ce que « Shilmista » signifie en langage commun ?~
 @100 = ~Shilmista ? C'est l'endroit dont vous êtes originaire, non ? S'il vous plaît, dites-moi ce que cela signifie, Kivan.~
 @101 = ~Je ne sais pas. Cela sonne à mes oreilles comme un bruissement de feuilles.~
 @102 = ~La forêt des Ombres...~
@@ -140,7 +140,7 @@ Qu'elle nous guide encore...~
 @106 = ~Sur le nom de la forêt ? Est-ce que... Est-ce que vous y voyez quelque sens caché ?~
 @107 = ~*soupirer et attendre patiemment que l'elfe poursuive*~
 @108 = ~Oui, en effet. Cela signifie "la forêt des Ombres". C'est là que je suis né et que j'ai grandi, <CHARNAME>. Il y a peu, je réfléchissais...~
-@109 = ~Oui, cela signifie "la forêt des Ombres". Ces derniers temps, je songe souvent que pour moi elle est réellement remplie d'ombres.~
+@109 = ~Oui, cela signifie « la forêt des Ombres ». Ces derniers temps, je songe souvent que pour moi elle est réellement remplie d'ombres.~
 @110 = ~Rien de surprenant ! Tout arbre projette une ombre. J'imagine qu'une forêt complète aurait pas mal d'ombres portées.~
 @111 = ~Hummm ?~
 @112 = ~Des ombres du passé ?~
@@ -337,7 +337,7 @@ rester, mon prince, rester, mon prince...~
 
 
 @275 = ~'Quel undome, a'maelamin Déhériana. Bonne nuit, Déhériana, mon amour.~
-@276 = ~Tous les matins je vous entends dire "bonjour" à votre épouse décédée - et tous les soirs vous lui souhaitez une bonne nuit. Cela me rend triste.~
+@276 = ~Tous les matins je vous entends dire « bonjour » à votre épouse décédée - et tous les soirs vous lui souhaitez une bonne nuit. Cela me rend triste.~
 @277 = ~Vous êtes veuf, elfe ! VEUF ! Le nier ne servira à rien. Déhériana est morte, Kivan. Morte !~
 @278 = ~Y a-t-il un nouveau membre dans le groupe ? Qui est Déhériana ?~
 @279 = ~'Quel undome, a'maelamin. Quel kaima, Kivan, lle anta esta. Bonne nuit, mon amour. Dormez bien, Kivan, vous avez besoin de repos. Tss, Kivan. Je ne suis pas en train de vous taquiner... mais je vous entends lui dire bonjour à chaque lever de soleil et bonsoir à chacun de vos couchers. Je souhaitais que vous obteniez une réponse, au moins une fois.~
@@ -385,7 +385,7 @@ rester, mon prince, rester, mon prince...~
 @319 = ~L'amour ? Pensez-vous que vous pourriez aimer à nouveau ?~
 @320 = ~Vous semblez être une personne qui a de l'espoir... J'aime cette intonation nouvelle dans votre voix.~
 @321 = ~Bien sûr. Mais nous n'avons pas le temps d'en discuter maintenant, Kivan.~
-@322 = ~Non, pas "de nouveau". Je n'ai jamais cessé d'aimer Déhériana, <CHARNAME>. Je pense que la vie m'a été rendue par Shevarash pour venger la mort de Déhériana. Quand ce sera fait... Quand j'aurai affronté Tazok au combat, je retournerai à mon amour.~
+@322 = ~Non, pas « de nouveau ». Je n'ai jamais cessé d'aimer Déhériana, <CHARNAME>. Je pense que la vie m'a été rendue par Shevarash pour venger la mort de Déhériana. Quand ce sera fait... Quand j'aurai affronté Tazok au combat, je retournerai à mon amour.~
 @323 = ~Les routes sont difficiles, mais la vie serait une épreuve s'il n'y en avait pas... J'aime cet hymne à Shaundakul, moi aussi. Nous sommes semblables de bien des façons, <CHARNAME>.~
 @324 = ~Je dois vous remercier de l'espoir que vous me donnez. Vos compétences et celles de nos amis me donnent le sentiment que la bataille est déjà à demi gagnée, et que le temps est proche où je reverrai ma chère Déhériana.~
 @325 = ~Oui, allons-y. Cette conversation me fait sentir merveilleusement vivant, néanmoins.~
@@ -558,8 +558,8 @@ A la solitaire et majestueuse multitude.~
 @441 = ~Que vous est-il arrivé, pour que vous ayez une si piètre opinion de vous-même ?~
 @442 = ~Un gredin tel que moi est plus libre que n'importe qui - mais doit donner quelque chose. On ne peut construire le bonheur d'une vie avec une amarante pour mari.~
 @443 = ~Vous paraissez presque triste, Coran. Peut-être un jour changerez-vous d'avis et retournerez-vous là-bas. Je vous conseille de ne pas trop tarder.~
-@444 = ~Il y a eu une époque où j'étais assez stupide pour mettre "Je reviendrai bientôt" dans toutes mes lettres. Et même, j'étais sincère. Mais elle a repris ses esprits et s'est installée avec quelqu'un de la même étoffe qu'elle... et elle n'a même pas su combien je me sentais désemparé, à chiffonner son dernier billet dans ma main.~
-@445 = ~"Sois libre, sois heureux et sois aimé," disait-il. J'ai fait des progrès depuis. Je n'écris jamais de lettres, et je ne reviens jamais.~
+@444 = ~Il y a eu une époque où j'étais assez stupide pour mettre « Je reviendrai bientôt » dans toutes mes lettres. Et même, j'étais sincère. Mais elle a repris ses esprits et s'est installée avec quelqu'un de la même étoffe qu'elle... et elle n'a même pas su combien je me sentais désemparé, à chiffonner son dernier billet dans ma main.~
+@445 = ~« Sois libre, sois heureux et sois aimé », disait-il. J'ai fait des progrès depuis. Je n'écris jamais de lettres, et je ne reviens jamais.~
 @446 = ~Puis-je vous donner un conseil, Coran ? Si quelqu'un capture votre âme errante, et que vous tombez amoureux pour de bon, profondément - ne la quittez pas. Cela va contre la tradition elfique - mais ne vous séparez pas de celle que vous aimez.~
 @447 = ~C'est votre main d'épée qui la protège, pas la promesse d'une future rencontre et des paroles envoyées de trop loin.~
 
@@ -722,7 +722,7 @@ A la solitaire et majestueuse multitude.~
 @557 = ~Minsc ne se souvient pas beaucoup de son entraînement. Bouh dit que c'est une personne minuscule qui l'instruisit, mais un homme grand dans cette tâche.~
 @558 = ~Comparés à vous, la plupart des humains et des elfes sont de petite stature, et comparés à Bouh, ils sont tous gigantesques.~
 @559 = ~C'est vrai ! Minsc est large et fort ! Mais mon mentor était vraiment petit... Bouh dit que c'était un gnome.~
-@560 = ~Ce serait la première fois que j'entendrais parler d'un gnome parmi des rôdeurs. Etait-ce un Rashémi ? Vous rappelez-vous son nom ?~
+@560 = ~Ce serait la première fois que j'entendrais parler d'un gnome parmi des rôdeurs. Était-ce un Rashémi ? Vous rappelez-vous son nom ?~
 @561 = ~Son nom ? Il a glissé de mon esprit. Peut-être que Bouh s'en souvient ? Mais c'était un grand rôdeur, il pouvait tirer à l'arc long tout en descendant de la colline à cheval et en brandissant son épée longue et acérée appelée Dent de Dragon.~
 @562 = ~Si c'est un gnome, il est d'une vigueur surprenante.~
 @563 = ~Il était comme ça, Kivan, il était comme ça. Bouh peut confirmer chacune de mes paroles.~
@@ -770,8 +770,8 @@ A la solitaire et majestueuse multitude.~
 @593 = ~*rougit* ...date teeeeellement de l'an dernier. Vous avez l'oeil averti, elfe. Mais, vous voyez, je n'avais pas le temps du tout de faire mes bagages, avec <CHARNAME> et Eldoth qui faisaient irruption par les portes comme un orage venu me sauver... Oh, c'était si excitant !~
 @594 = ~Je voulais dire que sa coupe n'était pas adaptée à une personne qui vit sur la route. Elle est trop courte pour vous protéger de la pluie, et trop mince pour parer le froid. Tant que nous sommes en ville, vous pouvez peut-être acquérir une cape de bonne laine épaisse.~
 @595 = ~Oh, je les ai vues. Mais elles sont tellement... brunes.~
-@596 = ~*souriant en son for intérieur* Je suis certain que si vous aviez demandé, m'dame, ils vous en auraient montré quelques unes en "brun de l'aventurier", "vert du Cormanthyr" ou "brun de boue."~
-@597 = ~Hummm... Le "brun de l'aventurier" a l'air intéressant. Peut-être regarderai-je une nouvelle fois.~
+@596 = ~*souriant en son for intérieur* Je suis certain que si vous aviez demandé, m'dame, ils vous en auraient montré quelques unes en « brun de l'aventurier », « vert du Cormanthyr » ou "brun de boue."~
+@597 = ~Hummm... Le « brun de l'aventurier » a l'air intéressant. Peut-être regarderai-je une nouvelle fois.~
 
 
 /* Tiax banters */

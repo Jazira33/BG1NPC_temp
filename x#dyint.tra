@@ -113,7 +113,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 323, probablement inutile de traduire ici !
 @40 = ~Attention, <CHARNAME>. S'il s'agit bien des Mages Rouges de Thay, ce dont je n'ai aucune raison de douter, alors nous avons affaire à des gens aussi retors que puissants.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 324, probablement inutile de traduire ici !
-@41 = ~Cet accent... il me semble bien familier. Vous devez être cette sorcière Rashémi que nos amis ont aperçu dans la région. Je constate qu'Edwin n'a pas dûment rempli sa mission. Lasala, je pense que nous ne devrions pas lui dire que nous avons fait son travail à sa place. Plus loin il est, moins il pourra nous gêner.~
+@41 = ~Cet accent... il me semble bien familier. Vous devez être cette sorcière rashémie que nos amis ont aperçu dans la région. Je constate qu'Edwin n'a pas dûment rempli sa mission. Lasala, je pense que nous ne devrions pas lui dire que nous avons fait son travail à sa place. Plus loin il est, moins il pourra nous gêner.~
 
 //interjection avec Denak
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 328, probablement inutile de traduire ici !
@@ -239,7 +239,7 @@
 @89 = ~Ce qu'il vient de se passer devrait servir de leçon à tous les charlatans qui ne traitent pas les Arts magiques avec suffisamment de déférence.~
 
 //dialogue avec Edwin lorsqu'il rencontre Denak le magicien rouge et que Dynahéir est dans le groupe
-@90 = ~Mais que vois-je ? Vous n'êtes pas aussi inutile que ce que je répète sans cesse à Nevron. Non, vous êtes pire ! Qu'est-ce que vous n'avez pas compris lorsque l'on vous a dit de "tuer" la sorcière Rashémi ? Est-ce que c'est de rester chez ces barbares qui vous a rendu à ce point bête ?~
+@90 = ~Mais que vois-je ? Vous n'êtes pas aussi inutile que ce que je répète sans cesse à Nevron. Non, vous êtes pire ! Qu'est-ce que vous n'avez pas compris lorsque l'on vous a dit de "tuer" la sorcière rashémie ? Est-ce que c'est de rester chez ces barbares qui vous a rendu à ce point bête ?~
 @91 = ~Au contraire, ô très illustre Denak. (Flatter, ça ne fait jamais de mal...) Ô intelligent, puissant, infiniment sage Denak... J'ai élaboré un plan digne de mon intellect supérieur. Si vous pouviez laisser un moment à l'indigne que je suis, je serai en mesure de vous expliquer...~
 @92 = ~*soupir* Laissez-moi deviner : au lieu de tuer la sorcière, vous l'avez capturée pour la soumettre à la question ?~
 @93 = ~Je savais qu'il ne faudrait qu'un court instant à un homme de votre intelligence pour deviner la ruse machiavélique que j'ai mise au point.~

@@ -33,7 +33,7 @@
 @32 = ~Vous voulez dire que notre ennemi inconnu pourrait avoir un intérêt particulier pour vous ?~
 @33 = ~Peut-être suis-je simplement paranoïaque. Allons-y et trouvons ces bandits. Quoi que le futur nous réserve, nous l'apprendrons bien assez tôt.~
 @34 = ~Eh bien, c'est ce qu'il semblait... Mais je ne sais pas pourquoi, Ajantis.~
-@35 = ~Eh bien... "Livrez-moi votre élève et personne ne sera blessé. Si vous résistez, ce sera au prix de votre vie." C'est ce que le personnage en armure a dit quand nous avons été attaqués. J'appellerais effectivement ça un certain intérêt, Ajantis.~
+@35 = ~Eh bien... « Livrez-moi votre élève et personne ne sera blessé. Si vous résistez, ce sera au prix de votre vie. » C'est ce que le personnage en armure a dit quand nous avons été attaqués. J'appellerais effectivement ça un certain intérêt, Ajantis.~
 @36 = ~Si vous le dites, ma dame.~
 @37 = ~Soyez rassurée : je me battrai à vos côtés, de toutes mes forces, contre ces criminels.~
 @38 = ~Continuons notre quête et ramenons la justice sur la Côte des Epées.~
@@ -45,7 +45,7 @@
 @44 = ~J'en connais quelque chose moi-même, Ajantis.~
 @45 = ~Ajantis, je suis paladin, et je suis consciente de l'existence de ton noble Ordre. Mais merci quand même pour la proposition.~
 @46 = ~Non. Ton Ordre ne m'intéresse pas.~
-@47 = ~Oh, s'il te plaît, arrête ! *Sur un ton sarcastique* "Force oeuvrant pour le bien et la droiture"... C'est plus que je ne puis en supporter. Si c'est ainsi que tu t'exprimes, il vaudrait mieux que nous continuions notre voyage en silence.~
+@47 = ~Oh, s'il te plaît, arrête ! *Sur un ton sarcastique* « Force oeuvrant pour le bien et la droiture »... C'est plus que je ne puis en supporter. Si c'est ainsi que tu t'exprimes, il vaudrait mieux que nous continuions notre voyage en silence.~
 @48 = ~Vraiment ? J'en suis ravi. Que savez-vous ?~
 @49 = ~Je sais que l'Ordre du Coeur Radieux est une association distinguée de chevaliers et paladins honorables et loyaux.~
 @50 = ~Pas grand chose, en fait. Tu peux m'en dire plus, si tu le désires.~
@@ -63,7 +63,7 @@
 @62 = ~Comme je l'ai dit, je suis un écuyer paladin. Je dois faire mes preuves avant d'être adoubé. Une fois chevalier, il me restera un long parcours à accomplir, mais mon objectif ultime est de devenir un membre à part entière de l'Ordre, un jour.~
 @63 = ~Alors je ne vous ennuierai pas avec les détails, ma dame.~
 @64 = ~C'est notre humble souhait, ma dame. Nous sommes tous prêts à donner notre vie pour l'honneur et le bon droit.~
-@65 = ~"Arrogants" ? Est-ce là votre opinion des paladins ?~
+@65 = ~« Arrogants » ? Est-ce là votre opinion des paladins ?~
 @66 = ~Désolée, je ne voulais pas t'offenser. C'est juste que je n'aime pas les paladins en général, c'est tout.~
 @67 = ~Eh bien, jusqu'à présent, oui. Mais tu es différent... *sourire*~
 @68 = ~Bien sûr, regarde-toi.~
@@ -98,7 +98,7 @@
 @97 = ~Amn ?! C'est maintenant que tu le dis ? Quand tout indique que nous allons vers une guerre probable avec l'Amn ?~
 @98 = ~Tu as été envoyé par *Amn* ? Tu m'as dit que tu étais d'Eauprofonde !~
 @99 = ~Ta présence n'a rien à voir avec la situation politique actuelle, j'espère.~
-@100 = ~Je n'ai pas été "envoyé par Amn", du moins pas dans le sens que vous supposez. Je viens, en fait, d'Eauprofonde. J'ai dit que le plus gros chapitre de l'Ordre était situé en Amn.~
+@100 = ~Je n'ai pas été « envoyé par Amn », du moins pas dans le sens que vous supposez. Je viens, en fait, d'Eauprofonde. J'ai dit que le plus gros chapitre de l'Ordre était situé en Amn.~
 @101 = ~L'Ordre ne se mêle pas de politique, ma dame. Mais nous surveillons les événements locaux avec inquiétude, car ils menacent la paix dans la région.~
 @102 = ~La hausse de l'activité des bandits, ici sur la Côte des Epées, nous force à interférer. Je suis ici pour enquêter sur la situation. Avec nos forces combinées, nous trouverons ceux qui sont responsables de ces actes maléfiques.~
 @103 = ~Puis-je vous en dire davantage sur la manière dont l'Ordre est organisé ?~
@@ -115,7 +115,7 @@
 @114 = ~C'est une réponse rapide, mais il existe beaucoup de zones grises où une pensée en noir et blanc ne te mènera pas loin. J'espère que tu en es conscient, toi qui prétends te battre pour le bien.~
 @115 = ~Ainsi tu punirais un pauvre homme, qui essaie seulement de nourrir son enfant ?! Je ne peux pas croire ces paroles sans-coeur, Ajantis ! "Les choses doivent être changées !" Bah. Descends de tes grands chevaux, gosse de riche !~
 @116 = ~Mon ami vertueux, peut-être pourrais-tu m'expliquer la différence entre une région dirigée par la volonté du plus fort et un Ordre puissant punissant un pauvre homme pour avoir enfreint une loi qu'il soutient ?~
-@117 = ~"Sans-coeur" ? Vous avez mal compris mes sentiments et mes mots, dame <CHARNAME>. J'ai l'impression qu'il serait mieux que je garde mes pensées pour moi, à l'avenir. Nous devrions nous concentrer sur notre tâche, plutôt que de nous disputer.~
+@117 = ~« Sans-coeur » ? Vous avez mal compris mes sentiments et mes mots, dame <CHARNAME>. J'ai l'impression qu'il serait mieux que je garde mes pensées pour moi, à l'avenir. Nous devrions nous concentrer sur notre tâche, plutôt que de nous disputer.~
 @118 = ~Dame <CHARNAME> ! En vérité, vous avez l'esprit vif, et la langue à l'avenant. Son propre pouvoir est, en effet, le plus grand danger qui menace l'Ordre, c'est ce que m'a enseigné Sire Keldorn. Mais je pense que nos Principes, notre credo, et les nobles hommes qui nous dirigent ne nous laisseront pas devenir une force du mal, dissimulant des actes sombres derrière des paroles vertueuses. Nous ne dirigerons jamais un pays, ma dame. Nous aiderons seulement les seigneurs bienveillants à préserver la paix et protégerons les opprimés dans les régions soumises à des seigneurs malfaisants !~
 @119 = ~Très bien, en route.~
 @120 = ~Je suis ici pour gagner en expérience, pour apprendre, et pour faire mes preuves, ma dame. Le temps dira si je mérite de devenir chevalier.~
@@ -153,7 +153,7 @@
 @152 = ~Certains disent que Heaum a laissé tomber les gens pendant le Temps des Troubles.~
 @153 = ~Tu oublies de mentionner qu'il a assassiné Mystra pendant le Temps des Troubles.~
 @154 = ~Je ne sais pas. Ton sermon ne m'a pas rapprochée de ton dieu.~
-@155 = ~Ça suffit ! Je ne veux plus entendre parler de ton "oh si merveilleux" dieu !~
+@155 = ~Ça suffit ! Je ne veux plus entendre parler de ton « oh si merveilleux » dieu !~
 @156 = ~Pendant le Temps des Troubles, Heaum n'a fait que son devoir, ma dame.~
 @157 = ~Bien sûr. J'admire Heaum pour sa fermeté.~
 @158 = ~Je continue à penser autrement.~
@@ -208,7 +208,7 @@
 @207 = ~Quoi ?! C'est toi le paladin. C'est *toi* qui parles tout le temps de détruire le mal !~
 @208 = ~Sans hésitation. Tu devrais faire la même chose. Cela t'aidera à remplir tes objectifs.~
 @209 = ~Le Mal doit être purgé sans pitié. C'est ce que tous mes instincts me dictent, ma dame.~ [%tutu_var%AJANT26]
-@210 = ~Mais "sans pitié" ne signifie pas cruel, ou sans justice. Heaum dit : "Ne sacrifie pas le faible à tes propres fins". Je n'abattrais pas une créature maléfique gisant sans défense à mes pieds, mais je la mènerais devant un tribunal. Là, le criminel devrait prendre ses responsabilités par rapport à ses actions, et serait jugé sans fausse pitié.~
+@210 = ~Mais « sans pitié » ne signifie pas cruel, ou sans justice. Heaum dit : « Ne sacrifie pas le faible à tes propres fins ». Je n'abattrais pas une créature maléfique gisant sans défense à mes pieds, mais je la mènerais devant un tribunal. Là, le criminel devrait prendre ses responsabilités par rapport à ses actions, et serait jugé sans fausse pitié.~
 @211 = ~C'est ridicule. Je me débarrasserai de n'importe quel ennemi m'attaquant, du seul moyen *définitif* qui existe.~
 @212 = ~Mmm, il y a de la vérité dans ce que tu dis là.~
 @213 = ~Je ne peux plus supporter ce genre de remarques. Continuons notre quête... en silence, désormais.~
@@ -226,7 +226,7 @@
 @225 = ~Mon honneur est ma vie, moi aussi. Je ne trahirais jamais ceux qui me font confiance.~
 @226 = ~L'honneur est un terme très flexible, Ajantis. Des hommes décents ont été accusés de comportements malhonnêtes parce que les gens ne connaissaient pas tous les tenants et les aboutissants de la situation !~
 @227 = ~L'Honneur est un mensonge inventé par des gens maléfiques, obsédés par le pouvoir, pour paralyser de nobles imbéciles dans ton genre ! Il est plus facile de s'élever en ignorant de temps à autre les idéaux et les principes.~
-@228 = ~"Honneur" ? Pas dans mon dictionnaire ! Ceci devient ennuyeux.~
+@228 = ~« Honneur » ? Pas dans mon dictionnaire ! Ceci devient ennuyeux.~
 @229 = ~Et la justice ?~
 @230 = ~Pour moi, un monde dépourvu de justice est impensable. C'est mon but de l'amener aux gens. Sans elle, le monde sombrerait dans l'anarchie.~
 @231 = ~Je ne sais pas bien, Ajantis... Pour moi, la justice est comme un mythe... Je ne vois pas qu'elle existe réellement.~
@@ -276,7 +276,7 @@
 @275 = ~C'est tout ce que vous avez à dire ? Si c'est votre manière de plaisanter, je préférerais arrêter de partager mes pensées avec vous.~
 @276 = ~Peut-être est-ce la meilleure réponse. Le mal ne peut être purgé qu'avec courage et détermination !~
 @277 = ~Ma dame ! Vous ne le pensez pas sérieusement !~
-@278 = ~Je n'ai pas dit que c'était mon opinion, Ajantis. C'est juste que je vois beaucoup d'hommes et de femmes "maléfiques" atteindre leurs objectifs, tandis que nombre de "bons" trébuchent et échouent.~
+@278 = ~Je n'ai pas dit que c'était mon opinion, Ajantis. C'est juste que je vois beaucoup d'hommes et de femmes « maléfiques » atteindre leurs objectifs, tandis que nombre de "bons" trébuchent et échouent.~
 @279 = ~Si, je le pense, Ajantis. Les gens maléfiques utilisent les chances qui leur ont été données et ne se soucient pas du bien-être des autres. Ils ne sont pas dévoués à une "tâche vertueuse" et n'ont pas de scrupules moraux. Ils ne s'occupent que d'eux-mêmes et ils ont toujours raison. Et c'est comme ça qu'ils réussissent.~
 @280 = ~Ma dame, vous dites cela comme si vous estimiez davantage le mal que le bien. Je ne peux pas supporter de telles paroles !~
 @281 = ~Je ne peux pas croire que vous disiez ceci, ma dame. Vos actions défient vos mots, et pourtant vous avez parlé sérieusement jusqu'ici, révélant les ténèbres en votre coeur. Je ne peux pas supporter de telles paroles !~
@@ -416,7 +416,7 @@
 @415 = ~Ma mère l'y assiste, et elle a un loisir particulier. Certaines de ces bêtes sont élevées pour être abattues et ma maman est une excellente cuisinière de viandes exotiques. Elle a gagné des prix pour ses recettes.~
 @416 = ~Cuisinière ! Voilà pourquoi les repas sont si délicieux quand c'est ton tour de cuisiner ! Tu as manifestement eu un bon professeur.~
 @417 = ~Aha. Bien, allez, remettons-nous en route, Ajantis.~
-@418 = ~'"Cuisinière de viandes exotiques" ! Bon sang, si les riches n'ont rien à faire, ils imagineront quelque chose.~
+@418 = ~« Cuisinière de viandes exotiques » ! Bon sang, si les riches n'ont rien à faire, ils imagineront quelque chose.~
 @419 = ~C'est très gentil de votre part, ma dame. C'est tout ce que je voulais vous dire à propos de ma famille... pour cette fois. Peut-être devrions-nous rejoindre nos compagnons.~
 @420 = ~Vous êtes pleine de préjugés ! Ne parlez pas comme ça de ma famille. Comme si... comme si vous pensiez que nous sommes de gros paresseux et que l'argent tombe tout droit dans notre cheminée.~
 @421 = ~Par les dieux, ce n'est pas parce que je dis quelque chose d'un peu provocant que tu dois réagir comme ceci !~
@@ -429,7 +429,7 @@
 @428 = ~Tu as raison, Ajantis. Je suis désolée. C'est mal de critiquer quelqu'un à cause de l'endroit où il est né. C'est juste que ce que tu racontes sur ta famille sonne, à mes oreilles, comme un conte de fées.~
 @429 = ~Réveille-toi ! Ouvre les yeux et regarde ! Beaucoup de gens luttent pour survivre, parce qu'ils le *doivent* ! Pas parce qu'ils ont fait un stupide rêve pendant qu'ils gisaient sur un lit de duvet d'eider !~
 @430 = ~Oui, oui, à présent calme-toi.~
-@431 = ~"Un fils à sa maman", ma dame ? Je suis triste que vous pensiez de telles choses de moi.~
+@431 = ~« Un fils à sa maman », ma dame ? Je suis triste que vous pensiez de telles choses de moi.~
 @432 = ~Je suis désolée, ce n'était pas très gentil. Ce que je voulais dire c'est que tu leur écris trop de lettres. Sois juste attentif que cela n'interfère pas avec ton devoir. Mais parle-moi de ta famille, Ajantis.~
 @433 = ~Bon sang, tu t'emballes. C'était seulement une blague ! Calme-toi.~
 @434 = ~Ajantis, le Paladin, fait une pause pendant sa lutte titanesque contre le mal pour s'asseoir et écrire une lettre à ses parents, tous les quinze jours. Tu ne trouves pas que quelque part... ça ne colle pas ?~
@@ -473,7 +473,7 @@
 @472 = ~Alors arrête ces questions, Ajantis. Permets-moi de garder ma vie privée... privée, justement.~
 @473 = ~Parlez-vous de sa mort, ma dame ? Ou bien vous référez-vous au fait que Gorion était... votre père ?~
 @474 = ~Je parlais de sa mort. Des choses horribles se produisent tout le temps... Il faut être capable de laisser aller. Une nouvelle partie de ma vie a commencé quand il est mort, et je suis arrivée à l'accepter.~
-@475 = ~Je parlais de Gorion, en tant que "père", comme tu le dis si joliment. Je suis plutôt contente d'avoir échappé à son contrôle, au final.~
+@475 = ~Je parlais de Gorion, en tant que « père », comme tu le dis si joliment. Je suis plutôt contente d'avoir échappé à son contrôle, au final.~
 @476 = ~Les deux, Ajantis. Je n'ai jamais été complètement heureuse à Château-Suif. Ma vie est meilleure depuis la mort de Gorion, et beaucoup plus intéressante. J'en suis plutôt satisfaite, désormais.~
 @477 = ~Changeons de sujet. Je ne veux plus parler de Gorion.~
 @478 = ~Je voudrais pouvoir vous offrir davantage que mon soutien, ma dame. Le moindre que je puisse faire est de vous aider à trouver ses meurtriers.~
@@ -554,14 +554,14 @@
 @553 = ~Pardonnez-moi mes manières impertinentes. Je garderai mes pensées pour moi, à l'avenir, si vous le préférez. Remettons-nous en mouvement et faisons notre devoir.~
 @554 = ~Merci pour le compliment, ma dame. J'essaie toujours d'être un bon guerrier, mais aussi un bon... compagnon. *s'éclaircit la gorge* Remettons-nous en mouvement, chaque pas supplémentaire me rapproche de mon adoubement.~
 @555 = ~Puis-je prendre cela comme un compliment, ma dame ? J'essaie toujours d'être un bon guerrier, mais aussi un bon... compagnon. *s'éclaircit la voix* Remettons-nous en mouvement, chaque pas supplémentaire me rapproche de mon adoubement.~
-@556 = ~"Arrogance" ? Si c'est votre façon de penser, je vous épargnerai d'avoir à en souffrir encore et garderai mes pensées pour moi.~
+@556 = ~« Arrogance » ? Si c'est votre façon de penser, je vous épargnerai d'avoir à en souffrir encore et garderai mes pensées pour moi.~
 @557 = ~Bon, remettons-nous en mouvement car de nombreuses tâches nous attendent.~
 @558 = ~Dame <CHARNAME>, puis-je partager mes pensées avec vous ? Parler de nos foyers m'a fait prendre conscience, une fois encore, de combien j'avais de la chance d'être né dans une famille aussi chaleureuse. J'aimerais que chacun puisse grandir dans un foyer aussi aimant.~
 @559 = ~C'est dommage que vous n'ayez pas pu connaître vos vrais parents, ma dame. Vous n'avez jamais eu la chance de grandir dans une famille normale.~
 @560 = ~Oui, j'aimerais connaître mes vrais parents. Mais je ne les ai jamais rencontrés et à présent, la seule personne qui aurait pu répondre à mes questions est... morte.~
 @561 = ~Crois-tu que je n'ai pas trouvé de soutien dans ma famille ? En Gorion, j'avais un mentor et un père bienveillant et sage, Ajantis.~
 @562 = ~Tout le monde n'a pas ta chance, Ajantis.~
-@563 = ~Le fait que je ne vienne pas d'une de tes familles "heureuses" fait-il de moi une sorte de déviante, ou une citoyenne de seconde classe, Ajantis ?~
+@563 = ~Le fait que je ne vienne pas d'une de tes familles « heureuses » fait-il de moi une sorte de déviante, ou une citoyenne de seconde classe, Ajantis ?~
 @564 = ~Je n'ai jamais eu envie de connaître mes vrais parents, Ajantis.~
 @565 = ~Et tant mieux pour toi, ce n'est pas ton problème.~
 @566 = ~Alors excusez ma curiosité, ma dame.~
@@ -648,7 +648,7 @@
 @647 = ~Quelle est cette étoile jaune brillante, dans cette constellation ?~
 @648 = ~Je connais cette constellation. L'étoile brillante qui forme le pommeau de l'épée est appelée Pièce du Roi.~
 @649 = ~Je pense que j'ai suffisamment regardé les constellations. Remettons-nous en route.~
-@650 = ~Cette étoile brillante est appelée la Pièce du Roi et forme, comme vous pouvez le voir, le pommeau de "l'épée" que l'Epéiste tient à la main.~
+@650 = ~Cette étoile brillante est appelée la Pièce du Roi et forme, comme vous pouvez le voir, le pommeau de « l'épée » que l'Epéiste tient à la main.~
 @651 = ~Cette étoile a une histoire, ma dame. Puis-je vous la raconter ?~
 @652 = ~Oui, je t'en prie, Ajantis.~
 @653 = ~Non, ce n'est pas nécessaire, merci. Dis-moi, Ajantis, est-ce que le ciel étoilé te rappelle combien nos vies sont brèves ? Te motive-t-il à utiliser ton temps avec intelligence ? Dis-moi, où préférerais-tu te trouver, juste maintenant, si tu pouvais être n'importe où ?~
@@ -661,7 +661,7 @@
 @660 = ~C'est très gentil de ta part de dire ça, Ajantis. Merci. *sourit*~
 @661 = ~Alors tout va bien. Remettons-nous en mouvement.~
 @662 = ~Ajantis, je n'aime pas le ton plein de sous-entendus de cette réponse. Si tu es enclin à des sentiments romantiques, s'il te plaît, regarde ailleurs.~
-@663 = ~"Ton plein de sous-entendus" ?! Ma dame, vos paroles me surprennent. J'ai manifestement dit quelque chose qui vous a déplu. Ce n'était pas mon intention et je garderai mes conseils pour moi, à l'avenir, afin que cela n'arrive plus.~
+@663 = ~« Ton plein de sous-entendus » ?! Ma dame, vos paroles me surprennent. J'ai manifestement dit quelque chose qui vous a déplu. Ce n'était pas mon intention et je garderai mes conseils pour moi, à l'avenir, afin que cela n'arrive plus.~
 @664 = ~*sourit* Ma Dame, vous êtes l'étoile la plus brillante de toutes.~ [%tutu_var%AJANT35]
 @665 = ~Il est... très tard. S'il vous plaît, songez à trouver un endroit pour bivouaquer comme je l'ai suggéré plus tôt.~
 @666 = ~Ma dame, je vous prie de choisir vos mots plus prudemment quand vous vous référez au Vigilant. Il n'était pas dans mon intention de vous importuner avec mes pensées. Je les garderai pour moi à l'avenir, comme ça cela ne se produira plus. Remettons-nous en route.~
@@ -719,7 +719,7 @@
 @718 = ~Je... comprends.~
 @719 = ~Cela m'a l'air plus raisonnable, ma dame. Les voies des dieux nous sont parfois impénétrables.~
 @720 = ~J'imagine que je voyagerai au nom de Heaum, pour toujours, combattant le Mal. Je ferai tout comme mon mentor, Sire Keldorn, qui continue encore à remplir des missions de terrain même si sa barbe est désormais plus grise que noire. J'aimerais avoir un foyer auquel retourner, exactement comme lui, et retrouver ma famille dès que j'ai du temps à passer chez moi.~
-@721 = ~Dès que tu "as du temps" ? Attends une minute. Où se trouve ta famille dans ta liste de priorités ? Est-ce que ton devoir en tant que paladin est plus important pour toi que le bien-être de ta famille ?~
+@721 = ~Dès que tu « as du temps » ? Attends une minute. Où se trouve ta famille dans ta liste de priorités ? Est-ce que ton devoir en tant que paladin est plus important pour toi que le bien-être de ta famille ?~
 @722 = ~T'attends-tu à ce que ta femme reste à la maison tandis que tu voyages ?~
 @723 = ~Eh bien, nous verrons ce que le destin nous réserve. Reprenons notre route.~
 @724 = ~Je n'avais pas l'intention de sonner restrictif, ma dame. Je veux juste être capable d'offrir un foyer sûr à ma femme. Je veux savoir qu'elle est en sécurité quand je suis au combat, et savoir qu'elle sera là pour moi quand je rentre à la maison.~
@@ -733,7 +733,7 @@
 @732 = ~Eh bien, je vous ai raconté comment j'ai toujours imaginé que cela se passerait. Mais trêve de bavardages ! De nombreuses tâches nous attendent, et plus vite nous nous y attelons, plus vite votre rêve de vie paisible se réalisera.~
 @733 = ~Je suis heureux que vous soyez d'accord, ma dame... *ahem* Mais trêve de bavardages ! De nombreuses tâches nous attendent et plus vite nous nous y attelons, plus vite votre rêve d'une vie paisible se réalisera.~
 @734 = ~Je suis heureux que vous soyez d'accord, ma dame... Mais trêve de bavardages ! Nous avons beaucoup à faire et nous ne devrions pas faire attendre nos ennemis.~
-@735 = ~"plus important que d'avoir une vie à elle" ? Ma dame, vous n'avez pas compris un mot de ce que j'ai dit !~
+@735 = ~« Plus important que d'avoir une vie à elle » ? Ma dame, vous n'avez pas compris un mot de ce que j'ai dit !~
 @736 = ~Je suis désolée. Je n'ai pas l'air d'être capable de m'empêcher de te chercher, de temps en temps... Je pense que je comprends ce que tu veux dire, cela dit.~
 @737 = ~Oh, j'ai très bien compris. Je souhaite toute la chance du monde à la future Dame Ilvastarr. Elle en aura besoin.~
 @738 = ~Vos mots me rassurent, ma dame. Remettons-nous en route.~
@@ -751,7 +751,7 @@
 @750 = ~J'imagine que vous avez raison, car les dieux nous désignent parfois des voies impénétrables.~
 @751 = ~Votre attitude désinvolte par rapport à cette question m'étonne grandement, ma dame. Pourquoi n'envisageriez-vous pas de consolider le lien naturel créé par le fait d'avoir des enfants à l'aide des liens traditionnels du mariage ?~
 @752 = ~Eh bien, si tu regardes les choses comme ça... Peut-être ne devrais-je pas complètement l'exclure. Cela dépendra de l'homme avec qui j'auai ces enfants, j'imagine.~
-@753 = ~Ajantis, les enfants "arrivent" parfois. Nous mortels ne pouvons pas toujours contrôler ces choses. Mais je suis certaine que je ne vouerais jamais ma vie à un homme de cette manière.~
+@753 = ~Ajantis, les enfants « arrivent » parfois. Nous mortels ne pouvons pas toujours contrôler ces choses. Mais je suis certaine que je ne vouerais jamais ma vie à un homme de cette manière.~
 @754 = ~Cela me rend triste d'entendre que vous évaluez aussi faiblement le voeu sacré qu'un homme et une femme prononcent devant les dieux et la société dans laquelle ils vivent.~
 @755 = ~Ceci me rend triste, mais j'imagine que c'est votre décision. J'aimerais transmettre mon savoir et mon expérience à mes enfants et les voir grandir.~
 @756 = ~Je ne le présenterais pas comme ça, ma dame. Mais mes devoirs en tant que paladin nécessitent mon dévouement total. Je m'occuperai de ma famille du mieux que je peux, en m'assurant qu'ils ne manquent de rien quand je suis appelé au loin.~
@@ -850,7 +850,7 @@
 @849 = ~Je suis désolé si... je vous ai dérangé d'une manière ou d'une autre, ma dame.~
 @850 = ~Non, ce n'est pas ce que je voulais dire. Merci pour la fleur, Ajantis.~
 @851 = ~Si tu es toujours aussi maladroit, tu devrais songer à développer davantage d'agilité dans tes doigts.~
-@852 = ~"Maladroit" ? *amèrement* Ma dame, je vous demande pardon pour vous avoir dérangée avec ma maladresse. Je ferai en sorte de me concentrer sur mon entraînement, comme vous l'avez suggéré.~
+@852 = ~« Maladroit » ? *amèrement* Ma dame, je vous demande pardon pour vous avoir dérangée avec ma maladresse. Je ferai en sorte de me concentrer sur mon entraînement, comme vous l'avez suggéré.~
 @853 = ~Ma dame, puis-je vous poser une question personnelle ? Nous passons beaucoup de temps ensemble, à voyager et combattre, et j'ai commencé à m'interroger sur quelque chose. Personne ne devrait affronter seul le mal en ce monde. Avez-vous jamais... Y a-t-il jamais eu un homme que vous ayez considéré comme supérieur à tous les autres, quelqu'un vers qui vous aimeriez retourner quand votre quête sera terminée ?~
 @854 = ~Non, il n'y a personne, Ajantis. Pourquoi poses-tu la question ?~
 @855 = ~Je ne suis pas seule, Ajantis. Je voyage avec des camarades, tous braves et loyaux.~
@@ -863,7 +863,7 @@
 @862 = ~En tant que rejeton d'une noble famille, je dois me soumettre à certaines règles concernant le choix de ma future épouse. Pourtant, étant le quatrième enfant, j'ai un certain degré de liberté. Mes parents n'organiseront pas de fiançailles sans m'en informer.~
 @863 = ~Bien sûr, je devrais obtenir leur consentement avant de pouvoir faire ma demande en mariage. Je leur ai écrit une lettre, ma dame. *tousse* Je voulais dire que je devrais leur en écrire une, si je voulais faire ma demande, puisque j'ai peu de chance de rendre visite à ma famille, à Eauprofonde, en ce moment.~
 @864 = ~C'est... une situation inattendue, ma dame. Je ne me suis pas lancé dans cette mission avec l'intention de me trouver une épouse chérie pendant mon voyage. Il n'y avait jamais eu quelqu'un de tel pour moi auparavant.~
-@865 = ~"Jamais eu" ? *le regarder au fond des yeux* Mais maintenant... il y a quelqu'un ?~
+@865 = ~« Jamais eu » ? *le regarder au fond des yeux* Mais maintenant... il y a quelqu'un ?~
 @866 = ~Il n'y a pas de fille qui t'attend à Eauprofonde ? Pas de douce demoiselle qui guette le retour de son chevalier à l'armure scintillante ?~
 @867 = ~Eh bien, je ne suis pas vraiment surprise. Ton coeur est rempli du désir passionné de combattre le mal : il ne reste pas beaucoup de place pour des choses de ce genre.~
 @868 = ~Cette conversation devient un peu trop intime à mon goût. Arrêtons-nous ici.~
@@ -894,7 +894,7 @@
 @893 = ~Ajantis, je n'avais pas réalisé que tes sentiments pour moi étaient aussi intenses !~
 @894 = ~Ajantis, je te remercie pour ces douces paroles, mais je suis amoureuse d'un autre homme.~
 @895 = ~Ajantis, je t'apprécie en tant que camarade de combat et compagnon loyal, mais pas davantage.~
-@896 = ~Qu'est-ce que tu veux dire, "tu as le consentement de ta famille" ? Ils vivent loin dans le Nord, à Eauprofonde, et je ne les ai jamais rencontrés.~
+@896 = ~Qu'est-ce que tu veux dire, « tu as le consentement de ta famille » ? Ils vivent loin dans le Nord, à Eauprofonde, et je ne les ai jamais rencontrés.~
 @897 = ~Non, je ne veux pas t'épouser, Ajantis.~
 @898 = ~Oh bon sang, un paladin transi d'amour est la dernière chose dont j'ai besoin dans le groupe, là maintenant !~
 @899 = ~<CHARNAME>, vos paroles emplissent mon coeur d'une grande félicité ! Laissez-moi vous donner cet anneau en gage de mon humble et véritable désir. Il appartient à ma famille. Je l'ai requis pour vous, et mes parents l'ont envoyé avec leurs bénédictions pour nos fiançailles.~
@@ -974,7 +974,7 @@
 @973 = ~Je suis triste que vous ne voyiez pas ce que je veux dire, mais j'apprécie que vous exprimiez vos souhaits de manière franche. Pourtant... ce dont nous parlons est bien plus qu'un acte physique pour moi.~
 @974 = ~Il est tard, à présent, mon amour. Nous devrions chercher un endroit de bivouac, pour reprendre des forces en vue des batailles à venir. Je vais... vous prendre dans mes bras, ce soir, respirer le parfum de vos cheveux et j'aimerai la proximité que nous partageons aujourd'hui. Reparlons de ceci une autre fois.~
 @975 = ~Est-ce ici que nous allons nous reposer ? Il est temps que j'entretienne mes armes et mon équipement.~
-@976 = ~"Entretenir tes armes pour qu'elles puissent remplir leurs devoirs quand elles sont nécessaires ?"...~
+@976 = ~« Entretenir tes armes pour qu'elles puissent remplir leurs devoirs quand elles sont nécessaires ? »...~
 @977 = ~*Vous rassemblez votre équipement et vous placez à côté d'Ajantis.* Voilà quelque chose dont je devrais m'occuper, moi aussi.~
 @978 = ~*Bâiller* Bonne nuit, Ajantis.~
 @979 = ~*sourire* Exactement, mon amour.~
@@ -992,7 +992,7 @@
 @991 = ~Je n'ai jamais dit que je ne le serais pas, <CHARNAME>, mon amour. J'ai juste exprimé mon inquiétude de franchir le cap trop tôt.~
 @992 = ~Et tu as raison là-dessus. J'y ai pensé, et je partage ton opinion. Attendons après le mariage, il n'est pas nécessaire de se presser.~
 @993 = ~Et quelle est ta conclusion ?~
-@994 = ~Ce "trop tôt" n'existe pas, Ajantis. Pas pour nous deux, avec les promesses que nous nous sommes faites et les sentiments que nous partageons.~
+@994 = ~Ce « trop tôt » n'existe pas, Ajantis. Pas pour nous deux, avec les promesses que nous nous sommes faites et les sentiments que nous partageons.~
 @995 = ~Je... m'interrogeais sur le fait de savoir s'il est approprié pour un paladin de passer la nuit avec la femme qu'il a l'intention d'épouser et j'en suis arrivé à la conclusion qu'il n'y a pas de raison qu'il ne le puisse pas. Je vous aime et vous êtes importante pour moi. Je me suis dévoué à vous, <CHARNAME>, et je vous protégerai. Vous avez ma loyauté. Je mets le devoir au-dessus de tout le reste, et si vous regardez les choses de cette manière, il y a même... certains devoirs en amour. *rougit*~
 @996 = ~Je dois admettre que je me sens plutôt nerveux quand il s'agit d'intimité, et connaître votre désir m'a aidé à dépasser mes... peurs.~
 @997 = ~Cela peut être considéré comme un simple plaisir physique par beaucoup, mais pas par moi, mon amour. C'est beaucoup plus que cela, et je suis impatient de partager cette expérience avec vous.~
@@ -1041,7 +1041,7 @@
 @1040 = ~*ricane* Quelle question !~
 @1041 = ~<CHARNAME>, ce que j'ai ressenti la nuit dernière était si intense... Je n'aurais jamais cru qu'un homme... que *je* pourrais faire l'expérience d'une telle extase. J'ai apprécié ce moment... (Par Heaum, les mots sont inutiles...) et je vous suis profondément reconnaissant, mon amour, pour cette nuit.~
 @1042 = ~C'est ce que je voulais te dire, moi aussi, Ajantis.~
-@1043 = ~*sourire* Ajantis, compte tenu de ce que tu as fait la nuit dernière, je dois dire que tu prends tes "devoirs" très sérieusement.~
+@1043 = ~*sourire* Ajantis, compte tenu de ce que tu as fait la nuit dernière, je dois dire que tu prends tes « devoirs » très sérieusement.~
 @1044 = ~S'il te plaît, dis-moi que tu veux le faire encore au plus tôt !~
 @1045 = ~Hélas, Ajantis, ton inexpérience en tant qu'amant est tout ce que j'ai ressenti.~
 @1046 = ~Je suis très heureux de vous l'entendre dire. J'espère que c'était aussi plaisant pour vous que ce l'était pour moi.~
@@ -1056,7 +1056,7 @@
 @1055 = ~Je suis surpris d'entendre tant de colère dans votre voix, mon amour. Qu'est-ce qui ne va pas ?~
 @1056 = ~Rien, j'ai juste mal dormi, j'imagine. *sourire avec embarras*~
 @1057 = ~Qu'est-ce qui ne va pas chez moi ? Rien. C'est ton inexpérience en tant qu'amant qui ne va pas.~
-@1058 = ~<CHARNAME> ! Mon "inexpérience en tant qu'amant" ?!~
+@1058 = ~<CHARNAME> ! Mon « inexpérience en tant qu'amant » ?!~
 @1059 = ~Je suis désolée, Ajantis. J'imagine que c'était trop dur. Essayons à nouveau, je suis certaine que nous finirons par y arriver.~
 @1060 = ~D'un autre côté, tu es un élève impatient, et j'ai pris du plaisir à jouer les professeurs. Avec le temps, j'en suis certaine, cela cessera d'être la seule satisfaction que je retire à coucher avec toi.~
 @1061 = ~Oui, et c'était horrible. Merci, Sire paladin, mais je ne veux plus jamais coucher avec toi.~
@@ -1070,7 +1070,7 @@
 @1069 = ~Je fais référence aux tâches glorieuses que nous poursuivons, la destruction du mal qui assaille ces contrées. Mes devoirs en tant que paladin ne me permettent pas de folâtrer. Je ne peux pas reporter cette traque de l'ennemi, mon amour.~
 @1070 = ~Ce n'est pas un problème. Notre mariage est trop important pour le caler entre deux batailles.~
 @1071 = ~Je ne suis pas d'accord. Nous combattons des adversaires très dangereux, Ajantis. Un de nous pourrait tomber à tout moment. Je veux que nous nous mariions le plus vite possible.~
-@1072 = ~Que veux-tu dire par "folâtrer" ? Je ne pense pas que notre mariage nous ralentirait.~
+@1072 = ~Que veux-tu dire par « folâtrer » ? Je ne pense pas que notre mariage nous ralentirait.~
 @1073 = ~Ajantis, j'ai réfléchi à nos fiançailles, et...~
 @1074 = ~Je dois avouer que je n'ai pas envie de parler de ça juste maintenant.~
 @1075 = ~Je suis heureux que vous le voyiez de cette manière. Oui, notre mariage devrait être un moment précieux à partager avec notre famille et nos amis... Il est trop important pour nous presser.~
@@ -1082,7 +1082,7 @@
 @1081 = ~S'il va s'agir d'une autre discussion concernant ta dévotion envers l'ordre du Coeur Radieux, nous pouvons y mettre un terme dès à présent.~
 @1082 = ~Dans vos paroles, je peux entendre votre amour, et cela me rend très heureux. Cependant, je ne pense pas que cela soit faisable. Je ne peux pas laisser mes sentiments privés me distraire de ma poursuite du mal.~
 @1083 = ~Peut-être as-tu raison. Notre mariage est trop important pour nous contenter de le caler entre deux batailles.~
-@1084 = ~Je ne vois pas pourquoi notre mariage te "distrairait" d'une quelconque manière de notre quête.~
+@1084 = ~Je ne vois pas pourquoi notre mariage te « distrairait » d'une quelconque manière de notre quête.~
 @1085 = ~Je dois avouer que je n'ai pas envie de parler davantage de ceci.~
 @1086 = ~*amèrement* Oui, ce que vous pensez de ma famille ne m'est pas inconnu. Je n'y ai pas prêté suffisamment attention alors, aveuglé par mes sentiments.~
 @1087 = ~Qu'essayez-vous de me dire, mon amour ? Je vous prie, expliquez-moi.~
@@ -1240,7 +1240,7 @@ Je suis minuscule, émerveillé et amoureux.~
 @1231 = ~C'est un poème d'amour vraiment magnifique, Ajantis. Merci.~
 @1232 = ~Je ne peux dire s'il s'agit d'un poème d'amour ou pas...~
 @1233 = ~Eh bien, espérons que ce Sire Leontisk a eu de la chance avec son dragon d'or.~
-@1234 = ~Je retenais mon souffle mais, hé, bonne chance pour trouver quoi que ce soit qui rime avec "Xzynathernolaquella" !~
+@1234 = ~Je retenais mon souffle mais, hé, bonne chance pour trouver quoi que ce soit qui rime avec « Xzynathernolaquella » !~
 @1235 = ~Je suis très heureux que vous l'aimiez. Chaque mot en est vrai quand je vous regarde, mon amour. Ecrit pour une créature magnifique, il reflète mes sentiments pour vous, <CHARNAME>, si jolie, si impressionnante.~
 @1236 = ~C'en est un. Chaque mot en est vrai quand je vous regarde, mon amour. Ecrit pour une créature magnifique, il reflète mes sentiments pour vous, <CHARNAME>, si belle, si impressionnante.~
 @1237 = ~Je ne sais pas grand chose de la relation entre Sire Leontisk et le dragon. Même si j'ai l'impression que vous n'avez pas aimé le poème, tout ce que je peux dire est que chaque mot en est vrai quand je vous regarde, mon amour. Ecrit pour une créature magnifique, il reflète mes sentiments pour vous, <CHARNAME>, si belle, si impressionnante.~

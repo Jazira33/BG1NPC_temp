@@ -5,7 +5,7 @@
 @3    = ~Je sais ce que tu me veux, jeune fille. N'essaie pas de le nier !~
 @4    = ~Oh, non... ça n'est pas ce que tu crois, Shar-Teel. Je voulais juste te parler.~
 @5    = ~Pas fait exprès ? Eh bien alors, retire ta couche de là, crétin, et assure-toi que cet "accident" ne se reproduise plus jamais. Et arrête de me faire ces yeux avant que je te les arrache !~
-@6    = ~Tu crois que je joue à des "jeux" avec toi ? Non mais pour qui tu me prends ?~
+@6    = ~Tu crois que je joue à des « jeux » avec toi ? Non mais pour qui tu me prends ?~
 @7    = ~Je suis on ne peut plus sérieuse, espèce de porc !~
 @8    = ~*rictus* Juste me parler ? Ah !~
 @9    = ~*Shar-Teel se saisit de votre entrejambe.* Tu préfèrerais pas quelque chose dans ce goût-là ?~
@@ -67,7 +67,7 @@
 @59   = ~Euh... mettons de côté mon niveau d'expérience pour le moment. Raconte-moi plutôt quelque chose sur toi. On pourrait parler de... euh... Tu as mentionné ta mère. Qui est-elle ?~
 @60   = ~Etait. C'était une catin. Et maintenant, elle est morte.~
 @61   = ~Je vois. Comment est-elle morte ?~
-@62   = ~Une catin ? Eh bien, le proverbe "les chiens ne font pas des chats" ne s'applique pas du tout à toi, hein ?~
+@62   = ~Une catin ? Eh bien, le proverbe « les chiens ne font pas des chats » ne s'applique pas du tout à toi, hein ?~
 @63   = ~Fascinant.~
 @64   = ~Ne te moque pas de moi ! Je suis tout sauf ma mère !~
 @65   = ~Je sais, je ne suis pas sourd. Tu n'es pas ta mère. Peut-être que, pour ma gouverne, tu pourrais me dire qui est ta mère ?~
@@ -190,7 +190,7 @@
 @178  = ~C'était plutôt courageux pour une fillette de douze ans d'aller coller aux basques d'une guerrière aussi caractérielle. Déjà à l'époque, tu avais du cran.~
 @179  = ~Je voulais être comme elle !~
 @180  = ~Je lui ai demandé si elle pouvait m'entraîner. La surprise l'a paralysée quelques instants, mais elle m'a prise à l'essai.~
-@181  = ~"Pourquoi je m'embêterais à entraîner une fillette aussi maigre et aussi faible que toi ?" m'a-t'elle demandé.~
+@181  = ~« Pourquoi je m'embêterais à entraîner une fillette aussi maigre et aussi faible que toi ? », m'a-t'elle demandé.~
 @182  = ~C'est alors que je l'ai dit. Pour la toute première fois, j'ai dit tout haut ce que j'avais pensé tout bas si longtemps ! "Parce que je veux la puissance, je veux le pouvoir, et surtout, je veux tuer tous les hommes qui m'ont manqué de respect !"~
 @183  = ~Elle m'a secouée une fois de plus, et elle s'est mise à sourire. C'est ainsi que je suis devenue l'élève d'Ysena.~
 @184  = ~Tu lui as peut-être rappelée ses jeunes années.~
@@ -570,7 +570,7 @@
 @536  = ~Avec amour, bien sûr.~
 @537  = ~Je t'aime, Shar-Teel.~
 @538  = ~Je tiens à toi. Tu ne me rends pas la tâche facile, mon ourse, mais je tiens à toi.~
-@539  = ~Là, tout ce qui me vient à l'esprit, c'est : "Va te moucher."~
+@539  = ~Là, tout ce qui me vient à l'esprit, c'est : « Va te moucher ».~
 @540  = ~*Retenir un bâillement.* Tu es une guerrière très douée. Je te respecte pour ça.~
 @541  = ~Il me semble que nous avons déjà eu cette conversation, non ? Ce que je pense de toi n'a pas changé. Tu es une soeur d'arme que je tiens en haute estime.~
 @542  = ~*renifle* Et qu'est-ce que tu ressens, alors, mon petit amant ?~
@@ -609,7 +609,7 @@
 @573  = ~Une fois, Ysena m'avait envoyée transmettre un message à l'un de ses contacts... le chef d'une bande locale de bandits plus ou moins associée au Frisson. Je suis allée au point de rendez-vous avec mon instructeur, mais un traître nous a vendu au Poing, et nous avons été attaqués. Ceux d'entre nous qui ont survécu ont été amenés non loin, vers un arbre. Ils nous ont aboyé un charabia légal, agité un document sous le nez, puis nous ont pendus un à un. Lorsqu'un membre du Poing a noué la corde autour de mon cou, il a croisé mon regard, et il s'est retourné vers les autres pour leur crier : "Regardez, ce rat d'égout est une fille !" Le Capitaine a commandé à ses hommes de me détacher, puis calmement, il a dit : "Il y a un meilleur moyen de lui faire apprendre sa leçon." Puis il m'a donnée à ses soldats... pour faire de moi ce qu'ils voulaient.~
 @574  = ~Lorsqu'ils en ont eu fini avec moi, mon corps tout entier me faisait souffrir. En effet, certains d'entre eux prenaient plaisir à me frapper de leurs poings et de leurs bottes avant de faire leur affaire. Le Capitaine leur a ensuite commandé de m'abandonner à mon sort. Mais avant de partir, cet espèce de bâtard a avancé son cheval vers moi et en est descendu. Il m'a prise par les cheveux ; il n'a même pas bronché face à la boue et au sang qui tâchaient son gant. Et là, il m'a murmuré à l'oreille : "Considère que tu as de la chance, fillette... Je te laisse la liberté. Je suis sûr que tu as compris la leçon, et que tu ne t'encanailleras plus avec ce genre d'engeance. Souviens-toi, de bien mauvaises choses arrivent aux mauvaises gens."~
 @575  = ~J'étais si faible que j'arrivais à peine à respirer, pourtant, je brûlais littéralement d'envie de les retrouver et de tous leur faire la peau. Après avoir récupéré quelques forces, j'ai rampé jusqu'à Ysena.~
-@576  = ~"Tu vivras.", m'a-t-elle dit sans sourciller. Puis elle m'a demandé : "Puisque tu es revenue, je suppose que tu as effectivement compris la leçon." Et lorsque j'ai acquiescé, elle m'a demandé de lui dire ce que j'avais appris.~
+@576  = ~« Tu vivras. », m'a-t-elle dit sans sourciller. Puis elle m'a demandé : "Puisque tu es revenue, je suppose que tu as effectivement compris la leçon." Et lorsque j'ai acquiescé, elle m'a demandé de lui dire ce que j'avais appris.~
 @577  = ~Et je lui ai dit ces mots exacts : il n'y a rien, ni douleur, ni humiliation, ni menace, peur ou obligation d'aucune sorte qui peut empêcher une femme forte de faire tout ce qu'elle veut.~
 @578  = ~*gloups* D'a... d'accord.~
 @579  = ~Ca, c'est l'histoire la plus gaie que j'ai jamais entendue !~
@@ -731,7 +731,7 @@
 @689  = ~Shar-Teel ? Est-ce que... est-ce que tu es toi-même en train de bouder ?~
 @690  = ~Arrête de me regarder comme... comme ça ! Je ne sais pas. Je voulais parler... mais je n'ai pas grand-chose à dire.~
 @691  = ~On a eu notre compte de carnages pour aujourd'hui, on a déjà partagé le butin, et...~
-@692  = ~Et la soupe n'est pas encore prêtre, ce qui signifie qu'on ne peut pas encore railler <PLAYER2> pour ses "talents" de marmiton. Shar-Teel, tu pourrais peut-être t'asseoir près de moi. On pourrait regarder le feu en silence. Ca pourrait être... euh... différent.~
+@692  = ~Et la soupe n'est pas encore prêtre, ce qui signifie qu'on ne peut pas encore railler <PLAYER2> pour ses « talents » de marmiton. Shar-Teel, tu pourrais peut-être t'asseoir près de moi. On pourrait regarder le feu en silence. Ca pourrait être... euh... différent.~
 @693  = ~Euh... Et si on allait se coucher tous les deux, mon ourse ?~
 @694  = ~Non mais tu es bête, ou quoi ? Je te l'ai déjà dit, débile : tu avais l'air de bouder.~
 @695  = ~Regardez qui a retrouvé le moral !~
@@ -1088,7 +1088,7 @@
 @1026 = ~*Elle vous enlace avec toute la grâce d'une ourse ; pesant de tout son poids contre vous, vous en êtes presque à tomber au sol. Même en mettant de côté ce câlin, vous vous sentez étrangement en totale sécurité entre ses bras musclés.*~
 @1027 = ~*grogne* Les hommes !~
 @1028 = ~*grogne* Je t'interdis de me mater le cul comme ça !~
-@1029 = ~*grogne* Hé, qu'est-ce que tu voulais dire par "mettre plus de rembourrage sous mon armure" ?! Blaireau ! Si tu les veux plus gros, trouve-toi une vache !~
+@1029 = ~*grogne* Hé, qu'est-ce que tu voulais dire par « mettre plus de rembourrage sous mon armure » ?! Blaireau ! Si tu les veux plus gros, trouve-toi une vache !~
 @1030 = ~*grogne* Arrête de sourire, ça te donne l'air béat et stupide.~
 @1031 = ~*grogne* Si tu veux un peu d'action au pieu cette nuit, tu ferais mieux de me trouver une bonne bataille. J'ai besoin de me sentir vivante pour t'épuiser encore une fois !~
 @1032 = ~*grogne* Mais quoi ?!~

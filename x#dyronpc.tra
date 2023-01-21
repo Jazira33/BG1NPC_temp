@@ -122,7 +122,7 @@
 @101 = ~Minsc comprend. Le meilleur ami de Minsc en Rashéménie a rencontré une dame, une fois, et eux aussi voulaient de l'intimité. Sauf que la dame n'était pas sous la responsabilité de Minsc.~
 
 @102 = ~<CHARNAME>, Bouh dit que tu aimes Dynahéir.~
-@103 = ~Et ce... tournant des évènements, est-ce que ça te... dérange, d'une façon ou d'une autre ?~
+@103 = ~Et ce... tournant des événements, est-ce que ça te... dérange, d'une façon ou d'une autre ?~
 @104 = ~Tant que nous y sommes, Minsc, j'aimerais savoir : quels sont exactement tes sentiments pour Dynahéir ?~
 @105 = ~Un jour, je briserai le petit cou de ce fichu rongeur !~
 @106 = ~Minsc et Bouh ne savent pas encore. <CHARNAME> est un peu petit...~
@@ -157,7 +157,7 @@
 @131 = ~Ca veut dire que la glorieuse Dynahéir ne remplacera pas Minsc et Bouh par <CHARNAME> ?~
 @132 = ~Mais pourquoi ferais-je donc une chose pareille ?~
 @133 = ~Eh bien, Minsc et Bouh se sont battus comme des lions, mais les hommes à tête de chien ont enlevé Dynahéir. Et c'est <CHARNAME> qui l'a sauvée... Mais il ne peut pas être plus fort que Minsc ou plus intelligent que Bouh.~
-@134 = ~En dépit des plus admirables qualités de <CHARNAME>, c'est bel et bien un berserker Rashémi qui doit être mon protecteur, conformément à la tradition. Et je me refuse à me dérober aux us de mon peuple.~
+@134 = ~En dépit des plus admirables qualités de <CHARNAME>, c'est bel et bien un berserker rashémi qui doit être mon protecteur, conformément à la tradition. Et je me refuse à me dérober aux us de mon peuple.~
 @135 = ~Tu entends ça, Bouh ? Tu entends ça ? Hourrah pour Dynahéir et Minsc et Bouh !~
 
 @136 = ~Euh... Dynahéir ? Bouh pense encore que Dynahéir préfèrerait voyager avec <CHARNAME> plutôt qu'avec Minsc et Bouh.~
@@ -173,7 +173,7 @@
 @146 = ~Oui, je suis d'accord. Dynahéir aime <CHARNAME>, tout comme les femmes aiment les hommes avec qui elles doivent se marier. Ah, avec tout cet amour, pas étonnant que nous nous soyons trompés !~
 
 @147 = ~Minsc et Bouh pensent que quand ils seront acceptés à la Loge Berserker du Dragon de Glace, il devraient demander à <CHARNAME> de venir, lui aussi.~
-@148 = ~Minsc, Tes intentions sont pures, mais <CHARNAME> n'est point Rashémi. Il n'a aucune chance de pouvoir un jour connaître cet honneur.~
+@148 = ~Minsc, Tes intentions sont pures, mais <CHARNAME> n'est point rashémi. Il n'a aucune chance de pouvoir un jour connaître cet honneur.~ ~Minsc, Tes intentions sont pures, mais <CHARNAME> n'est point rashémie. Elle n'a aucune chance de pouvoir un jour connaître cet honneur.~
 @149 = ~Pas ici, mais lorsqu'il viendra en Rashéménie...~
 @150 = ~<CHARNAME> ne viendra pas en Rashéménie.~
 @151 = ~Mais bien sûr que si ! Il ne quittera jamais la glorieuse Dynahéir. Et s'il essaye, Minsc le traquera et bottera son derrière maléfique...~
@@ -276,7 +276,7 @@
 @233 = ~*renifle* Ca veut tout juste dire que leur flair s'est éteint. Il a une odeur étrange, plus forte que l'urine d'une louve en chaleur ! Il est bon qu'il cherche une partenaire pour s'accoupler.~
 
 //Dynahéir et Ajantis
-@234 = ~Dame Dynahéir, j'ai une question concernant la culture Rashémi.~ [AJANT99]
+@234 = ~Dame Dynahéir, j'ai une question concernant la culture rashémie.~ [AJANT99]
 @235 = ~Il est toujours bon de s'ouvrir à la connaissance.~
 @236 = ~Les Wychlarans exercent toute autorité sur la personne de leur garde du corps durant le dajemma. Mais j'en suis venu à me demander... si cette autorité s'étend jusqu'aux, ahem... aspects les plus cavaliers de la vie.~
 @237 = ~Ma foi, c'est par trop exagéré !~
@@ -379,14 +379,14 @@ Et leurs os retourneront poussière !~
 @317 = ~Celui qui est suffisamment naïf pour se laisser influencer par tes charmes à deux sous ne mérite pas de se faire appeler un homme.~
 
 //Edwin pousse Charname à tromper Dynahéir
-@318 = ~Mon jeune ami... Si tu es capable de retenir un seul de mes conseils ô combien avisés, souviens-toi de celui-là : les sorcières Rashémi ont toujours des intentions dissimulées derrière leurs apparences. Elles te séduisent avec leurs charmes insidieux, et toi, tu tombes dans leur piège tête la première ! (Oui, ça devrait suffire à exciter la curiosité dans l'esprit d'un mouton sourd, aveugle et muet qui a été élevé dans une île coupée du monde dirigée par un groupe de chevaliers particulièrement loyaux et stupides.)~ [EDWIN99]
+@318 = ~Mon jeune ami... Si tu es capable de retenir un seul de mes conseils ô combien avisés, souviens-toi de celui-là : les sorcières rashémies ont toujours des intentions dissimulées derrière leurs apparences. Elles te séduisent avec leurs charmes insidieux, et toi, tu tombes dans leur piège tête la première ! (Oui, ça devrait suffire à exciter la curiosité dans l'esprit d'un mouton sourd, aveugle et muet qui a été élevé dans une île coupée du monde dirigée par un groupe de chevaliers particulièrement loyaux et stupides.)~ [EDWIN99]
 @319 = ~Je parie que tu me conseilles par pure générosité d'âme, je me trompe ?~
 @320 = ~J'ai confiance en Dynahéir. Aucun de tes discours ne changera ça.~
 @321 = ~Oh, arrête ton char, Edwin. Dans quel but une Hathran manipulerait un gars comme moi ?~
 @322 = ~Il m'est difficile de croire qu'une Hathran voudrait d'un rejeton de Bhaal de compagnie.~
 @323 = ~Eh bien, Edwin, merci du conseil. Je ferai désormais plus attention à toute malice de sa part.~
 @324 = ~Je ne laisserai aucune femme faire de moi une marionnette ! Merci de m'avoir ouvert les yeux, Edwin. A partir de maintenant, Dynahéir ne signifie plus rien pour moi.~
-@325 = ~Les bons conseils ne viennent jamais de personnes désintéressées, <CHARNAME>. Mon coeur saigne de te voir manipulé ainsi par cette Rashémi, il m'incombe donc de t'informer de la situation...~
+@325 = ~Les bons conseils ne viennent jamais de personnes désintéressées, <CHARNAME>. Mon coeur saigne de te voir manipulé ainsi par cette Rashémie, il m'incombe donc de t'informer de la situation...~
 @326 = ~Les intentions des Wychlarans ne sont jamais claires. On a l'illusion de consentir librement à leurs services, mais le prix à payer est toujours plus élevé que ce qu'elles font croire... Alors qu'il est bien moins compliqué d'attirer l'attention de femmes bien plus honnêtes que cette... Dynahéir. Et toi, tu payes plein-pot le prix de tes désirs.~
 @327 = ~Et moi donc, mon ami... (Sa naiveté est confondante : aussi stupide qu'elle soit, la sorcière pourrait bien le persuader que mes conseils avisés ne sont pas bien-fondés. Je devrais peut-être trouver un autre moyen de le soustraire à son influence...)~
 @328 = ~C'est bien, <CHARNAME>, c'est parfait. C'est ta décision.~

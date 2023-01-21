@@ -7,7 +7,7 @@
 @5 = ~Tiax suppose que tu vois juste. Rien ni personne, sinon Cyric lui-même, ne peut retarder la destinée de Tiax ! Si vous vous déplacez tous à la vitesse d'escargots, c'est sans doute parce que la destinée de Tiax est plus proche que jamais, et Cyric ne voit pas la nécessité de se presser ! En avant, laquais, pour la gloire de Tiax !~
 @6 = ~Tu oses nier la volonté de Tiax ?! Tiax ne comprendra jamais pourquoi Cyric a pensé nécessaire de le coller avec des imbéciles et des crétins incapables de comprendre que Tiax est DESTINE à régner ! S'ils n'avaient pas été divinement envoyés par Cyric pour l'aider dans sa conquête du monde, Tiax commencerait à se demander s'il est avec les bons esclaves !~
 @7 = ~Comme je viens de le dire, nous ne sommes PAS des esclaves. Arrête de nous appeler ainsi.~
-@8 = ~*soupire* Comme tu veux. Nous en arriverons à ta "domination du monde", mais pas maintenant.~
+@8 = ~*soupire* Comme tu veux. Nous en arriverons à ta « domination du monde », mais pas maintenant.~
 @9 = ~Assez de bavardages. Retourne en formation avec les autres, ou je vais t'étriper.~
 @10 = ~Oui, oui, Tiax sait. Tiax est certain que ce groupe est impliqué dans quelque chose de très important pour des insectes tels que vous, mais le futur seigneur de toute chose a d'autres chats à fouetter ! Tiax fait ce que tu veux pour l'instant, mais quand le moment sera venu, tu auras intérêt à mettre toutes ces affaires négligeables de côté pour aider Tiax dans sa conquête de toute chose !~
 @11 = ~Tu MENACES Tiax ?! Tu es certainement l'esclave le plus lobotomisé que Tiax ait jamais dû se farcir ! Tu viens de t'offrir une semaine au pilori quand Tiax régnera, mais pour l'heure, Tiax ne tiendra pas compte de ta bêtise et te permettra de continuer à le servir.~
@@ -26,7 +26,7 @@
 @20 = ~Tiax a bien remarqué que tu revendiques la direction de ce groupe, <CHARNAME>, et il a permis que cela continue parce que c'est divertissant. Les illusions minables des asservis ravissent à la fois Cyric et son favori, et tu démontres une certaine sagesse dans ta volonté à faire n'importe quoi pour servir les intérêts de Tiax, que cela soit horrible ou vil ! Puisque tu démontres une telle compétence dans la tâche que t'a assignée Tiax, quand Tiax régnera enfin sur toute chose, il pourra peut-être te laisser devenir chef de la garde du palais... ou chef de l'équipe de cirage de bottes, selon ta préférence.~
 @21 = ~Hum... merci, Tiax. J'imagine.~
 @22 = ~Donc mes options sont chef de ta garde personnelle... ou cirer des bottes ? Tu es vraiment fou, n'est-ce pas ?~
-@23 = ~Mes méthodes ne sont horribles et viles qu'aux yeux des méduses faiblardes et mollassonnes de ce monde. Les autres les trouvent "éclairées".~
+@23 = ~Mes méthodes ne sont horribles et viles qu'aux yeux des méduses faiblardes et mollassonnes de ce monde. Les autres les trouvent « éclairées ».~
 @24 = ~Retourne à ta place. Je n'ai pas le temps de bavarder avec de la pâtée pour monstres.~
 @25 = ~En avant, fidèle serviteur ! La destinée s'approche à grands pas, et quand elle arrivera, ta loyauté sera bien récompensée, tu verras ! Les couards et les traîtres trembleront devant la puissance du poing armé de Tiax, et tu seras l'instrument grâce auquel seront défaits les ennemis ! Il y aura beaucoup de pleurs et de grincements de dents quand <CHARNAME>, Marteau de Tiax, montera en scène ! Mais là maintenant, les pieds de Tiax sont douloureux. Pouvons-nous nous arrêter un instant ?~
       ~En avant, fidèle servante ! La destinée s'approche à grands pas, et quand elle arrivera, ta loyauté sera bien récompensée, tu verras ! Les couards et les traîtres trembleront devant la puissance du poing armé de Tiax, et tu seras l'instrument grâce auquel seront défaits les ennemis ! Il y aura beaucoup de pleurs et de grincements de dents quand <CHARNAME>, Marteau de Tiax, montera en scène ! Mais là maintenant, les pieds de Tiax sont douloureux. Pouvons-nous nous arrêter un instant ?~
@@ -93,7 +93,7 @@
 
 //Avec Quayle
 @72 = ~Bouge-toi, le malin ! TIAX arrive et tu n'as pas rampé suffisamment pour être admis dans ses parages !~
-@73 = ~Oh, je ne voudrais en AUCUN CAS empêcher votre passage, mon "ami" au petit nez qui empeste.~
+@73 = ~Oh, je ne voudrais en AUCUN CAS empêcher votre passage, mon « ami » au petit nez qui empeste.~
 @74 = ~On ne se moquera pas du nez de Tiax ! Parle encore une fois, et Tiax va soumettre ta face à une sévère bastonnade !~
 @75 = ~A la manière dont je t'ai vu combattre, je pense que je serais davantage en danger si tu devais me souffler dessus que si tu essayais de déplacer ce jouet d'enfant dans ma direction. Un grouilleux malade sans yeux et avec trois membres en moins aurait de meilleures chances de réussir une attaque que toi, Tiax !~
 @76 = ~Tiax en a ASSEZ ! PETIT MALIN MEURT !~
@@ -191,12 +191,12 @@
 @155 = ~Hmmm... Ecoute bien, Tiax. Coran va fabriquer un hochet avec la tête de Tiax, s'il ose encore menacer Namara.~
 
 //Banter avec Dynahéir
-@156 = ~Tiax voudrait en savoir plus sur la nation des Rashémi. Tiax n'a jamais été là-bas, mais il est fasciné par la... euh... culture. Oui, la culture. Tu vas lui raconter tout sur la Rashéménie, ses défenses, son nombre de Sorcières, son terrain et ses fortifications... et peut-être que ce faisant, tu plairas à Tiax !~
+@156 = ~Tiax voudrait en savoir plus sur la nation des Rashémis. Tiax n'a jamais été là-bas, mais il est fasciné par la... euh... culture. Oui, la culture. Tu vas lui raconter tout sur la Rashéménie, ses défenses, son nombre de Sorcières, son terrain et ses fortifications... et peut-être que ce faisant, tu plairas à Tiax !~
 @157 = ~Je n'ai rien à dire à propos de ma patrie à quelqu'un dans Ton genre, en particulier d'informations de nature aussi importante.~
 @158 = ~Tiax ne demande pas d'informations. Tiax EXIGE ces informations !~
 @159 = ~Alors Tiax devra être déçu. Tu n'extirperas pas un mot de mes lèvres tant que je respirerai.~
 @160 = ~Pourquoi les serviteurs de Tiax le défient-ils constamment ?! Cyric le provoque-t-il avec des esclaves aussi peu coopératifs ?!~
-@161 = ~Quand Tiax régnera, il FORCERA la sorcière rashémi à parler, et elle lui dira joyeusement ce qu'il veut avec le SOURIRE !~
+@161 = ~Quand Tiax régnera, il FORCERA la sorcière rashémie à parler, et elle lui dira joyeusement ce qu'il veut avec le SOURIRE !~
 @162 = ~Jusque là, cependant, la conquête de la Rashéménie et son culte absolu du puissant Tiax devront attendre... mais Tiax devient impatient, avec tous ces traîtres et ces imbéciles qui l'entourent !~
 
 //Banters avec Edwin

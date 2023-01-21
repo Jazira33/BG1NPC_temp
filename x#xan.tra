@@ -28,7 +28,7 @@
 @22   = ~Tes efforts sont admirables, bien que vains. C'est sans doute un homme puissant, et persévérant en plus.~
 @23   = ~Ta recherche de situations suicidaires est écoeurante, <CHARNAME>. Pardonne-moi si je déplore le fait de mêler mon destin à celui d'un fou.~
         ~Ta recherche de situations suicidaires est écoeurante, <CHARNAME>. Pardonne-moi si je déplore le fait de mêler mon destin à celui d'une folle.~
-@24   = ~Pourquoi devons-nous être condamnés à dormir ? La rêverie ne suffit donc pas ? Bien que certains souvenirs soient sombres, ils ne sont pas aussi cruels que certains évènements imaginés qui se déroulent dans les rêves.~
+@24   = ~Pourquoi devons-nous être condamnés à dormir ? La rêverie ne suffit donc pas ? Bien que certains souvenirs soient sombres, ils ne sont pas aussi cruels que certains événements imaginés qui se déroulent dans les rêves.~
 @25   = ~J'imagine que tu as envie que je sois sourd et muet, puisque tes hurlements vont certainement détruire mon audition.~
 @26   = ~*soupir* Vas-y, demande-moi pourquoi un mage porte une épée.~
 @27   = ~Très bien. Xan, pourquoi un mage porte-t-il une épée ?~
@@ -55,7 +55,7 @@
 @44   = ~Je ne suis donc *pas* de *ton* Peuple. Cela me fait plaisir à entendre, Xan. Vraiment plaisir.~
 @45   = ~Je suis désolée, Xan. J'ai parlé sans réfléchir. C'est juste que j'imaginais les justes et nobles seigneurs elfes... euh... différemment.~
 @46   = ~Tu as donc les plus gros défauts de *notre* Peuple : leur arrogance et leur snobisme. Quel dommage que ces qualités ne soient complétées par les traits qui les rachètent. La bravoure, la noblesse, le raffinement... aucune trace de ceux-ci en toi.~
-@47   = ~"Et alors ?", effectivement.~
+@47   = ~« Et alors ? », effectivement.~
 @48   = ~Tu viens de démontrer le principal avantage des mots sur les actions. On peut toujours réfuter plus tard ce qui a été dit. Au contraire, les conséquences de nos actions sont rarement modifiées aussi facilement, surtout lorsque ces actions ont eu pour résultat un ou plusieurs décès, comme c'est souvent le cas de nos jours.~
 @49   = ~Xan ! Ta voix !~
 @50   = ~Peut-être que tu devrais me parler de ton épée, tout compte fait...~
@@ -79,7 +79,7 @@
 @66   = ~Tout comme ma rencontre avec toi.~
 @67   = ~Bien que brève. Périr sous tes yeux, <CHARNAME>, voilà la seule consolation que j'aurai lorsque je tomberai sous les coups de nos ennemis.~
 @68   = ~Je choisis de mettre fin à cette conversation dès maintenant, <CHARNAME>, car j'ai l'impression que notre coopération est menacée par ton hostilité. Dirige un peu de ton venin vers nos ennemis : il va peut-être en faire tomber un ou deux, avant que le reste d'entre eux nous submerge.~
-@69   = ~Et ils lui demandèrent : "Qu'est-ce qui a mordu ton âme ?" Et il répondit : "Quelque chose de magnifique, je n'aurais jamais cru qu'il puisse s'agir d'un serpent."~
+@69   = ~Et ils lui demandèrent : « Qu'est-ce qui a mordu ton âme ? » Et il répondit : "Quelque chose de magnifique, je n'aurais jamais cru qu'il puisse s'agir d'un serpent."~
 @70   = ~Je vais donc la préserver, <CHARNAME>, mais tu te leurres si tu penses que ma magie remportera l'inévitable combat qui vient. Notre situation est désespérée.~
 @71   = ~Ce n'est pas que j'en doutais, mais je suis désormais rassuré, notre cause est désespérée, et nos vies ont autant de valeur qu'un grain de sable du désert de Calimshan.~
 @72   = ~<CHARNAME>, ces Lames sont un don pour ceux qui ont du sang elfique dans leurs veines.~
@@ -265,7 +265,7 @@
 @242  = ~Ah, on ne sait jamais. Un héros tragique, et surtout un héros sur le point de mourir, est irrésistible pour certaines femmes. Je me souviens d'une noble femme... elle était de glace lorsque j'étais indemne, et pleine de fougue lorsque je fus gravement blessée... Je la reconnaissais à peine. Ecoute, je vais te raconter toute l'histoire...~
 @243  = ~Coran, soyez honnête pour une fois ! Avouez que votre bravade ne fait que masquer votre peur de la solitude, et votre comportement inconscient est votre façon d'échapper à la vaine vie que vous haïssez.~
 @244  = ~Toujours aussi enjoué, n'est-ce pas, Xan ? Je le vois de cette façon : si nous sommes tous condamnés, pourquoi, par les Neuf Enfers, ne pouvons-nous pas rencontrer la mort en riant ?~
-@245  = ~En tant que Grismanteau, j'ai étudié les intrigues des humaines pendant de nombreuses années, Dynahéir. Je devrais vous prévenir que vous êtes le meilleur exemple de ceux qui se mêlent d'évènements qui les dépassent.~
+@245  = ~En tant que Grismanteau, j'ai étudié les intrigues des humaines pendant de nombreuses années, Dynahéir. Je devrais vous prévenir que vous êtes le meilleur exemple de ceux qui se mêlent d'événements qui les dépassent.~
 @246  = ~Je pense que Tu peux difficilement juger mes actions sans connaître ma tâche. A moins que Tu la connaisses ?~
 @247  = ~Dame Dynahéir, l'aura de mystère que vous utilisez pour dissimuler chacune de vos actions me dit que vous avez l'intention de vous attaquer à quelque chose qui vous dépasse complètement... et donc, vous aurez beau avoir l'air très compétente, vous échouerez. Un tel échec équivaut, en général, à une mort prématurée et désagréable.~
 @248  = ~Tu sembles toujours ne pas croire au succès. Je soupçonne que, même si mon but était de soulever une plume, Tu douterais de l'issue. Je ne prendrai pas Tes mots à coeur. Tu souhaiterais que chaque personne se tienne immobile et pourrisse sur place, puisque toute action est inutile.~
@@ -306,7 +306,7 @@
 @283  = ~Ah, Garrick... Dites-moi, est-ce que la vie vous semble particulièrement emplie de gloire aujourd'hui ? Où est votre liesse ? Où est votre joie ? Ah, c'est vrai...~
 @284  = ~Xan... Pas maintenant... Je vous en prie...~
 @285  = ~Non, je pense qu'il est temps d'ouvrir vos yeux. Regardez le cadavre de cette pauvre Skie, elle qui était si belle.~
-@286  = ~Alors Garrick... Est-ce que vous ressentez cette "gloire" ?~
+@286  = ~Alors Garrick... Est-ce que vous ressentez cette « gloire » ?~
 @287  = ~Je... J'aurais pu...~
 @288  = ~Quoi donc ? La protéger ? La sauver des griffes de la mort ? Vous n'arrivez même pas à regarder les morts, n'est-ce pas ? Vous préférez être aveugle et ignorant.~
 @289  = ~Alors, que ressent-on lorsque l'on perd un être cher ?~
@@ -382,7 +382,7 @@
 @359  = ~Je ne m'attends pas à ce que vous soyez plus réaliste que n'importe quel autre membre de notre compagnie parfaitement ignorante de la réalité, mais vous avez une sorte de ruse primaire, qui vous force à entreprendre plusieurs tentatives de survie, bien qu'elle soient piètres et inaptes.~
 @360  = ~Tu es encore moins doué pour faire des compliments que ce Seigneur Pirate que j'ai connu. « Safana », il me disait, « tes seins sont comme des voiles ensanglantées gonflées par le vent... » Mais continue, qu'as-tu découvert d'autre à mon sujet ? Peut-être qu'il y a une perle dans ce tas de boyaux de poissons.~
 @361  = ~Les femmes de votre genre, à la beauté vulgaire, aux yeux avides et à l'ambition insatiable...~
-@362  = ~Non, non... Dis plutôt "beauté parfaite", "yeux brillants" et le "souhait de recevoir ce qu'il lui est dû", et tu auras plus de chances d'obtenir ma bienveillance.~
+@362  = ~Non, non... Dis plutôt « beauté parfaite », « yeux brillants » et le « souhait de recevoir ce qu'il lui est dû », et tu auras plus de chances d'obtenir ma bienveillance.~
 @363  = ~Comme vous voudrez. Les femmes de ce genre finissent en haillons une fois que la seule chose qui leur appartienne vraiment, la beauté, les abandonne. Dans votre cas, humaine, les années voleront votre trésor très prochainement.~
 @364  = ~Chéri, tu es désespérant.~
 @365  = ~Toute la vie l'est, Safana.~

@@ -15,7 +15,7 @@
 @11 = ~Les gens font partie intégrante d'une terre, et ils contribuent à nous en faire une opinion. Il nous faut nous demander si c'est la terre qui change les gens, ou si ce sont les gens qui changent la terre.~
 @12 = ~Est-ce vrai ? Cela me semble être un prix exorbitant pour revenir dans la ville qui T'a vu naître.~
       ~Est-ce vrai ? Cela me semble être un prix exorbitant pour revenir dans la ville qui T'a vue naître.~
-@13 = ~*hausser des épaules* Ils disent que c'est pour garantir la sécurité de la librairie, mais les évènements récents... Bref, peu importe.~
+@13 = ~*hausser des épaules* Ils disent que c'est pour garantir la sécurité de la librairie, mais les événements récents... Bref, peu importe.~
 @14 = ~C'est vrai. Je ne pourrais pas revenir, pas même pour enterrer décemment mon père adoptif !~
 @15 = ~Ce n'est pas moi qui ai fixé cette règle. Il en a toujours été ainsi, Dynahéir.~
 @16 = ~Oui, cela m'intéresse vraiment. Mais je constate que cela ne T'intéresse pas de me le dire.~
@@ -55,7 +55,7 @@
 @44 = ~C'est bien. Tu es une personne sage malgré Ta jeunesse.~
 
 @45 = ~Que sais-Tu de ce que je suis ? Des Hathrans ?~
-@46 = ~Des sorcières Rashémi ? Je sais que vous en êtes une, et que vous êtes une magicienne puissante. C'est tout ce que je sais des Hathrans, et je n'ai pas besoin d'en savoir plus, Dynahéir.~
+@46 = ~Des sorcières rashémies ? Je sais que vous en êtes une, et que vous êtes une magicienne puissante. C'est tout ce que je sais des Hathrans, et je n'ai pas besoin d'en savoir plus, Dynahéir.~
 @47 = ~Des Hathrans ? Euuh, vous pouvez me dire comment ça s'écrit ?~
 @48 = ~Je croyais que vous étiez une sorcière... Hé, ne me regardez pas comme ça !~
 @49 = ~Je vous ai pourtant entendue parler de vous en tant que Wychlaran.~
@@ -141,7 +141,7 @@ Nourrissent les enfers de leur haine.~
 @116 = ~Non, ma Dame. Sentir le poids d'une armure de métal est noble ; nullement un tel port ne fait ployer le dos d'un chevalier, pas plus que ses haillons pèsent sur le dos du paysan.~
 @117 = ~Mais cela ne restreint-il pas ta mobilité ? Bon sang, même Minsc, dont la force dépasse de loin celle d'un homme de carrure commune, n'aime guère porter une armure.~
 @118 = ~Savoir se battre en armure de plates est une question d'entraînement et de discipline, et non de force. Votre compagnon est indéniablement un homme très vigoureux, mais ces deux qualités lui font cruellement défaut.~
-@119 = ~La discipline... ce n'est pas vraiment ce qui est recherché parmi les berserkers Rashémi.~
+@119 = ~La discipline... ce n'est pas vraiment ce qui est recherché parmi les berserkers rashémis.~
 
 //Banter avec Alora
 @120 = ~Mon enfant, Tu n'es pas restée en place depuis deux tours de cadran ! Si Tu ne reposes pas un peu Tes jambes, aies au moins pitié de mes yeux. C'est comme d'assister à là foire du Solstice d'été.~
@@ -175,7 +175,7 @@ Nourrissent les enfers de leur haine.~
 @142 = ~Toujours en train d'essayer de remplir Ta mission, Edwin ? En retires-Tu bien du plaisir ?~
 @143 = ~Même si tes pauvres parodies de sarcasmes étaient un peu meilleures que celles d'un petit-homme sans éducation, elles n'auraient pas détourné mon attention ! Je t'observe avec vigilance, et il m'est très agréable de constater que cela te déplaît. (Oui, un ennemi ennuyé est toujours préférable à un ennemi calme et concentré.)~
 @144 = ~Tu es le premier des Tiens à t'être converti à la foi de Heaum le Vigilant, dirait-on. Je suis certaine que cela va rendre fou de joie le Tarchion du Surthay.~
-@145 = ~Comme d'habitude, tes babillages n'ont aucun sens, sorcière Rashémi. Voilà un bon exemple de ce pourquoi Thay doit continuer à s'intéresser à la Rashéménie. Vous autres, primates, êtes nés sans volonté de pouvoir. Thay doit faire de vous ses esclaves, c'est là votre seule destinée.~
+@145 = ~Comme d'habitude, tes babillages n'ont aucun sens, sorcière rashémie. Voilà un bon exemple de ce pourquoi Thay doit continuer à s'intéresser à la Rashéménie. Vous autres, primates, êtes nés sans volonté de pouvoir. Thay doit faire de vous ses esclaves, c'est là votre seule destinée.~
 @146 = ~As-Tu succombé à la folie, ou crois-Tu vraiment que je peux être trompée par de tels mensonges ? Tu viens de prouver que Tu n'es pas un Odesseiron seulement de nom, mais aussi de naissance. J'en conclus que Tu dois être le fils de Homen Odesseiron, le Tarchion du Surthay lui-même. Nie-le si Tu veux, mais je sens que c'est là la vérité.~
 @147 = ~Ces pathétiques insinuations sont sur le point de faire surchauffer ce qui tu as et qui se rapproche le plus d'un intellect. Je te conseille d'arrêter de fantasmer sur moi, et de te concentrer sur les petites victoires que tu pourrais obtenir en lançant ces pitoyables demi-sorts que tu réussis à inscrire sur ton grimoire. (Si Homen voulait garder la mainmise sur le Surthay, il aurait élevé une personne avec des capacités aussi fantastiques que les miennes à la position respectable qui me sied. Et au lieu de ça, me voilà obligé de voyager à pieds dans ce pays de barbares avec une Wychlaran pour compagnie !)~
 @148 = ~Tu en veux à la mauvaise personne, Edwin. Ce n'est pas la faute d'Homen si Tu n'as obtenu aucun avancement, mais la Tienne, et la Tienne seule. J'ai entendu dire que le Tarchion avait un semblant d'honneur, et qu'il donne des promotions à des gens de qualité. Des gens que l'on ne trouve pas communément dans Ton peuple. Des gens dont Tu ignores tout.~
@@ -287,7 +287,7 @@ Nourrissent les enfers de leur haine.~
 @234 = ~Tu as deux amis avec toi ! Minsc et Bouh, les deux héros qui ne vivent que pour te défendre. On en fera une légende ! Oh, on racontera de telles histoires à la Loge des Berserkers lorsque nous rentrerons ! Pas vrai, Bouh ?~
 @235 = ~Minsc, il se pourrait que je ne rentre pas en Rashéménie avant longtemps. Si Tu souhaites rentrer plus tôt que prévu, Tu n'as qu'un mot à dire. Tu as rempli Ton dajemma avec brio depuis longtemps.~
 @236 = ~[MINSC 28] Là où Dynahéir s'engage, la lame de Minsc s'engage. A partir du moment où il y a des derrières maléfiques à botter et un peu de fromage pour Bouh, Minsc est heureux !~
-@237 = ~Mon loyal ami, Tes mots me vont droit au coeur. Mais j'ai l'impression d'avoir trouvé ce que je suis venue chercher. Si j'en crois le savoir ancien, des évènements extrêmement dangereux sont sur le point de se produire.~
+@237 = ~Mon loyal ami, Tes mots me vont droit au coeur. Mais j'ai l'impression d'avoir trouvé ce que je suis venue chercher. Si j'en crois le savoir ancien, des événements extrêmement dangereux sont sur le point de se produire.~
 @238 = ~Minsc et Bouh n'ont pas peur du danger ! Tu as commencé ton voyage avec Minsc et Bouh, et c'est avec Minsc et Bouh que tu le finiras ! Jamais je ne te laisserai sans protection si loin de chez nous.~
 
 //Banter avec Montaron
@@ -314,7 +314,7 @@ Nourrissent les enfers de leur haine.~
 @257 = ~Alors ça, Dynahéir, ce n'était même *pas* drôle !~
 
 //Banter avec Safana
-@258 = ~En Te regardant, je ne peux m'empêcher de me remémorer une ancienne plaisanterie Rashémi.~
+@258 = ~En Te regardant, je ne peux m'empêcher de me remémorer une ancienne plaisanterie rashémie.~
 @259 = ~Dynahéir, chérie, en te regardant, la dernière chose dont je peux me douter, c'est qu'une plaisanterie puisse te venir à l'esprit. Mais je t'en prie, raconte-la nous, et rions un bon coup. Mon visage est toujours plus beau avec un sourire.~
 @260 = ~Devine combien il faut de femmes Thayennes pour remplir un verre d'eau.~
 @261 = ~Alors ?~
@@ -341,7 +341,7 @@ Nourrissent les enfers de leur haine.~
 @278 = ~Mais je trouve que le Narfell a tout perdu de sa gloire passée, et son peuple n'est plus ce qu'il était. Selon moi, il est évident que le Narfell a été détruit, tout comme le Raumathar ! Quel genre de victoire est-ce donc ?~
 @279 = ~Tes mots sonnent juste. En effet, en de telles circonstances, la victoire ne peut être attribuée à aucun des deux camps. L'opinion de Ton tuteur est superficielle.~
 @280 = ~Je le savais ! C'était si injuste !~
-@281 = ~Par ailleurs, Tu n'es pas sans savoir que les descendants des Raumatharais, les Raumviras, vivent toujours dans le Lac des Brumes ? Nous autres, les Rashémi, nous considérons aussi comme leurs descendants.~
+@281 = ~Par ailleurs, Tu n'es pas sans savoir que les descendants des Raumatharais, les Raumviras, vivent toujours dans le Lac des Brumes ? Nous autres, les Rashémis, nous considérons aussi comme leurs descendants.~
 
 @282 = ~T'intéresses-Tu à la politique de nos jours, Skie ?~
 @283 = ~Ahem, dernièrement, je n'ai pas vraiment suivi l'actualité... Avec mon père qui m'enfermait, et tout...~

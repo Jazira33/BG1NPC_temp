@@ -18,7 +18,7 @@
 @13 = ~Bien qu'elle ait son utilité, je ne suis pas d'avis qu'elle vaille vraiment tous les soucis qu'elle cause. Mais, une fois de plus, je reconnais que je suis drow, et que je pense différemment de toi. Quel est ton raisonnement, <CHARNAME> ? Pourquoi prends-tu cette fille avec toi ?~
 @14 = ~Imoen est bien plus qu'un membre du groupe. C'est une vieille amie.~
 @15 = ~Elle peut être odieuse, mais elle est suffisamment utile pour que ça l'emporte.~
-@16 = ~Elle est comme une soeur pour moi, et il y a là un attachement qui va au-delà de savoir à quel point elle peut être utile ou ennuyeuse.~
+@16 = ~Elle est comme une sœur pour moi, et il y a là un attachement qui va au-delà de savoir à quel point elle peut être utile ou ennuyeuse.~
 @17 = ~C'est une bonne question. Je ne sais pas pourquoi je l'emmène avec moi.~
 @18 = ~Une vieille amie. Pff, vraiment, <CHARNAME>, tu veux me faire croire que tu considères sa valeur envers toi en tant... en tant qu'amie, avant de considérer sa capacité à nous garder en vie ?~
 @19 = ~Oui. Qu'est-ce qui est si dur à croire là-dedans ?~
@@ -30,7 +30,7 @@
 @25 = ~Oui. C'est un membre de valeur dans ce groupe.~
 @26 = ~Que puis-je dire de plus ? Elle fait bien son travail.~
 @27 = ~Hé bien, elle n'est pas là uniquement à cause de ses compétences, je suppose.~
-@28 = ~Ta soeur, dis-tu ? De l'attachement ? Il va falloir que tu comprennes quand je te dis que les manières des surfacins me semblent complètement stupides.~
+@28 = ~Ta sœur, dis-tu ? De l'attachement ? Il va falloir que tu comprennes quand je te dis que les manières des surfacins me semblent complètement stupides.~
 @29 = ~Dans ma maison, mes dalninilen, mes soeurs, comme vous dites, n'avaient certainement aucun attachement pour moi, ni moi pour elles. Nous étions au mieux des rivales, au pire des ennemies jurées.~
 @30 = ~C'était l'Outreterre. Les choses sont différentes ici.~
 @31 = ~Hé bien, Imoen et moi ne sommes pas comme ta fratrie. Nous sommes des amis proches, et loyaux l'un envers l'autre.~ ~Hé bien, Imoen et moi ne sommes pas comme ta fratrie. Nous sommes des amies proches, et loyales l'une envers l'autre.~
@@ -132,7 +132,7 @@
 
 //Dynahéir 2
 @102 = ~J'ai cru comprendre, sorcière, que dans ta patrie, les femmes occupent un rang supérieur.~
-@103 = ~C'est à peu près ça. Les Wychlaran ont un statut élevé en Rashéménie.~
+@103 = ~C'est à peu près ça. Les Wychlarans ont un statut élevé en Rashéménie.~
 @104 = ~J'avoue que cela m'intrigue vraiment...~
 @105 = ~Retiens Ta langue un moment, drow. Je vois clairement pour quelles raisons Tu m'as abordée avec ce sujet. N'essaie même pas de tracer des parallèles entre mon peuple et le Tien.~
 @106 = ~Mais ils existent, rivvil. Je n'aspire pas à les tracer, seulement à les rendre évidents.~

@@ -81,8 +81,8 @@
 @41    = ~La seule chose qui m'intéresse pour l'instant est une chambre chaude avec un lit moelleux et un toit au-dessus de ma tête.~
 @42    = ~Quand tu as vu une ville, tu les as toutes vues.~
 // Après @38
-@43    = ~Nous verrons ce qu'elle nous réserve alors ! Ah... il vaut mieux que tu me laisses parler, <CHARNAME>. Un péquenaud comme toi dans une "grande ville" comme celle-ci, oooh... plutôt effrayant !~
-         ~Nous verrons ce qu'elle nous réserve alors ! Ah... il vaut mieux que tu me laisses parler, <CHARNAME>. Une péquenaude comme toi dans une "grande ville" comme celle-ci, oooh... plutôt effrayant !~
+@43    = ~Nous verrons ce qu'elle nous réserve alors ! Ah... il vaut mieux que tu me laisses parler, <CHARNAME>. Un péquenaud comme toi dans une « grande ville » comme celle-ci, oooh... plutôt effrayant !~
+         ~Nous verrons ce qu'elle nous réserve alors ! Ah... il vaut mieux que tu me laisses parler, <CHARNAME>. Une péquenaude comme toi dans une « grande ville » comme celle-ci, oooh... plutôt effrayant !~
 // Réponses à @43
 @44    = ~Péquenaud ? Quand es-tu devenue aussi raffinée, petite Mademoiselle Jaivulemonde ?~
          ~Péquenaude ? Quand es-tu devenue aussi raffinée, petite Mademoiselle Jaivulemonde ?~
@@ -138,7 +138,7 @@
 @71    = ~Super ! Faisons la fête ! Euh... que célébrons-nous, déjà ?~
 @72    = ~De quoi es-tu en train de jacasser encore, Imoen ?~
 // Après @72
-@73    = ~Ce dont je "jacasse", Ô boute-en-train, c'est de...~
+@73    = ~Ce dont je « jacasse », Ô boute-en-train, c'est de...~
 // Après @69, @70, @71, @73
 @74    = ~Ton anniversaire, bien sûr ! Joyeux anniversaire, <CHARNAME> !~
 // Réponses à @74
@@ -435,7 +435,7 @@ Houp-là !~
 @252   = ~Alors, qu'est-ce que t'en dis, Xan ?~
 @253   = ~Pourquoi dois-je souffrir doublement de savoir que nous sommes tous condamnés, et d'avoir à porter ces... habits accablants ?~
 @254   = ~Je te l'ai déjà dit. C'est pour ton bien. Une fois que tu seras sorti de ton attitude morne d'auto-apitoiement, je te rendrai tes affaires, si tu les veux toujours.~
-@255   = ~Donc vous admettez que mes effets personnels n'ont pas été "perdus", comme vous le disiez auparavant ? *soupir* Ces humains... S'il vous plaît, rendez-moi mes affaires.~
+@255   = ~Donc vous admettez que mes effets personnels n'ont pas été « perdus », comme vous le disiez auparavant ? *soupir* Ces humains... S'il vous plaît, rendez-moi mes affaires.~
 @256   = ~Je sais pas... tu sembles encore plutôt abattu. Je veux dire, il y a un instant tu te plaignais encore que nous étions tous condamnés...~
 @257   = ~Nous le sommes, et porter cet accoutrement hétéroclite n'y changera rien. *hausse les épaules* Nos adversaires nous connaissent trop bien pour se laisser abuser maintenant à croire que nous sommes un cirque en voyage. Je vous en prie, ayez l'obligeance de m'autoriser à mourir dans une cape GRISE d'Evereska.~
 // Xan, plainte (suite et fin)
@@ -483,7 +483,7 @@ Houp-là !~
 @294   = ~Tu vois ? Il y a quelques avantages à être grand ! Aïe ! *lâche M. Câlins tandis qu'elle chancelle et se frictionne le tibia*~
 @295   = ~Regarde ce que tu as fait à ce pauvre M. Câlins ! Le laisser tomber sur le sol sale !~
 /* Branwen 1 */
-@296   = ~Hé, Branwen, si tu adores le « Seigneur des Batailles », comment se fait-il que ton dieu juge bon de te laisser soigner les gens, au lieu de jeter de belles et croustillantes boules de feu ?~
+@296   = ~Hé, Branwen, si tu adores le « Seigneur des Batailles », comment se fait-il que ton dieu juge bon de te laisser soigner les gens, au lieu de jeter de belles et fantastiques boules de feu ?~
 @297   = ~Si tu souhaites vraiment savoir pourquoi soigner est un élément vital de la guerre, chère enfant, peut-être voudrais-tu que je me retienne de le faire pour toi pendant un moment, jusqu'à ce que tu arrives à comprendre ?~
 @298   = ~*déglutit nerveusement* Oh, je ne faisais que te taquiner, Brany.~
 /* Branwen 2 */
@@ -657,7 +657,7 @@ Houp-là !~
 @440   = ~Bouh mange surtout des noix, des céréales et des baies. Elles le gardent fort, rapide et malin, mais il adore aussi manger du fromage. Le fromage est son mets préféré.~
 @441   = ~C'est pas vrai ? Bon, je pense avoir un morceau de fromage à lui donner. *Imoen cherche dans son sac, détache un petit morceau de fromage et le tend à Minsc.*~
 @442   = ~Bouh sera tout à fait heureux avec ça ! Je veillerai à ce qu'il sache que tu lui as donné cette gâterie.~
-@443   = ~Qu'est-ce que tu veux dire par "j'y veillerai" ? Où est-il ?~
+@443   = ~Qu'est-ce que tu veux dire par « j'y veillerai » ? Où est-il ?~
 @444   = ~Bouh se repose. Il a eu une longue nuit.~
 /* Montaron */
 @445   = ~Comment peux-tu agir aussi cruellement, Montaron ? Les petites-personnes ne sont-elles pas censées être des voleurs et aventuriers qui aiment s'amuser, ou de nature aimable ?~

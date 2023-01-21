@@ -9,7 +9,7 @@
 @2    = ~Quelle direction à présent, Yeslick ?~
 @3    = ~Vous dites qu'un clan entier de Nains vivait ici ? Cet endroit est minuscule !~
 @4    = ~Ce sont qu'les salles de garde. J'ai entraîné ma milice ici, y a longtemps... tous des gars déterminés, doués avec la hache. Je m'attends à ce que le Trône les ait remplis d'hobgobelins et d'vauriens du même genre, alors attentions où vous mettez les pieds.~
-@5    = ~Pour trouver Davaëorn c'est vers le Sud, par les forges... mais au Nord y avait les armureries, ça pourrait valoir le coup d'oeil si le Trône les a pas déjà complètement pillées.~
+@5    = ~Pour trouver Davaëorn c'est vers le Sud, par les forges... mais au Nord y avait les armureries, ça pourrait valoir le coup d'œil si le Trône les a pas déjà complètement pillées.~
 @6    = ~Oui, maintenant, p't'être. Quand l'eau s'est engouffrée, la majorité du soutènement d'la mine a été emportée, écrasant les tunnels, les quartiers d'habitation et la fort'resse principale. Le maudit Trône a ouvert ce qui l'intéressait et a laissé le reste enseveli sous les rochers.~
 @7    = ~Alors... où sommes-nous exactement ?~
 @8    = ~Par où, maintenant ?~
@@ -61,8 +61,8 @@
 @50   = ~Ce n'est pas de la bravoure. C'est de l'idiotie... ou de l'arrogance.~
 @51   = ~Je suppose que je peux comprendre ça. J'ai été assez trempé de pluie ces derniers temps.~
         ~Je suppose que je peux comprendre ça. J'ai été assez trempée de pluie ces derniers temps.~
-@52   = ~Vous parlez comme si vot' monde s'était écroulé... écoutez-moi, <CHARNAME>. Là où il y a de la vie, il y a de la volonté, des promesses et vot' dieu... et les trois peuvent vous garder sur vot' chemin, peu importe les tremblements de vot' coeur. Ayez foi en ça, mon garçon - y'a peut-être plus d'espoir, mais l'vieux Yeslick sera pas enterré avant qu'les siens reposent en paix.~
-        ~Vous parlez comme si vot' monde s'était écroulé... écoutez-moi, <CHARNAME>. Là où il y a de la vie, il y a de la volonté, des promesses et vot' dieu... et les trois peuvent vous garder sur vot' chemin, peu importe les tremblements de vot' coeur. Ayez foi en ça, ma fille - y'a peut-être plus d'espoir, mais l'vieux Yeslick sera pas enterré avant qu'les siens reposent en paix.~
+@52   = ~Vous parlez comme si vot' monde s'était écroulé... écoutez-moi, <CHARNAME>. Là où il y a de la vie, il y a de la volonté, des promesses et vot' dieu... et les trois peuvent vous garder sur vot' chemin, peu importe les tremblements de vot' cœur. Ayez foi en ça, mon garçon - y'a peut-être plus d'espoir, mais l'vieux Yeslick sera pas enterré avant qu'les siens reposent en paix.~
+        ~Vous parlez comme si vot' monde s'était écroulé... écoutez-moi, <CHARNAME>. Là où il y a de la vie, il y a de la volonté, des promesses et vot' dieu... et les trois peuvent vous garder sur vot' chemin, peu importe les tremblements de vot' cœur. Ayez foi en ça, ma fille - y'a peut-être plus d'espoir, mais l'vieux Yeslick sera pas enterré avant qu'les siens reposent en paix.~
 @53   = ~On devrait continuer jusqu'à ce que les choses s'améliorent ou qu'on meure ? Par les Dieux, c'est une perspective bien sombre.~
 @54   = ~C'est ce que je dois faire, moi aussi.~
 @55   = ~N'avez-vous jamais songé que vous ne faites que mettre des jolis mots sur une folie suicidaire ?~
@@ -114,10 +114,10 @@
 
 // Coran
 @96   = ~Alors, comment penses-tu tuer une wiverne, elfe ? J'espère qu'tu prévois pas de lui chanter un air.~
-@97   = ~Tu me blesses, Yeslick ! Personne ne part en chasse d'un gibier si gros sans un plan de chasse... C'est normal, après tout. Elle a pour elle sa taille, ses écailles et une méchante queue, et moi j'ai mon arc, et ma répartie toujours acérée. J'ai demandé conseil par-ci par-là, et j'ai eu quelques tuyaux. « Vise la tête » m'a-t-on dit. L'oeil, ou le dessous de la mâchoire dans le crâne... une flèche juste ici et en un éclair, tu rapportes ta récompense à la maison, ils ont dit ! Aucun problème pour un archer tel que moi.~
+@97   = ~Tu me blesses, Yeslick ! Personne ne part en chasse d'un gibier si gros sans un plan de chasse... C'est normal, après tout. Elle a pour elle sa taille, ses écailles et une méchante queue, et moi j'ai mon arc, et ma répartie toujours acérée. J'ai demandé conseil par-ci par-là, et j'ai eu quelques tuyaux. « Vise la tête » m'a-t-on dit. L'œil, ou le dessous de la mâchoire dans le crâne... une flèche juste ici et en un éclair, tu rapportes ta récompense à la maison, ils ont dit ! Aucun problème pour un archer tel que moi.~
 @98   = ~Tu me surprends, vraiment.~
 @99   = ~Oh ? Tu ne me crois pas assez intelligent ou brave pour battre une wiverne ? Je suis déçu, Yeslick. Comment ai-je pu te faire une telle impression ?~
-@100  = ~Oh, non, bien sûr, j'ai aucun doute là-dessus... c'est juste qu'avec ton choix habituel d'cibles, Coran ; j'attendais qu'tu vises le coeur, comme d'habitude.~
+@100  = ~Oh, non, bien sûr, j'ai aucun doute là-dessus... c'est juste qu'avec ton choix habituel d'cibles, Coran ; j'attendais qu'tu vises le cœur, comme d'habitude.~
 @101  = ~Par la Rose d'Or d'Hanali Celanil ! Yeslick - c'était... une blague ? Et une bonne en plus ! Tu es toi-même plein de surprises, Nain.~
 
 // Imoen. La traduction des noms du compte est de mon invention. Accord de "leur" ligne 122 à vérifier. Jusqu'à 115 c'est avant le repos du groupe, et le reste au réveil.
@@ -196,7 +196,7 @@
 @162  = ~De ce que j'ai compris, dame Dynahéir, votre pays, c'est la Rashéménie ? Votre pays a pour guerriers, pour soldats et pour chef nombre d'hommes valeureux, combattants hors-pair comme votre garde du corps là-bas - bien que je gage qu'ils ne soient pas tous... amateurs de hamsters.~
 @163  = ~J'entends en Ton discours une diplomatie bien inhabituelle, clerc.~
 @164  = ~Si vous l'dîtes. Enfin, si vot' pays dispose de guerriers si vaillants... comment ça se fait que ce sont les magiciens qui dirigent ? Ça n'a aucun sens pour moi, pas une once de logique.~
-@165  = ~C'est une bien étrange question... Je dirais peut-être que Ton dieu et son dogme T'ont enseigné à ne pas considérer la magie comme naturelle. Apprendre l'Art et grandir avec, l'utiliser avec sagesse et justice, c'est un défi et un devoir que les Wychlaran acceptent, tout comme les clercs de Ton dieu savent quand tuer et quand s'abstenir.~
+@165  = ~C'est une bien étrange question... Je dirais peut-être que Ton dieu et son dogme T'ont enseigné à ne pas considérer la magie comme naturelle. Apprendre l'Art et grandir avec, l'utiliser avec sagesse et justice, c'est un défi et un devoir que les Wychlarans acceptent, tout comme les clercs de Ton dieu savent quand tuer et quand s'abstenir.~
 @166  = ~J'vous respecte, mais vous pouvez pas attendre à ce que je sois d'accord quand vous dites que les enseignements de Clangeddin Barbedargent, et la parole que je prêche et crie jusqu'au ciel est fausse, simplement parce que vous l'édictez. Si la magie était purement naturelle, Clangeddin la prêcherait de même que la hache et le marteau, non ?~
 @167  = ~Et Tu crois en cela ? Alors laisse-moi Te dire ceci, Yeslick ; si Tu venais en mes terres, Tu verrais la Rashéménie sous la dominance éclairée et totale de la Reine-Sorcière sur le pays d'Aglarond... et l'esclavage et la misère humaine sous la supervision des Zulkirs de Thay.~
 @168  = ~Que complotes-tu, Sorcière ? Ne crois pas que ma vigilance se relâche ! (Gah ! Jusque sous mon nez elle vient ourdir ses plans ! Je dois prendre des mesures...)~
@@ -207,7 +207,7 @@
 @171  = ~Quoi ? Pourquoi jures-tu à mon adresse, nain ?~
 @172  = ~Vos mains ! *Regardez* vos mains ! Y a pas un cal ou une cicatrice dessus ! Elles sont lisses comme celle d'un nourrisson ! Par le marteau de Moradin, Edwin, avez-vous jamais vécu un jour de travail ?!~
 @173  = ~Nain, un homme sophistiqué et bien éduqué tel que moi, ne laissera jamais ses mains trahir des signes de labeur manuel. En effet, j'ai le sentiment de devoir les garder dans un état parfait, si je veux que mes gestes incantatoires soient tout aussi parfaits !~
-@174  = ~Mon « jour de travail » est bien plus ésotérique, bien plus subtil et puissant que de frapper des cailloux avec des bâtons ou transporter ceci-cela, et il y a plein de gens dont le but dans la vie est d'accomplir de telles tâches après tout. (Oh oui, il y aura... un jour)~
+@174  = ~Mon « jour de travail » est bien plus ésotérique, bien plus subtil et puissant que de frapper des cailloux avec des bâtons ou transporter ceci-cela, et il y a plein de gens dont le but dans la vie est d'accomplir de telles tâches après tout. (Oh oui, il y aura... un jour.)~
 @175  = ~'Un état parfait', vous dîtes ? Et dire que j'pensais que vous les mages vous jouiez avec de l'urine de chauve-souris et des queues d'rats et ce genre de trucs peu ragoûtants. Lancer des sorts c'est salissant, ou du moins j'l'ai toujours pensé. Personnellement, ça m'étonne que vous ayez réussi à garder votre robe rouge de princesse propre, avec toute la crasse que vous devez endurer pour jeter vos sorts.~
 @176  = ~Nain, je suis d'humeur magnanime aujourd'hui... voici donc mon conseil : n'essaie pas de comprendre ce qui dépasse ton imagination limitée. Creuse ta terre, et laisse les esprits éclairés discuter de magie. (Et ce mineur crasseux a l'esprit aussi obscur que l'on peut espérer, hah.)~
 @177  = ~J'pense que vous seriez étonné de toute la sagesse qu'on trouve dans la boue et les roches bonnes et honnêtes. J'dis qu'un jour dans les mines vous ferait tout le bien du monde, Edwin, mais qui suis-je pour donner conseil à « un esprit éclairé », hein... ?~

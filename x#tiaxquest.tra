@@ -61,7 +61,7 @@ J'ai rencontré un gnome énigmatique. Il semble être à la recherche d'un autr
 @54 = ~Non, je vous en prie ! Vous devez m'écouter, vous devez... m'aider ! Je vous en supplie, sans son aide, je suis un homme mort !~
 @55 = ~Ainsi le fou nous attire dans une distraction de plus. Tuons-les tous les deux et partons.~
 @56 = ~Laisse-moi le tuer. N'importe lequel des deux. Je veux dire, pour m'entraîner. Je peux ?~
-@57 = ~Ne soyez pas stupide, Montaron... Voulez-vous dire "puis-je ?"~
+@57 = ~Ne soyez pas stupide, Montaron... Voulez-vous dire « puis-je » ?~
 @58 = ~Oui, oui... Puis-je ?~
 @59 = ~Bon... très bien, vieil homme, dites-nous ce que vous avez à dire. Cependant, vous avez intérêt à vous expliquer rapidement !~
 @60 = ~Apparemment, vous êtes devenu dur d'oreille, avec l'âge. Partez ou mourrez, vieil imbécile ! Vous n'aurez pas de troisième avertissement !~
@@ -188,7 +188,7 @@ J'ai rencontré un gnome énigmatique. Il semble être à la recherche d'un autr
 @173 = ~Salutations, aventuriers. Je suis occupé en ce moment. Dès que nous nous serons bien installés, je vous reparlerai avec plaisir.~
 @174 = ~Et bien, j'allais dire que vous étiez mignon et offrir de vous payer un verre, mais je vois que ça ne vous intéresse pas.~
 @175 = ~Hmm... c'est ce que vous avez dit la dernière fois.~
-@176 = ~Oui, très répétitif. Etes-vous parent d'un gars appelé "Noober" ?~
+@176 = ~Oui, très répétitif. Etes-vous parent d'un gars appelé « Noober » ?~
 @177 = ~Très bien. Nous devons quitter la Porte de Baldur pendant quelques jours, mais nous viendrons vous revoir plus tard.~
 @178 = ~Aucune chance. Nous quittons la Porte de Baldur pour partir à l'aventure.~
 @179 = ~Je reviendrai. Peut-être seriez-vous moins prompt à me congédier si vous réalisiez que je peux vous cueillir sur pied sans transpirer d'une goutte.~
@@ -250,7 +250,7 @@ J'ai rencontré un gnome énigmatique. Il semble être à la recherche d'un autr
 @235 = ~Nous pourrions toujours vous débarrasser de ce problème, pour peut-être 2 000 pièces d'or ? La Guilde vous en demanderait beaucoup plus...~
 @236 = ~Je prends ! Allez au Heaume et la Cape. Il attend de nos nouvelles là-bas.~
 @237 = ~Je laisse. Au revoir, Karris. Amusez-vous bien à fouiller la ville.~
-@238 = ~Ecoutez, c'est stupide. Tiax, euh... je veux dire "Telliax" est clairement, complètement, parfaitement vivant. Et très, très agaçant.~
+@238 = ~Ecoutez, c'est stupide. Tiax, euh... je veux dire « Telliax » est clairement, complètement, parfaitement vivant. Et très, très agaçant.~
 @239 = ~Je suis désolé, mais j'ai besoin de quelque chose de plus substantiel que votre parole. Si Telliax est bel et bien vivant, amenez-le moi. Il a été décrit avec nombre détails par son père. D'ici là, nous n'avons rien à nous dire.~
 @240 = ~Dément ?! Qui OSERAIT se moquer de Tiax devant lui ?! Tu dois certainement te languir d'avoir les membres arrachés à ta carcasse pour provoquer ainsi le destin ! Cyric exige un paiement pour toutes les insultes dirigées à l'encontre de son champion, et Tiax le *réclamera* !~
 @241 = ~C'est impossible ! Par les dieux, vous voulez dire que *c'est* le fils de notre employeur, Telliax ?! Que lui est-il arrivé ? La description correspond, bien qu'il me paraisse un peu plus... débraillé que je ne l'aurais imaginé de la part du fils d'un riche marchand.~
@@ -363,7 +363,7 @@ J'ai prouvé au groupe de Karris que Tiax était en bonne santé. Il a remis le 
 @336 = ~Hé, Cyric est mon genre de mec. Allons tuer ce petit bâtard !~
 @337 = ~*soupire* Tiax, tu n'as pas été attentif. C'est le plan depuis le début. Prendre son argent, le vendre aux chasseurs de primes, peut-être tuer et dépouiller les chasseurs après avoir reçu leur argent, retourner voir Belgin, prendre son argent, le tuer. Un plan simple, pourtant. Allons-y.~
 @338 = ~Belgin le mécréant doit MOURIR ! Ainsi l'a ordonné Cyric, et ainsi obéira Tiax, afin que le jour de son ascension s'approche encore !~
-@339 = ~Tu veux que nous tuions Belgin ?! Mais pourquoi "Cyric" le voudrait-il mort alors que nous venons de le sauver ?~
+@339 = ~Tu veux que nous tuions Belgin ?! Mais pourquoi « Cyric » le voudrait-il mort alors que nous venons de le sauver ?~
 @340 = ~Ainsi, nous nous sommes cassés la tête pour essayer de le sauver, et maintenant, tu veux que nous le tuions ? Tu dois te payer ma tête.~
 @341 = ~Ça m'a l'air d'un plan. En route.~
 @342 = ~TIAX n'a pas le temps pour ces questions ! Cyric l'a ordonné et ainsi cela en sera-t-il fait, et vite ! En avant, esclaves ! Nous nous baignerons dans le sang et Tiax en deviendra plus grand !~

@@ -67,7 +67,7 @@
 //Safana - Dynaheir
 
 @43 = ~Dynahéir, est-ce que ta connaissance de la magie inclut la capacité de préparer des potions ?~
-@44 = ~Non, Safana. Dans mon pays natal, la fabrication d'objets magiques est du ressort exclusif des Vremyonni, les hommes-mages. Pourquoi me demandes-Tu cela ?~
+@44 = ~Non, Safana. Dans mon pays natal, la fabrication d'objets magiques est du ressort exclusif des Vremyonnis, les hommes-mages. Pourquoi me demandes-Tu cela ?~
 @45 = ~On dirait que tous ces voyages ont laissé des traces. Dans la dernière taverne que nous avons visitée, sept hommes seulement m'ont proposé de me payer un verre, au lieu d'une bonne douzaine habituellement. Alors je pensais que tu aurais peut-être du fond de teint, ou quelque chose de ce genre.~
 @46 = ~Du fond de teint ? Même si j'en avais le talent, je ne m'abaisserais pas à l'utiliser pour un motif trivial à ce point. Mes arts magiques ne sont pas là pour flatter Ta vanité, mais doivent servir le bien du groupe.~
 @47 = ~Oh, ne t'inquiète pas pour ça, chérie. On m'a dit que je suis *très* bien.~
@@ -131,7 +131,7 @@ mais il n'en connaît pas encore le prix.~
 
 @82 = ~Alors Garrick, où en es-tu de cette chanson ?~
 @83 = ~Safana, j'ai bien peur d'être incapable d'exprimer ce que je ressens.~
-@84 = ~Comment ? Mais il y a plein de mots qui riment avec "désir." Plaisir, choisir, rosir ou... moisir ! On dirait que j'ai un certain talent pour écrire des vers, ne crois-tu pas, barde ?~
+@84 = ~Comment ? Mais il y a plein de mots qui riment avec « désir ». Plaisir, choisir, rosir ou... moisir ! On dirait que j'ai un certain talent pour écrire des vers, ne crois-tu pas, barde ?~
 @85 = ~Oui, je présume. Mais ce n'est pas cela mon problème. Vous voyez, j'ai du mal à composer quelque chose qui
 puisse exprimer ne serait-ce que l'ombre de mes véritables sentiments envers vous. J'ai perdu ma volonté d'y travailler.~
 @86 = ~Bien sûr, composer de simples chants guerriers n'est pas un problème, mais quand j'essaie d'ouvrir mon coeur, je m'échoue sur les rochers de votre beauté et me trouve absolument seul et torturé par quelque chose dont je ne sais même pas le nom. (Là, j'ai vraiment été éloquent).~
@@ -163,7 +163,7 @@ puisse exprimer ne serait-ce que l'ombre de mes véritables sentiments envers vo
 // Safana - Jaheira
 
 @102 = ~Khalid, chéri, as-tu...~
-@103 = ~Safana, je te suggère de trouver quelqu'un d'autre à appeler "chéri".~
+@103 = ~Safana, je te suggère de trouver quelqu'un d'autre à appeler « chéri ».~
 @104 = ~Qu'est-ce donc ? Un soupçon de jalousie, peut-être ?~
 @105 = ~Ridicule. Je connais mon Khalid, et il ne m'a jamais donné de raison de m'inquiéter.~
 @106 = ~Peut-être es-tu plus jalouse de mon esprit étincelant, mon charme irrésistible et mon naturel insouciant ?~

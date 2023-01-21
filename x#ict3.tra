@@ -52,7 +52,7 @@
 @14   = ~Ah, c'était le bon temps !~
 // Minsc - Dynahéir - Minsc - Theodon
 // BG1 NPC : texte identique dans le fichier x#miint.tra au numéro 113
-@15   = ~Qu'est-ce qu'il y a de si drôle ? Minsc faisait ça tout le temps, avant, jusqu'à ce que Bouh lui explique que la vision de Minsc nu était trop pour certaines personnes. En fait, Bouh dit que cela causait de la "jalousie phallique", mais Bouh utilise des mots compliqués à comprendre tout le temps, alors Minsc doit traduire...~
+@15   = ~Qu'est-ce qu'il y a de si drôle ? Minsc faisait ça tout le temps, avant, jusqu'à ce que Bouh lui explique que la vision de Minsc nu était trop pour certaines personnes. En fait, Bouh dit que cela causait de la « jalousie phallique », mais Bouh utilise des mots compliqués à comprendre tout le temps, alors Minsc doit traduire...~
 // BG1 NPC : texte identique dans le fichier x#miint.tra au numéro 114
 @16   = ~Minsc, Tu ne prononceras pas un mot de plus ! Je refuse, même, de me souvenir de ces temps ! Nous avons été chassés de trois villes en moins d'une décade !~
 // BG1 NPC : texte identique dans le fichier x#miint.tra au numéro 115
@@ -282,7 +282,7 @@
 /* Brevlik, si on a accepté la quête voler le télescope : a priori non fonctionnel (en commentaires) */
 // Jaheira - Brevlik
 // BG1 NPC : texte identique dans le fichier x#jaint.tra au numéro 108
-@98   = ~Oui, devenir soudain un voleur quelconque est en effet "amusant". Nous retrouver sur la liste des personnes recherchées par le Poing Enflammé pour ce cambriolage, tandis que nous essayons d'enquêter sur la situation en ville, sera encore plus amusant, non ? Comment me suis-je retrouvée avec quelqu'un dans ton genre, <CHARNAME> ?~
+@98   = ~Oui, devenir soudain un voleur quelconque est en effet « amusant ». Nous retrouver sur la liste des personnes recherchées par le Poing Enflammé pour ce cambriolage, tandis que nous essayons d'enquêter sur la situation en ville, sera encore plus amusant, non ? Comment me suis-je retrouvée avec quelqu'un dans ton genre, <CHARNAME> ?~
 // BG1 NPC : texte identique dans le fichier x#jaint.tra au numéro 109
 @99   = ~Vous devez avoir une existence trépidante, madame.~
 // Branwen - Brevlick - Branwen (si Xan est là) - Branwen (si Montaron) - Branwen (si Viconia)
@@ -513,7 +513,7 @@
 // BG1 NPC : texte identique dans le fichier x#coint.tra au numéro 64
 @185  = ~La petite foule qui s'était amassée autour devint si calme que la chute d'un flocon aurait brisé le silence. La voix d'Echtellion n'était pas devenue rauque malgré l'absence de pratique, et toute l'assemblée prêta l'oreille aux paroles qu'il adressa à Inga Ailehaute :~
 // BG1 NPC : texte identique dans le fichier x#coint.tra au numéro 65
-@186  = ~"Seldarine, aie pitié de moi ! Quand tu gémis, c'est pire que ma soeur !"~
+@186  = ~« Seldarine, aie pitié de moi ! Quand tu gémis, c'est pire que ma soeur ! »~
 // Poe (suite au conte de Coran) - Coran - Coran - Poe
 // BG1 NPC : texte identique dans le fichier x#coint.tra au numéro 66
 @187  = ~Qu... quoi ?~
@@ -912,7 +912,7 @@ L'aventurier se réjouit.~
 // BG1 NPC : texte identique dans le fichier x#dyint.tra au numéro 40
 @323  = ~Attention, <CHARNAME>. S'il s'agit bien des Mages Rouges de Thay, ce dont je n'ai aucune raison de douter, alors nous avons affaire à des gens aussi retors que puissants.~
 // BG1 NPC : texte identique dans le fichier x#dyint.tra au numéro 41
-@324  = ~Cet accent... il me semble bien familier. Vous devez être cette sorcière Rashémi que nos amis ont aperçu dans la région. Je constate qu'Edwin n'a pas dûment rempli sa mission. Lasala, je pense que nous ne devrions pas lui dire que nous avons fait son travail à sa place. Plus loin il est, moins il pourra nous gêner.~
+@324  = ~Cet accent... il me semble bien familier. Vous devez être cette sorcière rashémie que nos amis ont aperçu dans la région. Je constate qu'Edwin n'a pas dûment rempli sa mission. Lasala, je pense que nous ne devrions pas lui dire que nous avons fait son travail à sa place. Plus loin il est, moins il pourra nous gêner.~
 /* Non utilisé */
 @325  = ~C'est pas contre vous, bien sûr, mais nous devons vous tuer à présent.~
 /* Brevlik, qui demande à voler le télescope de la Maison de Merveilles */
@@ -1446,7 +1446,7 @@ L'aventurier se réjouit.~
 @511  = ~Ça peut sûrement s'arranger.~
 // Xan - Sarevok
 // BG1 NPC : texte identique dans le fichier x#xaint.tra au numéro 20
-@512  = ~Grisant ! Enfin, le méchant, au lieu de nous dire "vous allez tous mourir", nous propose un choix : tuer ou être tué. Attends ! N'était-ce pas là ce que nous avons toujours vécu ?~
+@512  = ~Grisant ! Enfin, le méchant, au lieu de nous dire « vous allez tous mourir », nous propose un choix : tuer ou être tué. Attends ! N'était-ce pas là ce que nous avons toujours vécu ?~
 @513  = ~Ce choix s'est toujours offert à vous.~
 /* Ogre-mage des égouts de la Porte de Baldur */
 // Khalid
@@ -1785,7 +1785,7 @@ L'aventurier se réjouit.~
 @634  = ~Devrais-je pleurer maintenant ? (Tant de souffrance, tant de gêne...)~
 // Faldorn - Drizzt - Faldorn - Drizzt
 // BG1 NPC : texte proche dans le fichier x#faint.tra au numéro 96
-@635  = ~Grrr ! Les cimeterres de cet elfe noir sont beaux et tranchants, mais c'est le cimeterre "Rayon d'Emeraude" que je veux. Voilà la véritable arme du druide. T'ai-je raconté qu'il avait été forgé à partir de la faucille de Kador le Brûleur ? Kador était un célèbre Druide de l'Ombre... si seulement j'étais en sa possession !~
+@635  = ~Grrr ! Les cimeterres de cet elfe noir sont beaux et tranchants, mais c'est le cimeterre « Rayon d'Emeraude » que je veux. Voilà la véritable arme du druide. T'ai-je raconté qu'il avait été forgé à partir de la faucille de Kador le Brûleur ? Kador était un célèbre Druide de l'Ombre... si seulement j'étais en sa possession !~
 // BG1 NPC : texte identique dans le fichier x#faint.tra au numéro 97
 @636  = ~Druidesse, je me battrais à mains nues si c'était pour la bonne cause.~
 // BG1 NPC : texte identique dans le fichier x#faint.tra au numéro 98
@@ -1836,7 +1836,7 @@ L'aventurier se réjouit.~
 // BG1 NPC : texte identique dans le fichier x#ajint.tra au numéro 56
 @654  = ~<CHARNAME>, vous ne pouvez pas sérieusement songer à tuer une personne que vous n'avez jamais rencontrée, sans même savoir ce dont on l'accuse, si ? Ne levons pas nos armes contre cette Dynahéir avant d'avoir une vision globale de cette affaire !~
 // BG1 NPC : texte identique dans le fichier x#ajint.tra au numéro 1015
-@655  = ~Cette affaire, c'est que c'est une sorcière rashémi ! N'importe quoi de plus troublerait vos minuscules petites cervelles.~
+@655  = ~Cette affaire, c'est que c'est une sorcière rashémie ! N'importe quoi de plus troublerait vos minuscules petites cervelles.~
 // Shar-Teel - Edwin (@944)
 // BG1 NPC : texte identique dans le fichier x#shint.tra au numéro 16
 @656  = ~Non seulement tu cautionnes le meurtre d'une femme, mais en plus, tu insistes pour que cette larve... ce boulet nous accompagne ! Regarde-le ! Il peut à peine supporter le poids de son bâton ! Es-tu aveugle ou simplement bête, <CHARNAME> ?~
@@ -2626,7 +2626,7 @@ Nous avons accepté de voler un « télescope » pour un gnome nommé Brevlik. L
 @934  = ~Pas vraiment, non.~
 /* Eldoth, après Ajantis (@660) */
 // BG1 NPC : texte proche dans le fichier x#ajint.tra au numéro 935, probabilité 66.9 ("my good man!" à la fin supprimé dans ict3)
-@935  = ~Vois cela comme "secourir" une jeune fille.~
+@935  = ~Vois cela comme « secourir » une jeune fille.~
 /* Lingot, après Garrick (@395) */
 @936  = ~Forteresssssse à l'Esssssst...~
 /* Lingot, après Edwin (@396) */

@@ -40,7 +40,7 @@
 @31    = ~Toutes mes excuses, Branwen, mais j'ai renoncé à ce genre de plaisirs de bas-étage. Je trouve qu'ils m'empêchent de me concentrer efficacement sur mon devoir de serviteur de la vertu.~
 @32    = ~Ajantis, de là où je viens, nous avons un proverbe...~
 @33    = ~Oui ?~
-@34    = ~"Bats-toi de toutes tes forces. Relaxe-toi encore plus."~
+@34    = ~« Bats-toi de toutes tes forces. Relaxe-toi encore plus. »~
 @35    = ~Je suis bien d'accord avec la deuxième partie.~
 @36    = ~Se relaxer encore plus ? Comme j'aime entendre ça...~
 @37    = ~Sans vouloir vous vexer, je me permets de vous dire que vous semblez négliger la deuxième partie... N'y a-t-il rien d'autre dans votre vie que la "vertu" ? Vous devez certainement vous en lasser de temps en temps ?~
@@ -284,7 +284,7 @@ Dans un torrent de violence..."~
 @195   = ~Minsc, te voir combattre est vraiment un spectacle merveilleux. Le courage avec lequel tu te lances dans la bataille nous pousse à garder notre humilité. J'approuve chaleureusement.~
 @196   = ~Oui, Minsc est doué pour se lancer et se demandait bien quand quelqu'un s'en rendrait compte ! Mis à part Bouh, je veux dire. Après tout, il est difficile de ne pas remarquer que Minsc se lance bien quand on passe son temps si près de sa musculature musclée.~
 @197   = ~Oh, j'en suis persuadée. Peut-être pourrais-tu parfois utiliser tes muscles pour m'impressionner d'une autre manière, hummm ?~
-@198   = ~Hé Branwen, moi aussi j'ai une grosse "musculature", au cas où ce lourdaud serait assez stupide pour ne pas avoir saisi ton allusion...~
+@198   = ~Hé Branwen, moi aussi j'ai une grosse « musculature », au cas où ce lourdaud serait assez stupide pour ne pas avoir saisi ton allusion...~
 @199   = ~Une autre manière ? Oh oui, pour sûr ! Minsc est toujours prêt pour une petite bataille de pouces ! En Rashéménie, il fut champion régional pour une semaine entière, et cela SANS les conseils de Bouh !~
 @200   = ~*soupire* ce n'est pas ce que je... Oh Minsc, laisse tomber.~
 
@@ -396,7 +396,7 @@ Dans un torrent de violence..."~
 
 // discussion avec Tiax (271-275-277), Quayle (273-274)
 
-@270   = ~Oui, oui, conte-moi encore une fois la "gloire" de Cyric et la tienne aussi. Je t'en prie...~
+@270   = ~Oui, oui, conte-moi encore une fois la « gloire » de Cyric et la tienne aussi. Je t'en prie...~
 @271   = ~Tiax n'a pas besoin que quelqu'un d'aussi insignifiant que toi l'invite à le faire, tête de vache. Mais il a pris note de ton enthousiasme et s'en souviendra quand il règnera sur le monde.~
 @272   = ~Bah, par les glaçons d'Aurile. Je me moquais de toi, espèce d'idiot microscopique.~
 @273   = ~Branwen, la taille d'un gnome n'est pas un sujet de moquerie. Le fait que nous - ou MOI, tout du moins - représentions le pinacle de l'évolution indique que notre taille est idéale, comme je l'ai souvent affirmé.~
@@ -445,7 +445,7 @@ Dans un torrent de violence..."~
 // Si le relecteur a une meilleure idée, qu'il n'hésite pas à modifier...
 
 @299   = ~Pourquoi t'acharnes-tu à être si morose, petit mage ? Relève ta large robe et danse joyeusement la gigue sur les cadavres de nos ennemis ! Tu n'as aucune raison d'être maussade.~
-@300   = ~Ainsi dit la fourmi à la cigale : "concentre-toi sur ta tâche, tu en seras plus heureuse et l'hiver venu, tu ne connaîtras pas la faim". Je vous laisse danser la gigue. Et merde pour votre petit spectacle.~
+@300   = ~Ainsi dit la fourmi à la cigale : « concentre-toi sur ta tâche, tu en seras plus heureuse et l'hiver venu, tu ne connaîtras pas la faim ». Je vous laisse danser la gigue. Et merde pour votre petit spectacle.~
 @301   = ~Comment ? Tu m'insultes, petit mage ?~
 @302   = ~Hé, c'est juste une façon de parler.~
 @303   = ~Oh oui, euh... bien sûr, je, euh... c'était pour rire, évidemment.~

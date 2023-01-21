@@ -13,7 +13,7 @@
 @12   = ~*Alors que vous vous apprêtez à vous lever pour les imiter, Coran se redresse rapidement et vient jusqu'à vous.*~
 @13   = ~*Vous encourageant à vous rassoir sur le sol, il drape une couverture autour de vos épaules et explique :*~
 @14   = ~J'ai repéré un rossignol dans les buissons. Reste avec moi, ma douce, écoutons-le un moment.~
-@15   = ~*Pendant quelques temps, vous restez blottis l'un contre l'autre en silence, les bras de Coran vous enlaçant confortablement. Alors, comme mu par un signal, l'oiseau se met à chanter. Alors que les notes sonnantes s"entremêlent en un air délicat, Coran glisse son visage contre votre nuque et la couvre de baisers furtifs.*~
+@15   = ~*Pendant quelques temps, vous restez blottis l'un contre l'autre en silence, les bras de Coran vous enlaçant confortablement. Alors, comme mu par un signal, l'oiseau se met à chanter. Alors que les notes sonnantes s'entremêlent en un air délicat, Coran glisse son visage contre votre nuque et la couvre de baisers furtifs.*~
 @16   = ~*Vous vous levez brusquement, vous libérant de l'étreinte de Coran, et vous éloignez.*~
 @17   = ~*Vous laissez Coran vous embrasser aussi longtemps que dure la chanson de l'oiseau, puis vous vous endormez, ennivrée par cette expérience.*~
 @18   = ~*Vous vous cambrez en arrière, repoussant la couverture.*~
@@ -63,12 +63,12 @@
 @62   = ~Je t'ai transformé en monstre ! Non, mon maudit géniteur l'a fait ! Et moi qui pensais qu'être orpheline aurait l'avantage que mes proches n'interféreraient pas dans ma vie amoureuse !~
 @63   = ~Je me battrai pour que tu redeviennes comme avant, Coran. Je ne veux pas d'un amant envoûté. Je veux un tendre bien-aimé qui vit au travers de mes baisers, pas qui meurt en les buvant.~
 @64   = ~Que je sois maudite si je comprends un mot de ce que tu es en train de raconter !~
-@65   = ~Je pense que c'est l'une de tes "humeurs". J'espère que ce nouveau jouet émotionnel sera oublié d'ici une semaine.~
+@65   = ~Je pense que c'est l'une de tes « humeurs ». J'espère que ce nouveau jouet émotionnel sera oublié d'ici une semaine.~
 @66   = ~Un amour doux et tendre est attirant, en particulier pour ceux qui ont peu aimé avant. Si tu essaies de m'aimer ainsi, je l'accepterais. Mais je serais transporté si tu arrêtais de contrôler ta nature.~
 @67   = ~Est-ce ainsi, ma douce ? Ta pauvre tête ne suit pas les événements aussi bien que la main qui tient ton épée, dans ce cas. Peu importe. Ton sang comprendra ce que je disais au moment opportun.~
 @68   = ~Je ne connais pas l'avenir, ma douce. Toi non plus. Contentons-nous d'aller de l'avant.~
 @69   = ~Moi j'ai tourné la page, ma douce, et j'ai découvert le nouveau chant de la passion. Que cela soit effrayant, sauvage, inhabituel ! Ce sont les pages vides qui me font peur.~
-@70   = ~Si sublimement érotique. Dans de nombreux livres, les bardes m'ont raconté que la femme doit être une vierge pure pour qu'un homme trouve son "véritable amour", mais je ne crois pas ces livres. Le désir, qui ne grandit qu'en s'assouvissant, la bravoure et la sincérité, voilà l'amour. Là où s'avance l'amour, la pureté, la fidélité, le devoir, l'honneur... tous deviennent tôt ou tard des excuses pour ceux qui cherchent le contrôle en tout.~
+@70   = ~Si sublimement érotique. Dans de nombreux livres, les bardes m'ont raconté que la femme doit être une vierge pure pour qu'un homme trouve son « véritable amour », mais je ne crois pas ces livres. Le désir, qui ne grandit qu'en s'assouvissant, la bravoure et la sincérité, voilà l'amour. Là où s'avance l'amour, la pureté, la fidélité, le devoir, l'honneur... tous deviennent tôt ou tard des excuses pour ceux qui cherchent le contrôle en tout.~
 @71   = ~Il n'y a pas de contrôle. Seulement de l'ivresse et du désir. Seulement de l'amour.~
 @72   = ~*Un regard elfique en coin, lumineux et taquin, s'arrête sur vous.*~ [X#BLANK]
 @73   = ~*Coran siffle avec admiration, mais discrètement, lorsque vous passez devant lui.*~
@@ -138,7 +138,7 @@
 @137  = ~*Il prend votre main et la porte à ses lèvres.*~
 @138  = ~Exquise.~
 @139  = ~*Deux baisers suivent : un à l'extérieur et un à l'intérieur de votre paume.*~
-@140  = ~Comme je le disais : "Exquise." *Il semble hésiter à relâcher votre main.*~
+@140  = ~Comme je le disais : « Exquise ». *Il semble hésiter à relâcher votre main.*~
 @141  = ~*rigole* On dit qu'il est romantique de sauver les belles demoiselles... et je le ferais, ma douce, si tu avais jamais besoin d'être sauvée.~
 @142  = ~Jusqu'ici, c'est moi qui suis complètement perdu par l'amour.~
 @143  = ~Oh, sauve-moi, douce demoiselle.~
@@ -149,7 +149,7 @@
 @148  = ~Je m'en fiche. Laissons-les dire que nous nous séparerons avant le lever de la nouvelle lune.~
 @149  = ~Je ne te laisserai pas filer, à présent que je t'ai.~
 @150  = ~On dit qu'un mot prononcé est un mensonge.~
-@151  = ~C'est vrai. Je dis : "Je t'aime, <CHARNAME>" et ça ne décrit pas une once de ce que je ressens.~
+@151  = ~C'est vrai. Je dis : « Je t'aime, <CHARNAME> » et ça ne décrit pas une once de ce que je ressens.~
 @152  = ~*Il jette sa cape devant vous.*~
 @153  = ~Une beauté devrait marcher sans mettre de la boue sur ses pieds.~
 @154  = ~*Sa langue frôle brièvement votre oreille.*~

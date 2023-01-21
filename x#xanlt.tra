@@ -51,7 +51,7 @@
 @50   = ~Elle disparaîtra, si j'ai mon mot à dire.~
 @51   = ~Tu recevras donc mon aide. Je vais essayer de reporter ton horrible mort autant que possible, mais il ne peut y avoir aucun doute, notre perte est proche.~
 @52   = ~Je suis désolé d'avoir perturbé tes pensées. Cela ne se reproduira pas.~
-@53   = ~J'observe les évènements politiques le long de nos frontières depuis trop longtemps pour penser le contraire, et les souffrances que j'ai récemment dû endurer n'ont fait que corroborer mon opinion.~
+@53   = ~J'observe les événements politiques le long de nos frontières depuis trop longtemps pour penser le contraire, et les souffrances que j'ai récemment dû endurer n'ont fait que corroborer mon opinion.~
 @54   = ~Quoi qu'il en soit, Mulahey est mort, et je suis heureux de revoir le ciel et de marcher dans les bois. Merci, <CHARNAME>. *soupir* J'ai presque envie de croire que cela durera.~
 @55   = ~Peut-être m'en remettrai-je, mais à quoi bon ? Notre pitoyable groupe sera sans doute de nouveau capturé, et ce, très prochainement.~
 @56   = ~Oublier cela ? Je vais essayer, mais c'est un combat sans espoir. Cet endroit me hantera jusqu'à mes derniers jours.~
@@ -181,7 +181,7 @@
 @180  = ~Cela arrivera peut-être, mais il ne faut pas que tu t'accables. Tu as fait tout ce que tu pouvais.~
 @181  = ~Bien sûr, bien sûr. Evereska tombera, le ciel explosera, et ce sera la fin du monde. Xan, tu ne t'attends donc jamais à quoi que ce soit de bien ?~
 @182  = ~Je n'ai pas voix au chapitre. Je dois accomplir cette tâche.~
-@183  = ~Je ne m'accable pas, c'est inutile. Mais si tu penses que je peux durcir mon coeur face au sort promis à ma ville, nous ne nous comprenons pas du tout.~
+@183  = ~Je ne m'accable pas, c'est inutile. Mais si tu penses que je peux durcir mon cœur face au sort promis à ma ville, nous ne nous comprenons pas du tout.~
 @184  = ~Si. Mais tous mes espoirs furent condamnés à ne pas s'accomplir, et cela ne rendit les déceptions que plus amères. Je ne m'attends plus à des victoires, désormais.~
 @185  = ~Je me suis habitué au fait que rien ne pourrait venir en aide à ma cité, mais chaque matin, l'effroi me glace à nouveau. Et ce n'est pas tout : cet effroi est désormais accompagné par l'idée de mourir. Avant de te rencontrer, j'étais conscient que l'une de mes missions serait la dernière. Aujourd'hui, je sais que ce sera celle-ci. Tôt ou tard, ma magie déclinera, et les chasseurs de têtes nous extermineront. Nous sommes tous perdus.~
 @186  = ~Je souhaite te demander pardon d'avoir initié notre dernière conversation. Il était maladroit de ma part de t'accabler avec mes fardeaux : je réfléchissais sur la possibilité de ma mort, oubliant que tu es la cible principale de nos ennemis.~
@@ -236,7 +236,7 @@
 @235  = ~*soupir* J'admets que je suis jaloux. J'aimerais bien pouvoir en dire de même... mais hélas, ma trajectoire est toute fixée.~
 @236  = ~Effectivement. J'aimerais bien pouvoir en dire de même... mais hélas, ma trajectoire est toute fixée.~
 @237  = ~Tu vas... mourir ? Oui, <CHARNAME>, tu vas périr, puisque tu sembles si décidée à en finir. Mais tu as tout de même le choix. Réfléchis-y bien, avant de gaspiller cette chance.~
-@238  = ~Un porteur de Lame de Lune ne peut prendre de retraite au calme et dans la solitude, même si c'est son voeu le plus cher. Alors même que je tiens cette épée entre mes mains, elle juge chacune de mes actions, exigeant que je continue à défendre mon peuple et ma patrie. Je suis le champion d'une cause perdue, convoqué pour mener des combats sans espoir d'issue heureuse, sans d'autre alternative, et effectivement, sans futur. *soupir* Je suis tellement las de faire face à cet aspect de la vie, et seulement à cet aspect-là...~
+@238  = ~Un porteur de Lame de Lune ne peut prendre de retraite au calme et dans la solitude, même si c'est son vœu le plus cher. Alors même que je tiens cette épée entre mes mains, elle juge chacune de mes actions, exigeant que je continue à défendre mon peuple et ma patrie. Je suis le champion d'une cause perdue, convoqué pour mener des combats sans espoir d'issue heureuse, sans d'autre alternative, et effectivement, sans futur. *soupir* Je suis tellement las de faire face à cet aspect de la vie, et seulement à cet aspect-là...~
 @239  = ~Mais assez de tout ceci. Viens, <CHARNAME>, poursuivons notre chemin sur cette route de l'infortune.~
 @240  = ~<CHARNAME> ! <CHARNAME>, réveille-toi !~
 @241  = ~Mmmf... que se passe-t-il ?~
@@ -265,7 +265,7 @@
 @264  = ~Oui, j'accepte ton offre. Merci, Xan.~
 @265  = ~Pas pour le moment.~
 @266  = ~Tout bien réfléchi, je préfère les cauchemars. Tes geignements quotidiens me suffisent déjà.~
-@267  = ~Oui... J'espère que cela ne se reproduira pas. Mon coeur a bien failli s'arrêter ce matin... mais nous avons assez parlé de tout cela. Allons-y.~
+@267  = ~Oui... J'espère que cela ne se reproduira pas. Mon cœur a bien failli s'arrêter ce matin... mais nous avons assez parlé de tout cela. Allons-y.~
 @268  = ~Entendu, <CHARNAME>. J'espère que tu changeras d'avis de ton vivant.~
 @269  = ~Ah. C'est ainsi que les choses vont se passer, alors. Très bien, tu n'auras plus à supporter mes geignements.~
 @270  = ~Je souhaiterais... <CHARNAME>, je ne te suis d'aucune utilité, n'est-ce pas ? Alors que tu hurles dans ton sommeil, mes yeux sont voilés, perdus dans les souvenirs de ma cité. Alors que tu crains la mort, je me délecte à l'idée de ce que la vie après la mort me réserve à moi, un membre du Peuple ; tu as cinq sens, alors que moi, je ressens certaines choses qui seront à tout jamais hors de ta portée : comment pouvons-nous partager cette... amitié ?~
@@ -276,7 +276,7 @@
 @275  = ~Mais est-ce que les chasseurs de primes le permettront ? Est-ce que le meurtrier de Gorion se donnera la peine de te laisser apprécier mes... attentions ? C'est inutile, <CHARNAME>, complètement inutile.~
 @276  = ~Oui, tu as sans doute raison. Je ne te dérangerai plus.~
 @277  = ~Est-ce que tu as déjà songé à ce qui nous arrivera après la mort ?~
-@278  = ~"Nous", Xan ? S'agit-il seulement d'une façon de parler, ou est-ce que tu sous-entends que nous pourrions passer ce cap ensemble ?~
+@278  = ~« Nous », Xan ? S'agit-il seulement d'une façon de parler, ou est-ce que tu sous-entends que nous pourrions passer ce cap ensemble ?~
 @279  = ~Nous entrerons dans Arvandor, j'imagine. Je connais très peu de choses à ce sujet, par contre.~
 @280  = ~Oui, j'y ai déjà réfléchi. Pourquoi ?~
 @281  = ~Je ne pense pas que cela ait vraiment d'importance. Nous serons morts, et tout est dit.~
@@ -310,7 +310,7 @@
 @309  = ~Je pense pouvoir en deviner une partie. Le propriétaire qui t'a précédé te l'a léguée, n'est-ce pas ?~
 @310  = ~Oui, il y a toujours un autre combat à mener, ou une autre quête de routine à accomplir. Est-ce que cela se terminera un jour, <CHARNAME> ? Non, je pense bien non.~
 @311  = ~C'est effectivement une coutume au sein de notre peuple. En revanche, les choses se passèrent un peu différemment dans mon cas.~
-@312  = ~Je pense rarement à ce souvenir, <CHARNAME>. Au réveil comme lors de la rêverie, je tâche de l'éviter. Mais il faut mettre à jour toutes choses, tôt ou tard, même si c'est douloureux, sinon elles finiront par être oubliées. *soupir* J'étais très jeune à cette époque, peut-être encore plus jeune que tu ne l'es actuellement. La mort de mon père fut un terrible choc à elle seule, et le décès de mon frère qui périt dans le Val de Bise ne fit qu'empirer les choses. Après tous ces évènements, j'avais perdu l'envie de vivre. Plus rien n'avait d'importance, et lorsque j'eus réalisé que quelqu'un de ma famille devrait se porter volontaire pour revendiquer la Lame, je me suis avancé, sans trop y réfléchir. Ce fut tout de même une expérience terrifiante que de se tenir dans un rayon de flammes bleues, en attendant une mort incertaine. Prendre l'épée et la sortir de son fourreau peut très bien équivaloir à signer son propre arrêt de mort, dans l'éventualité où l'épée le jugerait indigne, vois-tu. J'ai survécu, mais le souvenir de ce jour me hante toujours.~
+@312  = ~Je pense rarement à ce souvenir, <CHARNAME>. Au réveil comme lors de la rêverie, je tâche de l'éviter. Mais il faut mettre à jour toutes choses, tôt ou tard, même si c'est douloureux, sinon elles finiront par être oubliées. *soupir* J'étais très jeune à cette époque, peut-être encore plus jeune que tu ne l'es actuellement. La mort de mon père fut un terrible choc à elle seule, et le décès de mon frère qui périt dans le Val de Bise ne fit qu'empirer les choses. Après tous ces événements, j'avais perdu l'envie de vivre. Plus rien n'avait d'importance, et lorsque j'eus réalisé que quelqu'un de ma famille devrait se porter volontaire pour revendiquer la Lame, je me suis avancé, sans trop y réfléchir. Ce fut tout de même une expérience terrifiante que de se tenir dans un rayon de flammes bleues, en attendant une mort incertaine. Prendre l'épée et la sortir de son fourreau peut très bien équivaloir à signer son propre arrêt de mort, dans l'éventualité où l'épée le jugerait indigne, vois-tu. J'ai survécu, mais le souvenir de ce jour me hante toujours.~
 @313  = ~Pff. L'épée ne t'a donc pas foudroyé sur place, alors ?~
 @314  = ~Je me demande pourquoi on t'en a jugé digne...~
 @315  = ~C'est terrible ! J'aimerais pouvoir t'aider, de quelque façon que ce soit.~
@@ -349,7 +349,7 @@
 @348  = ~Non, bien sûr que non. Je vais vivre une longue vie, complètement normale, et je deviendra Roi d'Éternelle-Rencontre, et père de douze enfants.~
 @349  = ~Ah, je ne pense pas que nous ayons besoin d'aller où que ce soit pour le savoir. Mais si tu insistes... Quoi qu'il en soit, je voulais finir avant de repartir.~
 @350  = ~Cet endroit est la raison principale pour laquelle Evereska n'est pas encore tombée. L'Académie propose le meilleur enseignement des armes et de la magie qui soit... à ceux dont la présence a été autorisée par le Conseil ou dont les familles sont suffisamment aisées. C'est un endroit calme, à l'abri de tout, contrairement à l'enfer quotidien avec lequel nous luttons. J'y ai passé des décennies et j'y aurais bien passé encore plus de temps, mais j'avais mon devoir de Grismanteau qui m'attendait. Mais je me suis laissé distraire.~
-@351  = ~Ironique n'équivaut pas à "bien". Notre relation ne mènera à rien, la mort nous entoure de trop. Et lorsque celle-ci arrivera... Je ne sais pas ce que je ferai si il t'arrivait quelque chose, et si je meurs... Peut-être qu'il serait préférable que je parte, et vite.~
+@351  = ~Ironique n'équivaut pas à « bien ». Notre relation ne mènera à rien, la mort nous entoure de trop. Et lorsque celle-ci arrivera... Je ne sais pas ce que je ferai si il t'arrivait quelque chose, et si je meurs... Peut-être qu'il serait préférable que je parte, et vite.~
 @352  = ~Laisse-moi tranquille, <CHARNAME>.~
 @353  = ~Je ne suis même pas à côté de toi. Qu'est-ce qui te prend ?~
 @354  = ~Je ne m'attendais pas à cela. Est-ce que ça va ?~
@@ -460,7 +460,7 @@
 @459  = ~Bien sûr ! Mais comment ai-je pu naïvement espérer que tu m'accordes un seul instant de ton si précieux temps ?!~
 @460  = ~Peut-être as-tu deviné que je voulais être seul avec toi, mais j'étais trop timide pour te poser la question franchement, et j'ai fait une piètre plaisanterie à la place.~
 @461  = ~Je ne sais pas. Mais cesse d'avoir de tels espoir à l'avenir.~
-@462  = ~Toi, Xan, tu as ressenti une émotion qui s'appelle "l'espoir" ? Je crois que je dois t'accorder ton voeu pour célébrer cet évènement.~
+@462  = ~Toi, Xan, tu as ressenti une émotion qui s'appelle "l'espoir" ? Je crois que je dois t'accorder ton voeu pour célébrer cet événement.~
 @463  = ~Ah, quel amer plaisir de voir une fois de plus combien mes paroles et mes gestes ne comptent pas !~
 @464  = ~Et combien mes plans sont sans espoir.~
 @465  = ~Xan, cesse cette ballade d'infortune ! Je vais marcher un peu avec toi.~
@@ -511,7 +511,7 @@
 @510  = ~*Le visage de Xan s'assombrit et il semble inquiet.* J'aurais dû être plus sage et m'abstenir d'une action aussi dangereuse et imprévisible que d'embrasser une femme.~
 @511  = ~*il murmure* Allons-y, mon doux tourment, allons-y, ma douce souffrance.~
 @512  = ~Il en va de même pour le mien. Peut-être que nous avons créé un petit univers où nous pouvons être en sécurité tous les deux. Rien que toi et moi.~
-@513  = ~Tu as dit : "Souris, Xan !", et j'ai essayé. J'ai vraiment essayé, <CHARNAME>, mais je n'y arrive pas.~
+@513  = ~Tu as dit : « Souris, Xan ! », et j'ai essayé. J'ai vraiment essayé, <CHARNAME>, mais je n'y arrive pas.~
 @514  = ~Pourquoi donc, Xan ? Est-ce que j'ai fait quelque chose qu'il ne fallait pas ?~
 @515  = ~*Inquiète, vous levez les yeux et regardez Xan dans les siens.*~
 @516  = ~Mon amour n'est donc pas un remède à ta mélancolie ?~
@@ -584,7 +584,7 @@
 @583  = ~Euh... non. Mon nom est <CHARNAME>...~
 @584  = ~Estel ? Non, mon nom n'est pas Estel... mais j'aimerais bien que ça soit cela. C'est très joli.~
 @585  = ~Non.~
-@586  = ~Est-ce que tu m'aimerais moins si je n'avais pas de nom elfique "particulier" ?~
+@586  = ~Est-ce que tu m'aimerais moins si je n'avais pas de nom elfique « particulier » ?~
 @587  = ~Je ne suis pas ivre, <CHARNAME>.~
 @588  = ~Je serai incapable de le deviner, car quelque part, je suis convaincu de le connaître déjà. Tu vas sans doute me trouver ridicule, mais au fond de mon coeur, je t'ai appelée Estel, ce qui signifie "espoir" en Haut Elfique.~
 @589  = ~Tu *es* ridicule, Xan.~
@@ -627,7 +627,7 @@ Estel de la tranquilité~
 @619  = ~Merci, Xan.~
 @620  = ~Non. *soupir* <CHARNAME>, il n'y a rien à craindre... bien que cela peut sembler curieux venant de moi. Connaître le nom secret d'une personne crée un lien émotionnel, c'est le symbole d'amour et de confiance. En signe de mon dévouement, j'aimerais te révéler le mien.~
 @621  = ~<CHARNAME> est un très joli nom... *murmure* Estel'amin...~
-@622  = ~Mes parents m'ont nommé Tahlimil, c'est-à-dire "lié" ou "promis à l'épée".~
+@622  = ~Mes parents m'ont nommé Tahlimil, c'est-à-dire « lié » ou « promis à l'épée ».~
 @623  = ~Mon père avait le don de divination. Il a eu une vision d'une brillante Lame de Lune par terre à côté de mon berceau, la nuit précédant ma naissance. Son interprétation était que je reprendrais la Lame lorsqu'il ne serait plus là.~
 @624  = ~J'ai espéré qu'il avait eu tort pendant tellement longtemps...~
 @625  = ~C'est un nom très fort et qui te convient très bien, Xan... Tahlimil. Merci de m'avoir fait confiance. Je... je voudrais te rendre la pareille et accepter le nom que tu m'as donné. Estel.~
@@ -661,7 +661,7 @@ Estel de la tranquilité~
 @653  = ~Je crois pouvoir deviner ce que tu veux me demander...~
 @654  = ~Oh, je crains que ce soit plus compliqué que cela.~
 @655  = ~Je voudrais tout partager avec toi. Mes souvenirs, mes émotions, ma vie... ou plutôt, le peu qu'il en reste. Je voudrais rester avec toi... *soupir* oui, je voudrais rester avec toi jusqu'à ma mort. C'était facile à deviner, n'est-ce pas ? Mais je dois être certain que c'est quelque chose que tu souhaites, toi aussi. Est-ce que tu veux bien de moi ? Est-ce que tu partageras mes joies et mes peines et me confieras les tiennes en retour ? Est-ce que tu me permettras de tisser le Lien qui unira mon monde au tien ? Est-ce que je pourrais te tenir dans mes bras ce soir ?~
-@656  = ~Tu es maudit, Xan d'Evereska, parce que la réponse est "oui" !~
+@656  = ~Tu es maudit, Xan d'Evereska, parce que la réponse est « oui » !~
 @657  = ~Alors, est-ce que je peux répondre seulement à la dernière question...~
 @658  = ~Je t'aime... et je veux rester avec toi, moi aussi.~
 @659  = ~Oui, tu le pourras. Mais est-ce que tu pourras te maîtriser jusqu'à ce que je me sente prête ?~
@@ -736,12 +736,12 @@ Estel de la tranquilité~
 @728  = ~Assez. Tu ne vas plus y penser : tu frissonnes déjà. Tu n'es pas un monstre, et ceux qui le pensent sont bien loin. Quoique, j'ai bien dû voir une paire d'yeux hostiles il y a moins d'une heure... *soupir* Mais je suis certain que ce n'était qu'une hallucination. Tu es bien réelle, ici et maintenant, et si je pouvais te prendre dans mes bras et rendre cette nuit bien réelle, elle aussi, je le ferai. Est-ce que tu me le permettras ? Je t'ai déjà dit que mes bras n'étaient qu'un piètre abri, mais une illusion de sécurité est mieux que rien.~
 @729  = ~C'est une merveilleuse illusion... et j'accepte.~
 @730  = ~Pas ce soir, Xan. Mais est-ce que tu veux bien me faire revivre tes vieux et bons souvenirs ? Cela serait distrayant, et j'ai besoin de me distraire.~
-@731  = ~Je suis désolée, Xan, mais non, pas ce soir. Les évènements de la journée m'ont trop accablée.~
+@731  = ~Je suis désolée, Xan, mais non, pas ce soir. Les événements de la journée m'ont trop accablée.~
 @732  = ~Chaque fois que j'essaie de répondre avec quelque chose d'approprié, ma tête tourne si fort que je ne trouve plus mes mots. Est-ce l'un de tes pouvoirs divins ? Non, ne réponds pas... laisse le mystère intact.~
 @733  = ~<CHARNAME>, tu me confonds peut-être avec quelqu'un d'autre ? Je crains que mes seuls souvenirs heureux soient de notre rencontre. On pourrait même argumenter cela, malgré notre situation actuelle. Quoi qu'il en soit, je vais essayer. Donne-moi ta main...~
 @734  = ~*soupir* Je vais retourner à mon livre de sorts, alors. Je te souhaite de ne pas avoir de cauchemars cette nuit.~
 @735  = ~Cela fait maintenant un certain temps que je pense à ton héritage. Eh bien, ce n'est pas vraiment une surprise ; je suis incapable de penser à autre chose. Mes épreuves semblent bien minimes à côté des tiennes, bien que tu aies un certain avantage dans ta situation : les choses ne peuvent pas empirer. Non, attends... *gémissement* Mais à quoi pensais-je ? Les choses peuvent *toujours* empirer.~
-@736  = ~Et elles vont empirer. Tu pourrais tout aussi bien dire "nous sommes invincibles !"~
+@736  = ~Et elles vont empirer. Tu pourrais tout aussi bien dire « nous sommes invincibles ! »~
 @737  = ~Empirer ? Jusqu'à quel point ? La seule façon dont les choses pourraient empirer serait si nous étions séparés, enlevés, torturés, si notre mémoire était effacée, et si l'on nous volait notre âme, pour enfin être tués. Qui pourrait bien vouloir nous faire cela ?~
 @738  = ~Xan, je n'ai vraiment pas envie d'y penser. Tu ne veux pas tout simplement m'embrasser et oublier un peu mon héritage pour le moment ?~
 @739  = ~Non, <CHARNAME>, je crois que c'est ta spécialité, cela.~
@@ -763,7 +763,7 @@ Estel de la tranquilité~
 @755  = ~Sans doute que tu seras obligée de le tuer, j'imagine. L'essence de ton père l'a complètement transformé, perverti, et cela ne nous laisse pas beaucoup de marge de manoeuvre. Je dirais même que son déguisement en "Koveras" laisse penser qu'il est tout simplement fou à lier, mais la lettre de ton père adoptif et d'autres indices laissent penser le contraire. C'est un individu très doué, et un ennemi dangereux. Mais il est quand même ton frère. Je... je ne voudrais pas que tu aies son sang sur tes mains. Cela pourrait blesser ton esprit, lui infliger une blessure dont tu ne te remettrais jamais. Mais évidemment, les mots "pas le choix" te suivent tel un vautour affamé, et cela ne se terminera jamais... Est-ce que j'entendrai un jour les mots "et ils vécurent très heureux" ?~
 @756  = ~"Jusqu'à ce qu'il fut emprisonné dans sa propre épée, et elle s'évapora en un nuage de poussière ?" Ce serait un curieux conte de fées, je pense.~
 @757  = ~Ne pense pas à cela, Xan. Profitons de ce que nous avons.~
-@758  = ~Est-ce que j'entendrai un jour les mots "assez parlé" ?~
+@758  = ~Est-ce que j'entendrai un jour les mots « assez parlé » ?~
 @759  = ~Ce n'est pas quelque chose que l'on entend tous les jours, c'est vrai. Si seulement ce n'était qu'un conte de fées... *soupir* Non, je pense que j'ai assez parlé pour aujourd'hui. Viens là... Je ne veux pas que tu sois dérangée par quoi que ce soit, ce soir.~
 @760  = ~Vivre pour l'instant présent n'est pas quelque chose auquel j'aspirais. Mais d'un autre côté, qui peut dire que j'ai plus qu'un instant à ma disposition ? *soupir* Oublie cela. Essaie de faire en sorte que ce soit un instant agréable, alors.~
 @761  = ~Tes désirs sont des... oh. Oui. Assez parlé.~
@@ -797,7 +797,7 @@ Estel de la tranquilité~
 @789  = ~Je l'espère. C'est ta vie et tu la mènes comme tu veux, mais je ne voudrais pas qu'on y mette un terme abrupt et amer.~
 @790  = ~*soupir* J'en doute. Réfléchis à ce que j'ai dit, <CHARNAME>, avant qu'il ne soit trop tard.~
 @791  = ~Oh, c'est ce que je vais faire.~
-@792  = ~Il n'existe pas de "Bon" ou de "Mauvais" genre, <CHARNAME>. Seules les actions comptent, et les tiennes sont suicidaires, c'est le moins que l'on puisse dire.~
+@792  = ~Il n'existe pas de « Bon » ou de « Mauvais » genre, <CHARNAME>. Seules les actions comptent, et les tiennes sont suicidaires, c'est le moins que l'on puisse dire.~
 @793  = ~Tu n'as pas donc pas assez d'ennemis déjà ? Cesse cette folie, <CHARNAME> !~
 @794  = ~Pourquoi faire ? Je m'amuse à chaque instant !~
 @795  = ~Xan, je suis vraiment désolée. Je vais mettre fin à tout cela.~
@@ -1092,7 +1092,7 @@ Estel de la tranquilité~
 @1084 = ~C'est ton joli minois et ton corps délectable.~
 @1085 = ~Ton ironie tranquille, tes doutes, tes mains... tout. Je ne veux jamais les voir disparaître.~
 @1086 = ~Tu ne pourrais pas être plus loin de la vérité. Je ne pense pas que j'ai envie d'être séparé de toi. J'ai des bouffées de chaleur à chaque fois que tu t'approches de moi. J'ai peur d'être instantanément congelé sur place si je suis privé de ta présence. Chaque fibre de mon esprit qui est capable d'aimer, t'aime.~
-@1087 = ~Certes. Mais il n'est pas "Bon" pour autant.~
+@1087 = ~Certes. Mais il n'est pas « bon » pour autant.~
 @1088 = ~Tu vois donc le monde comme une espèce de tigre tapi ? Beau, mais mortel ?~
 @1089 = ~Certes. Je ne crois pas au Bien ou au Mal absolu, <CHARNAME>. Je devrais peut-être plutôt dire que je ne crois pas à l'absolu ? Par la Gaste Grise, je ne crois même pas au Bien ou au Mal. Ils ne peuvent exister en-dehors du petit cadre exigu érigé par nos esprits qui peinent à comprendre l'évident et l'effrayant manque de but en ce monde.~
 @1090 = ~Je vois...~
@@ -1136,7 +1136,7 @@ Estel de la tranquilité~
 @1128 = ~*soupir* Rien n'a changé sur ce point : je me lamente sur la perte de <CHARNAME>, au lieu de la mienne. Maintenant, si vous le voulez bien, nous en resterons là.~
 @1129 = ~Vous savez, Xan, vous êtes un bien curieux individu. Je suis fier de ma maîtrise de la réalité, mais votre conviction d'une perte suprême, inévitable et vaine est tellement plus mordante que les miennes que vous ne pouvez ignorer, comme je ne peux ignorer, ces fugaces possibilités d'infimes améliorations du présent.~
 @1130 = ~Qu'insinuez-vous, barde ?~
-@1131 = ~Je parle de ces "entre-temps" que vous détestez tant. Pouvez-vous toujours fixer farouchement l'horizon sans jamais réellement prendre garde au chemin sous vos pieds ?~
+@1131 = ~Je parle de ces « entre-temps » que vous détestez tant. Pouvez-vous toujours fixer farouchement l'horizon sans jamais réellement prendre garde au chemin sous vos pieds ?~
 @1132 = ~C'est la façon de faire des elfes. Pour vous, un humain, avec une espérance de vie à peine plus longue que celle d'un moustique, il peut en être autrement. Je n'en sais rien, et je m'en moque.~
 @1133 = ~Ah. Mais ce dont nous recevons le moins semble toujours le plus précieux, n'est-ce pas ? Si il me reste aussi peu de temps, ne devrais-je pas en profiter jusqu'à ce que le destin se rappelle de moi ?~
 @1134 = ~Se faire plaisir. "Mourir et en finir" serait un meilleur conseil pour vous, je pense.~
@@ -1182,8 +1182,8 @@ Estel de la tranquilité~
 @1174 = ~Non, nous l'avons terminé la dernière fois. Votre visage s'assombrit à nouveau... quelque chose vous tourmente, Xan ?~
 @1175 = ~*soupir* Ne me posez pas cette question.~
 @1176 = ~Noyer vos chagrins dans le vin ne vous aidera que ponctuellement, mellonamin. Les humains émoussent leurs esprits et effacent leurs souvenirs avec du Lotus Noir, mais aucune de ces possibilités ne se termine bien.~
-@1177 = ~Comme vous dites. Mais cela fait oublier ce malheur que nous nommons "la vie".~
-@1178 = ~*soupir* Je pense que vous vouliez dire "l'amour".~
+@1177 = ~Comme vous dites. Mais cela fait oublier ce malheur que nous nommons « la vie ».~
+@1178 = ~*soupir* Je pense que vous vouliez dire « l'amour ».~
 @1179 = ~*soupir* Effectivement.~
 @1180 = ~Les humains disent que le temps guérit tous les chagrins, Xan.~
 @1181 = ~Ils se trompent : seule la béatitude d'Arvanaith guérit tout. Avez-vous oublié la douleur engendrée par la mort de Déhériana, Kivan ?~
@@ -1448,7 +1448,7 @@ Estel de la tranquilité~
 @1440 = ~Y compris ton domaine dans Evereska ?~
 @1441 = ~Je ne veux rien, Xan. Je veux simplement être avec toi.~
 @1442 = ~C'est une bonne nouvelle, j'imagine.~
-@1443 = ~Elle "n'appartient" pas vraiment à qui que ce soit, pas au sens où tu l'entends. Mais, oui, en quelque sorte.~
+@1443 = ~Elle « n'appartient » pas vraiment à qui que ce soit, pas au sens où tu l'entends. Mais, oui, en quelque sorte.~
 @1444 = ~Eh bien, j'imagine que oui. Ou est-ce que tu en doutes ?~
 @1445 = ~Merci. J'aimerais avoir plus d'une semaine devant moi, aussi étrange que cela puisse paraître. Mais vu l'état actuel des choses...~
 @1446 = ~*soupir* Merveilleux.~
@@ -1508,7 +1508,7 @@ Estel de la tranquilité~
 @1500 = ~Attends. Ton journal ? Tu as un journal ?~
 @1501 = ~De quoi parle-t-il ?~
 @1502 = ~Ton journal ? Comment se fait-il que je ne l'ai jamais vu ?~
-@1503 = ~Ah, tu y parles donc surtout des évènements, n'est-ce pas ? Il n'en va pas de même pour moi, je l'avoue... mais d'un autre côté, mon journal parle surtout d'une certaine jeune femme qui se tient devant moi.~
+@1503 = ~Ah, tu y parles donc surtout des événements, n'est-ce pas ? Il n'en va pas de même pour moi, je l'avoue... mais d'un autre côté, mon journal parle surtout d'une certaine jeune femme qui se tient devant moi.~
 @1504 = ~C'est intéressant. Puis-je connaître les détails ?~
 @1505 = ~De moi ? Oh, raconte-moi !~
 @1506 = ~Ah ? Que dit-il exactement, je me le demande... non, non, je préfère ne pas savoir. Si j'ai besoin de savoir quoi que ce soit, tu me le diras, n'est-ce pas ?~
@@ -1516,7 +1516,7 @@ Estel de la tranquilité~
 @1508 = ~Mais bien sûr...~
 @1509 = ~Tu tiens un journal, alors ?~
 @1510 = ~*Il ravale sa salive.* <CHARNAME>, tu me mets plutôt mal à l'aise lorsque tu me regardes ainsi. Surtout comme j'ai une petite idée de là où tu veux en venir.~
-@1511 = ~Je tiens effectivement un journal, mais... comment dire ? Ce n'est pas ce que tu peux imaginer. Je n'écris pas très régulièrement, et je n'essaie pas non plus d'y retranscrire les tous derniers évènements, ni les petits détails. C'est juste que parfois, lorsque le feu de camp n'est plus que braises, et lorsque tu dors, je te regarde et ma main parcourt les pages de son propre chef.~
+@1511 = ~Je tiens effectivement un journal, mais... comment dire ? Ce n'est pas ce que tu peux imaginer. Je n'écris pas très régulièrement, et je n'essaie pas non plus d'y retranscrire les tous derniers événements, ni les petits détails. C'est juste que parfois, lorsque le feu de camp n'est plus que braises, et lorsque tu dors, je te regarde et ma main parcourt les pages de son propre chef.~
 @1512 = ~Tu es importante pour moi. Plus que n'importe quoi d'autre, que n'importe qui d'autre. Plus importante que mon devoir, que ma vie même. Et cela me peine de savoir que, lorsque nous aurons disparu tous les deux, il ne restera plus rien. Mais peut-être qu'un jour, quelqu'un ramassera un petit livre avec une couverture de cuir, et...~
 @1513 = ~... ce quelqu'un lira tout sur nous deux ?~
 @1514 = ~... cette personne deviendra verte de jalousie ?~
