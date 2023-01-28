@@ -21,7 +21,7 @@
 @20   = ~*vire au pivoine* Je ne la regardais pas seulement pour me distraire en contemplant la beauté de son apparence, comme tu sembles le faire, elfe. Mes yeux se posent sur Dame <CHARNAME> parce que je veille sur elle, en compagnon vigilant, tout au long de nos dangereux voyages !~
 @21   = ~Peut-être devrais-tu doubler ta garde chaque fois que je suis à proximité de la dame. Nous avons tendance à... nous distraire l'un l'autre et tu pourrais apprendre une chose ou deux. *Il cligne de l'oeil et tapote Ajantis sur l'épaule*~
 @22   = ~Garde tes rodomontades pour toi, maudit !~
-@23   = ~On monte la garde, Helmite ?~
+@23   = ~On monte la garde, Heaumite ?~
 @24   = ~*avec un léger malaise* Je t'ai dit que je guettais le danger. Je fais ceci pour nous tous, pas seulement pour <CHARNAME>.~
 @25   = ~Alors pourquoi, Ô chevalier brave et pur, est-ce que le souffle fiévreux dans tes yeux s'éteint lorsqu'ils passent de <CHARNAME> à moi ?~
 @26   = ~*avec de la colère pointant dans la voix* Je n'ai pas besoin de tes moqueries, Coran ! Il y a assez de "souffles fiévreux" dans tes regards indésirables pour trois hommes ! Si tu n'es pas prudent, elle va se consumer subitement, juste à cause de tes oeillades constantes !~
@@ -32,7 +32,7 @@
 @31   = ~*A voix basse, les mains tremblant toujours* <CHARNAME> est la femme la plus sage et la plus brave que j'ai jamais rencontrée, elfe. Je fais confiance à son intelligence pour voir les *véritables* intentions de chacun d'entre nous... avant qu'elle ne choisisse à qui donner son coeur.~
 @32   = ~L'amour, Ajantis, ne devrait jamais servir à alimenter la colère.~
 @33   = ~Salutations, Ô belle d'entre les belles.
-<CHARNAME>, deux hommes se disputent votre coeur
+<CHARNAME>, deux hommes se disputent votre cœur
 Ils m'ont invoqué, Maître des Défis,
 Héraut des Coeurs, Juge de l'Amour
 Pour arbitrer entre vous trois.
@@ -53,7 +53,7 @@ Afin qu'ils prouvent leur amour et leur fidélité ?~
 @41   = ~*Après y avoir réfléchi un moment, vous décidez de ne pas lancer de Défi. Votre coeur appartient déjà à Xan...*~
 @42   = ~Attendez ! Qu'en est-il de Xan d'Evereska ?~
 @43   = ~Je voudrais que vous lanciez un Défi à Sire Ajantis Ilvastarr d'Eauprofonde et au bon elfe Coran du Téthyr.~
-@44   = ~Xan d'Evereska ? Oh, ce gentilhomme a décliné, disant, et je le cite : "C'est sans espoir".~
+@44   = ~Xan d'Evereska ? Oh, ce gentilhomme a décliné, disant, et je le cite : « C'est sans espoir ».~
 @45   = ~Mais si votre coeur lui appartient, Ma Dame, je vous encouragerais à l'annoncer dès à présent, pour que nous puissions éviter les défis.~
 @46   = ~J'ai préparé des défis d'esprit et de force pour vos soupirants, Ma Dame. Aucun d'entre eux n'est réel, aucun d'entre eux n'est dangereux, car ils ne sont qu'un produit de mon imagination et de la leur. Vous serez engagée dans leur rêve et participerez ou devrez vous tenir à l'écart pour observer, c'est selon. Une fois que vous y serez engagée, cela apparaîtra identique à la réalité.~
 @47   = ~Le total des défis est de quatre, car il y a quatre éléments sur terre, quatre coins du monde, et on m'a payé pour quatre.~
@@ -76,8 +76,8 @@ Afin qu'ils prouvent leur amour et leur fidélité ?~
 @64   = ~Je voudrais que les hommes me divertissent.~
 @65   = ~Je voudrais recevoir un cadeau de cour.~
 @66   = ~Je voudrais être sauvée d'un dragon.~
-@67   = ~Il n'est pas nécessaire de lancer un défi, Maître. Je sais où se trouve mon coeur. Il appartient à Ajantis.~
-@68   = ~Il n'est pas nécessaire de lancer un défi, Maître. Je sais où se trouve mon coeur. Il appartient à Coran.~
+@67   = ~Il n'est pas nécessaire de lancer un défi, Maître. Je sais où se trouve mon cœur. Il appartient à Ajantis.~
+@68   = ~Il n'est pas nécessaire de lancer un défi, Maître. Je sais où se trouve mon cœur. Il appartient à Coran.~
 @69   = ~Alors un combat, ce sera !~
 @70   = ~Et à présent, Coran du Téthyr !~
 @71   = ~Ah, ma Dame, vous ne faisiez pas attention. Ce défi a déjà été lancé. Choisissez-en un autre ou annoncez votre décision.~
@@ -159,7 +159,7 @@ Afin qu'ils prouvent leur amour et leur fidélité ?~
 @147  = ~Oh... c'était plutôt...~
 @148  = ~Spectaculaire ! Félicitations, mon héros, pour ce haut fait.~
 @149  = ~Par les neuf enfers, les maudits neuf enfers ! Tous les dragons sont-ils aussi fragiles ?~
-@150  = ~Je... Je ne comprends pas.~
+@150  = ~Je... je ne comprends pas.~
 @151  = ~Qu'est-ce qu'un ancien rouge face à un homme amoureux ?~
 @152  = ~Un ver !~
 @153  = ~Les dragons sont des créatures féroces, <CHARNAME>. Mais je dois avouer que puisque ce défi est basé sur mes rêves... cela ressemble assez bien à la manière dont j'imagine généralement une telle rencontre.~

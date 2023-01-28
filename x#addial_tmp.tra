@@ -118,7 +118,7 @@
 @89    = ~Excuse-moi, Faldorn... je ne me sens pas bien. Est-ce que... Pourrais-tu utiliser des descriptions moins crues dans l'avenir ?~
 @90    = ~Je n'entends que le vent...~
 @91    = ~Euh... nous avancions d'un bon pas, et nous venons justement de nous arrêter pour écouter ton petit discours.~
-@92    = ~Haut les coeurs ! En avant, châtions les hérétiques !~
+@92    = ~Haut les cœurs ! En avant, châtions les hérétiques !~
 @93    = ~Ouais, ouais... Bon, tu feras merveille pour châtier les mineurs. Je récupérerai le butin. Mais j'ai l'impression que nous allons tous les deux bien nous amuser avec ce massacre.~
 @94    = ~Faldorn, je n'ai pas de problème avec les mines en général, mais mon objectif est d'enquêter sur le Trône de Fer. J'ai accepté que tu t'associes avec moi parce que tu avais l'air d'une alliée compétente et que tu avais un... objectif similaire. Essaie de ne pas me dégoûter avec tes haines aveugles, parce que c'est encore moi qui dirige ce groupe et que je t'en évincerai dès que j'en aurai envie.~
 @95    = ~Si tu es incapable de supporter mes paroles, comment pourras-tu m'aider à mettre en pièces mes ennemis ?~
@@ -246,7 +246,7 @@
 @196 = ~Oui, oui, ce sont là des défis posés à l'esprit borné. Ceux qui sont acceptés dans les rangs des Mages rouges sont doués au-delà de ce que les barbares d'ici peuvent imaginer. Ils excellent ainsi à la fois en magie et en politique.~
 @197 = ~Les véritables mages ne devraient pas se retirer du monde, ils devraient le diriger. Garder les mages à l'écart du commandement laisserait le monde trébucher dans le noir comme un poulet sans tête.~
 ///* Edwin and Dynaheir */
-@198 = ~<CHARNAME>, quelle partie de "Je te commande de tuer la sorcière rashémie" n'as-tu pas comprise ? Peut-être devrais-je utiliser des termes plus simples, plus courts ? Faudrait-il que je te l'écrive et que je te lise tout bas cinq fois par jour, afin que cela puisse s'implanter dans ton minuscule cerveau ?~
+@198 = ~<CHARNAME>, quelle partie de « je te commande de tuer la sorcière rashémie » n'as-tu pas comprise ? Peut-être devrais-je utiliser des termes plus simples, plus courts ? Faudrait-il que je te l'écrive et que je te lise tout bas cinq fois par jour, afin que cela puisse s'implanter dans ton minuscule cerveau ?~
 @199 = ~Pourquoi as-tu besoin de la tuer, au juste ? Est-ce une personne de quelque importance ?~
 @200 = ~Hum... Cette idée de lire à voix basse n'est pas si mauvaise. J'aime le son de ta voix presque autant que toi, Edwin.~
 @201 = ~Je t'ai promis de la tuer, et j'honorerai ma parole.~
@@ -274,8 +274,8 @@
 @220 = ~Hum, bien essayé... Mais pas crédible. Envie d'un nouvel essai ?~
 @221 = ~Non, simienne, ça ne me conviendrait pas du tout. J'ai mes critères, et tu ne les atteindras qu'après avoir fait ce que je t'ai commandé. (Si elle peut suivre des ordres, je n'aurai pas tout perdu.)~
 @222 = ~Je l'ai dit : d'une manière affreuse. Maintenant ce serait gentil de ramasser ta mâchoire qui traîne à terre et de t'occuper de ma tâche et de tes... (Comment appeler cela ? Un cache-cache champêtre ?) ah oui, de tes quêtes.~
-@223 = ~Bien sûr que non - mon goût parfait en matière de femmes m'empêcherait de m'impliquer auprès d'une sorcière aussi fanatique, primitive et ignorante.~
-@224 = ~Bien sûr que non - mon goût parfait en matière de femmes me retiendrait d'une telle erreur.~
+@223 = ~Bien sûr que non, mon goût parfait en matière de femmes m'empêcherait de m'impliquer auprès d'une sorcière aussi fanatique, primitive et ignorante.~
+@224 = ~Bien sûr que non, mon goût parfait en matière de femmes me retiendrait d'une telle erreur.~
 @225 = ~Ce pays est infesté de pitié, laquelle,de temps à autres, provoque des complications telles que la faiblesse d'esprit. Tu es un homme malade, <CHARNAME>, très malade, et c'est moi qui souffre de tes symptômes. Ton esprit peut-il saisir que je ne suis pas venu ici pour *sauver* la sorcière et voyager en sa répugnante compagnie, mais pour la tuer ?~
        ~Ce pays est infesté de pitié, laquelle,de temps à autres, provoque des complications telles que la faiblesse d'esprit. Tu es une femme malade, <CHARNAME>, très malade, et c'est moi qui souffre de tes symptômes. Ton esprit peut-il saisir que je ne suis pas venu ici pour *sauver* la sorcière et voyager en sa répugnante compagnie, mais pour la tuer ?~
 @226 = ~Edwin, Dynahéir m'importe peu, mais je veux garder Minsc.~
@@ -380,19 +380,19 @@ Notre amour, lui, vivra, par qui la vie abonde.~
 @304 = ~En fait, non. Ça me semble très intéressant.~
 @305 = ~Tu es un nécromancien malade et dément, et je me demande *pourquoi* je vous permets, à toi et à ta révoltante collection, de rester à proximité de moi !~
 @306 = ~Euh... c'est peut-être que ton obsession de la mort et de la décomposition frappe un peu les gens par sa... bizarrerie.~
-@307 = ~*Vraiment* ? Je... Je ne rencontre pas beaucoup de filles qui apprécient mon genre de passe-temps.~
+@307 = ~*Vraiment* ? Je... je ne rencontre pas beaucoup de filles qui apprécient mon genre de passe-temps.~
 @308 = ~Peut-être pourrais-tu me montrer une fois ou l'autre ? Ce que tu fais avec tes... échantillons ?~
 @309 = ~Ouais, en fait j'ai vraiment l'esprit ouvert. Seulement, ne fais pas de moi un de tes échantillons, d'accord ?~
 @310 = ~D'accord, je suis fatigué de celui-là. Tu me fiches les jetons, et l'odeur me rend malade. Débarrasse-toi de ça. En silence !~
        ~D'accord, je suis fatiguée de celui-là. Tu me fiches les jetons, et l'odeur me rend malade. Débarrasse-toi de ça. En silence !~
 @311 = ~Bien sûr ! Je ne peux refuser de tels plaisirs à quelqu'un d'aussi enthousiaste !~
-@312 = ~Oh, hé bien, c'est un peu décevant, <CHARNAME>. Mais juste un peu. Vous feriez vraiment un sujet *magnifique*...~
+@312 = ~Oh, eh bien, c'est un peu décevant, <CHARNAME>. Mais juste un peu. Vous feriez vraiment un sujet *magnifique*...~
 @313 = ~Seulement les gens *vivants*. Mais réfléchissez ; les morts doivent déjà dépasser le nombre de vivants de dix mille pour un. Alors qui sommes-nous - nous, les vivants - les vivants provisoires, je veux dire - pour avoir tant de préjugés contre la vraie démocratie ?~
 @314 = ~Bien, bien, bien. Alors débarrasse-toi de la puanteur et retourne dans le rang.~
 @315 = ~Voilà qui pourrait être pratique. Les morts n'ont pas beaucoup de visibilité. Ils n'ont pas grand chose à dire pour eux-mêmes, tu vois.~
 @316 = ~Hmm. Là, tu as peut-être raison. Peut-être pourras-tu m'instruire un peu la prochaine fois que tu en auras l'occasion.~
-@317 = ~Ahhh, mais ils *peuvent* le faire ! Vous seriez ébahi - un jour prochain, je l'espère - de découvrir l'éloquence des défunts, <CHARNAME>.~
-       ~Ahhh, mais ils *peuvent* le faire ! Vous seriez ébahie - un jour prochain, je l'espère - de découvrir l'éloquence des défunts, <CHARNAME>.~
+@317 = ~Ahhh, mais ils *peuvent* le faire ! Vous seriez ébahi, un jour prochain, je l'espère, de découvrir l'éloquence des défunts, <CHARNAME>.~
+       ~Ahhh, mais ils *peuvent* le faire ! Vous seriez ébahie, un jour prochain, je l'espère, de découvrir l'éloquence des défunts, <CHARNAME>.~
 ///* Xzar à propos Mendas, chef des loup-garous de l'île perdue (TotSC) */
 @318 = ~Ah, regardez ce cadavre, <CHARNAME>.~
 @319 = ~Remarquez que, comme cela est typique des canidés, les intestins sont d'une masse restreinte, ce qui s'oppose aux exigences omnivores du système digestif humain, mais que leur localisation convient davantage à un bipède qu'à un quadrupède.~
@@ -406,7 +406,7 @@ Notre amour, lui, vivra, par qui la vie abonde.~
 @327 = ~Oui, il est là, n'est-ce pas ?~
 @328 = ~Non. Désolé.~
        ~Non. Désolée.~
-@329 = ~Je... Je crois que je vais être malade.~
+@329 = ~Je... je crois que je vais être malade.~
 @330 = ~Absurde ! Sa bestiale férocité est une essence parfaite pour la première distillation d'un débutant. C'est maintenant ou jamais.~
 @331 = ~POULE MOUILLEE ! On ne peut en faire que de la salade. Ou peut-être même que vous pondez des oeufs ? Peu importe - je m'y attendais.~
 @332 = ~C'est correct ! Vous commencez bien. Maintenant tenez bien la fiole, pendant que j'extrais le sang...~
@@ -423,13 +423,13 @@ Notre amour, lui, vivra, par qui la vie abonde.~
 @341 = ~Oui, en effet. C'est en coupant le long de cette courbe que vous récoltez le plus de sang. Hmm. J'aurais vraiment pu prendre une bouteille plus grande. Peu importe. Vos manches sont lavables, j'espère ?~
 @342 = ~Voilà, c'est fini. C'est comme cela que l'on prélève le sang. Maintenant, son utilisation.~
 @343 = ~*sourit* J'attends cela avec impatience !~
-@344 = ~Hé bien, peut-être... Cela me rend *vraiment* un peu nauséeux.~
-       ~Hé bien, peut-être... Cela me rend *vraiment* un peu nauséeuse.~
+@344 = ~Eh bien, peut-être... Cela me rend *vraiment* un peu nauséeux.~
+       ~Eh bien, peut-être... Cela me rend *vraiment* un peu nauséeuse.~
 @345 = ~Oui, pas mal. J'aurais pu utiliser une plus grande bouteille, en fait. Ça n'a plus d'importance maintenant. Je vous ai vu laver vos vêtements, et je suppose que votre visage et vos mains sont eux aussi lavables...~
        ~Oui, pas mal. J'aurais pu utiliser une plus grande bouteille, en fait. Ça n'a plus d'importance maintenant. Je vous ai vue laver vos vêtements, et je suppose que votre visage et vos mains sont eux aussi lavables...~
 @346 = ~Quoi qu'il en soit... C'est comme cela que l'on prélève le sang. Ensuite, je vais vous montrer ce que l'on en fait.~
-@347 = ~Hé bien, peut-être... Cela me rend *vraiment* un peu nauséeux.~
-       ~Hé bien, peut-être... Cela me rend *vraiment* un peu nauséeuse.~
+@347 = ~Eh bien, peut-être... Cela me rend *vraiment* un peu nauséeux.~
+       ~Eh bien, peut-être... Cela me rend *vraiment* un peu nauséeuse.~
 @348 = ~*Il sourit d'un air dément à un point focal situé derrière votre oreille gauche.* Si j'osais tant espérer, je dirais que vous allez *vraiment* apprécier.~
 @349 = ~Maintenant ! Voyez-vous cette jolie petite fleur que j'ai conservée ? Vous, <CHARNAME>, vous allez verser le sang du coeur dessus, pendant que je récite l'incantation nécessaire :
 Oh, fleuris gaiement
@@ -515,7 +515,7 @@ De l'autre côté.~
 @414 = ~Dites-moi, Minsc... Est-ce que... euh... Est-ce que Bouh a jamais été amoureux ?~
 @415 = ~Bien sûr ! Bouh aime Minsc ! Et Minsc aime Bouh ! C'est un lien qui ne peut être rompu !~
 @416 = ~Alors imaginez que l'un d'entre vous soit assassiné de la manière la plus ignoble...~
-@417 = ~M-M-Minsc sans Bouh ? Non ! Nooon ! Minsc pleurerait et pleurerait et... oh... Minsc comprend... Pas étonnant que Kivan soit si triste... et qu'il détruise le mal avec une telle... hummm... oh, quel est le mot... Oui, c'est cela, Bouh... ferveur ! Hé bien, Minsc et Bouh aideront notre triste ami à pulvériser le demi-ogre puant ! Et après les rôdeurs et les hamsters du monde entier se réjouiront ensemble !~
+@417 = ~M-M-Minsc sans Bouh ? Non ! Nooon ! Minsc pleurerait et pleurerait et... oh... Minsc comprend... Pas étonnant que Kivan soit si triste... et qu'il détruise le mal avec une telle... hummm... oh, quel est le mot... Oui, c'est cela, Bouh... ferveur ! Eh bien, Minsc et Bouh aideront notre triste ami à pulvériser le demi-ogre puant ! Et après les rôdeurs et les hamsters du monde entier se réjouiront ensemble !~
 @418 = ~Ah, oui, ils le feront. Et on arrêtera peut-être de m'accuser de comploter au maintien de l'attitude mélancolique de Kivan, tout ça pour rester l'homme le plus séduisant du groupe... Merveilleux. Maintenant, poursuivons notre quête, afin que Kivan ait une chance de chatouiller Tazok de sa lance... Et peut-être le reste d'entre nous pourra-t-il aussi porter un coup ou deux à son tour.~
 @419 = ~Et chacun devr...~
 @420 = ~Oh, regarde, Bouh, du trèfle ! Cherchons-en un qui porte chance !~
@@ -618,7 +618,7 @@ De l'autre côté.~
 @502 = ~Oui, tes sens sont corrompus par la haine, rivvil. Peut-être pourrais-je t'apprendre les plaisirs de la mort... dans quelques heures ou quelques jours ?~
 ///* Shar-Teel avec Skie */
 @503 = ~Shar-Teel, vous croyez vraiment que la force physique est la seule chose qui compte en ce monde ?~
-@504 = ~Non ! La force du coeur que l'on y met compte encore plus.~
+@504 = ~Non ! La force du cœur que l'on y met compte encore plus.~
 @505 = ~Et que se passe-t-il si le monde refuse de se plier à ce bras si fort, malgré tout le coeur qu'il y met ?~
 @506 = ~Ton exemple est un non-sens. Les habitants de ce monde savent très bien que la raison du plus fort est toujours la meilleure.~
 @507 = ~Alors vous allez conquérir le monde ? Avec un seul bras ? C'est une grande entreprise dans laquelle vous vous lancez.~

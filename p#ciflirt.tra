@@ -51,7 +51,7 @@
 @50   = ~Et ce que tu es m'effraie, et pourtant, m'attire.~
 @51   = ~Ta nature passionnée que j'ai tant appréciée prend à présent une autre signification, plus dangereuse. Chacune de ses facettes, seule, me plongerait dans une liaison, mais les deux ensemble... Ma tête me tourne comme si elle voulait s'envoler et mon coeur bat, menaçant de se briser dans ma poitrine, quand je pense à toi ainsi...~
 @52   = ~Hanali Celanil nous apprend que l'amour est chaud et doré. De toi, femme, une autre passion émane, sombre et rouge, et donne le vertige aux hommes.~
-@53   = ~Je... Je préférerais qu'elle soit chaude et dorée.~
+@53   = ~Je... je préférerais qu'elle soit chaude et dorée.~
 @54   = ~Tes paroles sont folles, Coran, et cette lueur dans tes yeux me met mal à l'aise.~
 @55   = ~Qu'as-tu fait au Coran plein de légèreté que je chérissais, monstre ?~
 @56   = ~*soupirer* C'est ça.~
@@ -73,7 +73,7 @@
 @72   = ~*Un regard elfique en coin, lumineux et taquin, s'arrête sur vous.*~ [X#BLANK]
 @73   = ~*Coran siffle avec admiration, mais discrètement, lorsque vous passez devant lui.*~
 @74   = ~Par Hanali, je n'ai jamais vu plus radieuse paire d'yeux.~
-@75   = ~Tu es une oeuvre d'art, ma douce. Pour tout dire, ça ne me dérangerait pas d'avoir des milliers de peintures et de statuettes te représentant dans ma cabane.~
+@75   = ~Tu es une œuvre d'art, ma douce. Pour tout dire, ça ne me dérangerait pas d'avoir des milliers de peintures et de statuettes te représentant dans ma cabane.~
 @76   = ~Quelle vision pour des yeux douloureux et un coeur souffrant ! Ne te détourne pas, ma douce, cela va me plonger dans... dans la mélancolie.~
 @77   = ~*Coran place sa paume étroite sur son coeur.* Il vient de sauter un battement, là maintenant, <CHARNAME>.~
 @78   = ~Oh, belle demoiselle, je suis épris et gis en ruines à tes pieds.~
@@ -81,7 +81,7 @@
 @80   = ~Je ne sais pas comment des pieds aussi légers peuvent laisser des empreintes aussi profondes dans mon coeur.~
 @81   = ~Tes chevilles sont divines, ma douce. Divines.~
 @82   = ~*Coran soupire.*~
-@83   = ~Je ne peux pas dire que te rencontrer m'a rendu insouciant face à la mort - je n'ai jamais été du genre à craindre de mourir - mais je commence à comprendre ce sentiment.~
+@83   = ~Je ne peux pas dire que te rencontrer m'a rendu insouciant face à la mort, je n'ai jamais été du genre à craindre de mourir, mais je commence à comprendre ce sentiment.~
 @84   = ~Tu es Hanali faite chair, <CHARNAME>, mais de plus en plus souvent, quand tu parles, je me retrouve à t'écouter, plutôt qu'à te contempler.~
 @85   = ~Un sage elfe m'a dit un jour qu'une fois qu'on a appris à organiser et gérer quatre personnes, cela signifie qu'on peut en organiser et gérer n'importe quel nombre.~
 @86   = ~Je n'ai jamais appris à commander, mais toi, ma douce, tu pourrais diriger une armée.~
@@ -96,7 +96,7 @@
 @95   = ~Ne cherche pas l'amour partout, mais sois toujours prête à le trouver, <CHARNAME>.~
 @96   = ~Je pense que tu vivras à jamais dans les chansons, <CHARNAME>.~
 @97   = ~Non, tu es une chanson...~
-@98   = ~Ton oeil gauche est ma lune, et ton droit mon soleil. Ainsi, je marche dans la lumière, même aux endroits les plus sombres.~
+@98   = ~Ton œil gauche est ma lune, et ton droit mon soleil. Ainsi, je marche dans la lumière, même aux endroits les plus sombres.~
 @99   = ~Tes oreilles sont parfaites, à part pour une chose : elles ne semblent pas entendre mes suppliques.~
 @100  = ~J'ai écrit un poème sur ta nuque. Puis je l'ai brûlé.~
 @101  = ~J'ai écrit un ouvrage sur ta nuque. Puis je l'ai brûlé.~
@@ -155,14 +155,14 @@
 @154  = ~*Sa langue frôle brièvement votre oreille.*~
 @155  = ~*Il se contente de rester là et de vous regarder, un sourire timide sur ses lèvres.*~
 @156  = ~*Il vous attrape dans ses bras, vous fait tournoyer dans une danse folle, et vous couvre de baisers. Tout cela en l'espace d'un bref instant.*~
-@157  = ~*Une mine triste apparaît sur son visage. Il se détourne rapidement, murmurant. Vous pensez avoir entendu :* "Qui croirait un bouffon..."~
+@157  = ~*Une mine triste apparaît sur son visage. Il se détourne rapidement, murmurant. Vous pensez avoir entendu :* « Qui croirait un bouffon... »~
 @158  = ~Les rêves, <CHARNAME>, sont des créatures voraces.~
 @159  = ~Ils ne deviennent que plus gourmands, plus affamés lorsqu'ils festoient des sucreries de la réalité.~
 @160  = ~Pourtant, voici le paradoxe. J'ai rêvé d'une femme idéale, la plus belle, la plus excitante. Je pensais que je la chercherais à jamais, et que je ne la trouverais jamais.~
 @161  = ~Et elle se tient devant moi, et ne disparaît pas dans un nuage de fumée lorsque je la touche.~
 @162  = ~*Coran vous installe sur ses genoux et enlace votre taille. Il vous embrasse dans le cou, sous l'oreille.*~
 @163  = ~Tu m'as demandé de t'apprendre les runes de la passion, ma belle. Voici la première.~
-@164  = ~*Il place un large ruban de velours autour de votre cou et le ferme. Un pendentif - un galet blanc avec une rune rouge - se lève sous votre gorge avec chacune de vos inspirations. Il est chaud contre votre peau, comme ses doigts. Le pendentif a la forme d'un demi-coeur. Coran porte la seconde moitié.*~
+@164  = ~*Il place un large ruban de velours autour de votre cou et le ferme. Un pendentif, un galet blanc avec une rune rouge, se lève sous votre gorge avec chacune de vos inspirations. Il est chaud contre votre peau, comme ses doigts. Le pendentif a la forme d'un demi-coeur. Coran porte la seconde moitié.*~
 @165  = ~La première rune représente l'Amour-Espoir, l'attente de l'amour, le rêve fantasque. C'est lui qui s'impose aux jeunes hommes et femmes lorsqu'ils rencontrent pour la première fois quelqu'un qui leur fait réaliser que l'amour existe, et qu'ils sont vulnérables aux charmes d'Hanali. Parfois, les gens se fânent au fil du temps, et après avoir goûté aux autres vins d'Hanali, aiment à nouveau de cette manière. Certains ne peuvent aimer que comme ça.~
 @166  = ~Ce soir, <CHARNAME>, nous allons dormir dans des lits séparés, et rêver l'un de l'autre, ou rester éveillés, savourant la première caresse du désir.~
 @167  = ~*Alors que le dernier tour de garde touche à sa fin, Coran se glisse sous vos draps et vous découvre jusqu'à la taille. Avec surprise, vous réalisez que le collier runique a disparu.*~

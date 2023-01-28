@@ -28,8 +28,8 @@
 @27    = ~Amélia a dit que vous essaieriez de salir son nom ! Vous mourrez pour avoir fait ça !~
 @28    = ~Oh, c'est une bonne chose pour vous ! Si vous la voyez - courez pour sauver vos vies !~
 @29    = ~Que savez-vous d'elle ?~
-@30    = ~Hé bien, pour tout dire, nous l'avons rencontrée. Elle dit qu'elle est votre fiancée, et qu'elle était censée vous donner une réponse pour son seizième anniversaire en vous offrant des roses soit rouges, soit blanches. Ses roses ne sont cependant plus que poussière à présent. Ne pouvez-vous pas agir en adulte et aller régler tout seul le problème de votre relation ?~
-@31    = ~Quoi... quel voeu ? Quel conte à dormir debout cette garce vous a-t-elle concocté ? A-t-elle encore ses roses sanglantes ?~
+@30    = ~Eh bien, pour tout dire, nous l'avons rencontrée. Elle dit qu'elle est votre fiancée, et qu'elle était censée vous donner une réponse pour son seizième anniversaire en vous offrant des roses soit rouges, soit blanches. Ses roses ne sont cependant plus que poussière à présent. Ne pouvez-vous pas agir en adulte et aller régler tout seul le problème de votre relation ?~
+@31    = ~Quoi... quel vœu ? Quel conte à dormir debout cette garce vous a-t-elle concocté ? A-t-elle encore ses roses sanglantes ?~
 @32    = ~Hem... Elle dit qu'elle est votre fiancée, et qu'elle était censée vous donner une réponse pour son seizième anniversaire en vous offrant des roses soit rouges soit blanches. Ses roses ne sont cependant plus que poussière à présent. Ne pouvez-vous pas agir en adulte et aller régler tout seul le problème de votre relation ?~
 @33    = ~Je veux d'abord entendre votre version de l'histoire.~
 @34    = ~Amélia a dit que vous essaieriez de salir son nom ! Vous mourrez pour avoir fait ça !~
@@ -91,7 +91,7 @@ Amélia est apparemment une succube qui court après des poudres poussiéreuses 
 @85    = ~Puisse la lumière du Seigneur de l'Aube guider vos pas.~
 @86    = ~C'est trop léger et trop inhabituel, et je doute de pouvoir seulement le ressentir. Mais je peux bénir votre compagnon, juste au cas où. Malheureusement, je devrai me faire rémunérer, car je crains que mes supérieurs ne partagent pas l'idée que le sort soit même nécessaire, et moins encore, qu'il puisse sauver une vie... Il me faudra cent pièces d'or.~
 @87    = ~Bénissez Coran, acolyte, et utilisez bien l'argent pour inspirer l'amour de la lumière et de la bonté aussi bien au petit peuple qu'aux seigneurs.~
-@88    = ~Hé bien, quelle arnaque ! Nous partons.~
+@88    = ~Eh bien, quelle arnaque ! Nous partons.~
 @89    = ~La bureaucratie et la corruption des prêtres sont bien connus. Peut-être est-ce là le Mal que vous flairez. Mais on n'est jamais trop prudent. Lancez ce sort, acolyte Rashel.~
 @90    = ~Votre argent sera sagement dépensé, n'en doutez pas.~
 @91    = ~Puisse la lumière de Lathandre toujours briller dans votre coeur. Vous êtes revenus - avez-vous encore besoin d'aide ?~
@@ -102,7 +102,7 @@ Amélia est apparemment une succube qui court après des poudres poussiéreuses 
 @96    = ~Je suis flattée de votre intérêt pour mon humble personne, mais mon coeur appartient au Seigneur de l'Aube, que je sers et à qui je voue tout mon temps.~
 @97    = ~Qu'il en soit ainsi, mais vous ne savez pas ce que vous manquez !~
 @98    = ~Je vais partir, alors.~
-@99    = ~Hé bien, bonjour, alors. Et bienvenue à la Chanson du Matin.~
+@99    = ~Eh bien, bonjour, alors. Et bienvenue à la Chanson du Matin.~
 @100   = ~Je dois vous prendre pour quelqu'un d'autre. C'est étrange, j'étais certaine que vous étiez cet homme avec les roses... Je devrais étudier un peu moins.~ ~Je dois vous prendre pour quelqu'un d'autre. C'est étrange, j'étais certaine que vous étiez cette femme avec les roses... Je devrais étudier un peu moins.~
 @101   = ~Pourquoi apportez-vous des fleurs flétries dans la Maison du Seigneur de l'Aube ?~
 @102   = ~C'est une longue histoire, sainte soeur, mais le coeur d'une jeune fille ne connaîtra pas de bonheur jusqu'à ce que ces roses soient ramenées à la vie.~
@@ -112,7 +112,7 @@ Amélia est apparemment une succube qui court après des poudres poussiéreuses 
 @106   = ~J'ai ressenti une faible aura de maléfice sur ces roses... et sur votre compagnon. Vous, pourtant, paraissez sincère et généreux. Peut-être suis-je dans l'erreur.~ ~J'ai ressenti une faible aura de maléfice sur ces roses... et sur votre compagnon. Vous, pourtant, paraissez sincère et généreuse. Peut-être suis-je dans l'erreur.~
 @107   = ~Vous devez vous tromper. Merci de votre aide.~
 @108   = ~Bon, nous parviendrons bien assez tôt au terme de cette histoire. Cela dit, juste au cas où... pouvez-vous faire quelque chose pour retirer cette présence maléfique de Coran et des roses ?~
-@109   = ~Mon mignon, là, m'a dit que vous aviez l'objet que je désire - les poudres. Donne-les moi, <CHARNAME>...~
+@109   = ~Mon mignon, là, m'a dit que vous aviez l'objet que je désire... les poudres. Donne-les moi, <CHARNAME>...~
 @110   = ~Je veux connaître la vérité, avant d'annoncer ma décision.~
 @111   = ~Bien sûr, bien sûr.~
 @112   = ~Bien sûr, bien sûr. Mais vous devriez avant cela relâcher vos captifs et nous donner quelque chose...~
@@ -182,7 +182,7 @@ Amélia est apparemment une succube qui court après des poudres poussiéreuses 
 J'ai rencontré une femme étrange mais extrêmement belle, Amélia. Elle nous a demandé de ramener à la vie des roses fanées et de les donner à Natan - un voleur, qui se cache apparemment quelque part dans les ruines de Flammevin. Amélia a dit que je devrais apporter ces roses au Temple de la Chanson du Matin à Bérégost, afin de les restaurer.~
 @175   = ~Passez une très bonne journée, Amélia.~
 @176   = ~Merci à vous, généreux étrangers, et merci à vous, Coran, de vous montrer aussi compréhensif. Apportez ces roses au temple de Bérégost ; demandez au prêtre de les ramener à la vie et, une fois dans le donjon, donnez-les à Natan. C'est... c'était un voleur. Je crains, néanmoins, qu'il ne soit en colère parce que j'ai rejeté son amour, et il tentera peut-être de vous raconter des absurdités sur mon compte... Je vous en prie, ne le croyez pas !~
-@177   = ~Votre histoire - elle me paraît très suspecte. Les voleurs ne sont pas du genre à demander des serments...~
+@177   = ~Votre histoire... elle me paraît très suspecte. Les voleurs ne sont pas du genre à demander des serments...~
 @178   = ~Amélia
 
 J'ai rencontré une femme étrange mais extrêmement belle, Amélia. Elle nous a demandé de ramener à la vie des roses fanées et de les donner à Natan - un voleur, qui se cache apparemment quelque part dans les ruines de Flammevin. Amélia a dit que je devrais apporter ces roses au Temple de la Chanson du Matin à Bérégost, afin de les restaurer.~
@@ -198,7 +198,7 @@ J'ai rencontré une femme étrange mais extrêmement belle, Amélia. Elle nous a
 @186   = ~Voilà qui est assez merveilleux et étrange. Nous vous aiderons, ma chère dame, au mieux de nos capacités.~
 @187   = ~Je n'ai pas de temps à perdre avec des roses et des histoires stupides. Mettons-nous en route, camarades.~
 @188   = ~C'est une idée fausse très répandue, mon bon seigneur. Dans la Guilde de mon fiancé, toutes sortes de serments étaient pris et donnés. Quelques uns d'entre eux impliquaient même les membres de la famille... afin de les lier tout à fait à leurs intrigues. J'étais jeune et sotte, et je trouvais cela très excitant. Hélas, ses charmes se sont évanouis avec la distance et avec le temps, et maintenant je voudrais récupérer ma vie... si je le peux encore, ou mourir en paix. M'aiderez-vous ?~ ~C'est une idée fausse très répandue, ma bonne dame. Dans la Guilde de mon fiancé, toutes sortes de serments étaient pris et donnés. Quelques uns d'entre eux impliquaient même les membres de la famille... afin de les lier tout à fait à leurs intrigues. J'étais jeune et sotte, et je trouvais cela très excitant. Hélas, ses charmes se sont évanouis avec la distance et avec le temps, et maintenant je voudrais récupérer ma vie... si je le peux encore, ou mourir en paix. M'aiderez-vous ?~
-@189   = ~Je vois. Hé bien, donnez-moi ces roses, et je tenterai de vous libérer de votre serment.~
+@189   = ~Je vois. Eh bien, donnez-moi ces roses, et je tenterai de vous libérer de votre serment.~
 @190   = ~Voilà qui semble de plus en plus intrigant. D'où venez-vous ? J'ai entendu parler de nombre de Guildes de Voleurs, et, en fait, j'aimerais me rappeler une coutume aussi intéressante que de demander à la fiancée d'un membre de donner un voeu solennel.~
 @191   = ~Je vois que vous ne me faites pas confiance. Hélas, je vais donc continuer d'errer sans secours...~
 @192   = ~Oh, je ne sais pas. J'ai juste pensé que Natan pourrait se mettre en colère, et il n'a jamais eu le parler très bienveillant. Il me giflera de sa langue, j'en suis certaine. Il me traitera de sorcière et racontera d'autres mensonges... uniquement pour se venger de moi, bien sûr.~
@@ -235,12 +235,12 @@ Nous avons rencontré une jeune fille, apparemment fiancée à un voleur qui se 
 @217   = ~<CHARNAME> ! Ne sois pas aussi insensible... Regarde, elle est au bord de l'évanouissement !~
 @218   = ~Désolé, Amélia, mais je ne vous crois pas. Soit vous me dites la vérité, soit je ne vous aide pas.~ ~Désolée, Amélia, mais je ne vous crois pas. Soit vous me dites la vérité, soit je ne vous aide pas.~
 @219   = ~Attends... Attends, <CHARNAME>, c'est une...~
-@220   = ~Je sens... Je sens qu'Amélia m'appelle à venir la servir. Je crains que la prêtresse et Natan n'aient raison - Ces roses et cette... femme... sont maléfiques. Je... Je peux résister pour le moment, mais pas pour longtemps. Nous devons trouver Amélia, <CHARNAME>.~
+@220   = ~Je sens... Je sens qu'Amélia m'appelle à venir la servir. Je crains que la prêtresse et Natan n'aient raison - Ces roses et cette... femme... sont maléfiques. Je... je peux résister pour le moment, mais pas pour longtemps. Nous devons trouver Amélia, <CHARNAME>.~
 @221   = ~La Maîtresse appelle ! Je dois courir !~
 @222   = ~Belle dame, salut ! Que faites-vous en ce lieu désolé ?~
 @223   = ~*soupir* Pour l'instant, Coran, je te prierai de te contenter de courtiser des femmes réelles. Bonté divine ! Ai-je vraiment dit ça ?~
 @224   = ~Des ruines désolées ! Elles vont tous nous rendre fous ! Coran, viens, aucune femme vivante n'errera jamais dans cet endroit... Mais il y a de nombreux fantômes dans les ruines de Flammevin...~
-@225   = ~Je... Je ne vois personne. Et toi, Coran ?~
+@225   = ~Je... je ne vois personne. Et toi, Coran ?~
 @226   = ~Elle est réelle... ou surnaturelle... Je l'ai vue disparaître dans les brumes et l'ai entendue chanter. Elle semblait triste. Peut-être a-t-elle besoin d'aide. Cherchons-là - elle allait dans cette direction, vers l'est.~
 @227   = ~Coran, quand nous aurons besoin d'aller à l'est, j'en donnerai l'ordre. Maintenant, retourne dans le rang.~
 @228   = ~Hé béh, voilà ce que sont des yeux et des oreilles d'elfe chez toi ! A l'est, as-tu dit ! C'est parti !~
@@ -258,7 +258,7 @@ Se métamorphosèrent en monstres épineux.~
 @237   = ~Je t'entends, beauté... Qui es-tu ? Qu'es-tu ? Un esprit ?~
 @238   = ~Coran... Coran, je ne sais ce que je suis. Probablement un fantôme.~
 @239   = ~Tout ce que je sais est que je devais donner une réponse à l'homme auquel j'étais promise. Il est venu chercher fortune dans ces donjons... et n'est jamais revenu. J'avais juré de lui donner une rose rouge lors de mon seizième anniversaire si je rejetais son amour, et une blanche si je l'acceptais... et le serment m'a amenée ici. Je ne peux pas entrer là-dedans ; je ne peux pas le trouver... ne peux pas lui donner les fleurs.~
-@240   = ~J'erre aux alentours avec une corbeille de roses blanches - O, cruel destin !~
+@240   = ~J'erre aux alentours avec une corbeille de roses blanches - Ô, cruel destin !~
 @241   = ~Des roses rouges ou blanches ?~
 @242   = ~Rouges...~
 @243   = ~Je suis sûr que nous pouvons t'aider... Hum, quel est ton nom déjà ?~

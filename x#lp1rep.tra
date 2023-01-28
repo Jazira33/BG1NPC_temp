@@ -16,7 +16,7 @@
 @13 = ~A présent je suis certain de ne pas avoir besoin des marchandises que vous vendez. Bonne journée à vous.~ ~A présent je suis certaine de ne pas avoir besoin des marchandises que vous vendez. Bonne journée à vous.~
 @14 = ~Et je suis certain que c'est un musicien tout à fait talentueux. Néanmoins, je pourrais être à même de vous offrir quelque chose d'unique, et qui excède les compétences de mon estimé collègue. Ne m'écouterez-vous pas ?~
 @15 = ~Merci, mais non. Je crois que nous pouvons nous en sortir tous seuls.~
-@16 = ~Hé bien, je peux répandre le bruit de vos succès, peut-être en les éclairant d'un jour différent. Pour une faible somme, je peux chanter vos louanges à travers le pays de manière à vous faire paraître plus puissant, plus intimidant, peut-être plus redoutable.~ ~Hé bien, je peux répandre le bruit de vos succès, peut-être en les éclairant d'un jour différent. Pour une faible somme, je peux chanter vos louanges à travers le pays de manière à vous faire paraître plus puissante, plus intimidante, peut-être plus redoutable.~
+@16 = ~Eh bien, je peux répandre le bruit de vos succès, peut-être en les éclairant d'un jour différent. Pour une faible somme, je peux chanter vos louanges à travers le pays de manière à vous faire paraître plus puissant, plus intimidant, peut-être plus redoutable.~ ~Eh bien, je peux répandre le bruit de vos succès, peut-être en les éclairant d'un jour différent. Pour une faible somme, je peux chanter vos louanges à travers le pays de manière à vous faire paraître plus puissante, plus intimidante, peut-être plus redoutable.~
 
 //réaction de Safana
 @17 = ~Ecoute ce barde, <CHARNAME>. Je ne voudrais pas te forcer la main, mais tout le monde ne connaît pas la compagnie que tu conduis. Il pourrait certainement même y avoir quelques hommes sur Féérune qui n'auraient même pas entendu parler de ma beauté. Pour sûr, ces pauvres âmes perdues devraient au moins avoir l'opportunité d'entendre ce récit.~
@@ -43,7 +43,7 @@
 
 //Xzar
 @29 = ~Moman disait toujours que c'était payant d'avoir des amis bien placés.~
-@30 = ~Oh ! Si seulement moman pouvait me voir en ce moment ! Hé bien, je crois que je pourrais ajouter un chapitre sur moi-même dans le "Guide de campagne pour Ichor !"~
+@30 = ~Oh ! Si seulement moman pouvait me voir en ce moment ! Eh bien, je crois que je pourrais ajouter un chapitre sur moi-même dans le "Guide de campagne pour Ichor !"~
 @31 = ~Oh, bien ! Nous ne voudrions pas que les gens nous oublient, n'est-ce pas ?~
 
 
@@ -117,7 +117,7 @@
 //coran
 @66 = ~Ah, mais c'est un truc de tricheur. Sans l'aventure qui va avec, à quoi bon la gloire ?~
 @67 = ~La gloire est peut-être à vendre, mais elle est creuse sans le frisson de la victoire.~
-@68 = ~Hé bien, ces gars sont partout, non ? Malgré tout, <CHARNAME>, nous pouvons nous faire tous seuls un meilleur renom que ce qu'offre ce barde.~
+@68 = ~Eh bien, ces gars sont partout, non ? Malgré tout, <CHARNAME>, nous pouvons nous faire tous seuls un meilleur renom que ce qu'offre ce barde.~
 
 //Minsc
 @69 = ~De vrais héros comme Minsc et Bouh n'ont pas besoin des paroles de bardes chétifs pour chanter leurs louanges ! <CHARNAME>, ne lui prête pas attention. Bouh craint qu'il n'offre que des promesses creuses.~

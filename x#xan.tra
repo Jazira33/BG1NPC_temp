@@ -45,7 +45,7 @@
 @38   = ~Mes sombres prédictions ? Tu restes donc ignorant de la situation désespérée dans laquelle nous nous trouvons. Peut-être devrais-je te suggérer de mettre des oeillères ?~
         ~Mes sombres prédictions ? Tu restes donc ignorante de la situation désespérée dans laquelle nous nous trouvons. Peut-être devrais-je te suggérer de mettre des oeillères ?~
 @39   = ~C'est... c'est presque rassurant d'être reconnu, mon... mon frère.~
-        ~C'est... c'est presque rassurant d'être reconnu, ma... ma soeur.~
+        ~C'est... c'est presque rassurant d'être reconnu, ma... ma sœur.~
 @40   = ~La Lame de Lune choisit les héros dignes de la porter, Xan. Tu es une collection ambulante de lamentations, mais ton coeur doit être noble et pur. Je suis honoré de t'avoir comme compagnon.~
         ~La Lame de Lune choisit les héros dignes de la porter, Xan. Tu es une collection ambulante de lamentations, mais ton coeur doit être noble et pur. Je suis honorée de t'avoir comme compagnon.~
 @41   = ~J'ai une théorie, Xan. Les Lames de Lune sont enchantées pour tuer leur propriétaire dans les cas de lâcheté, de méchanceté, de brutalité et de malhonnêteté. Te connaissant, je n'ai aucun doute que la Lame t'ait choisi parce qu'elle a compris que tu n'auras pas le cran de faire quoi que ce soit qui puisse mettre ta vie en danger. Tu es donc un héros malgré toi, accomplissant des actes de bravoure et d'abnégation, tout en geignant de terreur.~
@@ -274,7 +274,7 @@
 @251  = ~La soif de s'engager dans de vaines entreprises mènera éventuellement à l'extinction de la race humaine. Hélas, ce sera trop tard pour empêcher la chute du Peuple Elfique.~
 @252  = ~Il te sera plus aisé d'avoir l'air un peu moins abruti si tu cesses de me jeter des coups d'oeil tout en lançant de telles déclarations, simien. (On dirait que même ton esprit inférieur au mien parvient à comprendre l'importance de ma quête, même si tu ne parviens pas à comprendre l'éminence de mes accomplissements.)~
 @253  = ~Les Thayens constituent une nation qui engendre les guerres, Edwin, et engendre ainsi la disparition des humains. Pourtant, vous prétendez que vous agissez pour la gloire de Thay, ce qui rend tout l'exercice futile. Vous ne faites rien de plus que de faire avancer, un peu plus, cette folie, puisque la seule tâche à laquelle vous vous êtes attelé, depuis que nous avons eu l'infortune de nous connaître, est de tuer un autre humain. Quant à l'éminence de cet accomplissement, un bandit de la Porte de Baldur en fait de même plus d'une fois dans sa vie, et ne s'en vante pas pour autant.~
-@254  = ~Grandes oreilles, mais petit esprit. C'est le "quand" et le "qui" qui importent. Si l'action elle-même avait une signification, alors même <CHARNAME> pourrait prétendre à l'éminence pour tous ces *xvarts* vaincus si courageusement.~
+@254  = ~Grandes oreilles, mais petit esprit. C'est le « quand » et le « qui » qui importent. Si l'action elle-même avait une signification, alors même <CHARNAME> pourrait prétendre à l'éminence pour tous ces *xvarts* vaincus si courageusement.~
 @255  = ~Le décès d'autres personnes est devenu notre seul espoir de voir le jour suivant, et vous ne permettez à <CHARNAME> de compter les cadavres. *soupir* J'en aurais presque envie que vous soyez parmi les ennemis de <CHARNAME>, Edwin. Après tout, <CHARNAME> a finalement quelque peu plus de chance sur le champ de bataille.~
 @256  = ~J'ai la ferme conviction que votre décès augmentera mes chances de survie, Eldoth. En tout cas, il soulagera au moins la douleur que je ressens lorsque je suis obligé de vous regarder.~
 @257  = ~Ah... J'imagine qu'après un voeu aussi chaleureux, je ne peux rien faire de plus que de vivre aussi longtemps et aussi agréablement que possible. Quoi qu'il en soit, cela a toujours été mon but.~
@@ -307,7 +307,7 @@
 @284  = ~Xan... Pas maintenant... Je vous en prie...~
 @285  = ~Non, je pense qu'il est temps d'ouvrir vos yeux. Regardez le cadavre de cette pauvre Skie, elle qui était si belle.~
 @286  = ~Alors Garrick... Est-ce que vous ressentez cette « gloire » ?~
-@287  = ~Je... J'aurais pu...~
+@287  = ~Je... j'aurais pu...~
 @288  = ~Quoi donc ? La protéger ? La sauver des griffes de la mort ? Vous n'arrivez même pas à regarder les morts, n'est-ce pas ? Vous préférez être aveugle et ignorant.~
 @289  = ~Alors, que ressent-on lorsque l'on perd un être cher ?~
 @290  = ~Comment pouvez-vous rester aussi impassible devant la mort, Xan ?~
@@ -411,7 +411,7 @@
 @388  = ~*pff* Darthiir, ton peuple est toujours à implorer le mien.~
 @389  = ~Les drows tissent des mensonges comme les araignées tissent leurs toiles. Ils se mentent même à eux-mêmes.~
 @390  = ~Mentir ? Waela rivvil, j'ai vu des elfes comme toi se traîner au sol, mordant la poussière sous les pieds de la Mère Matrone DeVir, l'implorant de mettre fin à leurs souffrances. Leur pâle peau fut arrachée, et leurs entrailles traînaient derrière eux alors qu'ils demandaient à mourir.~
-@391  = ~Je... Je ne me ferai pas soigner par vous, Viconia. Maintenant que j'y songe, cela ne me sert à rien d'être soigné. Avec une drow comme alliée, qui a besoin d'ennemis pour être assassiné ?~
+@391  = ~Je... je ne me ferai pas soigner par vous, Viconia. Maintenant que j'y songe, cela ne me sert à rien d'être soigné. Avec une drow comme alliée, qui a besoin d'ennemis pour être assassiné ?~
 @392  = ~*rit*~
 @393  = ~Heureusement que vous êtes fou, Zhent. Sinon, vous seriez capable de réaliser que votre folie est plus grande que celle des autres. Ils ne font qu'espérer tirer quelque chose de cette vie. Vous, en revanche, vous espérez tirer quelque chose de la Non-Vie, maintenant et après la mort.~
 @394  = ~Ah, nous avons tous besoin de nos rêves. A quoi bon vivre, autrement ?~
@@ -421,7 +421,7 @@
 @398  = ~Je peux vous aider sur ce point. Appelons Monty. Il a été extrêmement difficile pour lui de bien se comporter ces derniers temps.~
 @399  = ~Et lorsque votre assassin aura joué son rôle, vous aurez un corps tout frais avec lequel vous amuser ?~
 @400  = ~Eh bien, Monty travaille n'importe comment, mais j'aurai peut-être de quoi jeter un coup d'oeil furtif. Ce serait un défi formidable que de voir si je réussirais à garder ne serait-ce qu'un soupçon de capacités magiques.~
-@401  = ~Essayez un peu, et vous verrez tous deux beaucoup plus qu'un "soupçon" de mes sorts.~
+@401  = ~Essayez un peu, et vous verrez tous deux beaucoup plus qu'un « soupçon » de mes sorts.~
 @402  = ~*soupir* Je le savais ! Vous n'êtes qu'un allumeur. Partez donc, ô dragueur morbide.~
 @403  = ~Yeslick, toutes choses sont maudites, et c'est la seule vérité qui existe en ce monde. Notre échec est inévitable. Sans doute qu'un être sensé et sain d'esprit est capable de voir combien nos chances sont inexistantes et combien...~
 @404  = ~Est-ce qu'tu vas t'taire ! Ca fait des heures qu'tu nous casses les oreilles ! "Nous sommes tous perdus", pff ! Est-ce qu'tu vas rien faire d'plus que geigner toute la journée - encore - ou est-ce qu'tu vas prendre les choses en main ?~

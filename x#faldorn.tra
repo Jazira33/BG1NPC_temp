@@ -20,7 +20,7 @@
 @9     = ~Le jour suivant, ce voyageur revint et vola tous les objets de valeur de la maison, souilla le sol avec le sang de la famille et des serviteurs de son hôte et brûla ses enfants...~
 @10    = ~L'hôte demanda au voyageur pourquoi il lui faisait tout cela... et le voyageur répondit : "je ne fais que prendre ce qui m'appartient".~
 @11    = ~Quelle infamie ! Cet homme devrait être puni !~
-@12    = ~c'est ce que font les Druides de l'Ombre, Ajantis - punir ceux qui, au lieu de se satisfaire des dons, préfèrent piller le donneur.~
+@12    = ~C'est ce que font les Druides de l'Ombre, Ajantis, punir ceux qui, au lieu de se satisfaire des dons, préfèrent piller le donneur.~
 
 // Faldorn - Ajantis
 
@@ -67,7 +67,7 @@
 
 // Faldorn - Branwen
 
-@44    = ~Se retrouver pétrifiée - comme cela doit être étrange et merveilleux ! Passer d'élément mouvant de la nature à élément immobile, mais autour duquel tout le mouvement a lieu.~
+@44    = ~Se retrouver pétrifiée, comme cela doit être étrange et merveilleux ! Passer d'élément mouvant de la nature à élément immobile, mais autour duquel tout le mouvement a lieu.~
 @45    = ~Merveilleux ? On croirait mourir lentement et pour l'éternité ! C'est pire qu'être mort-vivant !~
 @46    = ~Grrr ! Comment oses-tu comparer ! Devenir mort-vivant est une abomination, c'est le fait de créatures faibles et corrompues qui tentent de tricher avec la Grande Mère et de perturber l'équilibre.~
 @47    = ~Quand tu as été pétrifiée, tu faisais partie de la Grande Mère elle-même. Comment peux-tu trouver cela répugnant, Branwen ?~
@@ -438,7 +438,7 @@ Où trouver l'autre moitié...~
 // Faldorn - Shar-teel
 
 @306   = ~L'Equilibre doit être restauré à tout prix.~
-@307   = ~Tu as l'air de vouloir cet "équilibre" à tout prix, druidesse. Je ne comprends pas. Pourquoi gaspiller tes efforts pour un objectif si inutile ?~
+@307   = ~Tu as l'air de vouloir cet « équilibre » à tout prix, druidesse. Je ne comprends pas. Pourquoi gaspiller tes efforts pour un objectif si inutile ?~
 @308   = ~L'harmonie ultime, Shar-Teel. Un monde où les terres sauvages ne seraient pas la proie des civilisations, un monde où chaque bête mènerait une vie pleine et entière, un monde guidé par la main de la Grande Mère.~
 @309   = ~*étouffe un bâillement* Tu as cet esprit guerrier en toi, Faldorn, mais tu me plairais beaucoup plus si tu ne gobais pas tout ce galimatias au sujet des idéaux et de l'« équilibre ». Ne peux-tu donc pas tuer tes ennemis et te satisfaire du sang versé ?~
 @310   = ~Ce *galimatias*, Shar-Teel, est la raison même pour laquelle je me bats ! Il passe avant tout le reste. Avant ces vertus dont les gens civilisés se vantent tant : miséricorde, pitié, honneur et autres. Avant la richesse et le savoir. Avant ma propre vie.~
@@ -555,7 +555,7 @@ Où trouver l'autre moitié...~
 @387   = ~Beaucoup pensent que quand le grand druide Kador le Brûleur en a eu assez de sa mission, il est simplement retourné à la Grande Mère et a laissé à son héritier la tâche de retrouver son cimeterre magique. Peut-être que c'est ce que tu devrais faire, toi aussi.~
 @388   = ~Cela arrivera bien assez tôt, Faldorn. Je serai vaincu par l'un de ces monstres auquel nous faisons face, et la lame de Lune entrera en sommeil. Elle sera alors perdue par les elfes, hélas, à moins qu'un nouveau champion n'apparaisse pour la porter. Qui sait, c'est peut-être le mieux à faire.~
 @389   = ~C'est exactement ce qui se passera pour le cimeterre de Kador - le rayon d'émeraude. Je le trouverai, et je serai la nouvelle championne de l'équilibre !~
-@390   = ~*soupire* Attention aux voeux que vous formez, Faldorn, car vos désirs pourraient devenir réalité.~
+@390   = ~*soupire* Attention aux vœux que vous formez, Faldorn, car vos désirs pourraient devenir réalité.~
 
 // Faldorn - Xzar
 

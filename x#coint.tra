@@ -6,8 +6,8 @@
 
 // Rieltar
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 112, probablement inutile de traduire ici !
-@2 = ~Un voleur n'impose pas ses règles à un autre voleur... qu'il soit ou non gentilhomme. Nous ferons ce qui nous plaira, et si ça ne vous plaît pas - hé bien, c'est le moment ou jamais de vous livrer à une nouvelle tentative de meurtre sur <CHARNAME>. Tous les assaillants qui vous ont précédé sont tombés devant lui.~
-     ~Un voleur n'impose pas ses règles à un autre voleur... qu'il soit ou non gentilhomme. Nous ferons ce qui nous plaira, et si ça ne vous plaît pas - hé bien, c'est le moment ou jamais de vous livrer à une nouvelle tentative de meurtre sur <CHARNAME>. Tous les assaillants qui vous ont précédé sont tombés devant elle.~
+@2 = ~Un voleur n'impose pas ses règles à un autre voleur... qu'il soit ou non gentilhomme. Nous ferons ce qui nous plaira, et si ça ne vous plaît pas, eh bien, c'est le moment ou jamais de vous livrer à une nouvelle tentative de meurtre sur <CHARNAME>. Tous les assaillants qui vous ont précédé sont tombés devant lui.~
+     ~Un voleur n'impose pas ses règles à un autre voleur... qu'il soit ou non gentilhomme. Nous ferons ce qui nous plaira, et si ça ne vous plaît pas, eh bien, c'est le moment ou jamais de vous livrer à une nouvelle tentative de meurtre sur <CHARNAME>. Tous les assaillants qui vous ont précédé sont tombés devant elle.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 113, probablement inutile de traduire ici !
 @3 = ~Ce serait vraiment une triste journée, si je prenais au sérieux les menaces d'un quelconque voleur aux oreilles pointues.~
 
@@ -72,7 +72,7 @@
 @23 = ~*hausse un sourcil* Je n'étais pas conscient que maintenant on appelait cela de l'*entropie*, à la Porte de Baldur... J'ai été absent trop longtemps, peut-être.~
 
 //Faber (fabre : esclave de bois manteau, dénonciateur)
-@24 = ~Un rapporteur ! Il me rappelle ma soeur Améniela... Maman ! Coran s'est échappé par la fenêtre et il a passé toute la nuit à chasser ! Papa ! Coran a embrassé la fille d'Enivien Maervik... Plutôt gênant. Nous allons devoir surveiller nos arrières à présent.~
+@24 = ~Un rapporteur ! Il me rappelle ma sœur Améniela... Maman ! Coran s'est échappé par la fenêtre et il a passé toute la nuit à chasser ! Papa ! Coran a embrassé la fille d'Enivien Maervik... Plutôt gênant. Nous allons devoir surveiller nos arrières à présent.~
 @25 = ~Gaaardes !~
 
 
@@ -87,9 +87,9 @@
 @29 = ~Oui, sire. Sans vouloir vous offenser, ou quoi que ce soit, mais votre maison n'a pas grand chose...~
 
 //Forthel (et Viconia sur la fin) (barde bavard près du temple de gond)
-@30 = ~Vous avez besoin de matière pour une ballade ? Vous avez demandé à la bonne personne ! Regardez cet héroïque seigneur à l'allure noble ! Chaque journée avec lui peut être transformée en chanson, et une semaine - en une épopée !~ ~Vous avez besoin de matière pour une ballade ? Vous avez demandé à la bonne personne ! Regardez cette héroïque dame à l'allure noble ! Chaque journée avec elle peut être transformée en chanson, et une semaine - en une épopée !~
-@31 = ~*doucement* Et chaque nuit - en une chanson...~
-@32 = ~Hé bien, donnez-moi au moins un exemple...~
+@30 = ~Vous avez besoin de matière pour une ballade ? Vous avez demandé à la bonne personne ! Regardez cet héroïque seigneur à l'allure noble ! Chaque journée avec lui peut être transformée en chanson, et une semaine... en une épopée !~ ~Vous avez besoin de matière pour une ballade ? Vous avez demandé à la bonne personne ! Regardez cette héroïque dame à l'allure noble ! Chaque journée avec elle peut être transformée en chanson, et une semaine... en une épopée !~
+@31 = ~*doucement* Et chaque nuit... en une chanson...~
+@32 = ~Eh bien, donnez-moi au moins un exemple...~
 @33 = ~Avec joie. Il y a quelque jours à peine, nous avons travaillé à stopper la pénurie de fer et avons chassé les bandits des entrailles de Toril... Ou du moins était-ce aussi près de ses entrailles que j'en ai jamais eu l'intention.~
 @34 = ~Êtes-vous en train de me dire que vous avez été en Ombreterre ?~
 @35 = ~Euh... à peu près. Là nous fûmes assaillis par de vicieux...~
@@ -296,7 +296,7 @@
 @135 = ~Il est parti, idiot.~
 @136 = ~Oh, Coran, Coran... T'a-t-il blessé, mon coeur ?~
 @137 = ~Pauvre de moi, et moi qui te croyais trop avisé pour chercher la bagarre avec des types plus grands que toi...~
-@138 = ~Hé bien... Euh... Lâche !~
+@138 = ~Eh bien... Euh... Lâche !~
 @139 = ~*tâte sa joue* Pas tant que ça, mais tu vas devoir faire attention en m'embrassant. Ce bâtard m'a ouvert la lèvre. Je me demande comment il a réussi à me frapper si vite ?~
 @140 = ~Euh.. il était... impétueux avec ses chansons douces et ses regards faciles. Il te *reluquait* !~
 @141 = ~*commence à rire* Il n'est pas le seul à faire de telles choses, Coran... Je connais un elfe du Téthyr...~
@@ -306,7 +306,7 @@
 @145 = ~En effet ! *tâte sa joue* Je me demande comment il a réussi à me frapper si vite ?~
 
 //entrée à la tour de durlag
-@146 = ~Cet endroit sera l'endroit idéal pour tester mes aptitudes ! Des pièges de nains face à l'agilité de mains elfiques ! Si je perds, je meurs, si je gagne - des trésors m'attendent ! Quelle excitation !~
+@146 = ~Cet endroit sera l'endroit idéal pour tester mes aptitudes ! Des pièges de nains face à l'agilité de mains elfiques ! Si je perds, je meurs, si je gagne, des trésors m'attendent ! Quelle excitation !~
 
 //en voyant le squelette de dragon (tosc)
 @147 = ~C'est énorme... Regardez ça ! Je n'ai jamais vu de dragon de cette taille. Je parie que c'est un de ces anciens... Je suppose qu'il est mort de vieillesse. Je me demande combien il donneraient pour son scalp à la Maison des Merveilles ?~
@@ -320,7 +320,7 @@
 
 //coran brilla2
 @153 = ~*Doucement* Laisse-moi régler ça, <CHARNAME>...~
-@154 = ~O, Dulcinée, la rumeur selon laquelle Dame Brilla Ecudargent est la plus belle dame de la Porte de Baldur a atteint mes oreilles, et je suis venu...~
+@154 = ~Ô, Dulcinée, la rumeur selon laquelle Dame Brilla Ecudargent est la plus belle dame de la Porte de Baldur a atteint mes oreilles, et je suis venu...~
 @155 = ~Qu'est-ce qui court partout en ville ? Oh...~
 @156 = ~Les rumeurs mentent, m'dame...~
 @157 = ~Qu-quoi ?!~

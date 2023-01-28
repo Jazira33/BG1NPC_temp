@@ -317,8 +317,8 @@
 @111  = ~Je ne doute pas que vous soyez suffisamment grossière pour mettre vos menaces à éxécution, mais je vous assure que j'ai pris toutes les dispositions nécessaires pour me protéger de brutes telles que vous.~
 // Coran - Rieltar
 // BG1 NPC : texte identique dans le fichier x#coint.tra au numéro 2
-@112  = ~Un voleur n'impose pas ses règles à un autre voleur... qu'il soit ou non gentilhomme. Nous ferons ce qui nous plaira, et si ça ne vous plaît pas - hé bien, c'est le moment ou jamais de vous livrer à une nouvelle tentative de meurtre sur <CHARNAME>. Tous les assaillants qui vous ont précédé sont tombés devant lui.~
-        ~Un voleur n'impose pas ses règles à un autre voleur... qu'il soit ou non gentilhomme. Nous ferons ce qui nous plaira, et si ça ne vous plaît pas - hé bien, c'est le moment ou jamais de vous livrer à une nouvelle tentative de meurtre sur <CHARNAME>. Tous les assaillants qui vous ont précédé sont tombés devant elle.~
+@112  = ~Un voleur n'impose pas ses règles à un autre voleur... qu'il soit ou non gentilhomme. Nous ferons ce qui nous plaira, et si ça ne vous plaît pas, eh bien, c'est le moment ou jamais de vous livrer à une nouvelle tentative de meurtre sur <CHARNAME>. Tous les assaillants qui vous ont précédé sont tombés devant lui.~
+        ~Un voleur n'impose pas ses règles à un autre voleur... qu'il soit ou non gentilhomme. Nous ferons ce qui nous plaira, et si ça ne vous plaît pas, eh bien, c'est le moment ou jamais de vous livrer à une nouvelle tentative de meurtre sur <CHARNAME>. Tous les assaillants qui vous ont précédé sont tombés devant elle.~
 // BG1 NPC : texte identique dans le fichier x#coint.tra au numéro 3
 @113  = ~Ce serait vraiment une triste journée, si je prenais au sérieux les menaces d'un quelconque voleur aux oreilles pointues.~
 /* Nemphré (nécro opposée à Arkion), lorsqu'elle traite le PJ d'andouille et l'éconduit lorsqu'il ramène l'amulette */
@@ -380,7 +380,7 @@
 @133   = ~Une grâce qui ne provient que de la magie ; car je ne connais pas de créature dans toute la nature qui soit plus belle qu'un drow. Je n'ai pas de scrupules à vous débarrasser de ces créatures, bien que je ne vois pas pourquoi nous devrions faire cet effort. Cependant je suppose que, comme d'habitude, nos actions ne dépendent pas de ma seule décision...~
 // Edwin
 // BG1 NPC : texte identique dans le fichier x#edint.tra au numéro 18
-@134  = ~<CHARNAME>, cela me briserait sûrement le coeur de tuer ces créatures belles et innocentes... (Cela devrait suffire à l'en dissuader ; tous les héros de pacotille se laissent toujours berner par ce genre de plaintes sentimentales... et aider des concubines exotiques est une affaire profitable. Tout ce dont j'ai besoin maintenant, c'est d'un navire et de quelques filets robustes.)~
+@134  = ~<CHARNAME>, cela me briserait sûrement le cœur de tuer ces créatures belles et innocentes... (Cela devrait suffire à l'en dissuader ; tous les héros de pacotille se laissent toujours berner par ce genre de plaintes sentimentales... et aider des concubines exotiques est une affaire profitable. Tout ce dont j'ai besoin maintenant, c'est d'un navire et de quelques filets robustes.)~
 // Faldorn
 // BG1 NPC : texte identique dans le fichier x#faint.tra au numéro 94
 @135  = ~Si tu partageais la plage avec elles comme le ferait n'importe quelle bête normale, et si tu n'essayais pas de prendre plus que ta part des ressources naturelles de la mer avec tes filets pour les vendre dans cette ville pourrie, on ne t'aurait pas poursuivi !~
@@ -715,7 +715,7 @@ L'aventurier se réjouit.~
 /* Fermier Brun, quand il accepte l'argent qu'on lui donne */
 // Dynahéir
 // BG1 NPC : texte identique dans le fichier x#dyint.tra au numéro 9
-@254  = ~Ô <CHARNAME>, Tu es noble de coeur !~
+@254  = ~Ô <CHARNAME>, Tu es noble de cœur !~
 // Kivan
 // BG1 NPC : texte identique dans le fichier x#kiint.tra au numéro 19
 @255  = ~<CHARNAME>, non seulement vous avez offert une aide bien nécessaire, mais vous l'avez offerte de telle manière que la fierté de cet homme n'a pas été offensée de l'accepter. Voilà une leçon pour nous tous.~
@@ -919,7 +919,7 @@ L'aventurier se réjouit.~
 // BG1 NPC : texte proche dans le fichier x#jaint.tra au numéro 106
 @326  = ~Ah oui. Nous avons accompli tout ce périple jusqu'à la Porte de Baldur de manière à voler un... un téle-quoi-déjà pour ce petit homme ridicule. Ou me tromperais-je, <CHARNAME> ?~
 // BG1 NPC : texte identique dans le fichier x#jaint.tra au numéro 107, probablement inutile de traduire ici !
-@327 = ~"Télescope", madame... c'est un mot tellement compliqué... si vous voyez ce que je veux dire... je suis désolé, si je vous ai blessée...~
+@327 = ~« Télescope », madame... c'est un mot tellement compliqué... si vous voyez ce que je veux dire... je suis désolé, si je vous ai blessée...~
 // Dynahéir
 // BG1 NPC : texte identique dans le fichier x#dyint.tra au numéro 42
 @328  = ~Je peux comprendre que ce gnome veuille des objets magiques, mais je n'admets point la manière dont il veut les obtenir. <CHARNAME>, Tu ne penses pas vraiment participer à ce... cambriolage ?~
@@ -1456,7 +1456,7 @@ L'aventurier se réjouit.~
 // BG1 NPC : texte identique dans le fichier x#khint.tra au numéro 1
 @515  = ~Reprends-toi, Khalid ! C'est révoltant, oui, mais tu n'es pas seul ici, et tu n'es pas faible. Je sais que tu ne me failliras pas !~
 // BG1 NPC : texte identique dans le fichier x#khint.tra au numéro 2
-@516  = ~Je... J'avais b-besoin de ça, mon amour... et tu as raison.~
+@516  = ~Je... j'avais b-besoin de ça, mon amour... et tu as raison.~
 // Khalid - Ogre
 // BG1 NPC : texte identique dans le fichier x#khint.tra au numéro 3
 @517  = ~Mettons un t-terme à la vie de cet horrible m-monstre ! Il d-doit être arrêté !~
@@ -1785,7 +1785,7 @@ L'aventurier se réjouit.~
 @634  = ~Devrais-je pleurer maintenant ? (Tant de souffrance, tant de gêne...)~
 // Faldorn - Drizzt - Faldorn - Drizzt
 // BG1 NPC : texte proche dans le fichier x#faint.tra au numéro 96
-@635  = ~Grrr ! Les cimeterres de cet elfe noir sont beaux et tranchants, mais c'est le cimeterre « Rayon d'Emeraude » que je veux. Voilà la véritable arme du druide. T'ai-je raconté qu'il avait été forgé à partir de la faucille de Kador le Brûleur ? Kador était un célèbre Druide de l'Ombre... si seulement j'étais en sa possession !~
+@635  = ~Grrr ! Les cimeterres de cet elfe noir sont beaux et tranchants, mais c'est le cimeterre « Rayon d'Émeraude » que je veux. Voilà la véritable arme du druide. T'ai-je raconté qu'il avait été forgé à partir de la faucille de Kador le Brûleur ? Kador était un célèbre Druide de l'Ombre... si seulement j'étais en sa possession !~
 // BG1 NPC : texte identique dans le fichier x#faint.tra au numéro 97
 @636  = ~Druidesse, je me battrais à mains nues si c'était pour la bonne cause.~
 // BG1 NPC : texte identique dans le fichier x#faint.tra au numéro 98
@@ -2081,7 +2081,7 @@ L'aventurier se réjouit.~
 /* Veuve de Joseph */
 // Kivan - Veuve
 // BG1 NPC : texte identique dans le fichier x#kiint.tra au numéro 13
-@742  = ~Mes condoléances, bonne dame. Je... Je sais combien cela fait mal de perdre la personne qu'on aime. Je voudrais pouvoir vous offrir plus que des mots.~
+@742  = ~Mes condoléances, bonne dame. Je... je sais combien cela fait mal de perdre la personne qu'on aime. Je voudrais pouvoir vous offrir plus que des mots.~
 // BG1 NPC : texte identique dans le fichier x#kiint.tra au numéro 14
 @743  = ~*sanglots*~
 // Xan - Veuve
@@ -2487,7 +2487,7 @@ L'aventurier se réjouit.~
 // BG1 NPC : texte identique dans le fichier x#xzint.tra au numéro 133
 @883  = ~Oyez ! Oyez ! Voici l'homme qui va le remettre à sa place !~
 // BG1 NPC : texte identique dans le fichier x#xzint.tra au numéro 134
-@884  = ~Hé bien... verticalement, peut-être, mais oui. Il semble n'avoir aucun respect pour son oeuvre.~
+@884  = ~Eh bien... verticalement, peut-être, mais oui. Il semble n'avoir aucun respect pour son oeuvre.~
 // BG1 NPC : texte identique dans le fichier x#xzint.tra au numéro 135
 @885  = ~Hé, pour moi 5,000 pièces d'or feraient une motivation suffisante pour lui régler son compte, si j'étais aventurier ! Euh, désolé, au travail !~
 // Crieur (après Shar-Teel en @879)

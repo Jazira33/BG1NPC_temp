@@ -29,7 +29,7 @@ Visita une sorcière toute ridée
 "Si je succombe à l'amour, ah !
 Ma cervelle va s'envoler
 Je vous en prie, dites-moi que c'est faux !"~
-@27   = ~Et la Sorcière répondit (et c'est ici qu'on chante tous en coeur !)~
+@27   = ~Et la Sorcière répondit (et c'est ici qu'on chante tous en cœur !)~
 @28   = ~"Oh, si, si c'est vrai,
 N'en doute jamais,
 Les filles aimantes sont connues
@@ -43,7 +43,7 @@ Quand on s'écrase comme une génisse.~
 @32   = ~Je ne ferai plus allusion à ce sujet, alors, m'dame, jusqu'à ce que vous soyez à nouveau dans des conditions propices à distinguer vos besoins de vos désirs.~
 @33   = ~*renifle l'air* Une odeur d'homme émane de toi, <CHARNAME>.~
 @34   = ~*rougit et murmure* Faldorn, pas besoin d'en faire... une chose connue de tous.~
-@35   = ~*renifle l'air, en imitant Faldorn* Oui, et une odeur de fumée de bois, et de sueur et de sang, et de cet immonde élixir que tu m'as fait ingurgiter pour me "soigner".~
+@35   = ~*renifle l'air, en imitant Faldorn* Oui, et une odeur de fumée de bois, et de sueur et de sang, et de cet immonde élixir que tu m'as fait ingurgiter pour me « soigner ».~
 @36   = ~Et alors ?~
 @37   = ~*en colère* Ferme ta grande bouche, barbare !~
 @38   = ~*avec félicité* On ne peut cacher une rivière dans sa poche.~
@@ -108,7 +108,7 @@ Quand on s'écrase comme une génisse.~
 @97   = ~Bouh ? Bouh, qu'est-ce que tu fais ? Ce n'est pas un derrière maléfique que tu mords, c'est le mien !~
 @98   = ~Si c'est le cas, c'était la douleur la plus douce du monde.~
 @99   = ~Qu'est-ce qui se passe ici ? Je vous ai laissés, les enfants, seuls pendant une minute et... Coran, je t'ai spécifiquement dit de mettre ta couche à l'autre bout du camp par rapport à <CHARNAME>.~
-@100  = ~Ch-Chérie, peut-être n'est-ce pas notre... notre rôle d'interférer. Je... Je viens juste de t-trouver une libellule particulièrement intéressante. Allons-nous... en et allons y jeter un coup d'oeil.~
+@100  = ~Ch-Chérie, peut-être n'est-ce pas notre... notre rôle d'interférer. Je... je viens juste de t-trouver une libellule particulièrement intéressante. Allons-nous... en et allons y jeter un coup d'oeil.~
 @101  = ~Ne vous inquiètez pas, Minsc. Ils ne peuvent se faire du mal, et ils ne seront pas pris par surprise par nos ennemis.~
 @102  = ~Par la hache de Tempus ! Vous pourriez faire moins de bruit, tous les deux. Minsc n'est pas le seul qui ne puisse trouver le sommeil avant le tout dernier "Oh, <CHARNAME>".~
 @103  = ~*glousse* Bien dit, Minsc ! Et je te promets, Coran, que si tu fais mal à ma copine, je l'dirai à Minsc !~
@@ -236,7 +236,7 @@ Quand on s'écrase comme une génisse.~
 @225  = ~A présent, à Tempus et à la victoire !~
 @226  = ~Coran, je me sens obligée de Te dire qu'il est peu sage de Ta part de courtiser <CHARNAME>. Pas que j'ai beaucoup d'espoir que Tu tiendras compte de mes mises en garde, cependant...~
 @227  = ~*moqueur* En effe-e-e-et...~
-@228  = ~*soupire* Pourtant, je devine que Tu es du genre dont le coeur change avec aisance... et il se pourrait justement que, dans le cas qui nous occupe, un tel changement soit bienvenu.~
+@228  = ~*soupire* Pourtant, je devine que Tu es du genre dont le cœur change avec aisance... et il se pourrait justement que, dans le cas qui nous occupe, un tel changement soit bienvenu.~
 @229  = ~Es-tu jalouse, ma magnifique sorcière ?~
 @230  = ~Quoi, bien sûr, je suis jalouse. Comment une femme digne de ce nom pourrait-elle Te regarder et ne pas rêver de T'avoir dans son lit ? *renifle de dégoût* Fais ce que Tu veux, mais écoute-moi au moins en ceci : ne fais pas d'enfant à <CHARNAME>.~
 @231  = ~Comme c'est... gentil de ta part de penser à une telle chose. *grommelle* Maintenant je crois que je comprends pourquoi Minsc est si heureux de parler à un hamster.~

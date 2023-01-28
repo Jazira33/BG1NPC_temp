@@ -2,7 +2,7 @@
 @0     = ~Mais, Gardien ! Gorion et <CHARNAME> ont été attaqués juste à l'extérieur de la citadelle, près de la Voie Côtière. Gorion... il... il est mort. <CHARNAME> a tout juste réussi à s'enfuir. J'ai tout vu !~
 @1     = ~Vous ne croyez pas que vous pourriez faire une exception ? Vous connaissez <CHARNAME> depuis des années !~
 // Isaya : "très grand Ulraunt" repris de @255 dans le fichier de BG
-@2     = ~Je... Je suis attristé d'apprendre la mort de Gorion, <CHARNAME>. Votre père était un homme bon et mon ami. Je vais informer le très grand Ulraunt et Téthtoril de sa disparition. Ce sont de graves nouvelles en effet. Néanmoins j'espère vraiment que vous comprenez que je ne peux tout simplement pas vous permettre d'entrer, <CHARNAME>. J'ai les mains liées sur ce point.~
+@2     = ~Je... je suis attristé d'apprendre la mort de Gorion, <CHARNAME>. Votre père était un homme bon et mon ami. Je vais informer le très grand Ulraunt et Téthtoril de sa disparition. Ce sont de graves nouvelles en effet. Néanmoins j'espère vraiment que vous comprenez que je ne peux tout simplement pas vous permettre d'entrer, <CHARNAME>. J'ai les mains liées sur ce point.~
 @3     = ~Votre aide me serait précieuse. Je n'ai pas de foyer ni de tuteur, et je dois me rendre à l'auberge de Brasamical.~
 @4     = ~Je n'arrive pas à croire que vous ne me laissiez pas revenir. Au moins, laissez entrer Imoen... Je ne veux pas qu'elle me suive.~
 @5     = ~Vous n'avez pas le droit de me barrer le chemin.~
@@ -234,9 +234,9 @@
 @111   = ~Bon, je pense que non. Mais ça me paraît un peu beaucoup. Je veux dire, les humains détestent les orques et tout ça, mais pas au point où vous semblez haïr les kobolds.~
 @112   = ~Cela remonte à longtemps, Imoen. Je ne pense pas être la petite-personne à qui tu devrais demander ça. Je suis désolée.~
 /* Kirien, si PJ féminin */
-@113   = ~T'es en train de verser de l'huile sur le feu, soeurette. <CHARNAME> a le tempérament d'un chat sauvage !~
+@113   = ~T'es en train de verser de l'huile sur le feu, sœurette. <CHARNAME> a le tempérament d'un chat sauvage !~
 /* Kirien, si PJ masculin */
-@114   = ~T'es en train de verser de l'huile sur le feu, soeurette. <CHARNAME> a le tempérament d'un taureau sauvage.~
+@114   = ~T'es en train de verser de l'huile sur le feu, sœurette. <CHARNAME> a le tempérament d'un taureau sauvage.~
 /* Kirien, qui a traité le groupe de péquenauds */
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 754, probablement inutile de traduire ici !
 @115   = ~Hé, une minute ! Comme si vous paraissiez bien différents !~
@@ -622,7 +622,7 @@
 // Après @295
 @309   = ~Peut-être quand tu repousses des bêtes ou tout ça, mais pas quand il s'agit de femmes.~
 // Après @296
-@310   = ~*jette un coup d'oeil autour, innocemment* Hein ? Je ne vois pas d'autre fille assez près... attends, tu ne parles pas de moi, n'est-ce pas ?!~
+@310   = ~*jette un coup d'œil autour, innocemment* Hein ? Je ne vois pas d'autre fille assez près... attends, tu ne parles pas de moi, n'est-ce pas ?!~
 // Réponses à @310
 @311   = ~Héhé, je tirais juste sur ta chaîne !~
 @312   = ~Alors, tu ne vois personne d'autre ? Moi non plus...~

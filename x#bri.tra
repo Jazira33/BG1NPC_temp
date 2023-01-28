@@ -8,7 +8,7 @@
 @7 = ~Bien sûr, Coran, que se passe-t-il ?~
 @8 = ~Oui, mais pas maintenant.~
 @9 = ~Coran... franchement, je n'ai pas envie de te parler, après ce que tu as fait...~
-@10 = ~Je... J'aimerais beaucoup repartir et parler à nouveau à Briel. Cette fille peut avoir besoin d'aide, et j'ai le sentiment de lui avoir causé du tort... Pourrions-nous lui rendre visite ?~
+@10 = ~Je... j'aimerais beaucoup repartir et parler à nouveau à Briel. Cette fille peut avoir besoin d'aide, et j'ai le sentiment de lui avoir causé du tort... Pourrions-nous lui rendre visite ?~
 @11 = ~Coran, je me réjouis que tu te sois décidé à en parler. Tout cela me rendait mal à l'aise. Nous devrions rendre visite à Briel dès que nous le pourrons.~
 @12 = ~Coran, tu plaisantes ? Cette fille te fait chanter ! Ce que je veux dire, c'est que tu n'as jamais voulu d'un enfant, pas vrai ? Pourquoi as-tu besoin de perdre ton temps ? Elle la voulait, elle peut donc s'occuper de la petite toute seule !~
 @13 = ~Eh bien, j'ai bien peur que dans ce cas nous ne devions nous séparer.~
@@ -26,8 +26,8 @@
 @25 = ~Briel ne nous attendra pas éternellement ! Il est évident que tu as des choses plus importantes à faire que de t'occuper du destin de ma fille. Moi non. Nous nous reverrons dans environ 20 ans...~ [CORAN99]
 @26 = ~Merci, <CHARNAME>. Je ne suis pas un lâche, mais lorsque la vie d'un bébé est en jeu... Je vais me dépêcher de la retrouver.~
 @27 = ~Hum... <CHARNAME>. Ça ne peut pas être aussi mauvais, si ?~
-@28 = ~Je... Je suis heureux que tu voies ça de cette manière. C'est un enfant bâtard après tout.~
-@29 = ~Je... Je... Briel... Je ne sais pas.~
+@28 = ~Je... je suis heureux que tu voies ça de cette manière. C'est un enfant bâtard après tout.~
+@29 = ~Je... je... Briel... Je ne sais pas.~
 @30 = ~*soupire* Je suis désolé, beauté, mais il n'y a vraiment rien que je puisse faire pour toi ou ton enfant.~
       ~*soupire* Je suis désolée, beauté, mais il n'y a vraiment rien que je puisse faire pour toi ou ton enfant.~
 @31 = ~Coran ?~
@@ -37,7 +37,7 @@
 @35 = ~Génial, juste génial. C'est *juste* ce dont on a besoin.~
 @36 = ~Tu as bien fait, mon amour.~
 @37 = ~Cela ne me convient pas du tout. Brielbara, Coran est mon épée lige, et étant son seigneur, j'accepte la responsabilité de ses fautes passées. Comme il ne semble pas vouloir se marier avec vous, et que je ne souhaite pas l'y forcer, je voudrais vous payer 10,000 pièces d'or afin de compenser le fait qu'il vous ait déshonorée. Je crois que cela est assez pour vous permettre de vivre confortablement jusqu'à ce que vous ayez arrangé vos affaires.~ ~Cela ne me convient pas du tout. Brielbara, Coran est mon épée lige, et étant sa dame, j'accepte la responsabilité de ses fautes passées. Comme il ne semble pas vouloir se marier avec vous, et que je ne souhaite pas l'y forcer, je voudrais vous payer 10,000 pièces d'or afin de compenser le fait qu'il vous ait déshonorée. Je crois que cela est assez pour vous permettre de vivre confortablement jusqu'à ce que vous ayez arrangé vos affaires.~
-@38 = ~Je... Je suis... C'est très généreux, sire...~ ~Je... Je suis... C'est très généreux, ma dame...~
+@38 = ~Je... je suis... C'est très généreux, sire...~ ~Je... je suis... C'est très généreux, ma dame...~
 @39 = ~Coran, Je souhaite... Je souhaite que cela eût été différent, mais je ne peux pas te forcer à m'aimer, pas sans ma magie. *sourit faiblement* Et qui voudrait d'un amour créé par magie ?~
 @40 = ~Coran ? Veux-tu quand même voir Namara ? Elle a tes yeux... des yeux d'elfe.~
 @41 = ~Je maudis le jour où j'ai posé mes yeux sur toi, Coran.~

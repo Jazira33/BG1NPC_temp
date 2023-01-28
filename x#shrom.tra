@@ -4,7 +4,7 @@
 @2    = ~Oh, arrête un peu de jouer à ces jeux stupides. Draguer un homme et feindre de lui résister, ça ne te ressemble pas, ça !~
 @3    = ~Je sais ce que tu me veux, jeune fille. N'essaie pas de le nier !~
 @4    = ~Oh, non... ça n'est pas ce que tu crois, Shar-Teel. Je voulais juste te parler.~
-@5    = ~Pas fait exprès ? Eh bien alors, retire ta couche de là, crétin, et assure-toi que cet "accident" ne se reproduise plus jamais. Et arrête de me faire ces yeux avant que je te les arrache !~
+@5    = ~Pas fait exprès ? Eh bien alors, retire ta couche de là, crétin, et assure-toi que cet « accident » ne se reproduise plus jamais. Et arrête de me faire ces yeux avant que je te les arrache !~
 @6    = ~Tu crois que je joue à des « jeux » avec toi ? Non mais pour qui tu me prends ?~
 @7    = ~Je suis on ne peut plus sérieuse, espèce de porc !~
 @8    = ~*rictus* Juste me parler ? Ah !~
@@ -173,7 +173,7 @@
 @161  = ~Et c'est cette femme que tu apprécies autant ?~
 @162  = ~Ferme-là, je suis en train de parler de la meilleure mercenaire de la Porte de Baldur !~
 @163  = ~Tu vaux que dalle comparé à elle !~
-@164  = ~Je disais donc qu'elle m'a plaquée contre le mur. Elle m'a dit : "Les petites morveuses dans ton genre doivent laisser passer leurs supérieures. Si tu t'enfuis rapidement, peut-être que je ne te briserai pas le bras pour ton impudence. Allez, dégage d'ici !"~
+@164  = ~Je disais donc qu'elle m'a plaquée contre le mur. Elle m'a dit : « Les petites morveuses dans ton genre doivent laisser passer leurs supérieures. Si tu t'enfuis rapidement, peut-être que je ne te briserai pas le bras pour ton impudence. Allez, dégage d'ici ! »~
 @165  = ~Elle m'a jetée comme un sac en direction de la rue. Elle m'a à peine regardée.~
 @166  = ~Je rêve, quelle cruauté !~
 @167  = ~Elle se fichait totalement de ce qu'elle t'avait fait subir ?~
@@ -185,7 +185,7 @@
 @173  = ~Que lui as-tu répondu ?~
 @174  = ~C'était plutôt courageux pour une fillette de douze ans d'aller coller aux basques d'une guerrière aussi caractérielle. Déjà à l'époque, tu avais du cran.~
 @175  = ~Pour elle, ça ne voulait rien dire ! Mais pour moi...~
-@176  = ~Je me fichais pas mal des bleus qu'elle m'avait faits. En mon for intérieur, je me disais "Voilà une femme suffisamment forte et puissante pour se défendre comme elle l'entend. Tout comme un homme..."~
+@176  = ~Je me fichais pas mal des bleus qu'elle m'avait faits. En mon for intérieur, je me disais « Voilà une femme suffisamment forte et puissante pour se défendre comme elle l'entend. Tout comme un homme... »~
 @177  = ~Je me souviens encore de la lueur malveillante dans ses yeux lorsqu'elle m'a dit : "Espèce de sale petite peste ! Ne t'ai-je pas dit de rentrer chez toi ? Si tu m'obliges à te le répéter, je te casserai en deux ! Quoi, tu fais les poches des gens, c'est ça ? S'il me manque quoi que ce soit, je te couperai ta sale petite..."~
 @178  = ~C'était plutôt courageux pour une fillette de douze ans d'aller coller aux basques d'une guerrière aussi caractérielle. Déjà à l'époque, tu avais du cran.~
 @179  = ~Je voulais être comme elle !~
@@ -532,7 +532,7 @@
 @500  = ~La vie est injuste.~
 @501  = ~Ah, bon, d'accord...~
 @502  = ~Ah, bon, d'accord...~
-@503  = ~Je vois. *Vous vous léchez les lèvres.* J'ai... J'ai changé d'avis.~
+@503  = ~Je vois. *Vous vous léchez les lèvres.* J'ai... j'ai changé d'avis.~
 @504  = ~Ah ! Tu n'es pas aussi chétif que je l'aurais cru, mon petit amant...~
 @505  = ~Toi non plus... viens par ici, mon ourse.~
 @506  = ~Pourquoi es-tu toujours aussi agressive dans tes propos, Shar-Teel ?~
@@ -559,7 +559,7 @@
 @527  = ~*Vous prenez Shar-Teel dans vos bras et lui embrassez le front.* Alors dansons, maintenant...~
 
 //Shar-Teel ne veut pas être une demoiselle en détresse
-@528  = ~J'ai remarqué que tu me traites comme un oeuf pourri : avec de grandes précautions et un certain dégoût. Ne me mens pas !~
+@528  = ~J'ai remarqué que tu me traites comme un œuf pourri : avec de grandes précautions et un certain dégoût. Ne me mens pas !~
 @529  = ~Oui, c'est vrai.~
 @530  = ~Je ne te mentirai jamais, Shar-Teel. Je pense... je pense que suffisamment de gens t'ont menti jusqu'à présent, à commencer par ton propre père. Cela étant dit, je ne ressens aucun dégoût à ton égard.~
 @531  = ~*Vous avez un mouvement de recul.* Ton langage, Shar-Teel, ton langage ! Je ne comprends pas pourquoi tu persistes à employer les expressions les plus bizarres et odieuses.~
@@ -609,7 +609,7 @@
 @573  = ~Une fois, Ysena m'avait envoyée transmettre un message à l'un de ses contacts... le chef d'une bande locale de bandits plus ou moins associée au Frisson. Je suis allée au point de rendez-vous avec mon instructeur, mais un traître nous a vendu au Poing, et nous avons été attaqués. Ceux d'entre nous qui ont survécu ont été amenés non loin, vers un arbre. Ils nous ont aboyé un charabia légal, agité un document sous le nez, puis nous ont pendus un à un. Lorsqu'un membre du Poing a noué la corde autour de mon cou, il a croisé mon regard, et il s'est retourné vers les autres pour leur crier : "Regardez, ce rat d'égout est une fille !" Le Capitaine a commandé à ses hommes de me détacher, puis calmement, il a dit : "Il y a un meilleur moyen de lui faire apprendre sa leçon." Puis il m'a donnée à ses soldats... pour faire de moi ce qu'ils voulaient.~
 @574  = ~Lorsqu'ils en ont eu fini avec moi, mon corps tout entier me faisait souffrir. En effet, certains d'entre eux prenaient plaisir à me frapper de leurs poings et de leurs bottes avant de faire leur affaire. Le Capitaine leur a ensuite commandé de m'abandonner à mon sort. Mais avant de partir, cet espèce de bâtard a avancé son cheval vers moi et en est descendu. Il m'a prise par les cheveux ; il n'a même pas bronché face à la boue et au sang qui tâchaient son gant. Et là, il m'a murmuré à l'oreille : "Considère que tu as de la chance, fillette... Je te laisse la liberté. Je suis sûr que tu as compris la leçon, et que tu ne t'encanailleras plus avec ce genre d'engeance. Souviens-toi, de bien mauvaises choses arrivent aux mauvaises gens."~
 @575  = ~J'étais si faible que j'arrivais à peine à respirer, pourtant, je brûlais littéralement d'envie de les retrouver et de tous leur faire la peau. Après avoir récupéré quelques forces, j'ai rampé jusqu'à Ysena.~
-@576  = ~« Tu vivras. », m'a-t-elle dit sans sourciller. Puis elle m'a demandé : "Puisque tu es revenue, je suppose que tu as effectivement compris la leçon." Et lorsque j'ai acquiescé, elle m'a demandé de lui dire ce que j'avais appris.~
+@576  = ~« Tu vivras. », m'a-t-elle dit sans sourciller. Puis elle m'a demandé : « Puisque tu es revenue, je suppose que tu as effectivement compris la leçon ». Et lorsque j'ai acquiescé, elle m'a demandé de lui dire ce que j'avais appris.~
 @577  = ~Et je lui ai dit ces mots exacts : il n'y a rien, ni douleur, ni humiliation, ni menace, peur ou obligation d'aucune sorte qui peut empêcher une femme forte de faire tout ce qu'elle veut.~
 @578  = ~*gloups* D'a... d'accord.~
 @579  = ~Ca, c'est l'histoire la plus gaie que j'ai jamais entendue !~
@@ -809,7 +809,7 @@
 @763  = ~*hausse les épaules* Au point où on en est, ça ne fait plus vraiment la différence.~
 @764  = ~Tu es vraiment trop con !~
 @765  = ~Je suppose qu'on peut dire ça, en effet. *Elle sourit, satisfaite.*~
-@766  = ~*Shar-Teel se tait. Elle vous prend la main et la fixe des yeux.* Je... Je ne voulais pas te crier dessus, mon petit amant. C'est juste que je déteste cet endroit, Château-Suif. Les forteresses, elles ont toutes des prisons, des potences... et des gardes.~
+@766  = ~*Shar-Teel se tait. Elle vous prend la main et la fixe des yeux.* Je... je ne voulais pas te crier dessus, mon petit amant. C'est juste que je déteste cet endroit, Château-Suif. Les forteresses, elles ont toutes des prisons, des potences... et des gardes.~
 
 //Shar-Teel se réjouit de voir que Charname s'est endurci (pour un paladin ou un rôdeur déchu)
 @767  = ~J'ai toujours dit que si l'on grattait un paladin de la pointe de son épée, on pouvait y trouver un homme en-dessous. On dirait bien que tu t'es endurci, petit bibliothécaire !~

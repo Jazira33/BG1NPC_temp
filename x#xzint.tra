@@ -76,7 +76,7 @@
 
 @54 = ~Cher Monty. Vous êtes tellement moins ennuyeux maintenant. Vous mangez moins, sentez meilleur et ne me contredites jamais, pas plus que vous ne dites de grossièretés. Oui, j'aurais dû vous tuer il y a des années ; votre compagnie est beaucoup plus agréable comme cela.~
 @55 = ~*Une brève pause s'ensuit. Xzar incline la tête comme s'il écoutait quelque chose.*~
-@56 = ~Hé bien, merci, Monty... Vous aussi.~
+@56 = ~Eh bien, merci, Monty... Vous aussi.~
 
 // Xzar et Melicamp
 
@@ -92,7 +92,7 @@
 
 @64 = ~Imbécile irréfléchi ! Vous l'avez tué !~
 @65 = ~Bien sûr. Il essayait de *me* tuer, non ?~
-@66 = ~Hé bien, oui...~
+@66 = ~Eh bien, oui...~
 @67 = ~Un ogre-mage de moins n'importe guère, je vous l'accorde. Mais...~
 @68 = ~Mais ?~
 @69 = ~*rouler les yeux*~
@@ -117,7 +117,7 @@
 @82 = ~Tu es en train de ramasser des morceaux de ce monstre dans un de tes bocaux, c'est ça ?~
 @83 = ~Xzar, je m'en vais...~
 @84 = ~Rien ! Euh... ça ne prendra pas longtemps... je vous rattrape tout de suite.~
-@85 = ~Euh... hé bien... en gros... Hum... oui.~
+@85 = ~Euh... eh bien... en gros... Hum... oui.~
 @86 = ~Oserais-je te demander *pourquoi* tu es en train de mettre en bocal de petits morceaux de Schlumpsha ?~
 @87 = ~Beurk ! C'est REPUGNANT ! Je m'en vais...~
 @88 = ~Ah... un petit échantillon... pour une conférence... et un article que j'avais en tête... Pour la Revue Annuelle des Nécromanciens.~
@@ -178,7 +178,7 @@
 @121 = ~Quu.. NON ! Nous sommes tous là. Oui !~
 @122 = ~Oui - maintenant que *je* suis arrivé !~
 @123 = ~Qui êtes-vous ?~
-@124 = ~Qui... euh... Je... Je suis ta PERTE, mon gars !~
+@124 = ~Qui... euh... Je... je suis ta PERTE, mon gars !~
 @125 = ~ONCLE LESTER !~
 @126 = ~Euh... oui, c'est moi, ton Oncle Lester ! En personne !~
 @127 = ~Oooohhh...~
@@ -196,7 +196,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 883, probablement inutile de traduire ici !
 @133 = ~Oyez ! Oyez ! Voici l'homme qui va le remettre à sa place !~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 884, probablement inutile de traduire ici !
-@134 = ~Hé bien... verticalement, peut-être, mais oui. Il semble n'avoir aucun respect pour son oeuvre.~
+@134 = ~Eh bien... verticalement, peut-être, mais oui. Il semble n'avoir aucun respect pour son oeuvre.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 885, probablement inutile de traduire ici !
 @135 = ~Hé, pour moi 5,000 pièces d'or feraient une motivation suffisante pour lui régler son compte, si j'étais aventurier ! Euh, désolé, au travail !~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 886, probablement inutile de traduire ici !

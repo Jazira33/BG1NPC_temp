@@ -24,7 +24,7 @@
 @23 = ~S'il vous plaît, mon amour, que vous dit votre coeur ?~
 @24 = ~Vous êtes la fille d'une divinité maléfique, dotée de ses pouvoirs, et vous êtes liée à votre destinée...~
 @25 = ~Et pourtant vous êtes la fille d'une divinité maléfique, dotée de ses pouvoirs, et vous êtes liée à votre destinée...~
-@26 = ~Je... Je n'ai pas perçu la divinité maléfique en vous. Je *dois* m'assurer que vous ne serez pas séduite par le pouvoir de Bhaal ! Cette découverte m'effraie à un tel point que je ne sais pas quoi dire. Je ne peux pas continuer. Nous devons encore discuter de ceci, mais d'abord, je dois mettre de l'ordre dans mes pensées !~
+@26 = ~Je... je n'ai pas perçu la divinité maléfique en vous. Je *dois* m'assurer que vous ne serez pas séduite par le pouvoir de Bhaal ! Cette découverte m'effraie à un tel point que je ne sais pas quoi dire. Je ne peux pas continuer. Nous devons encore discuter de ceci, mais d'abord, je dois mettre de l'ordre dans mes pensées !~
 @27 = ~<CHARNAME>, au nom de Heaum ! Je *dois* savoir comment vous allez gérer ceci ! Je suis un paladin, et je serai votre époux. S'il vous plaît, mon amour, que vous dit votre coeur ?~
 @28 = ~Je ne veux pas en parler, Ajantis !~
 @29 = ~Ce n'est *pas* la fin de ceci ! Peut-être ne voulez-vous pas en parler maintenant, mais cette conversation ne peut s'arrêter là ! Vous êtes la fille d'un dieu maléfique, dotée de ses pouvoirs, et vous êtes liée à votre destinée...~
@@ -45,7 +45,7 @@
 @44 = ~Pourquoi t'inquiètes-tu de cela maintenant ? Le temps répondra à nos questions.~
 @45 = ~Je ne peux pas croire que vous traitiez ceci avec tant de légèreté, <CHARNAME>, il s'agit du pouvoir d'un dieu ! Il va *vous* modeler, pas le contraire. C'est seulement si vous êtes ferme dans votre foi, et solide, sans la moindre hésitation, dans votre quête de la vertu et de la droiture, que vous aurez une chance de réussir contre lui !~
 @46 = ~Vous... vous *admettez* que vous songez à utiliser vos pouvoirs à des fins maléfiques ?~
-@47 = ~Je... Je ne pensais pas que cela se terminerait de cette manière. Je ne peux pas vous laisser continuer ! J'ai fait un voeu, <CHARNAME> ! J'ai juré d'être à vos côtés et de veiller sur vous. J'ai juré de marcher sur la voie de la vertu et de la droiture avec vous. Mes devoirs en tant que paladin ne me laissent pas d'autre choix ! Par Heaum ! Levez votre arme et défendez-vous ! Je dois combattre le Mal, aujourd'hui et à jamais !~
+@47 = ~Je... je ne pensais pas que cela se terminerait de cette manière. Je ne peux pas vous laisser continuer ! J'ai fait un voeu, <CHARNAME> ! J'ai juré d'être à vos côtés et de veiller sur vous. J'ai juré de marcher sur la voie de la vertu et de la droiture avec vous. Mes devoirs en tant que paladin ne me laissent pas d'autre choix ! Par Heaum ! Levez votre arme et défendez-vous ! Je dois combattre le Mal, aujourd'hui et à jamais !~
 @48 = ~Ajantis est devenu hostile
 
 Ajantis m'a attaqué après que je lui ai révélé que je n'hésiterais pas à utiliser les pouvoirs maléfiques de mon Géniteur ! J'ai eu à le combattre, car il ne m'a laissé nul autre choix.~
@@ -54,7 +54,7 @@ Ajantis m'a attaqué après que je lui ai révélé que je n'hésiterais pas à 
 @51 = ~Peut-être aurez-vous une chance... Vous marchez sur la voie de la vertu et de la droiture, vous ne commettez pas d'actes mauvais. Pourtant, vous n'avez pas démontré tout votre potentiel à faire le bien, <CHARNAME>.~
 @52 = ~Parfois, les petites choses s'additionnent, <CHARNAME>, et renversent l'équilibre.~
 @53 = ~Vous êtes là, devant moi, vous êtes mortelle, tout comme moi, <CHARNAME>. Le temps nous dira ce qu'il adviendra de vous, mais pour transcender votre mortalité, vous aurez à hériter du trône de votre géniteur.~
-@54 = ~C'est une idée incroyable ! Je... Je ne l'avais pas perçue en vous. Je *dois* m'assurer que vous ne serez pas séduite par ces pouvoirs maléfiques ! Cette découverte est tellement sidérante que je ne sais plus quoi dire. Nous devons discuter plus avant de ceci, mais d'abord, j'ai besoin de temps pour mettre de l'ordre dans mes pensées !~
+@54 = ~C'est une idée incroyable ! Je... je ne l'avais pas perçue en vous. Je *dois* m'assurer que vous ne serez pas séduite par ces pouvoirs maléfiques ! Cette découverte est tellement sidérante que je ne sais plus quoi dire. Nous devons discuter plus avant de ceci, mais d'abord, j'ai besoin de temps pour mettre de l'ordre dans mes pensées !~
 @55 = ~Oh, mon amour... Bien sûr. Pardonnez-moi... *Ajantis vous prend dans ses bras. Bien qu'en apparence, il paraisse demeurer calme, quand il vous touche, vous pouvez sentir qu'il est agité et nerveux.*~
 @56 = ~S'il vous plaît, parlons-en. Aidez-moi à comprendre, je vous en prie... Mon amour, que vous dit votre coeur ?~
 @57 = ~Ajantis, je suis paladin et j'abhorre être le rejeton de Bhaal ! Je ne succomberai pas au Mal, et je ferai tout ce qui est en mon pouvoir pour déjouer les plans qu'avait mon géniteur pour moi, quels qu'ils soient.~
@@ -98,7 +98,7 @@ Ajantis m'a attaqué après que je lui ai révélé que je n'hésiterais pas à 
 @95 = ~Je ne peux pas croire que vous ne me fournissiez pas de réponse ! Ne pouvez-vous voir combien ceci est important pour moi ?! Votre attitude m'effraie, mon amour. Vous ne pouvez pas m'exclure, vous ne pouvez pas simplement refuser d'en parler ! Comment pouvez-vous attendre mon soutien si vous ne me révélez pas vos véritables sentiments en la matière ?~
 @96 = ~Très bien, Ajantis, je vais répondre à ta question.~
 @97 = ~Très bien, Ajantis, parlons-en, alors. Repose-moi ta question.~
-@98 = ~"Droit de naissance" ?! Songez-vous sérieusement à vous battre pour obtenir le trône de Bhaal, le Seigneur du *Meurtre*, en semant dévastation et désespoir sur vos traces ?~
+@98 = ~« Droit de naissance » ?! Songez-vous sérieusement à vous battre pour obtenir le trône de Bhaal, le Seigneur du *Meurtre*, en semant dévastation et désespoir sur vos traces ?~
 @99 = ~Maintenant que tu le dis comme ça... Non, ce n'est pas ce que je voulais dire.~
 @100 = ~Si c'est nécessaire pour obtenir un pouvoir divin, alors oui, je le ferai.~
 @101 = ~Alors, je vous en prie, répondez à ma question honnêtement.~
@@ -120,7 +120,7 @@ Ajantis m'a attaqué après que je lui ai révélé que je n'hésiterais pas à 
 @117 = ~Je vois. Je suis désolée. Quelle était la question, déjà ?~
 @118 = ~Très bien, je vais répondre à tes questions, dans ce cas.~
 @119 = ~Ajantis, je n'ai pas de réponses à te donner. Je n'aime pas où cela nous mène. Je veux que nous mettions fin à notre relation.~
-@120 = ~J'entends vos paroles et elles font saigner mon coeur. Mais j'accepte votre décision, <CHARNAME>. Nos fiançailles sont rompues. Demeurons des camarades de lutte et retournons à notre mission. Par Heaum ! Je ne laisserai plus rien me distraire de mes tâches, désormais.~
+@120 = ~J'entends vos paroles et elles font saigner mon cœur. Mais j'accepte votre décision, <CHARNAME>. Nos fiançailles sont rompues. Demeurons des camarades de lutte et retournons à notre mission. Par Heaum ! Je ne laisserai plus rien me distraire de mes tâches, désormais.~
 @121 = ~Cependant, je ne pense pas que le temps des prophéties d'Alaundo soit venu, Ajantis. Je combats Sarevok parce qu'il utilise une vaste et puissante organisation pour réaliser son ignoble but personnel : déclencher une guerre entre Amn et la Côte des Epées ! C'est plutôt... une coïncidence qu'il soit un enfant de Bhaal lui-même.~
 @122 = ~Que voulez-vous dire, mon amour ! J'ai juré d'être à vos côtés et de veiller sur vous. J'ai juré d'arpenter la voie de la vertu et de la droiture en votre compagnie. Mais je ne peux le faire si vous ne me faites pas confiance ! Tout ce que je vous demande est de répondre honnêtement à mes questions !~
 @123 = ~Je vois. Je suis désolée. Répète-moi ta question.~
@@ -177,7 +177,7 @@ Ajantis m'a attaqué après que je lui ai révélé que je n'hésiterais pas à 
 @174 = ~Oui, bien sûr. Mais vous êtes aussi la fille de Bhaal, et ils ne le savaient pas. Je suis sûr que vous comprenez que cela modifie la donne.~
 @175 = ~Pas de maladie, mon amour, mais un héritage qui va influencer votre vie, que vous le vouliez ou non.~
 @176 = ~J'imagine que ça paraît étrange... C'est parce qu'il est impossible de leur parler maintenant, <CHARNAME>.~
-@177 = ~Je dois leur redemander leur consentement... Et cette fois, je ne peux pas le faire en leur envoyant une lettre. J'irai à Eauprofonde, mon amour, après que nous ayons défait Sarevok. J'irai là-bas et je dirai à mes parents que j'ai décidé de vous épouser, merveilleuse <CHARNAME>. Je... J'espère qu'ils accepteront. Cela serait... plus pratique. Je tiendrai ma parole envers vous, mon amour, que j'aie leur assentiment... ou pas.~
+@177 = ~Je dois leur redemander leur consentement... Et cette fois, je ne peux pas le faire en leur envoyant une lettre. J'irai à Eauprofonde, mon amour, après que nous ayons défait Sarevok. J'irai là-bas et je dirai à mes parents que j'ai décidé de vous épouser, merveilleuse <CHARNAME>. Je... j'espère qu'ils accepteront. Cela serait... plus pratique. Je tiendrai ma parole envers vous, mon amour, que j'aie leur assentiment... ou pas.~
 @178 = ~*Vous embrassez Ajantis sur les lèvres.* Ce sont de belles paroles, vraies, braves et humbles. Je sais ce que ta famille signifie pour toi, et je te remercie profondément pour ton soutien.~
 @179 = ~Pauvre Ajantis. Je peux voir que ce n'est pas facile pour toi. Je te remercie de ton soutien. Moi aussi, j'espère que nous pourrons convaincre ta famille de m'accueillir comme belle-fille.~
 @180 = ~Tu veux dire que tu m'épouseras même si tes parents te renient ? J'espère vraiment qu'ils ne seront pas aveugles à ce point !~

@@ -1,6 +1,6 @@
 @0 = ~Voyons ce que vous avez, alors.~
 @1 = ~Une autre fois, peut-être.~
-@2 = ~Hé bien, bonnes gens, puis-je... Quoi ! Qu'avez-vous là ?~
+@2 = ~Eh bien, bonnes gens, puis-je... Quoi ! Qu'avez-vous là ?~
 @3 = ~Ceci, Sire, est l'essence nécromantiquement préservée de...~
 @4 = ~C'est une boule nécromantique visqueuse ! Tuez le nécromancien, si ce n'est pas encore fait, mais sortez cette ordure de mon établissement.~
 @5 = ~Mais nous avons...~
@@ -19,7 +19,7 @@
 @18 = ~Mais bien sûr, chers amis, j'ai en ma possession les objets les plus rares et les plus merveilleux. Jetez-y un coup d'oeil.~
 @19 = ~Errk ! Ce répugn... euh... c'est admirablement conservé cela dit. Une dryade, non ?~
 @20 = ~Vous voyez ?! Vous voyez, <CHARNAME>,je vous l'avais dit, je vous l'avais dit ! ... ahem. Maintenant, cher monsieur, vu que ma carrière d'aventurier passe en premier (évidemment), il me manque les ingrédients triviaux nécessaires à une convenable réalisation de cet enchantement. Pouvez-vous m'apprendre quels autres produits pourraient être requis afin de distiller cette magnifique essence en un anneau, un bel anneau, mon précieuuuux ?~
-@21 = ~Hé bien, un anneau de mithral pourrait servir de réceptacle à la magie de votre... euh... échantillon. Malheureusement, je n'ai rien de tel en stock en ce moment, pour ma part. Si vous pouviez fournir un réceptacle aussi parfait, hé bien... voyons... le parchemin, mon temps... pour... neuf cent... disons pour mille pièces d'or, je pourrais fabriquer un anneau magique capable de résister aux enchantements - peut-être même en lancer un mineur - en quatre... mettons cinq jours. Etes-vous intéressés ?~
+@21 = ~Eh bien, un anneau de mithral pourrait servir de réceptacle à la magie de votre... euh... échantillon. Malheureusement, je n'ai rien de tel en stock en ce moment, pour ma part. Si vous pouviez fournir un réceptacle aussi parfait, eh bien... voyons... le parchemin, mon temps... pour... neuf cent... disons pour mille pièces d'or, je pourrais fabriquer un anneau magique capable de résister aux enchantements - peut-être même en lancer un mineur - en quatre... mettons cinq jours. Etes-vous intéressés ?~
 @22 = ~Oooh ! Faisons ça ! Il le faut ! On peut ? On peut, <CHARNAME> ? Sivouplééé ?!~
 @23 = ~Je ne sais pas. Si nous trouvons un tel... réceptacle, on pourra y réfléchir.~
 @24 = ~On le trouvera ! Même si nous devons dépouiller la Côte des Epées tout entière jusqu'à son fondement de pierre nue, NOUS LE FERONS !~
@@ -30,7 +30,7 @@
 @29 = ~Xzar ? Ferme-la !~
 @30 = ~Je scellerai mon dépôt avec rigueur.~
 @31 = ~Mais bien sûr, chers amis, j'ai en ma possession les objets les plus rares et les plus merveilleux. Jetez-y un coup d'oeil.~
-@32 = ~Hé bien, un anneau de mithral serait utile. Ça coûte trois... euh... quatre cents pièces d'or de l'enchanter pour contenir l'essence. Avec ça et votre... euh... composant je pourrais créer un anneau qui fera fi des charmes, c'est certain. Peut-être même vous laissera-t-il en renvoyer un, si je ne suis pas dérangé durant les cinq jours nécessaires à l'opération. Voyons... Le parchemin, mon temps, ça coûtera neuf... mille pièces d'or, tout compris. Qu'en dites-vous ?~
+@32 = ~Eh bien, un anneau de mithral serait utile. Ça coûte trois... euh... quatre cents pièces d'or de l'enchanter pour contenir l'essence. Avec ça et votre... euh... composant je pourrais créer un anneau qui fera fi des charmes, c'est certain. Peut-être même vous laissera-t-il en renvoyer un, si je ne suis pas dérangé durant les cinq jours nécessaires à l'opération. Voyons... Le parchemin, mon temps, ça coûtera neuf... mille pièces d'or, tout compris. Qu'en dites-vous ?~
 @33 = ~Ooooohhhh ! On peut faire ça ? On peut, <CHARNAME> ? Sivouplé, sivouplé, sivouplé, sivouplé, de mignons sivouplés avec des moucherons ? PENSEZ seulement combien ça plairait à moman !~
 @34 = ~Oh, vas-y.~
 @35 = ~Euh, nous n'avons pas autant d'argent pour l'instant, Xzar.~
@@ -101,7 +101,7 @@
 @95 = ~Pourquoi ne m'a-t-elle pas dit qu'elle était si faible ? Sa mort n'était pas du tout nécessaire.~
 @96 = ~Qu'est-ce qu'il t'arrive ?~
 @97 = ~Elle - au repos, détrempée, sur le sol - J'ai essayé cet anneau inepte... et rien !~
-@98 = ~Hé bien, étant donné qu'elle est morte et tout...~
+@98 = ~Eh bien, étant donné qu'elle est morte et tout...~
 @99 = ~AVANT sa mort, imbécile. La première fois que ce bibelot a fait long feu, j'ai cru que c'était le hasard... seulement de la malchance. Mais maintenant j'en suis certain ! Chêne ou pas, la dryade elle-même était un roseau trop frêle pour qu'on puisse en tirer de grands objets magiques. Je n'ai plus rien à faire de cette babiole sans valeur !~
 @100 = ~Du fer, hein ? Je crois, <PRO_LADYLORD>, qu'il est de mon devoir d'inspecter vos biens.~
 @101 = ~Est-il de votre devoir de harceler d'innocents citoyens sur la foi des divagations d'un cinglé notoire, officier ?~
@@ -110,7 +110,7 @@
 @104 = ~Oh, très bien. Ce dément me dispute la propriété de cet anneau, mais c'est assez innocent, comme vous pouvez le voir vous-même.~
 @105 = ~*A votre plus grande surprise, Xzar fait un bond en avant et saisit l'anneau entre les doigts du mercenaire du Poing stupéfait.*~
 @106 = ~Mon précieux ! Je vous remercie, officier, pour votre aide efficace bien que stupide au recouvrement de mon bien. Venez, Montaron ! Nous devons partir vers de nouveaux pâturages.~
-@107 = ~Hé bien ! Je crois que je vais laisser cette petite affaire en dehors de mon rapport de ce soir. Ce type sera encore en ville demain, je laisse ce plaisir à un autre.~
+@107 = ~Eh bien ! Je crois que je vais laisser cette petite affaire en dehors de mon rapport de ce soir. Ce type sera encore en ville demain, je laisse ce plaisir à un autre.~
 @108 = ~Je crois que c'est une sage décision, sire.~
 @109 = ~Ça a marché ! JE L'AI FAIT ! Moi, Xzar, nécromancien réputé répugnant, ai CHARMÉ quelqu'un ! Et pas n'importe qui mais Montaron, petite-homme meurtrier et psychopathe !~
 @110 = ~J'ai faim. Où sont les tétons de morse ?~
@@ -168,11 +168,11 @@ Mon compagnon Xzar a tiré le sang d'une dryade des Pics Brumeux. Cette stupide 
 @158 = ~hu-hu. *Je*préfère profiter des prophètes, pour ma part.~
 @159 = ~Ne soyez pas stupide, <CHARNAME>. N'importe quel enfant sait bien que des créatures telles que les leprechauns n'existent pas.~
 @160 = ~Ne soyez pas stupide, <CHARNAME>. Jamais je ne me lancerais dans une thaumaturgie aussi vitale sans... conseils.~
-@161 = ~Hé bien, un artefact destiné à faire hurler de peine et d'horreur toute la Nature vivante, et le tout à la face de l'immanente et irréversible mort, bien sûr. Quoi d'autre pourrait m'intéresser ?~
+@161 = ~Eh bien, un artefact destiné à faire hurler de peine et d'horreur toute la Nature vivante, et le tout à la face de l'immanente et irréversible mort, bien sûr. Quoi d'autre pourrait m'intéresser ?~
 @162 = ~Hélas ! Une de plus à pleurer. Une de plus à pleurer.~
 @163 = ~Mais nous ne pouvons pas. L'esprit de notre soeur est encore asservi, jusque dans la Mort.~
 @164 = ~C'est ainsi. Nous devons avertir nos frères mortels de cette atrocité.~
-@165 = ~Ne menacer personne ? Hé bien, non ; mais elle ne nous sert à rien là, non ?~
+@165 = ~Ne menacer personne ? Eh bien, non ; mais elle ne nous sert à rien là, non ?~
 @166 = ~Hein ! Ces mortels sont encore plus mauvais que les précédents !~
 @167 = ~Dryade des Pics Brumeux
 
@@ -180,7 +180,7 @@ J'ai tenté d'aider une dryade dans les Pics Brumeux. Plaire à de tels esprits 
 @168 = ~Oh, termite confite ! Elle est partie maintenant ! *soupir* Ainsi une nouvelle recherche échoue-t-elle faute du soutien approprié !~
 @169 = ~Je vous remercie, bien qu'à contrecoeur.~
 @170 = ~Je ne resterai pas inactif, si vous ne réfrénez pas cet homme maléfique, <CHARNAME>.~
-@171 = ~Ne menacer personne ? Hé bien, non ; mais elle ne nous sert à rien là, non ? Ainsi une nouvelle recherche échoue-t-elle faute du soutien approprié.~
+@171 = ~Ne menacer personne ? Eh bien, non ; mais elle ne nous sert à rien là, non ? Ainsi une nouvelle recherche échoue-t-elle faute du soutien approprié.~
 @172 = ~Vous avez agi comme vous aviez dit.~
 @173 = ~Et... et pour le prix que vous avez exigé... La direction de la cachette, et un froid adieu. Ne restez pas longtemps dans ma forêt. Vous n'êtes pas les bienvenus. Vous trouverez la cache du trésor dans une tanière de loups juste cent pas au sud de mon arbre.~
 @174 = ~Dryade des Pics Brumeux

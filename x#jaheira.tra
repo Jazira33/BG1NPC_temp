@@ -55,11 +55,11 @@
 @38 = ~Oui... Je suppose que cela fait sens. Je ne voulais pas remettre ta loyauté en question, Jaheira. Continuons notre quête.~
 @39 = ~Je ne sais pas, Jaheira... Je voudrais pouvoir le croire, mais je pense que la confiance nécessaire entre nous a été brisée. Cela vaudrait mieux pour nous de nous séparer, je le crains.~
 @40 = ~Je vois que tu as besoin de beaucoup d'aide, et ne t'en rends même pas compte. Cela ne m'empêchera pas de te protéger, et tu ferais mieux d'espérer que j'y parvienne.~
-@41 = ~Un... un rejeton de Bhaal ? Tu es l'un des Enfants ? Je... Je suppose que j'aurais dû le deviner. Mais crois-moi, je t'en supplie, je ne le savais pas jusqu'à aujourd'hui ! Gorion ne nous avait rien dit, et je peux seulement supposer qu'il était sur le point de le faire ! Tais cette colère, car elle est injustifiée !~
+@41 = ~Un... un rejeton de Bhaal ? Tu es l'un des Enfants ? Je... je suppose que j'aurais dû le deviner. Mais crois-moi, je t'en supplie, je ne le savais pas jusqu'à aujourd'hui ! Gorion ne nous avait rien dit, et je peux seulement supposer qu'il était sur le point de le faire ! Tais cette colère, car elle est injustifiée !~
 @42 = ~Peut-être... peut-être ai-je été un peu dur... mais je ne peux pas croire que Gorion ne t'aurait rien dit de mon héritage !~
       ~Peut-être... peut-être ai-je été un peu dure... mais je ne peux pas croire que Gorion ne t'aurait rien dit de mon héritage !~
-@43 = ~Des mots creux de la part d'une traîtresse au coeur de pierre ! Je suis tenté de te demander de tirer ton arme, chienne !~
-      ~Des mots creux de la part d'une traîtresse au coeur de pierre ! Je suis tentée de te demander de tirer ton arme, chienne !~
+@43 = ~Des mots creux de la part d'une traîtresse au cœur de pierre ! Je suis tenté de te demander de tirer ton arme, chienne !~
+      ~Des mots creux de la part d'une traîtresse au cœur de pierre ! Je suis tentée de te demander de tirer ton arme, chienne !~
 @44 = ~Tu voudrais... que nous nous séparions ? Mais nous sommes si proches de la résolution de notre quête et d'infliger la vengeance qu'il mérite au meurtrier de Gorion !~
 @45 = ~Certaines des choses que tu as commises par le passé ont été difficiles à accepter et à tolérer, l'idée de nous séparer a donc peut-être fait son chemin. Je ferai néanmoins en sorte que le meurtrier de Gorion soit livré à la justice. Il est sans doute préférable que Khalid et moi ne le recherchions pas en ta compagnie.~
 @46 = ~Certaines des choses que tu as faites par le passé ont été difficiles à accepter et à tolérer, l'idée de nous séparer a donc peut-être fait son chemin. Je veillerai cependant à ce que le meurtrier de Gorion soit livré à la justice. Il est sans doute préférable que je ne le recherche pas en ta compagnie.~
@@ -79,7 +79,7 @@
 @56 = ~Oui, je vous en prie, <CHARNAME>... nous nous soucions de vous et de votre bien-être, nos coeurs se b-briseraient de vous abandonner aujourd'hui. S'il vous plaît, ne f-faites pas ceci. Laissez-nous rester pour vous ai-aider et ho-honorer le serment que nous avons fait à Gorion.~
 @57 = ~Très bien, Khalid. Très bien, Jaheira. Je vous laisserai cette chance, vous avez l'air sincères.~
 @58 = ~Oui, m-merci, <CHARNAME>... nous f-ferons tous les deux de notre mieux pour vous aider. Cela nous aurait b-brisé le coeur si vous aviez pris une autre d-décision...~
-@59 = ~Je... J'aurais v-vraiment voulu que nous n'en arrivions pas là... Je suis vraiment désolé que ça n-n'ait pas marché, et j'aurais préféré que nous ne nous séparions pas alors que vous avez une si p-piêtre opinion de nous. Peut-être... peut-être Jaheira et moi-même continuerons-nous à travailler en c-coulisses pour vous aider... et j'espère aussi que nous nous reverrons...~
+@59 = ~Je... j'aurais v-vraiment voulu que nous n'en arrivions pas là... Je suis vraiment désolé que ça n-n'ait pas marché, et j'aurais préféré que nous ne nous séparions pas alors que vous avez une si p-piêtre opinion de nous. Peut-être... peut-être Jaheira et moi-même continuerons-nous à travailler en c-coulisses pour vous aider... et j'espère aussi que nous nous reverrons...~
 @60 = ~J'i-imagine que c'est mieux, ma ch-chérie. Cette expédition a été d-décevante en bien trop d'occasions...~
 @61 = ~Viens avec moi, Khalid. Nous chercherons à venger le meurtre de Gorion par nous-mêmes. En attendant, j'espère que <CHARNAME> utilisera ce temps de séparation pour réfléchir à la voie qu'<PRO_HESHE> a choisie.~
 @62 = ~Je v-viens, mon amour. Et <CHARNAME>... ne s-songez même pas à m-mettre vos menaces à exécution. Ma lame vous fauchera avant même que vous ne puissiez t-toucher à l'un de ses cheveux... et c-ce ne sont pas des paroles en l'air.~
@@ -168,7 +168,7 @@
 @128 = ~Pffff, tu n'es pas ma mère et ne le sera jamais, Jaheira ! Hé, j'ai une super idée ! Peut-être que si Khalid et toi aviez un enfant, tu aurais moins de, hum, frustrations maternelles.~
 @129 = ~Peut-être que mes exaspérations prennent source dans le fait de ne pas avoir d'enfant à moi, en effet. Hmm, c'est manifestement quelque chose qui mérite réflexion.~
 
-@130 = ~Imoen, est-ce que "Gros Plein de Soupe" t'a jamais parlé des choses qu'une fille qui devient une jeune femme devrait savoir ?~
+@130 = ~Imoen, est-ce que « Gros Plein de Soupe » t'a jamais parlé des choses qu'une fille qui devient une jeune femme devrait savoir ?~
 @131 = ~Euh, il m'a souvent parlé du fait que je ne nettoyais pas assez bien, et dit que je ne trouverais jamais un bon mari si je continuais à escalader les barrières et hum... à emprunter des choses...~
 @132 = ~Oui, ce sont des instructions utiles, mais je parlais d'autres sortes de choses. Tu as l'âge, désormais, et je pense que c'est mon devoir de te prévenir.~
 @133 = ~Me prévenir de quoi ?~
@@ -201,7 +201,7 @@
 @155 = ~Où voudras-tu aller quand tout ceci sera terminé, Khalid ? A la maison ? A Calimshan ?~
 @156 = ~Je sais que tu n'as jamais aimé Calimshan. Et moi non p-plus, d'ailleurs. Mon père ne s'est jamais s-soucié de moi comme de ses fils légitimes et ma m-mère est morte depuis longtemps. Nous pouvons aller visiter le Téthyr... pour quelques temps... si tu veux.~
 @157 = ~Même si cela avait été, à défaut du mot exact, mon « foyer », je serais bien plus heureuse d'oublier complètement son existence.~
-@158 = ~Je... Je suis d-désolé, ma chérie. Je ne v-voulais pas te ramener de tristes souvenirs en mémoire. N-nous ne devons pas forcément aller quelque part en particulier. Nous pouvons continuer à accompagner <CHARNAME>... en mémoire de Gorion, bien sûr.~
+@158 = ~Je... je suis d-désolé, ma chérie. Je ne v-voulais pas te ramener de tristes souvenirs en mémoire. N-nous ne devons pas forcément aller quelque part en particulier. Nous pouvons continuer à accompagner <CHARNAME>... en mémoire de Gorion, bien sûr.~
 @159 = ~Merci de ta compréhension. J'ai bien peur que ni ton enfance, ni la mienne, ne nous aient laissé de bons souvenirs.~
 @160 = ~Mais Khalid, mon amour, sache que pour moi, mon « foyer » est l'endroit où tu te trouves, peu importe où.~
 @161 = ~Je r-ressens la même chose, Jaheira.~
@@ -235,7 +235,7 @@
 @185 = ~Si je peux demander... Comment était-elle ?~
 @186 = ~Peut-on décrire la lumière des étoiles ? Regardez le ciel pendant la nuit et vous la verrez esquissée dans le brouillard argenté entre les astres... Ou bien mes yeux sont-ils seuls à pouvoir la deviner ?~
 @187 = ~Et bien, la manière dont tu parles d'elle... Je suis certaine que tous tes sacrifices ne sont pas vains... Oh, peu importe...~
-@188 = ~Khalid... Khalid ! Oh, te voilà. Je... Je voulais juste t'embrasser, mon doux amour.~
+@188 = ~Khalid... Khalid ! Oh, te voilà. Je... je voulais juste t'embrasser, mon doux amour.~
 
 //Banters avec Minsc
 @189 = ~Tu sais, Minsc, Khalid et moi avons rencontré beaucoup de sortes de créatures sauvages et apprivoisées au cours de nos voyages, et pourtant nous n'avons jamais entendu parler d'un Hamster de l'Espace Géant Miniature.~

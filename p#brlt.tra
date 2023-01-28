@@ -9,7 +9,7 @@
 @6    = ~Je n'avais pas l'intention de rouvrir ces plaies, <CHARNAME>. Le passé est le passé, mais en tant que soigneuse je connais un remède : traiter le mal par le mal. Si une phrase maladroite a pu te faire de la peine et te contrarier, peut-être une discussion apaisante avec tes camarades pourrait-elle chasser ta peine et tes soucis ? Dis-moi, que t'est-il arrivé ?~
 @7    = ~Rien qui puisse t'intéresser.~
 @8    = ~Mon père adoptif a été assassiné, Branwen. Ce n'est pas quelque chose dont je parle facilement.~
-@9    = ~Château-Suif me manque. Ses étables, sa bibliothèque, son armurerie me manquent - et je ne peux plus revenir en arrière.~
+@9    = ~Château-Suif me manque. Ses étables, sa bibliothèque, son armurerie me manquent... et je ne peux plus revenir en arrière.~
 @10   = ~Château-Suif ? Où est-ce ?~
 @11   = ~C'est une bibliothèque fortifiée à l'ouest de Bérégost.~
 @12   = ~Branwen, as-tu déjà voyagé ailleurs que dans tes îles septentrionales ?~
@@ -91,7 +91,7 @@
 @83   = ~Je suis ravie de t'entendre flatter ma vanité, <CHARNAME>, mais je ne laisserai pas tes blagues m'écarter de ma voie. Les femmes et le vin permettent de délasser le corps après la bataille, mais c'est la foi qui le renforce.~
 @84   = ~Laisse-moi t'entretenir de Tempus, et tu verras alors si ton coeur entend ce à quoi ta raison est sourde.~
 @85   = ~Je ne vais pas t'ennuyer avec de longs et ennuyeux sermons. Tempus perçoit la véritable dévotion, et désapprouve les beaux-parleurs.~
-@86   = ~La guerre est une force de changement, <CHARNAME>, juste et pure, et il ne faut pas la craindre. Sur le champ de bataille, un guerrier a besoin de courage, d'esprit de décision et de talent - Tempus n'exige pas que tu te lances dans un combat sans espoir mais si c'est la cas, tu dois y mettre un terme rapidement et fermement, tu ne dois jamais sous-estimer ton ennemi. L'objectif et le défi de chaque combat est le perfectionnement de soi, et une conduite honorable est donc tout aussi importante que peut l'être le lait de la mère pour le nouveau-né.~
+@86   = ~La guerre est une force de changement, <CHARNAME>, juste et pure, et il ne faut pas la craindre. Sur le champ de bataille, un guerrier a besoin de courage, d'esprit de décision et de talent. Tempus n'exige pas que tu te lances dans un combat sans espoir mais si c'est la cas, tu dois y mettre un terme rapidement et fermement, tu ne dois jamais sous-estimer ton ennemi. L'objectif et le défi de chaque combat est le perfectionnement de soi, et une conduite honorable est donc tout aussi importante que peut l'être le lait de la mère pour le nouveau-né.~
 @87   = ~Merci Branwen.~
 @88   = ~C'est comme cela que je vis et que je me bats, Tempus ou pas.~
 @89   = ~Qu'est-ce que tu es belle quand tu récites la doctrine de Tempus, Branwen. Puis-je te demander de recommencer ? J'ai très envie que tu me fasses ce spectacle... en privé.~
@@ -115,7 +115,7 @@
 @104  = ~Loup de mer ? D'où lui est venu ce nom ?~
 @105  = ~Je préférerais encore cette vie « morbide », plutôt que d'être pourchassé et sans foyer.~
 @106  = ~Branwen, nous ne devrions pas lambiner ici.~
-@107  = ~Je me rappelle surtout d'histoires de mer et de marins, plutôt que de rochers ternis et de vastes landes, <CHARNAME>. Mon peuple, les Rauthymar, ou les gens du nord - comme nous appellent les étrangers -, est arrivé dans les îles il y a plus de quatre siècles. Cependant notre terre est principalement à l'état sauvage car il est incongru pour des combattants de devenir paysans, même quand nous sommes en paix - et ce fut rarement le cas. Nous sommes plus des marins que des petits fermiers, et nous préférons de loin parcourir les vagues que labourer les champs. Ainsi, au fil des ans, le bateau est devenu aussi important pour le guerrier que ses armes, et mon peuple a même un dicton : « le bateau est l'épée qui fend les vagues ».~
+@107  = ~Je me rappelle surtout d'histoires de mer et de marins, plutôt que de rochers ternis et de vastes landes, <CHARNAME>. Mon peuple, les Rauthymars, ou les gens du nord comme nous appellent les étrangers, est arrivé dans les îles il y a plus de quatre siècles. Cependant notre terre est principalement à l'état sauvage car il est incongru pour des combattants de devenir paysans, même quand nous sommes en paix... et ce fut rarement le cas. Nous sommes plus des marins que des petits fermiers, et nous préférons de loin parcourir les vagues que labourer les champs. Ainsi, au fil des ans, le bateau est devenu aussi important pour le guerrier que ses armes, et mon peuple a même un dicton : « le bateau est l'épée qui fend les vagues ».~
 @108  = ~Comme c'est poétique. Ton peuple a plus d'éloquence que je ne le pensais.~
 @109  = ~Continue, je t'en prie.~
 @110  = ~Merci Branwen, j'en sais assez.~
@@ -153,12 +153,12 @@
 @139  = ~Vraiment ? <CHARNAME>, je vois souvent cette expression sur ton visage. Elle ressemble à celle qu'on distingue sur les visages des marins quand leurs épouses ont faim et que la mer est démontée. Ils savent qu'ils courent à leur perte, cependant ils hissent les voiles et rament dur parce qu'ils savent qu'il le faut. Ils ne reviennent jamais.~
 @140  = ~Ma chère Branwen, je vais bien. Très bien. Super bien. Qu'y a-t-il de si difficile à comprendre ?~
 @141  = ~Je... je crois que je ressens la même chose. Je ne sais pas combien de temps je serai capable de continuer.~
-@142  = ~Tu persistes à faire d'étranges allusions, Branwen. Épouses, gamine amoureuse - qu'est-ce que tu sous-entends ?~
+@142  = ~Tu persistes à faire d'étranges allusions, Branwen. Épouses, gamine amoureuse... qu'est-ce que tu sous-entends ?~
 @143  = ~Euh, <CHARNAME>, je rigolais. Je ne doute pas que tu sois un bon amant, mais ce n'est pas le moment.~
 @144  = ~*grommelle* Oh, laisse tomber. Ceci dit, c'est bon de voir que tu vas bien.~
 @145  = ~Je déplore ta perte. Fort heureusement, tous les membres de ma famille sont vivants et en bonne santé. Norheim est une terre mystérieuse <CHARNAME>, mystérieuse et remplie de merveilles surnaturelles. Mon peuple est connu pour certaines croyances et certains mythes très répandus par chez nous. L'un d'entre eux dit qu'une mère ressent si ses enfants sont en vie. Je crois que quand j'ai quitté ma famille, mon seigneur Tempus m'a accordé le don de ressentir la présence de mes parents, frères et soeurs tant que leur âme est encore de ce monde.~
 @146  = ~Tu as une grande famille alors ?~
-@147  = ~Frères ? Soeurs ? Et un mari et des enfants ?~
+@147  = ~Frères ? Sœurs ? Et un mari et des enfants ?~
 @148  = ~C'est plutôt sympathique.~
 @149  = ~Si seulement j'avais pu percevoir que Gorion était menacé de mort ! Je l'aurais averti.~
 @150  = ~Oui <CHARNAME>, une grande et heureuse famille et bien que je n'en sois pas l'aînée, j'ai souvent joué le rôle de ma mère. C'est dur pour une femme du Nord de garder à la fois sa maison propre et ses enfants bien nourris et disciplinés. Cela dit, mon père était fort et la fortune lui souriait, et de nombreuses bêtes ont péri de sa main. Nos réserves étaient pleines et nous n'avons jamais eu froid durant les rudes hivers.~
@@ -198,7 +198,7 @@
 @181  = ~En route, mon ami. Tu as encore une fois soulagé mon coeur de son lourd fardeau, et je t'en remercie chaudement. *cligne de l'oeil* Je crois que ce sera bientôt le moment d'inspecter ton marteau...~
 @182  = ~Merci, mais je veux maintenant me tourner vers Tempus pour qu'il me guide. Si tu me donnes un moment de répit, j'aimerais bien prier.~
 @183  = ~<CHARNAME> ! Rien de si déshonorant... euh, mais t'attendais-tu vraiment à ce que je tombe en pâmoison ? De toute façon, je n'avais pas l'intention de m'évanouir volontairement... Ah, va au diable ! Tu te moquais de moi !~
-@184  = ~Mon coeur est moins lourd maintenant, mais ne me parle plus jamais comme ça. « Tomber en pâmoison, m'évanouir », par Tempus...~
+@184  = ~Mon cœur est moins lourd maintenant, mais ne me parle plus jamais comme ça. « Tomber en pâmoison, m'évanouir », par Tempus...~
 @185  = ~*pouffe de rire*~
 
 // Lovetalk 7 - repos
@@ -323,12 +323,12 @@
 @291  = ~Alors c'est le vent qui sera ton coiffeur ?~
 @292  = ~Ah ? Lequel ?~
 @293  = ~Pourquoi ai-je le sentiment troublant que la prochaine question que tu vas me poser sera de savoir si tu as l'air grosse dans ton armure ?~
-@294  = ~Coiffure « vent du nord » - le style que je préfère entre tous.~
+@294  = ~Coiffure « vent du nord », le style que je préfère entre tous.~
 @295  = ~J'aime ton style, Branwen. J'ai toujours voulu rencontrer une femme jolie naturellement, sans apprêt.~
-@296  = ~Bon, si seulement tu te coupais les cheveux, si tu te faisais ces petites boucles - quel que soit le nom qu'on leur donne - et si tu te maquillais, là je dirais que tu as amélioré ton allure. Laisser le vent ébouriffer tes cheveux ne t'embellira absolument pas.~
+@296  = ~Bon, si seulement tu te coupais les cheveux, si tu te faisais ces petites boucles, quel que soit le nom qu'on leur donne, et si tu te maquillais, là je dirais que tu as amélioré ton allure. Laisser le vent ébouriffer tes cheveux ne t'embellira absolument pas.~
 @297  = ~*Rit* j'ai remarqué que tu me regardais, et je cherchais un compliment de ta part.~
 @298  = ~Oh, un compliment ? Alors il en sera fait selon votre volonté, ma Dame. J'aime ton style, Branwen. J'ai toujours voulu rencontrer une femme jolie naturellement, sans apprêt.~
-@299  = ~Bon, si seulement tu te coupais les cheveux, si tu te faisais ces petites boucles - quel que soit le nom qu'on leur donne - et si tu te maquillais, là je dirais que tu as amélioré ton allure. Laisser le vent ébouriffer tes cheveux ne t'embellira absolument pas.~
+@299  = ~Bon, si seulement tu te coupais les cheveux, si tu te faisais ces petites boucles, quel que soit le nom qu'on leur donne, et si tu te maquillais, là je dirais que tu as amélioré ton allure. Laisser le vent ébouriffer tes cheveux ne t'embellira absolument pas.~
 @300  = ~Désolé Branwen. Les rudes lèvres du combattant que je suis n'ont pas l'habitude de prononcer du baratin stupide de séducteur.~
 @301  = ~Pas du tout, ne t'inquiète pas. Plus jamais.~
 @302  = ~J'ai bien peur que nous n'ayons des idées divergentes au sujet de la beauté. C'est une différence essentielle entre nous.~
@@ -374,7 +374,7 @@
 
 @337  = ~Il est agréable de prendre un peu de repos après de glorieuses batailles au nom de Tempus. Nous en sommes sortis vainqueurs, nous sommes autour d'un bon feu et il n'y a aucun danger à l'horizon. Viens t'asseoir à côté de moi, j'apaiserai tes douleurs et soignerai tes blessures.~
 @338  = ~Je me sens plutôt en forme, Branwen. Nos tâches quotidiennes sont terminées, mais n'avions-nous pas convenu de nous entraîner à la conversation galante ? Et si on commençait la leçon tout de suite ?~
-@339  = ~Mes blessures sont guéries, Branwen. Sais-tu ce que j'apprécie le plus dans un feu de camp ? C'est qu'il adoucit nos esprits et nos coeurs. Et à propos de notre leçon de conversation galante, ma dame - peut-on rêver meilleur moment pour cela ?~
+@339  = ~Mes blessures sont guéries, Branwen. Sais-tu ce que j'apprécie le plus dans un feu de camp ? C'est qu'il adoucit nos esprits et nos coeurs. Et à propos de notre leçon de conversation galante, ma dame, peut-on rêver meilleur moment pour cela ?~
 @340  = ~Ce programme est plus qu'alléchant, Branwen. Si nous passions la nuit ensemble ?~
 @341  = ~Branwen, tout ce dont j'ai besoin est une bonne nuit de sommeil. Laisse-moi tranquille.~
 @342  = ~Bah ! Tant mieux pour moi !~
@@ -433,7 +433,7 @@
 @389  = ~Parles-tu de ton corps ou de ton âme ?~
 @390  = ~Quel effet cela faisait-il d'être une statue, Branwen ?~
 @391  = ~Je suis heureux de te voir entière et vivante.~
-@392  = ~Ton coeur n'est pas de pierre, ma Branwen. Ne crois pas le contraire.~
+@392  = ~Ton cœur n'est pas de pierre, ma Branwen. Ne crois pas le contraire.~
 @393  = ~Ils ont autant souffert l'un que l'autre, <CHARNAME>. Il est vrai que le corps n'est que le temple qui abrite mon âme et pourtant, être rendue impuissante et immobile tout en étant consciente et capable de penser fut la pire des punitions et des tortures.~
 @394  = ~C'est ma foi et ton amitié qui m'ont permis de rester intacte, <CHARNAME>. Cependant le souvenir de ces horreurs passées reste, mûrit et me remplit d'amertume. C'était un destin épouvantable qui m'attendait, être impuissante mais capable de penser, sans même pouvoir bénéficier de cette béatitude honteuse qu'est l'oubli.~
 @395  = ~Je le sais, <CHARNAME>. Mais Tranzig, lui, ne le savait pas. Il a dit : « une femme au coeur de pierre... devrait être entièrement de pierre... » Et je suis donc devenue la statue que tu as trouvée au festival de Nashkel.~
@@ -470,7 +470,7 @@
 
 @424  = ~Le ciel ici est différent de celui de Norheim. Sais-tu ce que je faisais la nuit dernière ? Je comptais les étoiles et je leur donnais des noms. J'ai même envisagé de donner ton nom à l'une d'elles. Devine laquelle, <CHARNAME> ?~
 @425  = ~L'étoile de Mystra ? Bien que je préfère penser à toi lorsque je la regarde : elle est si belle, si brillante...~
-@426  = ~Ieryn - l'étoile du Nord ?~
+@426  = ~Ieryn, l'étoile du Nord ?~
 @427  = ~Shaundral ? Une étoile fantasque, la plus brillante avant le désastre ? Comme moi, dont l'arrivée avait été prévue dans les prophéties d'Alaundo ?~
 @428  = ~Monnaie du roi ? L'étoile des Hiérarques pour les hommes, et celle de l'Assassin du Roi pour les elfes ? Penses-tu que ma destinée me conduira à la grandeur, ou à l'échec total ?~
 @429  = ~Je ne sais pas, Branwen. Dis-le moi.~
@@ -482,7 +482,7 @@
 @435  = ~Lorsque j'observais le ciel hier soir, j'ai soudain réalisé que toutes les étoiles me faisaient penser à toi. Alors j'ai compris que tout ce qui est doux et cher à mon coeur est relié à toi d'une manière ou d'une autre. Tu es dans mon souffle glacé au petit matin, et dans l'air que je sifflote quand je me réveille. Tu es mon soleil et mes étoiles... J'ai bien peur que tu sois le centre de mon monde.~
 @436  = ~Oui, tu devrais t'inquiéter de ton amour pour moi. Je sais qu'un jour, nue et sans artifice, tes lèvres me diront de simples « je t'aime ». J'attends ce jour avec impatience.~
 @437  = ~Trop de paroles recherchées, Branwen. Parle-moi de manière plus concrète de tes sentiments à mon égard. La nuit est longue, et il va nous falloir du sommeil.~
-@438  = ~Maintenant je me pose la question : à quelle étoile devrais-je donner ton nom ? Je présume que je vais rester éveillé toute la nuit, absorbé par cette tâche. Je me demande pourquoi on trouve autant d'exemplaires de "L'histoire du Nord" dans les bibliothèques des pauvres aussi bien que des riches dans la région ? Je préférerais de loin trouver un ouvrage sur "L'histoire des étoiles" quelque part...~
+@438  = ~Maintenant je me pose la question : à quelle étoile devrais-je donner ton nom ? Je présume que je vais rester éveillé toute la nuit, absorbé par cette tâche. Je me demande pourquoi on trouve autant d'exemplaires de « L'histoire du Nord » dans les bibliothèques des pauvres aussi bien que des riches dans la région ? Je préférerais de loin trouver un ouvrage sur « L'histoire des étoiles » quelque part...~
 @439  = ~Et moi je meurs d'envie d'aller m'étendre dans mon sac de couchage. Tu m'y rejoins ? Cela fait beaucoup trop longtemps que tu ne m'as pas serrée dans tes bras, mon fainéant d'amant.~
 @440  = ~*rit* Elle peut être aussi longue ou aussi courte que tu le souhaites, <CHARNAME>. Mais je me souviens que tu es capable de renoncer à dormir, à l'occasion. Alors, qu'attends-tu ? Tu me rejoins ? Cela fait beaucoup trop longtemps que tu ne m'as pas serrée dans tes bras, mon fainéant d'amant.~
 @441  = ~Par Tempus, j'ai créé un monstre ! Je suppose que si tu souhaites commencer à écrire ton propre ouvrage sur les étoiles dès maintenant, je dois pouvoir t'aider. Si ce n'est pas le cas, je te suggère de me rejoindre dans mon sac de couchage. Je te fais remarquer que cela fait beaucoup trop longtemps que tu ne m'as pas serrée dans tes bras, mon fainéant d'amant.~
@@ -502,7 +502,7 @@
 @452  = ~Je l'ai remarqué aussi. Est-ce de ma faute ? De notre faute ?~
 @453  = ~Et c'est à cause de notre amour, n'est-ce pas ?~
 @454  = ~Je ne vois pas de quoi tu parles.~
-@455  = ~Considèrerais-tu le fait d'arracher de ta propre poitrine ton coeur battant et saignant comme quelque chose de "mauvais" ? Eh bien c'est pire que "mauvais", <CHARNAME>.~
+@455  = ~Considèrerais-tu le fait d'arracher de ta propre poitrine ton coeur battant et saignant comme quelque chose de « mauvais » ? Eh bien c'est pire que « mauvais », <CHARNAME>.~
 @456  = ~Oui <CHARNAME>, tu as deviné.~
 @457  = ~Je parle d'une force qui amène puissance mais aussi faiblesse. Une force qui inspire et qui réchauffe le coeur, mais qui mène à l'inertie et au déclin si on la place au-dessus de tout le reste. L'amour, <CHARNAME>. Notre amour.~
 @458  = ~Je suis née pour servir Tempus ; Mes lèvres se sont bien plus souvent ouvertes pour un cri de guerre que pour la bouche d'un amant. Mais maintenant je suis rongée par le doute, aussi fréquemment qu'un vieil arbre subit les assauts des insectes et des vers rampant sur tout son corps. Ce sont de dures paroles, <CHARNAME>, mais j'avais peur que tu ne comprennes pas si je m'étais exprimée en termes plus délicats et mesurés.~
@@ -559,7 +559,7 @@
 @503  = ~Il faut que je te quitte, <CHARNAME>. Même si ce n'était pas ton intention, tu as engendré en moi une satanée faiblesse et je ne peux pas la laisser s'étendre et me consumer.~
 @504  = ~Elle ne sera bénéfique qu'à long terme, Branwen. Nous finirons par nous marier, nous installer quelque part, avoir des enfants...~
 @505  = ~Branwen mon amour, du calme. Tu t'inquiètes pour pas grand-chose.~
-@506  = ~Ton coeur n'est-il pas assez grand pour abriter à la fois mon amour et ta foi ?~
+@506  = ~Ton cœur n'est-il pas assez grand pour abriter à la fois mon amour et ta foi ?~
 @507  = ~Pourquoi te tracasses-tu à ce point ? Il y a un temps pour tout, Branwen, aussi bien pour la fureur du combat que pour la douceur et le bien-être d'une nuit.~
 @508  = ~Bien sûr, Branwen. Comme tu voudras.~
 @509  = ~Beurk. Non <CHARNAME>, je suivrais bien avec joie la voie que tu me proposes mais mon avenir n'est pas là, pas tant que je serai capable de brandir mon arme avec force et droiture.~
@@ -592,7 +592,7 @@
 
 // Chateau-Suif - Just RomanceMatch=1
 
-@531  = ~Oooh cet air ! Si sain, et une si douce fragrance ! Cèdre, sauge, sel, eau - tout ce qui m'est cher, familier et authentique. Ta contrée natale est un régal pour mes yeux et mes narines, <CHARNAME>.~
+@531  = ~Oooh cet air ! Si sain, et une si douce fragrance ! Cèdre, sauge, sel, eau... tout ce qui m'est cher, familier et authentique. Ta contrée natale est un régal pour mes yeux et mes narines, <CHARNAME>.~
 @532  = ~Château-Suif représente plus que l'odeur de la mer, Branwen.~
 @533  = ~Je suis heureux que cela te plaise. Veux-tu aller au bord de l'eau ?~
 @534  = ~Pour être honnête, je ne l'ai jamais aimée. Si j'avais le choix, je vivrais aussi loin que possible de la mer.~
@@ -650,7 +650,7 @@
 @580  = ~Mais j'ai peur pour toi, de temps en temps.~
 @581  = ~As-tu peur pour moi, ou as-tu peur de moi ?~
 @582  = ~Ne t'inquiète pas pour moi, Branwen. Je ne souffre pas mille tourments, je ne suis pas maudit ! Je suis ce que je suis, un enfant de Bhaal, et je suis prêt à faire face à mon destin. Je n'ai pas besoin de tes prières, ou de ta compassion !~
-@583  = ~Tu sais, je commence à trouver tout ça vraiment saugrenu. Laisse-moi simplement te dire "bonjour", et oublions tout cela.~
+@583  = ~Tu sais, je commence à trouver tout ça vraiment saugrenu. Laisse-moi simplement te dire « bonjour », et oublions tout cela.~
 @584  = ~Je n'ai jamais eu peur de toi.~
 @585  = ~Certains disent que tu devrais.~
 @586  = ~Je suis heureux de l'entendre, Branwen. Cela me change, c'est agréable. Avec tous ces ragots qui circulent sur la Côte des Épées, je présume qu'on me cite plus souvent dans les anathèmes que dans les prières.~
@@ -668,7 +668,7 @@
 @595  = ~C'est vrai. Nous avons tous deux fait nos choix, et je ressens déjà les conséquences des miens.~
 @596  = ~Je te suivrai partout où tu m'emmèneras, et je t'apporterai mon soutien inébranlable sans aucune hésitation. Tu le sais très bien.~
 @597  = ~Mais, comme je l'ai dit, nous nous séparerons dès que Sarevok, cette bête maléfique et assoiffée de sang, aura goûté à nos lames. C'est inévitable, <CHARNAME>.~
-@598  = ~Je... J'espérais que tu changerais d'avis.~
+@598  = ~Je... j'espérais que tu changerais d'avis.~
 @599  = ~Y a-t-il quelque chose que je puisse faire pour que tu restes ?~
 @600  = ~Je sais Branwen, et je le comprends.~
 @601  = ~Ce n'est pas le cas. Peut-être en viendrai-je à le regretter, mais en attendant je suis certaine d'avoir fait le bon choix.~
@@ -704,9 +704,9 @@
 @624  = ~*Branwen fredonne un lente et belle mélodie, un air étonnamment doux. Remarquant que vous lui prêtez attention, Branwen sourit.* C'est une berceuse de Norheim, <CHARNAME>. Ma mère me manque beaucoup, je l'avoue.~
 @625  = ~*Branwen tend sa main et caresse votre avant-bras pour palper votre biceps.* Tu es un puissant combattant. J'ai du respect pour cela.~
 @626  = ~*Branwen fait un clin d'oeil et se serre contre vous un petit moment, avant de s'éloigner.*~
-@627  = ~*Branwen fronce les sourcils lorsqu'elle examine votre plaie.* Tu négliges tes propres blessures - C'est inquiétant, pour le moins. Ne bouge pas, <CHARNAME>.~
+@627  = ~*Branwen fronce les sourcils lorsqu'elle examine votre plaie.* Tu négliges tes propres blessures... C'est inquiétant, pour le moins. Ne bouge pas, <CHARNAME>.~
 @628  = ~*Branwen plaque les paumes de ses mains sur vos épaules et commence à masser vos muscles fatigués. En quelques minutes une sensation douce et relaxante gagne votre cou, soulageant des douleurs anciennes que vous ne percevez quasiment plus. Finalement, elle vous embrasse sur la joue et s'éloigne.*~
-@629  = ~*Branwen rit toute seule, ses gloussements sont si communicatifs qu'il vous prend un instant l'envie de l'imiter.* Je viens juste de me souvenir d'une vieille blague. "On ne se dispute pas à propos des goûts - on élimine le vaurien dont les goûts diffèrent des nôtres !"~
+@629  = ~*Branwen rit toute seule, ses gloussements sont si communicatifs qu'il vous prend un instant l'envie de l'imiter.* Je viens juste de me souvenir d'une vieille blague. « On ne se dispute pas à propos des goûts, on élimine le vaurien dont les goûts diffèrent des nôtres ! »~
 @630  = ~*Branwen vous sourit, un sourire étrangement timide pour une prêtresse de guerre dotée d'une voix forte et d'un franc-parler certain.* J'ai fini par apprécier ta compagnie. Merci de me laisser voyager avec toi.~
 @631  = ~*Branwen regarde pensivement une fleur blanche posée dans la paume de sa main. Elle s'approche alors de vous et attache la fleur au col de votre cape.* Cela porte bonheur, <CHARNAME>.~
 @632  = ~*Branwen a les traits tirés mais en vous regardant, son visage se détend et elle vous fait un sourire avenant.* Je ne suis pas vraiment fatiguée, mon ami. La journée a été longue et difficile, mais d'autres batailles nous attendent encore.~
@@ -753,7 +753,7 @@
 @670  = ~*Branwen reluque votre postérieur, à l'évidence épatée par ce spectacle. Au bout d'un petit moment elle siffle, vous fait un clin d'oeil et s'éloigne.*~
 @671  = ~*Branwen caresse votre joue ; son visage prend soudainement un air triste, comme si vous la quittiez.* C'est si bon, <CHARNAME>. Nous deux... Il y a bien longtemps que je ne me suis pas sentie si calme et heureuse.~
 @672  = ~Tu ne sembles vivre que dans le présent. Il est temps de penser aux batailles futures, et à un destin plus noble que celui de mercenaire et héros dans un trou paumé.~
-@673  = ~*Il pleut à verse et votre cape se trempe et s'alourdit lentement mais sûrement, ce qui vous ralentit. Branwen, cependant, continue d'un pas léger et décidé, sa cape flottant derrière elle comme si elle était encore sèche. Remarquant votre intérêt, elle vous fait un clin d'oeil.* Nous, les Rauthymar, sommes habitués à marcher sous la pluie sans nous mouiller, <CHARNAME>. C'est presque de la magie, je le sais, mais si tu voyais les incessantes tempêtes de pluie l'été dans mon pays, tu comprendrais qu'il n'est pas possible de survivre dans les îles Norheim sans avoir en soi quelques facultés hors du commun.~
+@673  = ~*Il pleut à verse et votre cape se trempe et s'alourdit lentement mais sûrement, ce qui vous ralentit. Branwen, cependant, continue d'un pas léger et décidé, sa cape flottant derrière elle comme si elle était encore sèche. Remarquant votre intérêt, elle vous fait un clin d'oeil.* Nous, les Rauthymars, sommes habitués à marcher sous la pluie sans nous mouiller, <CHARNAME>. C'est presque de la magie, je le sais, mais si tu voyais les incessantes tempêtes de pluie l'été dans mon pays, tu comprendrais qu'il n'est pas possible de survivre dans les îles Norheim sans avoir en soi quelques facultés hors du commun.~
 @674  = ~*Elle fronce les sourcils, d'un air moqueur.* Tempus n'a pas besoin qu'on lui offre des fleurs dans ses chapelles mais moi, oui. Cela fait presque une dizaine de jours que tu ne m'as pas fait ce plaisir.~
 @675  = ~<CHARNAME>, je te trouve bien pâle, encore une fois. Qu'est-ce qui te préoccupe ?~
 @676  = ~Mes ennemis, Branwen. Quoi d'autre ?~
@@ -808,10 +808,10 @@
 @711  = ~Quoi ?~
 @712  = ~<CHARNAME> est le mâle alpha de notre meute, mais je ne ressens pas le besoin de m'accoupler avec lui ou de me battre avec toi pour ses faveurs. Et tu n'es pourtant pas plus forte que moi.~
 @713  = ~Écoute ce que j'allais dire, Faldorn : j'ai pris <CHARNAME> comme petit ami surtout parce que mon coeur l'a choisi, et qu'il m'a aimée en retour. Cela n'a pas été le cas pour ton coeur...~
-@714  = ~Coeur ?! Par les glands de Silvanus, le coeur sert à pomper le sang et le faire circuler dans le corps ! Il ne commande absolument rien !~
+@714  = ~Cœur ?! Par les glands de Silvanus, le coeur sert à pomper le sang et le faire circuler dans le corps ! Il ne commande absolument rien !~
 @715  = ~Peut-être es-tu plus humaine que tu ne le montres, Faldorn.~
 @716  = ~Pauvre de moi ! Je finirai comme une misérable citadine, désirant un mâle inférieur à cause des caprices de ce "coeur" !~
-@717  = ~Sois tranquille : il n'y a aucun risque qu'on te confonde un jour avec une citadine, Faldorn. Et, juste au cas où tu déciderais de réaffirmer ta nature sauvage - choisis un autre mâle alpha. Celui-ci est à moi.~
+@717  = ~Sois tranquille : il n'y a aucun risque qu'on te confonde un jour avec une citadine, Faldorn. Et, juste au cas où tu déciderais de réaffirmer ta nature sauvage, choisis un autre mâle alpha. Celui-ci est à moi.~
 @718  = ~Grrr ! Tu montres tes dents ! Peut-être es-tu plus une bête sauvage que tu ne le montres.~
 
 // Garrick

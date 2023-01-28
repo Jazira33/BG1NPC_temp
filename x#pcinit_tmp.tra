@@ -244,7 +244,7 @@
 @138 = ~Ces vêtements « pratiques » ne me vont pas. Et ces bottes ! Ces grosses godasses iraient mieux à une paysanne rustaude !~
 @139 = ~*fait un petit clin d'oeil à Eldoth* Oh, disons que j'ai largement de quoi compenser les quelques petits problèmes de confort.~
 @140 = ~*sourit tendrement à Eldoth* Tout est parfait ! Et j'espère que question confort, ça s'améliorera très bientôt.~
-@141 = ~Je... Je veux juste rentrer *chez moi* !~
+@141 = ~Je... je veux juste rentrer *chez moi* !~
 //////////
 /*réponses à @95 = ~Vous m'avez l'air bien sérieuse, Skie. Quelque chose ne va pas ?~*/
 //////////
@@ -269,7 +269,7 @@
 @153 = ~Je suis tellement excitée à l'idée de vivre l'aventure avec vous, <CHARNAME> !~
 @154 = ~Eldoth est le plus beau, vous ne trouvez pas ?~
 @155 = ~Aïe ! Je crois que je viens de me casser un ongle. Désolée... est-ce que ça peut attendre un autre moment ? Je me sens un peu... contrariée.~
-@156 = ~L'autre jour, j'ai joué à "il m'aime un peu, beaucoup, à la folie" avec une pâquerette... et selon ses pétales, Eldoth ne m'aime pas. Je sais que ce n'est qu'un petit jeu sans conséquence, mais ça me contrarie quand même.~
+@156 = ~L'autre jour, j'ai joué à « il m'aime un peu, beaucoup, à la folie » avec une pâquerette... et selon ses pétales, Eldoth ne m'aime pas. Je sais que ce n'est qu'un petit jeu sans conséquence, mais ça me contrarie quand même.~
 //
 // Shar-Teel
 //
@@ -471,7 +471,7 @@ Avance et bats-toi sur l'heure !~
 @310 = ~Tu devrais éviter de parler des morts, sauf si c'est en bien.~
 @311 = ~C'était un homme. Bien.~
 @312 = ~Euh, en fait, je crois que je l'ai raté, mais je commence à viser mieux.~
-@313 = ~J'ai découvert quel est le plus court chemin qui mène au coeur d'un homme : à travers la poitrine, avec une dague acérée.~
+@313 = ~J'ai découvert quel est le plus court chemin qui mène au cœur d'un homme : à travers la poitrine, avec une dague acérée.~
 @314 = ~« L'homme parfait » est une contradiction en soi, <CHARNAME>.~
 @315 = ~Pourquoi en trouver un seul quand tu peux en voler plusieurs ?~
 @316 = ~*Hausse les épaules* Pourquoi prêtes-tu attention aux hommes, alors ?~
@@ -725,7 +725,7 @@ Avance et bats-toi sur l'heure !~
 @564 = ~*La lame vous manque pour ainsi dire d'un cheveu. Shar-Teel se raidit et vous regarde avec ce qu'un oeil extérieur aurait pu appeler du respect.* Peu d'hommes auraient pu esquiver ce coup. Tu t'améliores, <CHARNAME>.~
 @565 = ~*Elle se détourne. Vous remarquez qu'elle a gardé la dague.*~
 @566 = ~*Malgré toute votre dextérité, vous n'avez pas réussi à éviter le coup. La lame se plante aisément dans votre ventre, mais elle s'arrête net après quelques millimètres. Shar-Teel se raidit et regarde dédaigneusement la blessure superficielle.* C'est toi qui l'a provoqué, <CHARNAME>.~
-@567 = ~*Elle jette la dague au sol et l'écrase d'une botte. S'assurant qu'elle a votre attention toute entière, elle se saisit de la garde de l'arme et la soulève, ce qui a pour effet de briser la lame, la rendant inutile. Elle vous regarde dans les yeux pendant un moment, puis se détourne de vous et s'en va.*~
+@567 = ~*Elle jette la dague au sol et l'écrase d'une botte. S'assurant qu'elle a votre attention tout entière, elle se saisit de la garde de l'arme et la soulève, ce qui a pour effet de briser la lame, la rendant inutile. Elle vous regarde dans les yeux pendant un moment, puis se détourne de vous et s'en va.*~
 @568 = ~*La lame se plante aisément dans votre ventre, mais elle s'arrête net après quelques millimètres. Shar-Teel la retire. Elle vous regarde, confuse.*~
 @569 = ~Tu es courageux, <CHARNAME>, mais tu es aussi un imbécile. Je t'ai déjà dit que tu étais trop téméraire, et tu viens de me prouver que j'avais raison. Apprends à reconnaître les situations où ta vie est en danger, et tu vivras plus longtemps.~
 @570 = ~Tout le plaisir de te saigner est pour moi.~
@@ -887,7 +887,7 @@ Avance et bats-toi sur l'heure !~
 @684 = ~Je crois que je vais rester ici. L'écho de mes éternuements est *tellement* plaisant. Et le fait qu'il y ait *tant* de poussière pour les provoquer est absolument charmant.~
 @685 = ~Un gaspillage pitoyable d'efforts, égayé par un peu de divertissement. Un tout petit peu.~
 @686 = ~*petit rire* Si tu as à poser la question, chéri, je suis à peu près certaine que tu ne comprendras pas la réponse.~ ~*petit rire* Si tu as à poser la question, chérie, je suis à peu près certaine que tu ne comprendras pas la réponse.~
-@687 = ~Oh, les quêtes pour se « trouver soi-même » sont tellement cliché. C'était à la mode il y a quelques décennies, mon chéri...~ ~Oh, les quêtes pour se "trouver soi-même" sont tellement cliché. C'était à la mode il y a quelques décennies, ma chérie...~
+@687 = ~Oh, les quêtes pour se « trouver soi-même » sont tellement cliché. C'était à la mode il y a quelques décennies, mon chéri...~ ~Oh, les quêtes pour se « trouver soi-même » sont tellement cliché. C'était à la mode il y a quelques décennies, ma chérie...~
 @688 = ~J'ai vécu une aventure tout-à-fait merveilleuse. Mais *celle-ci* ne l'était pas.~
 @689 = ~Tu as beau être l'enfant d'un dieu, tu ne t'illustres guère.~
 @690 = ~Si tu avais été un peu plus prévoyant, je suis certaine que tu aurais pu nous égarer dans un endroit plus attrayant que celui-ci.~ ~Si tu avais été un peu plus prévoyante, je suis certaine que tu aurais pu nous égarer dans un endroit plus attrayant que celui-ci.~
@@ -895,7 +895,7 @@ Avance et bats-toi sur l'heure !~
 @692 = ~Bon, tu sais que je *déteste* faire l'objet de toutes les attentions, mais *là* je suis en train de saigner sous mon chemisier. Qui était d'ailleurs un de mes vêtements favoris.~
 @693 = ~Pour une fois, je n'ai pas besoin de feindre mon affection pour les autres : vous m'attirez beaucoup. Je ne voudrais voyager avec personne d'autre que vous.~
 @694 = ~Peux-tu porter mon sac un moment ?~
-@695 = ~Ah, c'est bien mieux, maintenant je peux tout te raconter à mon sujet. Je suis née à Calimport d'un homme qui était un brillant politicien, mais un père lamentable. Ma mère était une sirène... n'est-ce pas flagrant vu mon allure ? Je n'aurais pas supporté de rester sa "petite fille" ad vitam eternam, donc je me suis enfuie courir l'aventure sur le vaisseau pirate "l'Exzesus"... Pour découvrir le monde... et les hommes, bien sûr. Des hommes grands et forts... Hélas, certains d'entre eux sont des fumiers, si lâches... pas toi, bien sûr. Plutôt comme ce capitaine ! Il m'a laissée à terre à cause d'un petit service que je lui avais demandé... Mais tout s'est bien terminé, puisque je lui ai "emprunté" la carte d'Alaric le Noir et que je t'ai rencontré.~
+@695 = ~Ah, c'est bien mieux, maintenant je peux tout te raconter à mon sujet. Je suis née à Calimport d'un homme qui était un brillant politicien, mais un père lamentable. Ma mère était une sirène... n'est-ce pas flagrant vu mon allure ? Je n'aurais pas supporté de rester sa « petite fille » ad vitam eternam, donc je me suis enfuie courir l'aventure sur le vaisseau pirate « l'Exzesus »... Pour découvrir le monde... et les hommes, bien sûr. Des hommes grands et forts... Hélas, certains d'entre eux sont des fumiers, si lâches... pas toi, bien sûr. Plutôt comme ce capitaine ! Il m'a laissée à terre à cause d'un petit service que je lui avais demandé... Mais tout s'est bien terminé, puisque je lui ai "emprunté" la carte d'Alaric le Noir et que je t'ai rencontré.~
 @696 = ~Pour une fille, tu n'es pas si désespérément nulle que cela, <CHARNAME>.~
 @697 = ~Si je dois être privée d'une compagnie exclusivement masculine, je ne vois personne d'autre avec qui je souhaiterais voyager...~
 @698 = ~Je me sens tellement sensuelle.~ [%tutu_var%SAFAN19]
@@ -1208,7 +1208,7 @@ Avance et bats-toi sur l'heure !~
 @903 = ~C'est surprenant que tu reconnaisses ta faute si facilement. Reste à savoir si c'est le signe d'un grand coeur et d'une grande sagesse ou si c'est juste un manque flagrant de cran, mais je suis prête à te donner une chance. Cela dit, n'imagine pas que je te pardonnerai aussi facilement la prochaine fois.~
 @904 = ~*Branwen marche à vos côtés, en sifflotant tranquillement une chanson de route. Remarquant votre regard, elle vous fait un clin d'oeil.* Je crois que tu n'as pas l'intention de me donner un ordre. Exprime-toi franchement, <CHARNAME>, je suis tout ouïe.~ [X#BLANK]
 @905 = ~*Saisir Branwen*~
-@906 = ~Branwen, ma douce guérisseuse, peux-tu jeter un coup d'oeil à mon épaule ? Elle me fait très mal.~
+@906 = ~Branwen, ma douce guérisseuse, peux-tu jeter un coup d'œil à mon épaule ? Elle me fait très mal.~
 @907 = ~*Embrasser les cheveux de Branwen, qui brillent comme de l'or poli.*~
 @908 = ~Branwen, tu me regardes depuis quelques minutes. Pourquoi cela ?~
 @909 = ~Branwen, je parie que je peux te battre dans un combat de lutte, que Tempus t'aide ou pas !~
@@ -1314,7 +1314,7 @@ Avance et bats-toi sur l'heure !~
 @1008 = ~Branwen, tes yeux sont aussi durs que les poignes de fer des orques.~
 @1009 = ~*Elle vous embrasse presque timidement* Je... te remercie, <CHARNAME>.~
 @1010 = ~*elle rit* Cela a l'air idiot, mais il y a une sagesse cachée dans tes paroles. Toute créature à laquelle les dieux ont donné une âme a quelque chose de remarquable en elle, si l'on y regarde d'assez près.~
-@1011 = ~Tu as encore vraiment un côté "petit garçon"...~
+@1011 = ~Tu as encore vraiment un côté « petit garçon »...~
 
 // réponses à 910 (des enchainements, choisis aléatoirement)
 
@@ -1341,7 +1341,7 @@ Avance et bats-toi sur l'heure !~
 @1032 = ~*tousse* Voilà que je parle comme un idiot pompeux. Partons.~
 @1033 = ~*Branwen rit* Quand il neige dans les îles Norheim, c'est de la neige fondue, visqueuse. Je préfère de loin les fortes pluies d'été.~
 @1034 = ~*Branwen se tourne vers vous et dans la lumière, vous réalisez à quel point vous avez raison : sa peau est éclatante et sa splendide chevelure ondule lentement sur ses épaules.*~
-@1035 = ~O, Branwen la Belle, Branwen des Neiges...~
+@1035 = ~Ô, Branwen la Belle, Branwen des Neiges...~
 @1036 = ~*Vous la regardez avec délice.*~
 @1037 = ~*Vous opinez de la tête : elle est belle. Et alors ?*~
 @1038 = ~Es-tu certain de bien t'en souvenir ? *Elle vous embrasse, et son baiser est aussi enflammé que dans votre souvenir.*~
@@ -1358,7 +1358,7 @@ Avance et bats-toi sur l'heure !~
 @1046 = ~*Vous trébuchez vers l'avant en poussant un cri de surprise, ce qui met en alerte les autres membres du groupe qui pensent tout d'abord que vous venez d'être attaqué par un bête malveillante. Lorsqu'ils réalisent qu'il ne s'agit que de Branwen, ils ne font qu'écarquiller leurs yeux.*~
 @1047 = ~*Vous arrivez à supporter les poids réunis de Branwen et de vos équipements. Elle se met à rire pendant que vous la remontez sur votre dos, mais vous décidez de renverser la situation ; vous l'attrapez par la taille et par derrière, et la retournez d'un coup puissant : elle se retrouve alors face à vous et accrochée à vos hanches. Vous plaquez un long et langoureux baiser sur ses lèvres, motivé non seulement par votre désir, mais aussi pour mettre un terme à ses rires incessants. Après vous être séparés à contrecoeur, elle se remet debout et vous serre fort dans ses bras, avant de rejoindre le reste du groupe.*~
 @1048 = ~*Vous vous penchez avec une grande facilité, la faisant ainsi glisser sur votre dos et tomber au sol. Alors qu'elle vous adresse quelques jurons, vous lui tendez gracieusement votre bras et elle commence alors à rire.* C'est vrai <CHARNAME>. Tu en es capable.~
-@1049 = ~*Vous vous retournez brusquement et réussissez à rattraper Branwen avant qu'elle ne tombe. Elle vous répond par un baiser fougueux et vous entamez rapidement un autre type de "lutte"...*~
+@1049 = ~*Vous vous retournez brusquement et réussissez à rattraper Branwen avant qu'elle ne tombe. Elle vous répond par un baiser fougueux et vous entamez rapidement un autre type de « lutte »...*~
 @1050 = ~*Vous vacillez en avant en poussant un cri désespéré, résigné à mesure que le sol s'approche rapidement de vous. Vous et Branwen mordez la poussière avec un bruit retentissant, mais Branwen a au moins un coussin des plus pratiques pour amortir sa chute. Branwen souffle dans votre oreille et vous murmure une vague excuse avant de vous embrasser sur la tempe. La douleur dûe à la chute s'évanouit de votre esprit, alors que vous roulez sous Branwen et contemplez les magnifiques traits de son visage souriant.*~
 @1051 = ~Tu me pardonnes, <CHARNAME> ? *Branwen prend son air le plus candide et fait courir un doigt le long de votre front et de votre nez, s'arrêtant sur vos lèvres. Elle se penche et vous embrasse avec douceur sur les lèvres ; votre coeur se met alors à battre la chamade et votre estomac se noue.*~
 @1052 = ~Je le savais ! *Elle vous laisse vous relever, récupérer votre équipement ainsi que la dernière parcelle de dignité qui vous reste, avant de vous serrer très fort dans ses bras et de reprendre sa place dans le groupe.*~
@@ -1494,7 +1494,7 @@ Avance et bats-toi sur l'heure !~
 @1152 = ~Et c'est réciproque. Par Tempus, je n'ai pas rencontré un guerrier et un chef tel que toi depuis que j'ai quitté Loup de mer !~
 @1153 = ~Je resterai à tes côtés mon ami, si Tempus le veut bien.~
 @1154 = ~Ce n'est pas grand-chose, <CHARNAME>. Je ne fais que suivre la voie des Guerroyeurs, les prêtres de Tempus.~
-@1155 = ~Il aurait fallu que tu voies les fiers et vigoureux guerriers de Norheim. Mes prouesses ne sont rien comparées à celles des meilleurs Rauthymar.~
+@1155 = ~Il aurait fallu que tu voies les fiers et vigoureux guerriers de Norheim. Mes prouesses ne sont rien comparées à celles des meilleurs Rauthymars.~
 @1156 = ~Non, c'est moi qui dois te remercier de m'avoir admise dans ton groupe. Tu peux compter sur moi, <CHARNAME>.~
 @1157 = ~Je jure que je me battrai pour toi de toutes mes forces.~
 @1158 = ~Je suis fière que tu apprécies mes efforts, mon ami.~
@@ -1714,7 +1714,7 @@ Avance et bats-toi sur l'heure !~
 //réponses à @1233
 @1302 = ~Les Seigneurs de Fer sont choisis par les Hathrans, celles que l'on appelle ici les sorcières de Rashéménie. Mais je ne peux dire grand-chose de mes soeurs. Minsc a eu tort de parler aussi ouvertement de ce que je suis. Si nous ne sommes pas en Rashéménie, je préfère garder ma fonction secrète, même en tant qu'apprentie. Mais je ne saurais me résoudre à blâmer Minsc pour cela ; il n'a plus toutes ses facultés mentales.~
 @1303 = ~La Rashéménie possède une puissante armée que l'on appelle les Crocs de Rashéménie. Le gros de ses troupes est composé de cavaleries légères, maniant aussi bien la lance que l'arc. Durant la Bataille de la Rivière des Larmes, les Crocs et les Hathrans ont infligé une cuisante défaite aux Tuigans. Ils ont amputé la Horde d'un quart de leurs effectifs, bien que ces derniers étaient en surnombre ; ils se battaient à quatre contre un.~
-@1304 = ~Plusieurs de mes soeurs vivent dans la ville d'Urling. En Rashéménie, on reconnaît les Hathrans à leurs robes noires et leurs masques gris.~
+@1304 = ~Plusieurs de mes sœurs vivent dans la ville d'Urling. En Rashéménie, on reconnaît les Hathrans à leurs robes noires et leurs masques gris.~
 @1305 = ~Sans le savoir, Tu as été le bras de la loi rashémie en exécutant les gnolls qui me retenaient captive. En effet, désobéir à une Hathran est puni de mort. Mais les Hathrans sont des personnes charitables ; jamais elles n'invoquent une telle sentence, à moins qu'il n'ait été commis un acte impardonnable.~
 @1306 = ~Le grand Lac Ashane, aussi connu sous le nom de la Rivière des Larmes, fut aussi un champ de bataille dans la guerre opposant Thay et la Rashéménie. Pour contrer les ambitions Thayennes, les Hathrans ont créé des bateaux magiques, les bateaux-sorcières, qui traversent le lac par la seule force de volonté de son utilisateur tout en envoyant des effluves toxiques et des bêtes monstrueuses en direction des vaisseaux de guerre Thayens.~
 @1307 = ~Dans mon peuple, il est considéré comme honorable d'être fort de corps et d'esprit, aussi bien chez les hommes que chez les femmes. Cet état d'esprit se manifeste jusque dans les jeux auxquels jouent les miens. Il faut bien connaître la Rashéménie pour savoir ce qu'est la course sur neige. En fait, il s'agit simplement d'une course, sauf que... Il faut le voir pour en mesurer l'importance.~
@@ -1778,7 +1778,7 @@ Avance et bats-toi sur l'heure !~
 @1358 = ~*Lui donner une rose sauvage.*~
 @1359 = ~*Alors que vous marchez aux côtés de Dynahéir, vous remarquez que la beauté de ces bois la touche jusqu'au plus profond d'elle-même. Elle marche d'un pas léger, respirant à pleins poumons l'air frais des arbres et de la terre. Doucement, vous récitez un poème sur une ballade dans les ombres de la forêt et sur la beauté du feuillage.*~
 @1360 = ~*Alors que vous marchez dans les rues de la Porte de Baldur, vous arrivez dans une cour avec une ancienne fontaine publique. Dynahéir s'approche de la fontaine pour s'humidifier le visage. Vous vous asseyez au bord du bassin blanc et la regardez. Sans même vous en rendre compte, vous sussurez un poème sur les femmes dont les baisers se font aussi désirables qu'un peu d'eau fraîche sous le soleil de midi.*~
-@1361 = ~*Alors que vous viviez l'un de ces rares moments de paix, vous voyez Dynahéir s'arrêter pour regarder les superbes fleurs qui poussent contre la barrière de l'une des maisons du village. Habillée de sa robe de magicien décorée de runes, Dynahéir ressemble elle-même à une fleur. "Ne bougez pas", lui dites-vous, "Vous me rappelez un poème". Vers après vers, vous récitez un vieux chant parlant d'une femme avisée allant au marché. Ce chant possède un petit côté romantique que vous n'aviez jamais remarqué avant.*~
+@1361 = ~*Alors que vous viviez l'un de ces rares moments de paix, vous voyez Dynahéir s'arrêter pour regarder les superbes fleurs qui poussent contre la barrière de l'une des maisons du village. Habillée de sa robe de magicien décorée de runes, Dynahéir ressemble elle-même à une fleur. « Ne bougez pas », lui dites-vous, « vous me rappelez un poème ». Vers après vers, vous récitez un vieux chant parlant d'une femme avisée allant au marché. Ce chant possède un petit côté romantique que vous n'aviez jamais remarqué avant.*~
 @1362 = ~*Déclamer le verset d'un poème épique que vous aviez étudié à Château-Suif, pendant les leçons de Gorion.*~
 @1363 = ~*Doucement, comme si vous murmuriez quelque chose à vous-même, mais suffisamment fort pour que Dynahéir entende, vous récitez un poème sur l'amour éternel.*~
 @1364 = ~Dynahéir, il semblerait que notre relation soit en train d'évoluer vers autre chose que de l'amitié. Vous êtes un compagnon de voyage apprécié doublé d'une véritable amie, mais je ne souhaite pas autre chose que ça.~
@@ -1793,7 +1793,7 @@ Avance et bats-toi sur l'heure !~
 @1371 = ~Mon père forçait des femmes à coucher avec lui pour leur faire faire des enfants. Ce n'est pas vraiment un exemple en matière de séduction.~
 @1372 = ~C'est en tout cas plus responsable que de Te donner à une femme qui partage Ton héritage. Seuls les dieux peuvent savoir ce qui peut résulter d'un mélange aussi inquiétant.~
 @1373 = ~Elle n'a pas besoin d'être ma demi-soeur, Dynahéir. Elle n'a qu'à être aussi maudite que je le suis.~
-@1374 = ~Je... Je n'avais pas vu la chose sous cet angle.~
+@1374 = ~Je... je n'avais pas vu la chose sous cet angle.~
 @1375 = ~Nous parlons de choses qui devraient ne pas être dites. J'apprécie au plus haut point le fait de pouvoir vous parler de tout et de rien, mais j'ai peur d'avoir fait une erreur en mettant ce sujet sur le tapis.~
 @1376 = ~Et qui cette personne pourrait bien être ? La fille de Baine ? Un démon des plans Inférieurs ? Une tieffeline ?~
 @1377 = ~L'affinité par la malédiction, que voilà une obligation bien étrange pour une fiancée.~
@@ -1817,7 +1817,7 @@ Avance et bats-toi sur l'heure !~
 @1393 = ~*Lorsque votre baiser prend fin, Dynahéir met ses bras autour de votre cou et sourit.* C'est magnifique, mon héros.~
 @1394 = ~*Dynahéir fait durer le baiser, goûtant et savourant vos lèvres.*~
 @1395 = ~*C'est comme si le monde s'arrêtait de tourner autour de vous. Vous n'entendez, ne sentez, ni ne voyez rien, si ce n'est Dynahéir. Vous vous trouvez tous les deux seuls, parfaitement seuls dans cet instant magique ou rien d'autre ne compte que l'étreinte de l'autre.*~
-@1396 = ~*Vous sentez les battements de coeur de Dynahéir ; ils sont rapides, si rapides... Vous commencez à flotter. Lentement, une pensée triomphante se forme dans votre esprit : "J'ai embrassé Dynahéir."*~
+@1396 = ~*Vous sentez les battements de coeur de Dynahéir ; ils sont rapides, si rapides... Vous commencez à flotter. Lentement, une pensée triomphante se forme dans votre esprit : « j'ai embrassé Dynahéir ».*~
 
 //réponses à @1352
 @1397 = ~*Dynahéir pose sa main sur votre épaule.* Je n'ai pas froid, cher ami, je Te l'assure. Inutile de T'en soucier.~
@@ -1852,7 +1852,7 @@ Avance et bats-toi sur l'heure !~
 @1424 = ~En plus, il paraît que la pire chose qui pourrait arriver serait que tous nos souhaits se réalisent.~
 @1425 = ~Ce « pétrin » est Ta vie, <CHARNAME>.~
 @1426 = ~Il est une ancienne légende qui parle d'un homme qui priait Ilmater, clamant en larmes que ses épaules ne pouvaient plus supporter le poids de son existence. Ilmater lui a alors dit qu'il allait lui montrer la vie d'autres personnes, et qu'il allait lui laisser choisir l'existence qui lui conviendrait.~
-@1427 = ~L'homme a donc regardé, et s'est rendu compte que son existence était la moins difficile à ses yeux. Ilmater lui a donc dit : "C'est donc Ta vie, celle dont Tu Te plaignais tant".~
+@1427 = ~L'homme a donc regardé, et s'est rendu compte que son existence était la moins difficile à ses yeux. Ilmater lui a donc dit : « C'est donc Ta vie, celle dont Tu Te plaignais tant ».~
 @1428 = ~Ce n'est pas grave. Nous n'avons pas passé une bonne journée, loin de là.~
 @1429 = ~*Dynahéir prend fermement votre main. Vous constatez qu'elle essaie de vous transmettre une partie de sa force, et, à votre plus grande surprise, vous vous sentez prêt à faire face à tout ce qui pourrait entraver votre route.~
 @1430 = ~Cela Te ressemble bien peu de Te plaindre, <CHARNAME>.~
@@ -2053,7 +2053,7 @@ Avance et bats-toi sur l'heure !~
 @1605 = ~De quoi Te languis-Tu, ma douce amie ?~
 @1606 = ~*La laisser.*~
 @1607 = ~Il était une fois un magicien originaire du Cormyr, qui faisait usage de ses pouvoirs en facéties qui déplaisaient fortement à ses supérieurs. C'est ainsi que ces derniers le réprimandaient régulièrement ; mais aucune méthode ne semblait l'assagir. Un jour, un officier frustré l'interpella dans la rue, et lui demanda comment se faisait-il que toutes les sanctions et les corrections qu'il avait subies n'avaient aucun effet sur son comportement. Le magicien répondit alors : "Oh, mais tout ceci fonctionne à merveille. Tous les simulacres sans exception aucune que j'ai envoyés s'en sont trouvés changés du tout au tout !"~
-@1608 = ~Un jour, un commerçant humain décéda. Or, il se trouve qu'à moultes reprises, sa foi avait changé de direction. Les dieux concernés en ont tous fait une affaire personnelle, et tous se disputaient son âme. Après les avoir écoutés un moment, le commerçant prit la parole : « Ecoutez, cela m'ennnuie de causer autant de problèmes. Faisons un marché : je vous promets de choisir l'un d'entre vous, et me tenir à ce choix pendant cinquante ans. Tout ce qu'il faut faire, c'est me ramener à la vie. »~
+@1608 = ~Un jour, un commerçant humain décéda. Or, il se trouve qu'à moultes reprises, sa foi avait changé de direction. Les dieux concernés en ont tous fait une affaire personnelle, et tous se disputaient son âme. Après les avoir écoutés un moment, le commerçant prit la parole : « Écoutez, cela m'ennnuie de causer autant de problèmes. Faisons un marché : je vous promets de choisir l'un d'entre vous, et me tenir à ce choix pendant cinquante ans. Tout ce qu'il faut faire, c'est me ramener à la vie. »~
 @1609 = ~Il était un jeune barde qui avait un contentieux avec son ami, un apprenti magicien. Ce dernier arguait qu'un homme intelligent était en mesure d'inventer plusieurs moyens de s'attirer les faveurs d'une jeune demoiselle. Le barde répondait que cela était impossible, et que la séduction était un art où l'intelligence seule ne pouvait fonctionner. C'est alors qu'une belle jeune femme entra dans la taverne où ils se trouvaient. Le barde mit alors au défi le jeune mage de séduire cette jeune dame. L'apprenti fabriqua un bouquet de fleurs phantasmagoriques et l'envoya accompagné de la note suivante : "Si votre âme est aussi belle et extravagante que ces fleurs, alors votre admirateur secret saura éveiller votre intérêt." La réponse ne se fit pas attendre : une autre note lui fut renvoyée tout aussi promptement : "Aucune femme ne veut d'un homme dont les sentiments sont aussi artificiels et vaniteux que ces fleurs."~
 @1610 = ~Ce n'est rien, mon amour. *Elle dépose un léger baiser sur votre front. Ses yeux se mettent à briller d'une lueur affectueuse pendant un court instant, mais la mélancolie revient avant même que votre peau n'ait le temps de se remettre du frisson de son baiser.*~
 @1611 = ~Les sombres pensées sont un poison plus virulent encore que les amandes les plus amères. Je n'aurais pas dû abandonner mon esprit aux sirènes du désespoir. Prends-moi dans Tes bras, <CHARNAME>. S'il Te plaît.~
@@ -2559,7 +2559,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2020  = ~Qu'est-ce qu'on va bien pouvoir faire de toi ?~
 @2021  = ~Hum ? Je pensais simplement à Gorion et à ce qu'il serait advenu de nous s'il n'était pas mort, ou si nous pourrons jamais revenir à Château-Suif après tout ce qui s'est passé. Je me sens si mal, comme si je lui en voulais d'être mort. C'est idiot, hein ?~
 @2022  = ~*Elle baisse la tête tandis que des larmes commencent à lui monter aux yeux.*~
-@2023  = ~Je... Je vais bien, vraiment. Merci quand même de demander.~
+@2023  = ~Je... je vais bien, vraiment. Merci quand même de demander.~
 @2024  = ~Je suis un peu fatiguée pour ce genre de discussion pour le moment.~
 @2025  = ~Hum, allons, tu sais tout de moi. Bon, pas vraiment *tout*... Comme par exemple comment j'ai fait croire à toute la citadelle que Nessa avait mangé les sous-vêtements de Fuller, mais tu sais à peu-près tout le reste.~
 @2026  = ~Tu veux connaître un secret à mon sujet ? Eh bien, j'ai toujours été amoureuse de Hull !~
@@ -2791,7 +2791,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2167 = ~Il y a un salut ancien : Elen sila lumenn omentilmo. On peut le traduire approximativement par « Une étoile brillera sur l'heure de notre rencontre ».~
 @2168 = ~Mellonamin, si vous voulez discuter en Elfique afin de pratiquer les leçons que vous avez pu recevoir à Château-Suif, allons-y, mais je ne vois pas l'intérêt de prononcer quelques mots dans ma langue uniquement pour vous distraire.~
 @2169 = ~Cuamin linduva yassen megrille - mon arc chantera avec votre épée.~
-@2170 = ~I'narr en gothrim glinuva nuin I'anor ! Je crois que le cri de bataille du Cormanthir est approprié aujourd'hui : "Les os de nos ennemis reluiront au soleil".~
+@2170 = ~I'narr en gothrim glinuva nuin I'anor ! Je crois que le cri de bataille du Cormanthir est approprié aujourd'hui : « Les os de nos ennemis reluiront au soleil ».~
 @2171 = ~Lle quena i'lambe tel' Eldalie, <CHARNAME> ? Parlez-vous Elfique, <CHARNAME> ?~
 @2172 = ~*avec un sourire poli* Vanimle sila tiri, arwenamin <CHARNAME>. Votre beauté est éclatante, ma dame <CHARNAME>.~
 @2173 = ~Oio naa elealla alasse', arwenamin <CHARNAME>. Vous voir est toujours une joie, ma dame <CHARNAME>.~
@@ -3004,7 +3004,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4139
 @2312 = ~[MONTARON 21] Occupez-vous de votre lame.~ [%tutu_var%MONTR21]
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 4140, likeliness 99.7
-@2313 = ~[MONTARON 22] Ne dormez que d'un oeil, tyran.~ [%tutu_var%MONTR22]
+@2313 = ~[MONTARON 22] Ne dormez que d'un œil, tyran.~ [%tutu_var%MONTR22]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4145
 @2314 = ~[MONTARON 27] Ce vieux sorcier recommence avec ses « sortilèges ».~ [%tutu_var%MONTR27]
 // Translation Retriever: perfect match found in file dialog TotSC En.tra at Id 4146
@@ -3038,7 +3038,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2330 = ~Ouais. Je vais par ici. Tu vas par là. Espérons qu'on s'revoie jamais !~
 @2331 = ~Tu vois d'la belladone, d'la ciguë ou d'l'amanite dans le coin ? Non ? Alors j'ai pas d'réponse pour toi.~
 @2332 = ~Seulement que je m'grouille pour que ta « seigneurie » puisse suivre le plus tôt possible.~
-@2333 = ~Je "suggérerais" qu'tu t'trouves un tas d'bon sens. Mais j'aime pas gaspiller ma salive.~
+@2333 = ~Je « suggérerais » qu'tu t'trouves un tas d'bon sens. Mais j'aime pas gaspiller ma salive.~
 @2334 = ~Hé-hé. Des bains d'puces.~
 @2335 = ~D'accord. Quittons c'te pile de caillasses, trouvons un bon feu, un bon lit et une maxi bière !~
 @2336 = ~Euh. Trouve-moi un bouchon pour cette fuite que j'ai là.~
@@ -3423,13 +3423,13 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2589  = ~*Vous continuez à marcher côte à côté, et vos bras se touchent presque. Vous remarquez que les doigts de Xan se tortillent curieusement, caressant l'air, comme s'il souhaitait prendre votre main. Un instant plus tard, en revanche, il fait un grand pas de côté, et poursuit son chemin sans vous regarder.*~
 @2590  = ~Est-ce que tu pourrais... chanter pour moi ? J'adorerais entendre quelque chose de beau parmi toute l'effervescence des foules et les hurlements des monstres. Si tu le veux bien, évidemment.~
 @2591  = ~Tu as sans doute appris beaucoup de choses à Château-Suif. Est-ce que tu voudrais bien partager ton livre de sorts avec moi ? Je ne m'attends pas à ce que tu aies des sorts au-dessus de nos capacités, mais tout de même, il pourrait y avoir quelque chose qui satisfasse ma curiosité, et puisque tu insistes, qui me redonne le moral.~
-@2592  = ~Ah, oui, il y a quelque chose. Si tu pouvais être un peu plus discret quant à "châtier le Mal", "protéger les justes" et "défendre les innocents", cela me ferait grandement plaisir.~ ~Ah, oui, il y a quelque chose. Si tu pouvais être un peu plus discrète quant à "châtier le Mal", "protéger les justes" et "défendre les innocents", cela me ferait grandement plaisir.~
+@2592  = ~Ah, oui, il y a quelque chose. Si tu pouvais être un peu plus discret quant à « châtier le mal », « protéger les justes » et « défendre les innocents », cela me ferait grandement plaisir.~ ~Ah, oui, il y a quelque chose. Si tu pouvais être un peu plus discrète quant à « châtier le mal », « protéger les justes » et « défendre les innocents », cela me ferait grandement plaisir.~
 @2593  = ~*Sa paume est froide et sans vie, comme celle d'un mort. Lorsqu'il s'aperçoit de votre réaction, les lèvres de Xan dessinent un sourire ironique.* Comme je suis déjà mort quelque part, il n'est pas nécessaire de prétendre le contraire.~
 @2594  = ~*Avec un petit frisson, il dégage brusquement sa main.* Ou peut-être que j'ai simplement froid et que je m'imagine tout cela. Bien que cela n'occulte en rien le fait que nous allons bientôt mourir.~
 @2595  = ~*Il prend votre main entre les deux siennes, l'examine.* As-tu entendu parler de cette vieille superstition ? Chaque homme sur la face de Féérune a son destin inscrit dans sa paume. Ce qu'il aime, ce qu'il déteste, ses soucis, son avenir, la date de son décès...~
 @2596  = ~*Xan lâche soudainement votre main.* Non. Je ne veux pas savoir.~
 @2597  = ~*Xan regarde votre main avec fascination, et semble avoir oublié le reste du monde. Pendant quelques instants, il se tient complètement immobile. Puis il prend le bras que vous lui offrez, soupire, et vous continuez votre chemin, votre main enveloppée fermement dans la sienne.*~
-@2598  = ~*Xan porte votre main à ses lèvres et embrasse délicatement le bout de vos doigts.* Je reste à ton service, dame <CHARNAME>. Mais attends... cette phrase ressemble trop aux banalités que prononcerait l'un de ses Helmites.~
+@2598  = ~*Xan porte votre main à ses lèvres et embrasse délicatement le bout de vos doigts.* Je reste à ton service, dame <CHARNAME>. Mais attends... cette phrase ressemble trop aux banalités que prononcerait l'un de ses Heaumites.~
 @2599  = ~Prenez garde à ce que vous dites, elfe !~
 @2600  = ~Mille excuses, <CHARNAME> ; je ne sais pas ce qui m'a pris. Hélas, ta compagnie et ton influence n'ont pas été entièrement bénéfiques.~
 @2601  = ~*Xan hausse un sourcil.* Pourquoi souris-tu, <CHARNAME> ? Notre inévitable décès, peut-être ?~
@@ -3562,7 +3562,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2728  = ~*Xan sourit, lentement et prudemment, comme s'il s'attendait à ce que quelque chose de cruel se produise. En un instant, en revanche, le sourire disparaît, et il semble de nouveau morose et distant.*~
 @2729  = ~*Au lieu d'accéder à votre requête, Xan se penche en avant et dépose un baiser sur votre front.* Je le ferai, melamin. Mais il y a des choses qui me préoccupent.~
 @2730  = ~Pourquoi veux-tu cela, <CHARNAME> ? Je ne peux changer mon comportement contre mon gré.~
-@2731  = ~*Xan vous regarde fixement pendant un long moment, l'incrédulité clairement écrite dans son expression. Puis il parvient à esquisser un sourire.* Je... Je prends du temps à m'y habituer, Estel'amin.~
+@2731  = ~*Xan vous regarde fixement pendant un long moment, l'incrédulité clairement écrite dans son expression. Puis il parvient à esquisser un sourire.* Je... je prends du temps à m'y habituer, Estel'amin.~
 @2732  = ~Estel'amin... merci.~
 @2733  = ~*Un baiser tendre et spontané est la seule réponse que vous recevez.*~
 @2734  = ~Je pensais qu'il était vain de tenter d'éviter la mort, mais ces paroles... tes paroles... font que tout ceci en vaut la peine.~
@@ -3672,7 +3672,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2838  = ~Pour quoi faire, <CHARNAME> ? Est-ce que jubiler devant mon calvaire te procure quelque perverse satisfaction ? Non, je vais rentrer à Evereska, mais j'espère sincèrement périr sur le chemin qui m'y mènera.~
 @2839  = ~Toujours, Estel'amin. Jusqu'à ce que la mort nous sépare.~
 @2840  = ~Pourquoi énoncer une évidence, <CHARNAME> ?~
-@2841  = ~Oui, effectivement. J'ajouterai même "bientôt", si cela ne te dérange pas.~
+@2841  = ~Oui, effectivement. J'ajouterai même « bientôt », si cela ne te dérange pas.~
 @2842  = ~Alors tu en prends enfin conscience. Félicitations, <CHARNAME>, mais je doute que cette réalisation t'avancera à quelque chose.~
 @2843  = ~*soupir* Mourir, cesser d'exister, prendre le départ pour un autre Plan... Parfois je me dis que tout ceci ne sont que légendes, mais la vérité est très simple : il n'y a pas de vie après la mort, et pas d'espoir.~
 @2844  = ~*Xan semble regarder quelque chose situé derrière vous, mais il a le regard curieusement vide.* La vie n'est que souffrance. La mort est une libération. Epargnons-nous un vain effort, baissons les bras et attendons la mort.~
@@ -3810,7 +3810,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2933 = ~Non. Vous vous débrouillez si médiocrement tout seul que rien de ce que je pourrais dire ne pourrait empirer les choses.~
 @2934 = ~Mon goût pour les cadavres ne va pas jusqu'à souhaiter d'en devenir un. Donc, s'il y a quelque source de soin disponible pour écarter cette éventualité...~
 @2935 = ~Oh, faites un *énorme* gâteau d'anniversaire en fer. Avec la forme d'un trône. Allumez *toutes* les bougies et mettez-le dehors sous la pluie jusqu'à ce qu'il rouille. Puis applaudissez vigoureusement votre propre et complète perte de temps.~
-@2936 = ~Hé bien, si vous trouvez un anneau de marche sur l'eau gisant dans les parages, vous pourriez *me* le donner. Ce serait une très bonne suggestion.~
+@2936 = ~Eh bien, si vous trouvez un anneau de marche sur l'eau gisant dans les parages, vous pourriez *me* le donner. Ce serait une très bonne suggestion.~
 @2937 = ~Juste une mais... Je ne pense pas que vous apprécieriez. Vous voyez, cela implique que vous mourriez ici et reveniez sous forme d'esprit. Sous *mon* contrôle, bien entendu...~
 @2938 = ~Bien sûr. J'aimerais que vous y soyez aussi. Ou non, si vous préférez.~
 @2939 = ~Ah... Voilà de quoi les doux rêves sont faits.~
@@ -3864,7 +3864,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2987 = ~Hum, je pense que, tout bien considéré, je ferais mieux de t'acheter un cookie.~
 @2988 = ~T'a-t-elle dit *pourquoi* elle a un besoin si spécial ?~
 @2989 = ~Oublie ça ! Pas de cookies, pas de poison et pas de ballons rouges et jaunes pour toi, Xzar.~
-@2990 = ~Je le *DIS* ! Je dois... Je... Je dois... Je pense...~
+@2990 = ~Je le *DIS* ! Je dois... je... je dois... je pense...~
 @2991 = ~Bien sûr que non ! C'est Moman ! N'est-ce pas ? Je veux dire, c'est tellement évident, vraiment... elle peut appeler à *n'importe quel* moment... elle voudrait être prête... n'est-ce pas...~
 @2992 = ~Vous êtes méchant ! Exactement comme Moman ! Euh... Je ne voulais pas dire que... non, ma chère... personne n'est comme toi... pas du tout... s'il te plaît...~ ~Vous êtes méchante ! Exactement comme Moman ! Euh... Je ne voulais pas dire que... non, ma chère... personne n'est comme toi... pas du tout... s'il te plaît...~
 @2993 = ~Eh bien, mes chers amis, vous voudriez peut-être en savoir un peu plus sur moi ? Je fais partie d'un ordre qui s'appelle le Zhentarim. Nous avons été envoyés pour savoir pourquoi le nom Zhent est calomnié le long de la Voie Côtière. On dirait que quelqu'un essaye de propager une mauvaise image de notre ordre.~
@@ -4116,10 +4116,10 @@ Mais tu es la plus belle que j'ai vue.~
 @3152 = ~Je crois que nous cherchons une mine. Finissons-en avec ça et rendons-nous à la Porte de Baldur pour dépenser un peu de notre butin !~
 @3153 = ~*vous tape sur l'épaule* Je ne saurais croire que tu as oublié notre petite expédition de chasse.~
 @3154 = ~Dépêche-toi, <CHARNAME>, ou quelque autre aventurier tuera mes wivernes et récoltera les lauriers d'un tueur de dragon !~
-@3155 = ~Hé bien, allons tuer autant de wivernes que nous pourrons et vendre leurs têtes au prêtre de Bérégost !~
+@3155 = ~Eh bien, allons tuer autant de wivernes que nous pourrons et vendre leurs têtes au prêtre de Bérégost !~
 @3156 = ~*Avec un rictus* Où serait-elle sinon ?~
 @3157 = ~As-tu entendu cette vieille chanson où la Renommée était comparée à une femme, et où pour la conquérir tu devais lui dire adieu ? Et qu'après, elle te suivrait comme une esclave ?~
-@3158 = ~Hé bien, la dame de la Chance est une femme d'un tout autre genre. Elle aime ceux qui la remercient et la chérissent. Et vue ma façon de l'aimer, ma dame et moi ne serons jamais séparés !~
+@3158 = ~Eh bien, la dame de la Chance est une femme d'un tout autre genre. Elle aime ceux qui la remercient et la chérissent. Et vue ma façon de l'aimer, ma dame et moi ne serons jamais séparés !~
 @3159 = ~Donne-nous une mission périlleuse et ose l'accomplir, <CHARNAME>, et je te le prouverai dans l'instant !~
 @3160 = ~Tes doutes me blessent, mon bon monsieur !~ ~Tes doutes me blessent, ma bonne dame !~
 @3161 = ~Tss... C'est de mauvais augure que de mettre en doute la chance d'un homme au cours de son aventure.~
@@ -4203,7 +4203,7 @@ Mais tu es la plus belle que j'ai vue.~
 @3238 = ~Le soupir d'une femme est chose précieuse à ne pas gaspiller. *il vous embrasse légèrement sur les lèvres* A présent, le voici préservé.~
 @3239 = ~Alors, c'est pour ça que tu me jettes des regards à la dérobée à chaque fois que tu crois que je ne le remarque pas ? Tu es obligée de regarder ainsi de travers - et dans quel but ?~
 @3240 = ~Oh, à des choses simples. L'éternité, la vie... Toi. Une façon idiote de passer le temps quand les ennemis abondent. Je crains que mes pensées n'aient été trop désordonnées pour qu'il soit possible de les rapporter sans t'embrouiller davantage.~
-@3241 = ~Hé bien, je t'imagine paresser parmi les étoiles, et moi, j'étais en train de retirer le dessus-de-lit de la nuit.~
+@3241 = ~Eh bien, je t'imagine paresser parmi les étoiles, et moi, j'étais en train de retirer le dessus-de-lit de la nuit.~
 @3242 = ~Que mon coeur tremble, quand je te regarde. Exactement comme les étoiles timides à la vue de la lune.~
 @3243 = ~Quel est ton nom, étrangère ? Je cherchais la Dame de la Mélancolie... est-ce toi ?~
 @3244 = ~Je ne connais pas mon nom, étranger. Mais je prendrai celui que tu m'as donné.~
@@ -4250,7 +4250,7 @@ Mais tu es la plus belle que j'ai vue.~
 @3285 = ~Nous... nous ne pouvons quitter ce donjon tout de suite, mon doux elfe. Mais je me rattraperai de toutes ces souffrances que tu as endurées.~
 @3286 = ~Bien. Maintenant, si je pouvais seulement avoir un baiser...~
 @3287 = ~Oh, inutile de me materner comme ça. Je vais... ramper ici aussi longtemps qu'il te faudra. Mais tu m'en dois un, <CHARNAME>.~
-@3288 = ~Je vais garder un oeil sur toi. Les donjons ont au moins ceci de bon qu'ils sont sombres, et quand je te regarde dans l'obscurité... Je te vois sous un angle tout à fait différent.~
+@3288 = ~Je vais garder un œil sur toi. Les donjons ont au moins ceci de bon qu'ils sont sombres, et quand je te regarde dans l'obscurité... Je te vois sous un angle tout à fait différent.~
 @3289 = ~Je te conseillerais de te trouver un autre traqueur de pièges, ma douce. J'ai été disqualifié pour n'avoir pas réussi à éviter le collet que tu m'as tendu. Je suis amoureux de toi...~
 @3290 = ~Ecoute, je ne voulais qu'un mot gentil !~
 @3291 = ~*sourit* ça se paiera.~
@@ -4366,7 +4366,7 @@ Mais tu es la plus belle que j'ai vue.~
 @3401 = ~Il est étrange de voir ton visage si proche, <CHARNAME>. Je sens ton souffle sur ma joue, et j'ai presque l'impression que tu m'embrasses.~
 @3402 = ~Oh ! Doit-on en faire rapport au monde comme d'un accident de presque-baiser ?~
 @3403 = ~*Coran vous touche par le bout du nez et se met à rire.*~
-@3404 = ~*Coran vous entoure de ses mains et vous attire plus près.* Je peux tenir ainsi... hé bien, assez longtemps. Jusqu'à ce que nos pieds soient endoloris.~
+@3404 = ~*Coran vous entoure de ses mains et vous attire plus près.* Je peux tenir ainsi... eh bien, assez longtemps. Jusqu'à ce que nos pieds soient endoloris.~
 @3405 = ~*Coran vous rejoint, saisit vos mains et vous tourne autour.* Et maintenant, que dois-je faire de toi ?~
 @3406 = ~Inutile de faire ça. Je suis déjà aveuglé par ta beauté.~
 @3407 = ~Crois-tu que je vais te pourchasser ? Non ! Reviens ici recevoir ton baiser !~
@@ -4543,7 +4543,7 @@ Vagues et cascade de soie de Shuan.~
 @3530 = ~(S'il demande une fois de plus, une boule de feu suivra. Non, deux boules de feu. Ou trois. Oui, trois, c'est à peu près bon.)~ ~(Si elle demande une fois de plus, une boule de feu suivra. Non, deux boules de feu. Ou trois. Oui, trois, c'est à peu près bon.)~
 @3531 = ~Alora est un membre utile au sein de ce groupe pitoyable, et elle m'ennuie deux fois moins que ton harcèlement permanent. Maintenant, va-t'en.~
 @3532 = ~Je n'ai pas de temps à perdre avec ta stupidité ! Arrête ça, ou affronte le courroux d'un Mage Rouge de Thay !~
-@3533 = ~Alora ? Hé bien, sa présence dans ce groupe est presque supportable, comparée à celle de certains *autres* membres. Je pense que tu sais de qui je parle ?~
+@3533 = ~Alora ? Eh bien, sa présence dans ce groupe est presque supportable, comparée à celle de certains *autres* membres. Je pense que tu sais de qui je parle ?~
 @3534 = ~Alora est une jolie fille, pleine de vivacité. J'espère que tu ne vas pas me priver... ah, nous priver de ses talents de voleuse suffisamment utiles ? (Oui, ses talents de voleuse. C'était tout ce que j'avais à l'esprit. Oui.)~
 @3535 = ~(Je viens d'entendre les mots « mascotte halfeling ». A-t-il réellement dit ça tout bas, ou n'est-ce que le produit de mon imagination ? Peu importe, si cela continue, je vais devoir prendre des mesures. Fatales, de préférence.)~ ~(Je viens d'entendre les mots « mascotte halfeling ». A-t-elle réellement dit ça tout bas, ou n'est-ce que le produit de mon imagination ? Peu importe, si cela continue, je vais devoir prendre des mesures. Fatales, de préférence.)~
 @3536 = ~Ah... euh... peu importe.~
@@ -4779,7 +4779,7 @@ Vagues et cascade de soie de Shuan.~
 @3670 = ~Oh, merci pour cette question. C'est vraiment agréable de savoir que vous vous en souciez, en vérité.~
 @3671 = ~Bien sûr ! Je vais vous chanter « Un Bouquet de Roses », c'est ma chanson préférée !~
 @3672 = ~Euh, êtes-vous sûr ? Je veux dire, j'aimerais chanter, mais ce n'est pas vraiment le moment idéal.~ ~Euh, êtes-vous sûre ? Je veux dire, j'aimerais chanter, mais ce n'est pas vraiment le moment idéal.~
-@3673 = ~J'imagine que "Joe le Bizarre" conviendra. D'accord, tout le monde, commençons !~
+@3673 = ~J'imagine que « Joe le Bizarre » conviendra. D'accord, tout le monde, commençons !~
 @3674 = ~Je connais une jolie chanson appelée « Amour Glorieux sous le Soleil » mais, euh, certains passages ne sont pas adaptés aux jeunes filles, si vous voyez ce que je veux dire.~
 @3675 = ~Oui, <SIRMAAM> ! Voici « Le Coeur de Lion » !~
 @3676 = ~Voudriez-vous une chanson d'amour ? Oui, j'en étais sûr ! Et "Embrasse-moi doucement, Embrasse-moi profondément" fera parfaitement l'affaire !~
@@ -5017,7 +5017,7 @@ Vagues et cascade de soie de Shuan.~
 // Ajantis
 //
 @3822 = ~L'instant est mal choisi pour faire conversation. Je sens que le mal n'est pas loin !~ [X#BLANK]
-@3823 = ~*Ajantis semble vous accepter en tant que camarade, et vous pouvez voir qu'il ne serait pas contre une petite conversation entre deux "devoirs importants de chevalier". Peut-être est-ce le moment de lui poser une question personnelle ou deux.*~ [X#BLANK]
+@3823 = ~*Ajantis semble vous accepter en tant que camarade, et vous pouvez voir qu'il ne serait pas contre une petite conversation entre deux « devoirs importants de chevalier ». Peut-être est-ce le moment de lui poser une question personnelle ou deux.*~ [X#BLANK]
 @3824 = ~Ajantis, peut-être as-tu eu l'impression que j'accordais plus de valeur à d'autres hommes dans ce groupe qu'à toi, mais ce n'est pas vrai. Quoi que j'ai pu dire ou faire, j'ai réalisé que c'était à toi que je m'intéressais le plus.~
 @3825 = ~Comment vas-tu, Ajantis ?~
 @3826 = ~Il est bon d'avoir un autre paladin dans les parages, Ajantis. Ensemble, nous frapperons le mal, où que nous le trouvions !~

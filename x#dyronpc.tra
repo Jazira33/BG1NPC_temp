@@ -216,7 +216,7 @@
 @182 = ~Alors, considères-Tu <CHARNAME> comme un jeune garçon, ou comme un homme ?~
 @183 = ~Je n'ai jamais pensé à lui en ces... termes. Je suis chargée de le protéger, selon la volonté de Gorion, et je ne laisserai personne le blesser ou profiter de lui. Personne.~
 @184 = ~Je ne connaissais pas Gorion. Mais je connais assez <CHARNAME> pour T'assurer qu'il est tout à fait mature, et qu'il n'est pas du genre soumis. Je le connais assez pour T'assurer qu'il n'apprécierait pas que Tu Te mêles de ses affaires de coeur. Et moi non plus.~
-@185 = ~S'il ne s'agit que d'une affaire de coeur, je n'ai aucune raison de t'ennuyer. Mais si je détecte la moindre trace de tromperie, je saurai m'interposer.~
+@185 = ~S'il ne s'agit que d'une affaire de cœur, je n'ai aucune raison de t'ennuyer. Mais si je détecte la moindre trace de tromperie, je saurai m'interposer.~
 
 //Imoen veut donner des conseils à Charname sur sa relation avec Dynahéir
 @186 = ~<CHARNAME> ! Regarde ce que j'ai... *rigole* Ahah ! Je t'ai ecore surpris en train de mater Dynahéir !~
@@ -368,7 +368,7 @@ Et leurs os retourneront poussière !~
 @308 = ~Bien sûr, seul un idiot refuserait une bonne histoire. Et j'ai pour habitude d'encourager les jeunes talents.~
 @309 = ~Mon secret, c'est l'amour, Coran. Pas de faux-semblants. Dynahéir est la seule et...~
 @310 = ~Il faut savoir être ingénieux, avoir un certain talent pour cette science qu'est la passion, Coran. La première chose à savoir est qu'il faut surprendre à chaque fois. Puis choisir la stratégie du jour selon l'humeur et la disposition de la femme. Une fois, on peut se montrer moqueur pour braver son innocence, et la fois suivante, l'inquiéter en montrant son désespoir. Après, il faudra user d'une flatterie colorée. Il faut savoir se montrer obéissant, puis fier, attentif à chacun de ses besoins, puis s'en moquer... Le regard doit être sauvage, puis radouci, honteux, puis téméraire, et parfois... parfois, il faut savoir verser quelques larmes. Il faut attendre cette minute où l'on peut sentir son coeur battre plus fort, et le poursuivre sans relâche. Intelligence et passion, Coran. Tout ce qu'il faut pour gagner le coeur de n'importe quelle femme.~
-@311 = ~*clin d'oeil* Bien entendu. On fera en sorte qu'elle soit dans les parages pour entendre ça, la prochaine fois.~
+@311 = ~*clin d'œil* Bien entendu. On fera en sorte qu'elle soit dans les parages pour entendre ça, la prochaine fois.~
 @312 = ~Oh, ce vieux truc... Content que tu le saches. C'est très bien, pour un débutant.~
 
 //Edwin et Dynahéir

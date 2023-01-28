@@ -202,7 +202,7 @@
 @108   = ~Oui. Je me sentirai mieux après, je pense. J'étais de retour à Château-Suif, sauf que... *vous racontez votre rêve*~
 @109   = ~Je ferais aussi bien. J'étais de retour à Château-Suif, sauf que... *vous racontez votre rêve*~
 // Après @108, @109, plutôt bonne réputation
-@110   = ~Ça me semble plutôt inquiétant. Pourtant je suis contente que Gorion semblait heureux dans ton rêve. Je... Je ne sais pas pourquoi, mais je suis également contente que tu aies pris l'autre chemin. De toute façon, il n'y a pas de mal, je suppose ? C'était juste un rêve... pas vrai ?~
+@110   = ~Ça me semble plutôt inquiétant. Pourtant je suis contente que Gorion semblait heureux dans ton rêve. Je... je ne sais pas pourquoi, mais je suis également contente que tu aies pris l'autre chemin. De toute façon, il n'y a pas de mal, je suppose ? C'était juste un rêve... pas vrai ?~
 // Réponses à @110
 @111   = ~Oui... juste un rêve.~
 @112   = ~Pas juste un rêve, Imoen. J'ai changé, d'une certaine façon. Je peux soigner les gens. Tout ce que j'ai à faire est de les toucher.~
@@ -466,7 +466,7 @@ Houp-là !~
 @279   = ~*devient rouge vif* Je n'ai rien fait de tel !~
 @280   = ~Mais tu m'as donné ce cadeau. Veux-tu dire que tu ne m'aimes pas, alors ?~
 @281   = ~Jamais je n'ai...~
-@282   = ~Comment as-tu osé ?! Jouer ainsi avec le coeur d'une femme ! Et alors que tu veux être parfaitement noble ! Eh bien soit, tiens, prends ton stupide objet ! Je n'en ai pas besoin. *Jette la statuette sur Ajantis*~
+@282   = ~Comment as-tu osé ?! Jouer ainsi avec le cœur d'une femme ! Et alors que tu veux être parfaitement noble ! Eh bien soit, tiens, prends ton stupide objet ! Je n'en ai pas besoin. *Jette la statuette sur Ajantis*~
 @283   = ~Je suis navré, m'dame Imoen, je ne savais pas que vous éprouviez ces sentiments.~
 @284   = ~*s'arrête un moment et commence à se rouler par terre de rire* Tu aurais dû voir ta tête, là ! Tu avais l'air ssiii sérieux.~
 @285   = ~C'est une chose tout à fait ignoble que vous avez faite !~
@@ -629,7 +629,7 @@ Houp-là !~
 @418   = ~Alors c'était la petite morveuse finalement.~
 @419   = ~Et que dis-tu de la fois où tu avais piqué cette baguette du sac à dos de la sorcière et que tu essayais de la cacher ?~
 // Dynahéir
-@420   = ~Je savais très bien que c'était l'oeuvre d'Imoen, et nous avons déjà parlé de cette affaire dans les moindres détails.~
+@420   = ~Je savais très bien que c'était l'œuvre d'Imoen, et nous avons déjà parlé de cette affaire dans les moindres détails.~
 @421   = ~Quoi qu'il en soit, ce genre de chose n'était que des farces. Tu ne penses pas sérieusement que je volerais dans un but malveillant !~
 // Edwin
 @422   = ~Je n'ai toujours pas récupéré mon parchemin, mais maintenant je sais où chercher et qui contrôler en premier la prochaine fois.~

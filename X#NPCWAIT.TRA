@@ -91,10 +91,10 @@
 @63 = ~Très bien ! D'ailleurs, je m'apprêtais à partir ! Vous n'êtes vraiment pas la compagnie de voyage idéale. Et puis, Eldoth est plus agréable que vous !~
 @64 = ~Mais pourquoi me demandez-vous ça, <CHARNAME> ? Je ne peux pas rester seule ici, je vais mourir de trouille !~
 @65 = ~Mais pourquoi me demandez-vous ça, <CHARNAME> ? Je ne peux pas rester seule ici, même avec Eldoth à mes côtés, je vais mourir de trouille !~
-@66 = ~Je... Je suppose que je pourrais vous attendre à l'auberge de Feldpost, à Bérégost. Il me reste suffisamment d'argent, mais, je vous en prie, faites vite... Je... Je ne supporte pas d'être seule !~
-@67 = ~Une fois, Père m'a dit que la taverne du Chant de l'Elfe était un endroit sûr. Je... Je suppose que je pourrais vous y attendre un moment.~
-@68 = ~Je... Je suppose que nous pourrions vous attendre à l'auberge de Feldpost, à Bérégost. Il nous reste suffisamment d'argent, hein, Eldoth ?~
-@69 = ~Une fois, Père m'a dit que la taverne du Chant de l'Elfe était un endroit sûr. Je... Je suppose que nous pourrions vous y attendre un moment. Tu me suis, Eldoth ?~
+@66 = ~Je... je suppose que je pourrais vous attendre à l'auberge de Feldpost, à Bérégost. Il me reste suffisamment d'argent, mais, je vous en prie, faites vite... Je... je ne supporte pas d'être seule !~
+@67 = ~Une fois, Père m'a dit que la taverne du Chant de l'Elfe était un endroit sûr. Je... je suppose que je pourrais vous y attendre un moment.~
+@68 = ~Je... je suppose que nous pourrions vous attendre à l'auberge de Feldpost, à Bérégost. Il nous reste suffisamment d'argent, hein, Eldoth ?~
+@69 = ~Une fois, Père m'a dit que la taverne du Chant de l'Elfe était un endroit sûr. Je... je suppose que nous pourrions vous y attendre un moment. Tu me suis, Eldoth ?~
 //
 // Eldoth
 //
@@ -230,7 +230,7 @@
 @166 = ~Nous sommes sûrement au début d'un conte épique. Allez-y, je vous suis !~
 @167 = ~Bien sûr, <CHARNAME> ! Je vous attendrai ici.~
 @168 = ~Vous ne valez pas mieux que Mme Silke ! Ça ne vous portera pas chance, croyez-moi !~
-@169 = ~Je... Je suis vraiment désolé de l'admettre, <CHARNAME>... Mais... mais je ne pourrais pas rester ici sans vous ! Pas pour tous les trésors de Baldurien !~
+@169 = ~Je... je suis vraiment désolé de l'admettre, <CHARNAME>... Mais... mais je ne pourrais pas rester ici sans vous ! Pas pour tous les trésors de Baldurien !~
 @170 = ~Je vous attendrai à l'Auberge de Brasamical. C'est l'endroit idéal pour un poète vagabond, musardant entre deux aventures.~
 @171 = ~Je vous attendrai à la taverne du Chant de l'Elfe, à la Porte de Baldur. *rougit* La serveuse y a été très sympathique la dernière fois que j'ai demandé un verre de leur vin le moins cher...~
 //

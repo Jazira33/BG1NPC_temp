@@ -72,8 +72,8 @@
 @53 = ~Rien. Kivan, nous n'avons pas le temps de discuter.~
 @54 = ~Le feu. La mort. La destruction.~
 @55 = ~J'aime la nature, Kivan, mais pas aussi... profondément que vous. Néanmoins, vous avez raison : les étoiles filantes sont un précieux spectacle. Mais pourquoi êtes-vous triste ?~
-@56 = ~Désolé de vous avoir rembarré... Je suis fatigué. Vous avez l'oeil pour la beauté, Kivan, et j'apprécie que vous le partagiez avec moi. Cette pluie d'étoiles est vraiment magnifique ! Mais... mais vous avez encore l'air triste...~
-      ~Désolé de vous avoir rembarré... Je suis fatiguée. Vous avez l'oeil pour la beauté, Kivan, et j'apprécie que vous le partagiez avec moi. Cette pluie d'étoiles est vraiment magnifique ! Mais... mais vous avez encore l'air triste...~
+@56 = ~Désolé de vous avoir rembarré... Je suis fatigué. Vous avez l'œil pour la beauté, Kivan, et j'apprécie que vous le partagiez avec moi. Cette pluie d'étoiles est vraiment magnifique ! Mais... mais vous avez encore l'air triste...~
+      ~Désolé de vous avoir rembarré... Je suis fatiguée. Vous avez l'œil pour la beauté, Kivan, et j'apprécie que vous le partagiez avec moi. Cette pluie d'étoiles est vraiment magnifique ! Mais... mais vous avez encore l'air triste...~
 @57 = ~Vous savez que j'apprécie votre chant, mellonamin.~
 @58 = ~Alors voici :
 Buvons pour Ieriyn
@@ -180,11 +180,11 @@ rester, mon prince, rester, mon prince...~
 @141 = ~C'est triste, mais ils étaient tombés vaillamment sur le champ de bataille. Qu'en est-il du reste de votre famille ?~
 @142 = ~Kivan, vous avez dit aussi que vous voudriez prier Déhériana de vous pardonner ?~
 @143 = ~Vous paraissez affligé, Kivan. Je voudrais en savoir plus sur vous, mais peut-être vaut-il mieux garder cela pour un autre jour. Si nous rejoignions le reste du groupe ?~
-@144 = ~Pourquoi ai-je l'impression que si vous aviez eu une soeur elle aurait été enlevée par des démons, et que si vous aviez des enfants ils auraient été maudits ? Vous attirez le malheur, Kivan, comme le miel attire les mouches.~
+@144 = ~Pourquoi ai-je l'impression que si vous aviez eu une sœur elle aurait été enlevée par des démons, et que si vous aviez des enfants ils auraient été maudits ? Vous attirez le malheur, Kivan, comme le miel attire les mouches.~
 @145 = ~<CHARNAME>, pourrions-nous remettre cette discussion à un autre jour ? Après des années de silence il m'est étrange de parler de mon passé...~
 @146 = ~Comme vous voudrez.~
 @147 = ~Cela doit être douloureux pour vous. Mais si avez besoin d'en parler - je vous écouterai.~
-@148 = ~Je suis coupable, <CHARNAME>, et Shevarash m'a rendu à la vie pour corriger la faute que j'avais faite. S'il vous plaît, ne m'obligez pas à en parler maintenant. Je... Je... ne peux pas...~
+@148 = ~Je suis coupable, <CHARNAME>, et Shevarash m'a rendu à la vie pour corriger la faute que j'avais faite. S'il vous plaît, ne m'obligez pas à en parler maintenant. Je... je... ne peux pas...~
 @149 = ~J'avais oublié ce que c'était que d'avoir un ami... Merci de vos égards. Je vous expliquerai tout, un jour. D'une certaine manière j'ai l'impression que l'étrange pouvoir vous a été donné de juger les personnes et leurs actes. J'aimerais savoir quelle est la source de ce pouvoir...~
 @150 = ~Une personne sur trois est morte dans cette guerre. Nous ne sommes qu'une petite nation. Je ne suis différent des autres que parce que j'ai laissé ma femme m'être enlevée... Je vous expliquerai tout, un jour. D'une certaine manière j'ai l'impression que l'étrange pouvoir vous a été donné de juger les personnes et leurs actes. J'aimerais savoir quelle est la source de ce pouvoir.~
 @151 = ~Amin hiraetha... Je suis désolé... Je vous expliquerai tout, un jour. D'une certaine manière j'ai l'impression que l'étrange pouvoir vous a été donné de juger les personnes et leurs actes. J'aimerais savoir quelle est la source de ce pouvoir...~
@@ -279,7 +279,7 @@ rester, mon prince, rester, mon prince...~
 @231 = ~Mon demi-frère a tué mon père adoptif - ce qui fait de l'affaire une affaire de famille, Kivan. Je ne veux pas voir les yeux fureteurs d'un rôdeur s'en mêler.~
 @232 = ~Oui, c'est perturbant. J'ai vécu si longtemps en me croyant orphelin et seul au monde... Maintenant j'ai découvert qui est mon véritable père, et que j'ai un demi-frère. Ni l'une ni l'autre de ces découvertes ne m'ont fait plaisir.~
        ~Oui, c'est perturbant. J'ai vécu si longtemps en me croyant orpheline et seule au monde... Maintenant j'ai découvert qui est mon véritable père, et que j'ai un demi-frère. Ni l'une ni l'autre de ces découvertes ne m'ont fait plaisir.~
-@233 = ~Et s'il n'y avait que Sarevok... la lettre mentionnait qu'il y en avait d'autres. J'ai probablement une famille très nombreuse ! Toute entière de l'engeance de Bhaal. Je sens que je n'en ai pas fini avec les surprises désagréables.~
+@233 = ~Et s'il n'y avait que Sarevok... la lettre mentionnait qu'il y en avait d'autres. J'ai probablement une famille très nombreuse ! Tout entière de l'engeance de Bhaal. Je sens que je n'en ai pas fini avec les surprises désagréables.~
 @234 = ~Je ne considère pas Sarevok comme un de mes parents, Kivan. Et encore moins mon frère ! Nous ne partageons que quelque bizarre héritage spirituel, par le caprice d'une divinité morte, voilà tout. Tout ce que je veux, c'est venger la mort de mon vrai père - Gorion.~
 @235 = ~Le Mal peut être plus proche, Kivan. Regardez-moi. Ma propre âme est un terrain de jeu ; la partie a commencé il y a déjà longtemps, mais je ne savais pas que je faisais partie des joueurs. Mon adversaire le savait, et il a quelques tours d'avance sur moi.~
 @236 = ~Je suis heureux de découvrir mon héritage véritable, et mon frère ne me pose pas de problème. Je crois que nous pourrons bien nous entendre, dès que j'aurai pu le convaincre de laisser tomber l'idée absurde de me tuer. Nous... Nous libèrerons le pouvoir de Bhaal, quelque chose comme ça.~
@@ -313,7 +313,7 @@ rester, mon prince, rester, mon prince...~
 @256 = ~Je veux entendre tout ce que vous pourrez vouloir me dire. Je suis très inquiet pour vous, mellonamin.~
 @257 = ~Ces nouvelles m'ont perturbé, Kivan. J'ai vécu si longtemps en me croyant orphelin et seul au monde... Maintenant j'ai découvert qui est mon véritable père, et que j'ai un demi-frère. D'une certaine façon, ni l'une ni l'autre de ces découvertes ne m'ont fait plaisir.~
        ~Ces nouvelles m'ont perturbée, Kivan. J'ai vécu si longtemps en me croyant orpheline et seule au monde... Maintenant j'ai découvert qui est mon véritable père, et que j'ai un demi-frère. D'une certaine façon, ni l'une ni l'autre de ces découvertes ne m'ont fait plaisir.~
-@258 = ~Bon. Vous voulez savoir ce que je pense ? Allons-y. Sarevok est mon frère, mais ce n'est pas le pire ! La lettre mentionnait qu'il y en avait d'autres. J'ai probablement une famille très nombreuse ! Toute entière de l'engeance de Bhaal. Je sens que je n'en ai pas fini avec les surprises désagréables.~
+@258 = ~Bon. Vous voulez savoir ce que je pense ? Allons-y. Sarevok est mon frère, mais ce n'est pas le pire ! La lettre mentionnait qu'il y en avait d'autres. J'ai probablement une famille très nombreuse ! Tout entière de l'engeance de Bhaal. Je sens que je n'en ai pas fini avec les surprises désagréables.~
 @259 = ~Je ne considère pas Sarevok comme un de mes parents, Kivan. Et encore moins mon frère ! Nous ne partageons que quelque bizarre héritage spirituel, par le caprice d'une divinité morte, voilà tout. Tout ce que je veux, c'est venger la mort de mon vrai père - Gorion.~
 @260 = ~Le Mal peut être plus proche, Kivan. Regardez-moi. Ma propre âme est un terrain de jeu ; la partie a commencé il y a déjà longtemps, mais je ne savais pas que je faisais partie des joueurs. Mon adversaire le savait, et il a quelques tours d'avance sur moi.~
 @261 = ~Vous avez trouvé un ennemi à la place d'un frère. Mais... Loués soient les dieux, <CHARNAME>, de nous donner des ennemis, car cela signifie que nous pourrions aussi avoir des amis.~
@@ -349,19 +349,19 @@ rester, mon prince, rester, mon prince...~
 @284 = ~Comment l'avez-vous rencontrée, Kivan ? Si cela ne vous dérange pas que je vous pose la question...~
 @285 = ~Je ne suis pas dans le déni, <CHARNAME>. Je sais qu'elle s'en est allée, cependant je pense qu'elle pourrait m'entendre... et que nous serons de nouveau réunis dès que Shevarash m'autorisera à partir.~
 @286 = ~Oui, oui, bien sûr. Pouvons-nous parler d'autre chose que de Déhériana ? Ou du moins, de quelque chose qui soit relié à Déhériana, mais joyeux ? En premier lieu, pouvez-vous me dire comment vous l'avez rencontrée, Kivan ?~
-@287 = ~Désolée. Je vous vois la regretter jour après jour, et le fait de me sentir totalement impuissante devant cela me rend... hé bien, impuissante, et frustrée. Kivan, j'aimerais pouvoir faire quelque chose...~
+@287 = ~Désolée. Je vous vois la regretter jour après jour, et le fait de me sentir totalement impuissante devant cela me rend... eh bien, impuissante, et frustrée. Kivan, j'aimerais pouvoir faire quelque chose...~
 @288 = ~Et il y en a qui se plaignent que je parle de Déhériana trop souvent ! Déhériana est... était une elfe de Shilmista... Mais elle ne peut rejoindre notre groupe, <CHARNAME>. Déhériana a été assassinée par Tazok et sa bande il y a des années, et c'est pourquoi je cherche à me venger de Tazok, le demi-ogre, et des brigands qui l'ont servi.~
 @289 = ~Je sais que vous ne vouliez pas faire une blague cruelle, <CHARNAME>. Votre voix était aimable - un reflet de la générosité de votre coeur... J'écoutais et je pensais que c'était quelque chose que Déhériana aurait pu faire. Votre amitié est la plus douce chose qui me soit arrivée depuis que j'ai été séparé de Déhériana.~
 @290 = ~Si je peux me permettre... Combien de temps s'est-il écoulé depuis la disparition de Déhériana ?~
 @291 = ~*en rougissant* Je ne fais là que ce que je ferais pour *n'importe quel* ami...~
 @292 = ~Vous pourrez toujours compter sur mon amitié et ma loyauté, Kivan. Nous livrons la même bataille, épaule contre épaule. Nous avons un ennemi commun. Nous...~
-@293 = ~Je... Je... mon coeur... peu importe mon coeur, elfe. Il est vraiment imperturbable... ce coeur qui est le mien, et il fera un bien pauvre sujet de conversation. Peut-être pourriez-vous plutôt m'en dire davantage sur Déhériana ? Comment vous êtes-vous rencontrés ?~
+@293 = ~Je... je... mon coeur... peu importe mon coeur, elfe. Il est vraiment imperturbable... ce coeur qui est le mien, et il fera un bien pauvre sujet de conversation. Peut-être pourriez-vous plutôt m'en dire davantage sur Déhériana ? Comment vous êtes-vous rencontrés ?~
 @294 = ~Mon doux ami... Vous en avez fait tant pour moi et si subtilement déjà. Votre amitié est la plus douce chose qui me soit arrivée depuis que j'ai été séparé de Déhériana.~
        ~Ma douce amie... Vous en avez fait tant pour moi et si subtilement déjà. Votre amitié est la plus douce chose qui me soit arrivée depuis que j'ai été séparé de Déhériana.~
 @295 = ~Et j'apprécie votre amitié. Peut-être pourrions-nous parler un moment ? Vous pouvez m'en dire davantage sur Déhériana... Comment l'avez-vous rencontrée ?~
 @296 = ~A mes paroles et à mon attitude, on doit me trouver penaud, j'imagine. Mais il en va presque toujours ainsi quand on est amoureux.~
 @297 = ~Même la plus grande rivière qu'on voit s'écouler largement à travers les plaines n'est rien d'autre qu'un mince filet d'eau en son commencement. Tel est l'amour. J'ai soif de boire au filet de la première tendresse autant qu'au courant de passion en son plus large cours.~
-@298 = ~Hé bien, oublions ça. Tâchez de ne pas vous y noyer, elfe.~
+@298 = ~Eh bien, oublions ça. Tâchez de ne pas vous y noyer, elfe.~
 @299 = ~En parlant de sources... Comment avez-vous rencontré Déhériana, Kivan ? Si ça ne vous dérange pas que je vous pose la question.~
 @300 = ~J'ai rencontré Déhériana durant la guerre de Shilmista. Tout le monde était alors devenu un combattant, aussi bien les anciens que les enfants, les nobles que les hommes du peuple. Elle faisait partie de nos lanceurs de sorts - un groupe réduit et vulnérable, mais nous placions en leur pouvoir une bonne partie de notre espoir.~
 @301 = ~C'est pourquoi les yeux d'un combattant étaient toujours sur eux afin de les protéger et de leur accorder une protection... Je vis Déhériana... Il était difficile de ne pas la remarquer. Dans les moments de désespoir le plus profond, quand tout semblait perdu, je la regardais, et mon esprit s'élançait, et je ne me souciais pas des blessures.~
@@ -398,7 +398,7 @@ rester, mon prince, rester, mon prince...~
 @328 = ~Le mieux pour vous est peut-être d'oublier, mais le reste d'entre nous va en garder un souvenir des plus distrayants...~
 @329 = ~Oui, le mieux est que vous oubliiez... Et je vous demanderai, à vous deux, de ne plus jamais boire une goutte, si vous voulez continuer à voyager avec nous.~
 @330 = ~Oh, non... J'espère que nous n'avons pas... ahem... incommodé les autres ? Excessivement ?~
-@331 = ~Non, mais j'ai significativement étendu mon vocabulaire elfique. Dites-moi, Kivan, que signifie "llatarala menatira" ? Cela sonne assez joliment, et roule sur la langue si plaisamment...~
+@331 = ~Non, mais j'ai significativement étendu mon vocabulaire elfique. Dites-moi, Kivan, que signifie « llatarala menatira » ? Cela sonne assez joliment, et roule sur la langue si plaisamment...~
 @332 = ~Disons seulement qu'une certaine rumeur concernant les elfes dansant à la lumière de la lune s'est avérée vrai. Nous avons tous beaucoup apprécié le spectacle.~
 @333 = ~Ne vous en souciez pas, Kivan. Mettons-nous en marche.~
 @334 = ~Ce vin était trop fort, je le crains. J'espère que nous n'avons pas... ahem... incommodé les autres ? Excessivement ?~
@@ -461,7 +461,7 @@ A la solitaire et majestueuse multitude.~
 
 
 @371 = ~*sourit* M'dame Imoen, j'ai entendu dire qu'il n'était pas convenable pour une jeune fille humaine de regarder un mâle se dévêtir.~
-@372 = ~Oh, hé bien, ouais... désolée pour ça, Kivan ! Je n'avais pas l'intention de m'immiscer, ou quoi... mais... hum... Qu'est-ce que c'est que ce pendentif à ton cou ?~
+@372 = ~Oh, eh bien, ouais... désolée pour ça, Kivan ! Je n'avais pas l'intention de m'immiscer, ou quoi... mais... hum... Qu'est-ce que c'est que ce pendentif à ton cou ?~
 @373 = ~Un insigne de rôdeur, Imoen.~
 @374 = ~Hein ? Quoi ?~
 @375 = ~*soupir* C'est la coutume pour un rôdeur que de se choisir un animal auquel s'identifier quand il arpente la campagne.~
@@ -475,7 +475,7 @@ A la solitaire et majestueuse multitude.~
 /* l'évasion de Safana */
 
 
-@382 = ~Hé bien, Safana, ce que je comprends, c'est que vous vous êtes trouvée dans le harem d'un affreux Pacha Uzef, avec rien de plus qu'un bout de soie sur votre corps pour vous protéger, et un terrible eunuque gardait les portes, jour et nuit.~
+@382 = ~Eh bien, Safana, ce que je comprends, c'est que vous vous êtes trouvée dans le harem d'un affreux Pacha Uzef, avec rien de plus qu'un bout de soie sur votre corps pour vous protéger, et un terrible eunuque gardait les portes, jour et nuit.~
 @383 = ~Mes fenêtres ouvraient sur la falaise, avec un à-pic de quatre-vingts pieds. Une chute d'eau pleurait sur mon sort, et j'étais près de devenir folle, à écouter sa tristesse. Il y a eu un moment où je me suis tenue sur le rebord de la fenêtre et ai songé à prendre ma propre vie.~
 @384 = ~Et c'est en ce moment crucial que vous avez eu une de ces idées brillantes qui sauvèrent votre vie et celle de vos amants en de nombreuses occasions.~
 @385 = ~C'est exactement ce qui est arrivé ! Tu sais ce que j'ai fait ?~
@@ -503,7 +503,7 @@ A la solitaire et majestueuse multitude.~
 
 
 @401 = ~Jeune chevalier, vous passez beaucoup de temps à vous exercer au jeu de l'épée, mais je ne vous ai jamais vu tirer sur une cible. Vous n'avez pas de goût pour le tir à l'arc ?~
-@402 = ~Hé bien, mon bon elfe, flèches et carreaux ne sont pas mes armements favoris. La mêlée est un combat noble, et cela réjouit mon coeur que d'augmenter ma connaissance de cet art, mais cracher des flèches à distance n'est pas trop à mon goût.~
+@402 = ~Eh bien, mon bon elfe, flèches et carreaux ne sont pas mes armements favoris. La mêlée est un combat noble, et cela réjouit mon coeur que d'augmenter ma connaissance de cet art, mais cracher des flèches à distance n'est pas trop à mon goût.~
 @403 = ~J'en déduis que vous considérez le tir à l'arc comme une occupation pour timorés ?~
 @404 = ~Nan, pas pour les poltrons. Je suis suffisamment instruit dans les arts de la guerre pour apprécier la valeur de chaque homme, et je ne rabaisse pas mes camarades à cause de la façon dont ils choisissent d'abattre l'ennemi. Mais, Kivan, mon sang bout quand je charge au milieu de l'armée ennemie. Quelle façon spectaculaire de gagner une victoire !~
 @405 = ~Certaines batailles peuvent être remportées à la dérobée ; certaines - avec quelques mots sur un bout de papier, et certaines par une flèche envoyée frapper la cible. Suivez mon conseil - entraînez-vous de toutes les manières possibles, Ajantis.~
@@ -666,7 +666,7 @@ A la solitaire et majestueuse multitude.~
 
 @521 = ~Jaheira, je me suis trompé sur votre compte, et je veux m'excuser. Amin hiraetha... Je suis désolé. Je pensais que ces critiques que vous octroyez à tout le monde étaient un signe de mauvais caractère. Puis j'ai remarqué que vous le faisiez par amour pour vos amis.~
 @522 = ~Prenez <CHARNAME>... Je vous ai vu lui montrer une tendresse presque maternelle, et pourtant c'est aussi <CHARNAME> qui reçoit le plus vos... ahem... conseils.~
-@523 = ~Je dis librement ce que je pense, et je veille sur mes amis. Si ça rend quelqu'un malheureux... Hé bien, c'est son problème, pas le mien.~
+@523 = ~Je dis librement ce que je pense, et je veille sur mes amis. Si ça rend quelqu'un malheureux... Eh bien, c'est son problème, pas le mien.~
 @524 = ~En effet. Je pense que ce que je voulais dire est que <CHARNAME> a de la chance d'avoir un gardien aussi prévenant.~
 @525 = ~C'est il y a bien longtemps que Gorion nous a confié, à Khalid et à moi, le soin de veiller sur <CHARNAME>, et Gorion est un homme que je respectais profondément. Nous ne reviendrons jamais sur la promesse que nous lui avons faite.~
 @526 = ~Les qualités personnelles de <CHARNAME> sont exceptionnelles, mais l'enfant a besoin de conseils, et nous sommes prêts à en donner.~
@@ -707,7 +707,7 @@ A la solitaire et majestueuse multitude.~
 
 
 @549 = ~Lle naa belegohtar... Vous êtes un puissant guerrier, Khalid.~
-@550 = ~Oh, Kivan, merci, mais... ce n'est pas v-vrai. Je ne suis pas un puissant guerrier, vraiment. Je... J'essaie encore de... d'y arriver...~
+@550 = ~Oh, Kivan, merci, mais... ce n'est pas v-vrai. Je ne suis pas un puissant guerrier, vraiment. Je... j'essaie encore de... d'y arriver...~
 @551 = ~Je sais ce que vous traversez, mellonamin, pour avoir été brisé une fois moi aussi. Vous guérirez, le temps venu.~
 @552 = ~Et pour ce qui est de vos aptitudes, laissez-moi en juger par moi-même. Je vous ai vu au combat, et je ne doute pas de votre vaillance. J'espère que vous pourrez laisser vos doutes de côté.~
 @553 = ~Je fais ce que je peux, c'est tout. Ma main était plus f-ferme avant. Peut-être que je f-finirai par retrouver une partie de m-mon ancienne habileté.~
@@ -734,7 +734,7 @@ A la solitaire et majestueuse multitude.~
 @564 = ~Quayle, j'ai besoin d'un peu de silence. Ce serait très gentil à vous de...~
 @565 = ~Le silence est un présent, c'est vrai. Je me rappelle que mon mentor, Gifos, disait toujours que donner à un homme une parole sage est comme de lui donner une pièce d'argent, mais que lui donner le silence est comme de lui donner une pièce d'or.~
 @566 = ~Votre mentor était un homme sage.~
-@567 = ~Tu crois ? Hé bien, ce n'était qu'un mufle mal éduqué par rapport à moi. C'est pourquoi nous avons dû nous séparer. Je lui faisais de l'ombre, l'apprenti qui dépassait le maître et tout ça... De quoi parlions-nous, déjà ?~
+@567 = ~Tu crois ? Eh bien, ce n'était qu'un mufle mal éduqué par rapport à moi. C'est pourquoi nous avons dû nous séparer. Je lui faisais de l'ombre, l'apprenti qui dépassait le maître et tout ça... De quoi parlions-nous, déjà ?~
 @568 = ~Du silence en tant que denrée précieuse. Je commence à suspecter que sa valeur triple quand vous êtes dans les parages, gnome.~
 @569 = ~Oh, le silence, oui. Une fois, j'ai écrit un manuscrit sur le silence. Veux-tu en entendre un extrait ? Bien sûr que tu veux... Laisse-moi le temps de le trouver. Il est quelque part dans mon sac.~
 @570 = ~Auriez-vous aussi d'aventure une fiole d'air, dans votre sac ?~

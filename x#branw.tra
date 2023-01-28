@@ -13,8 +13,8 @@
 @10    = ~Mais je veux parler de ces instants fugaces de... doute... qui apparaissent et disparaissent comme un flocon de neige dans les rayons ardents du soleil.~
 @11    = ~Non. La voie que j'ai choisie est aussi inébranlable que le sol sous nos pieds, et ma conviction n'a jamais vacillé ne serait-ce qu'un seul instant.~
 @12    = ~Je ne sais pas trop. Je crois que je ne réfléchis pas beaucoup à ces choses-là. Je préfère agir plutôt que de ressasser mes pensées.~
-@13    = ~Je crains d'être bien trop tourmenté par ce genre de choses. Je me pose constamment des questions au sujet de mes choix - ceux que j'ai déjà faits et ceux qui me restent à faire. Ma propre autonomie m'angoisse, car elle se nourrit des travers du coeur et de la raison. Il y a tant d'erreurs à faire, c'est tellement facile de se tromper.~
-         ~Je crains d'être bien trop tourmentée par ce genre de choses. Je me pose constamment des questions au sujet de mes choix - ceux que j'ai déjà faits et ceux qui me restent à faire. Ma propre autonomie m'angoisse, car elle se nourrit des travers du coeur et de la raison. Il y a tant d'erreurs à faire, c'est tellement facile de se tromper.~
+@13    = ~Je crains d'être bien trop tourmenté par ce genre de choses. Je me pose constamment des questions au sujet de mes choix... ceux que j'ai déjà faits et ceux qui me restent à faire. Ma propre autonomie m'angoisse, car elle se nourrit des travers du coeur et de la raison. Il y a tant d'erreurs à faire, c'est tellement facile de se tromper.~
+         ~Je crains d'être bien trop tourmentée par ce genre de choses. Je me pose constamment des questions au sujet de mes choix... ceux que j'ai déjà faits et ceux qui me restent à faire. Ma propre autonomie m'angoisse, car elle se nourrit des travers du coeur et de la raison. Il y a tant d'erreurs à faire, c'est tellement facile de se tromper.~
 @14    = ~Parfois, oui.~
 @15    = ~*elle pousse un léger soupir* Je n'en attendais pas moins de toi ; tes certitudes sont aussi solides que la pierre dont j'étais faite il y a quelque temps. Je t'envie... un petit peu... chef de guerre...~
 @16    = ~Oh, très bien. Dans ce cas, je ne t'ennuierai plus avec des pensées si futiles.~
@@ -59,7 +59,7 @@
 @44    = ~Aloraaaaa !~
 @45    = ~Hii ! *Alora essaie de prendre un air candide.*~
 @46    = ~Epargne-moi les faux-semblants, petite-femme. Qu'as-tu fait de ma pierre porte-bonheur ?!~
-@47    = ~Oh, eh bien tu vois, elle m'a attiré l'oeil et... euh, une seconde. Pierre porte-bonheur ?~
+@47    = ~Oh, eh bien tu vois, elle m'a attiré l'œil et... euh, une seconde. Pierre porte-bonheur ?~
 @48    = ~OUI ! MA PIERRE PORTE-BONHEUR. Donne-la moi *tout de suite*, et peut-être Tempus te pardonnera-t-il pour ton impertinence.~
 @49    = ~Euh, je ne t'ai pas emprunté de caillou... D'accord, j'ai peut-être essayé une fois d'examiner de plus près tes drôles de petits marteaux, mais de toute façon mes mains ne les ont même pas effleurés...~
 @50    = ~Donc tu as perdu ta pierre porte-bonheur, hein ? Pourquoi spécialement cette pierre ? Il y a beaucoup de cailloux par ici... Il va te falloir un temps fou pour la trouver. Peut-être que je peux t'aider !~
@@ -227,7 +227,7 @@ Dans un torrent de violence..."~
 @153   = ~Hum. Quel dommage. Je dois admettre que tes faiblesses limitent quelque peu tes capacités à certaines... activités physiques... J'avais l'intention de te soulager de tes gémissements d'auto-apitoiement. Je trouve ta vigueur assez fascinante. Cela dit, si tu ne supportes pas l'excitation, alors je présume qu'il n'y a rien à faire.~
 @154   = ~Oh la la !~
 @155   = ~Branwen, tu es un peu plus directe que je ne le pensais...~
-@156   = ~Hé là, attends une minute... Je ne suis pas si vieux et frêle que ça ! Tiens, je suis fort comme un boeuf et aussi solide qu'un cheval !~
+@156   = ~Hé là, attends une minute... Je ne suis pas si vieux et frêle que ça ! Tiens, je suis fort comme un bœuf et aussi solide qu'un cheval !~
 @157   = ~J'en suis certaine, barbe grise. Alors mets tes paroles en adéquation avec tes actes et plains-toi un peu moins souvent, hein ?~
 @158   = ~Oh, va te faire voir.~
 
@@ -298,7 +298,7 @@ Dans un torrent de violence..."~
 @206   = ~... ça t'ennuierait pas de pas tuer nos ennemis si vite ? Faudrait qu'il en reste un ou deux encore à remuer et gémir avant qu'ils ne deviennent vraiment morts.~
 @207   = ~Absolument pas ! N'as-tu donc ni sens de l'honneur, ni respect ?~
 @208   = ~Oh mais si. J'ai aussi assez de BON SENS pour leur demander, quand on les croise, c'qui nous attend plus loin.~
-@209   = ~Tu mens ! Pour toi, la torture en elle-même est un but - ainsi qu'une joie.~
+@209   = ~Tu mens ! Pour toi, la torture en elle-même est un but, ainsi qu'une joie.~
 @210   = ~Tu n'sais rien de mes buts, parce que tu les tues tous avant que je n'les amène à m'donner des réponses claires.~
 
 // discussion avec Quayle (212-215-217) et Xan (213)
@@ -308,7 +308,7 @@ Dans un torrent de violence..."~
 @213   = ~Bizarrement, Quayle, j'ai le sentiment que votre présence ne fait que nous rapprocher du funeste destin qui nous attend déjà prochainement...~
 @214   = ~Non petite créature, en fait je suis heureuse pour une autre raison.~
 @215   = ~Eh bien mes talents possèdent de multiples facettes et sont suffisamment nombreux au point que JE ne me rappelle même pas de tous... Dis, précise ta pensée et rappelle-moi laquelle de mes nombreuses capacités tu trouves particulièrement appropriée en ce moment ?~
-@216   = ~Ta présence m'est profitable parce que nous n'avons rien en commun. A chaque instant que je passe en ta compagnie, je me dis : "Branwen, quels que puissent être tes échecs, au moins tu n'es pas comme LUI", et mon coeur se remplit de joie.~
+@216   = ~Ta présence m'est profitable parce que nous n'avons rien en commun. A chaque instant que je passe en ta compagnie, je me dis : « Branwen, quels que puissent être tes échecs, au moins tu n'es pas comme LUI », et mon coeur se remplit de joie.~
 @217   = ~Oh. Peut-être cela te réconfortera-t-il de savoir que je pense *exactement* la même chose, ma chère.~
 
 // discussion avec Quayle (219-221)

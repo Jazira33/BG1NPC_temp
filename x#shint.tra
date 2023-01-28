@@ -252,11 +252,11 @@
 @104 = ~Tuer cette sale *chose* ? Avec plaisir !~
 
 //rencontre avec Pétrine, la nièce de Bheren (ici, c'est Charname qui parle, pas Shar-Teel)
-@105 = ~Pétrine, ton oncle voulait tuer Ange. Je me suis dit que si nous ne faisions rien, demain, il s'en prendrait à un autre. Et je ne peux pas rester sans rien faire quand quelqu'un assassine les chats de pauvres orphelines ! Je... Je l'ai tué.~
+@105 = ~Pétrine, ton oncle voulait tuer Ange. Je me suis dit que si nous ne faisions rien, demain, il s'en prendrait à un autre. Et je ne peux pas rester sans rien faire quand quelqu'un assassine les chats de pauvres orphelines ! Je... je l'ai tué.~
 @106 = ~Je vais m'assurer que tu seras mise sous la garde de quelqu'un de mieux que ton rustre d'oncle, Pétrine. Fais-moi confiance.~
 
 //rencontre avec Liia Jannath à propos du "cas Pétrine" (là encore, c'est Charname qui parle, et non Shar-Teel)
-@107 = ~Oui, je vais traquer Sarevok, madame. Mais sachant que je pourrais perdre la vie, je me permets de vous demander de me faire la grace d'une faveur. Il me reste une tâche que je n'ai pas pu accomplir... une tâche quelque peu triviale. Une orpheline, Pétrine, et son chat ont besoin de quelqu'un de convenable pour prendre soin d'eux. Je... J'ai tué son oncle, un homme mauvais qui la maltraitait, mais à cause de cela, elle se retrouve seule en ce bas monde sans personne pour la protéger. J'ai une dette de sang envers elle.~
+@107 = ~Oui, je vais traquer Sarevok, madame. Mais sachant que je pourrais perdre la vie, je me permets de vous demander de me faire la grace d'une faveur. Il me reste une tâche que je n'ai pas pu accomplir... une tâche quelque peu triviale. Une orpheline, Pétrine, et son chat ont besoin de quelqu'un de convenable pour prendre soin d'eux. Je... j'ai tué son oncle, un homme mauvais qui la maltraitait, mais à cause de cela, elle se retrouve seule en ce bas monde sans personne pour la protéger. J'ai une dette de sang envers elle.~
 @108 = ~Levez-vous, noble héros. Je vous fais le serment qu'aussi longtemps que je disposerai du commandement et de l'autorité sur cette ville, j'élèverai la petite Pétrine comme ma propre fille... et Ange, son chat, sera lui aussi le bienvenu en ce palais. Ne nous attardons plus, maintenant. Sarevok doit être puni pour ses crimes !~
 
 //rencontre avec Cattack

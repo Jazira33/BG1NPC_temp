@@ -58,7 +58,7 @@ Utilisable par :
 // Translation Retriever: perfect match found in file dialog ToB En.tra at Id 17054
 @12    = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.~
 @13    = ~Anneau d'Influence Humaine du Seigneur Présage
-Le Seigneur Présage donna cet anneau à <CHARNAME> en faisant allusion à une aide qu'il pourrait lui apporter pour gagner le coeur des gens à l'avenir. Evidemment il y a d'autres sujets d'inquiétude pour le moment mais, comme on dit, « à cheval donné, on ne regarde pas la bride »... ou comme d'autres disent encore, « on ne sait jamais, ça pourrait servir un jour », sans oublier le vieux proverbe « en amour comme à la guerre, tous les coups sont permis »...
+Le Seigneur Présage donna cet anneau à <CHARNAME> en faisant allusion à une aide qu'il pourrait lui apporter pour gagner le cœur des gens à l'avenir. Evidemment il y a d'autres sujets d'inquiétude pour le moment mais, comme on dit, « à cheval donné, on ne regarde pas la bride »... ou comme d'autres disent encore, « on ne sait jamais, ça pourrait servir un jour », sans oublier le vieux proverbe « en amour comme à la guerre, tous les coups sont permis »...
 
 PARAMÈTRES :
 
@@ -72,7 +72,7 @@ Capacité spéciale :
 @15    = ~Les compétences d'Imoen en vol à la tire se sont améliorées grâce aux conseils ingénieux de Safana.~
 @16    = ~Oeuvre d'Imoen~
 @17    = ~Imoen a créé cette « chose » après avoir lu le livre de sorts de Tarnesh.~
-@18    = ~Imoen a créé cette « chose » après avoir lu le livre de sorts de Tarnesh. Elle est très fière de son oeuvre, même si personne ne sait vraiment ce que ça peut faire.~
+@18    = ~Imoen a créé cette « chose » après avoir lu le livre de sorts de Tarnesh. Elle est très fière de son œuvre, même si personne ne sait vraiment ce que ça peut faire.~
 @19    = ~Amulette de Gorion~
 @20    = ~Imoen a donné cette amulette à <CHARNAME> comme cadeau d'anniversaire. Le joyau est un pendentif ou une broche en or, dont Imoen vous assure qu'elle appartenait à Gorion, votre père. Il devait bien la cacher car vous ne l'aviez jamais vue auparavant. Le reste est fait de bouts de cailloux colorés et polis, d'éclats de gemmes mineures, de breloques métalliques et autres bric-à-brac, le tout maintenu par une corde de soie, fine mais solide.
 
@@ -185,7 +185,8 @@ Non utilisable par :
 PARAMÈTRES :
 
 Capacités de combat :
-  - 10 % de chance à chaque coup que l'adversaire soit enchevêtré pendant 2 rounds (annulé par une sauvegarde contre les souffles)
+- 10 % de chance à chaque coup que l'adversaire soit enchevêtré pendant 2 rounds (annulé par une sauvegarde contre les souffles)
+
 TAC0 : bonus de +2
 Dégâts : 1D6 +2
 Type de dégâts : perforant
@@ -1358,10 +1359,10 @@ Arme de jet : arbalète
 Poids : 1~
 @774 = ~Arc Court de Gesen~
 @775 = ~[SIRINE 05]~ [%tutu_var%SIRIN05]
-@776 = ~Séquenceur de sort - Lancé~
-@777 = ~Séquenceur de sort - Peau de pierre~
-@778 = ~Séquenceur de sort - Bouclier de feu (rouge)~
-@779 = ~Séquenceur de sort - Minuscules météores de Melf~
+@776 = ~Séquenceur de sorts - Lancé~
+@777 = ~Séquenceur de sorts - Peau de pierre~
+@778 = ~Séquenceur de sorts - Bouclier de feu (rouge)~
+@779 = ~Séquenceur de sorts - Minuscules météores de Melf~
 @780 = ~Contingence - Renvoi des sorts mineurs~
 @781 = ~Séquenceur mineur activé~
 @782 = ~Augmentation de la Dextérité~

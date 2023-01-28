@@ -62,7 +62,7 @@
 @59 = ~Ce n'est pas le problème d'Eldoth, ce que nos bons amis mariés font ! Minsc a toujours dit que Khalid était un brave homme, et cela le prouve encore plus !~
 @60 = ~Mon cher Minsc, peut-être pouvons-nous parvenir à un arrangement ? Je pense qu'il me reste toujours un peu de vin du Téthyr et...~
 @61 = ~Eldoth le malpropre va retourner dans son propre lit, ou Minsc va lui faire ce que nos berserkers font aux Thayens en maraude qui ennuient les gentilles filles rashémies !~
-@62 = ~Je ne suis pas certain de ce que "circoncision étendue" veut dire, mais Minsc le réalisera volontiers sur Eldoth ! Plusieurs fois !~
+@62 = ~Je ne suis pas certain de ce que « circoncision étendue » veut dire, mais Minsc le réalisera volontiers sur Eldoth ! Plusieurs fois !~
 @63 = ~Euh... Maintenant que tu le mentionnes... je crois que je vais dormir dans mon propre lit, désormais... euh... bonne nuit, Minsc.~
 @64 = ~Bonne nuit, Eldoth le malpropre.~
 @65 = ~Bouh, demain matin, rappelle-moi de demander à <CHARNAME> ce que signifie "circoncision étendue"... Tu penses que c'est une mauvaise idée ? Oui, peut-être que tu as raison... Bonne nuit, Bouh.~
@@ -95,7 +95,7 @@
 @92 = ~Tout ça a l'air bien et grandiose, mais Minsc veut savoir, est-ce que vous avez de la bonne bière ?~
 @93 = ~De la bière ? Il y a quelques tonnelets dans la cave, mais pourquoi...~
 @94 = ~Vraiment ?! Alors Minsc et Bouh veulent s'engager !~
-@95 = ~TOI ?! Et le hamster ? Faire partie du Très Noble Ordre du Coeur Radieux ? Pourquoi ?~
+@95 = ~TOI ?! Et le hamster ? Faire partie du Très Noble Ordre du Cœur Radieux ? Pourquoi ?~
 @96 = ~Et bien, les grands festins que la Loge organisait chaque fois que nous avions piétiné quelques nids de vilenie manquent à Minsc...~
 @97 = ~Ah... oui, le bon temps, quand la bière coulait à flots et que les Vremyonnis et les Wychlarans distribuaient leur sagesse, tandis que de belles dames aux hanches larges accueillaient les héros victorieux et dansaient avec leur bustier à moitié délacé et ces jupes rayonnantes...~
 @98 = ~ELLES FAISAIENT QUOI ?!~
@@ -177,13 +177,13 @@
 @174 = ~Alors le quatrième des serviteurs de Fyrra Vsevolod fut mené devant le maléfique Tarchion et on lui demanda s'il plierait devant Thay et s'agenouillerait devant Tarchion. Et le quatrième serviteur de Fyrra Vsevolod répondit que jusqu'à sa dernière goutte de sang, il serait loyal à la Rashéménie et combattrait Thay. Alors le maléfique Tarchion ordonna que le quatrième serviteur de Fyrra soit saigné à mort, et son corps fut jeté aux chacals.~
 @175 = ~Oui, oui, je vois ! Alors le cinquième des serviteurs de Fyrra Vsevolod fut mené devant le maléfique Tarchion...~
 @176 = ~C'est Minsc qui raconte l'histoire, mage. Alors le cinquième des serviteurs de Fyrra Vsevolod fut mené devant le maléfique Tarchion et on lui demanda s'il plierait devant Thay et s'agenouillerait devant Tarchion. Et le cinquième serviteur de Fyrra Vsevolod répondit que jusqu'à sa dernière goutte de sang, il serait loyal à la Rashéménie et combattrait Thay. Alors le maléfique Tarchion ordonna que le cinquième serviteur de Fyrra soit saigné à mort, et son corps fut jeté aux chacals.~
-@177 = ~Oui... un retournement imprévu. Je... Je dois me rendre à...~
+@177 = ~Oui... un retournement imprévu. Je... je dois me rendre à...~
 @178 = ~Alors le sixième des serviteurs de Fyrra Vsevolod fut mené devant le maléfique Tarchion et on lui demanda s'il plierait devant Thay et s'agenouillerait devant Tarchion. Et le sixième serviteur de Fyrra Vsevolod répondit que jusqu'à sa dernière goutte de sang, il serait loyal à la Rashéménie et combattrait Thay. Alors le maléfique Tarchion ordonna que le sixième serviteur de Fyrra soit saigné à mort, et son corps fut jeté aux chacals.~
 @179 = ~Il ne peut pas être arrêté, on ne peut pas discuter avec lui, il ne connaît pas la pitié... Heureusement, Fyrra Vsevolod voyageait avec une petite escorte, et cela va s'arrêter bien assez tôt.~
 @180 = ~Alors le septième des serviteurs de Fyrra Vsevolod fut mené devant le maléfique Tarchion et on lui demanda s'il plierait devant Thay et s'agenouillerait devant Tarchion. Et le septième serviteur de Fyrra Vsevolod répondit que jusqu'à sa dernière goutte de sang, il serait loyal à la Rashéménie et combattrait Thay. Alors le maléfique Tarchion ordonna que le septième serviteur de Fyrra soit saigné à mort, et son corps fut jeté aux chacals.~
 @181 = ~Comme c'était... riche d'enseignements. Je suis impressionné par mon propre ennui. Je ne me suis jamais autant ennuyé de toute ma vie. Les limites de l'ennui connu viennent d'être repoussées jusqu'à des extrémités nouvelles, et la taille de mon cerveau se réduit à chaque mot que tu prononces. (Incroyable mais vrai, malheureusement. Je suis marqué à vie.)~
 @182 = ~Bouh dit qu'il ne sent pas qu'Edwin est convaincu. *Le regard de Minsc s'éclaire* Mais nous pouvons toujours te raconter comment le brave Seigneur de Fer Yegoriy Yasnoi, ses quatre cent cinquante meilleurs hommes et trente Hathrans sont morts en défendant la citadelle rashémie contre les Thayens maléfiques...~
-@183 = ~Je... Je suis convaincu que les Rashémis ont un esprit indomptable. Peut-être pourrais-tu me soumettre cette histoire par écrit, pour que je puisse la transmettre à mes supérieurs ? (Nevron adorerait, j'en suis certain).~
+@183 = ~Je... je suis convaincu que les Rashémis ont un esprit indomptable. Peut-être pourrais-tu me soumettre cette histoire par écrit, pour que je puisse la transmettre à mes supérieurs ? (Nevron adorerait, j'en suis certain).~
 @184 = ~Oh... Minsc et Bouh ne sont pas suffisamment fous pour écrire une aussi longue histoire. Mais ils peuvent la dicter au sorcier maléfique. Sors ta plume ! Bon, il était une fois (Bouh ne se souvient jamais des dates) le Seigneur de Fer Yegoriy Yasnoi...~
 @185 = ~Où qu'aillent Minsc et Bouh, le Mal tremble dans ses chausses.~
 @186 = ~Veux-tu dire que le Mal subit des convulsions induites par la peur seulement dans la partie inférieure de son corps, quand tu approches ? Ou bien les tremblements se répandent-ils graduellement vers le haut, depuis les rotules ?~
@@ -238,9 +238,9 @@
 @235 = ~Chaque fois que Minsc perd quelque chose, Bouh le trouve.~
 @236 = ~Gah ! File d'ici, avant que je te plante ma hache dans l'corps !~
 @237 = ~Khalid, comment se fait-il que tu ne sois pas un rôdeur ?~
-@238 = ~Je... Je suis de la ville. Je ne me sens p-pas chez m-moi dans la nature, même si je suis à l'aise dans les bois quand Jaheira est non loin.~
+@238 = ~Je... je suis de la ville. Je ne me sens p-pas chez m-moi dans la nature, même si je suis à l'aise dans les bois quand Jaheira est non loin.~
 @239 = ~Bouh dit que tous les elfes aiment la nature.~
-@240 = ~Je... Je suis un d-demi-elfe, Minsc.~
+@240 = ~Je... je suis un d-demi-elfe, Minsc.~
 @241 = ~Bouh se demande pourquoi on dit demi-elfe et pas demi-humain.~
 @242 = ~Je ne sais p-pas... Les demi-orques sont aussi demi-humains. Je suppose que cela emp-pêche la confusion.~
 @243 = ~Ah ! Nous te remercions. Bouh est un hamster de l'espace très curieux, et tu lui as bien répondu.~

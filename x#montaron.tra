@@ -40,13 +40,13 @@
 @33 = ~Moitié oiseau de nuit, moitié coucou, pas vrai ?~
 @34 = ~Je me suis toujours considérée davantage comme un chaton que comme une bête à plumes.~
 @35 = ~Alors, souviens-toi juste de c'qu'on dit sur c'que la curiosité fait aux chats.~
-@36 = ~Hé bien, puisque *tu* abordes le sujet, ça fait longtemps que tu voyages avec <CHARNAME> ?~
-@37 = ~Hé bien... ça commence à faire une paie. A bien y r'garder, <PRO_HESHE> est plutôt pas mal dans son genre.~
+@36 = ~Eh bien, puisque *tu* abordes le sujet, ça fait longtemps que tu voyages avec <CHARNAME> ?~
+@37 = ~Eh bien... ça commence à faire une paie. A bien y r'garder, <PRO_HESHE> est plutôt pas mal dans son genre.~
 @38 = ~Oh ! Dis-m'en plus ! Avez-vous traversé beaucoup d'épreuves ? De... dangers ?~
 @39 = ~Ouais, c'est not' vie. Du moins, pour certains d'entre nous.~
 @40 = ~Tu veux dire que certains ont été trop pauvres pour continuer ?~
 @41 = ~Tiens, prends donc ma serviette pour te nettoyer le derrière des oreilles, ma chatte. Je veux dire que les autres sont morts.~
-@42 = ~Oh. Je... Je suis désolée.~
+@42 = ~Oh. Je... je suis désolée.~
 /* Branwen */
 @43 = ~Hé, la grande. T'as un moment ?~
 @44 = ~Ne gaspille pas ta salive avec moi, lâche.~
@@ -203,7 +203,7 @@
 /* Shar-Teel */
 @179 = ~Hé, fais gaffe où tu marches !~
 @180 = ~Ecarte-toi de mon chemin, mâle. Je fais des grands pas.~
-@181 = ~Ce blabla sur les "mâles" t'a collée dans nos pattes, déjà. J'aurais cru qu'ça t'apprendrait quequ'chose depuis l'temps.~
+@181 = ~Ce blabla sur les « mâles » t'a collée dans nos pattes, déjà. J'aurais cru qu'ça t'apprendrait quequ'chose depuis l'temps.~
 @182 = ~J'ai seulement appris que mon évaluation originelle était trop laxiste. Toi, par exemple, je t'aurais autrefois ignoré, mais tu es encore plus insultant que les autres car tu exprimes doublement ton arrogance mâle pour compenser ta demi-portion.~
 @183 = ~J'dois rester au niveau de mes copains, non ?~
 @184 = ~Qu'est-ce que c'est sensé vouloir dire ?~

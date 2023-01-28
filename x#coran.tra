@@ -7,7 +7,7 @@ N'est-elle pas une beauté ?~
 @1     = ~Pour l'instant, Coran, nous ne savons même pas si c'était une wiverne femelle.~
 @2     = ~Coran, arrête ça ! Je n'aime pas que l'on tourne le sacré en ridicule !~
 @3     = ~Coran, tu as une drôle de conception de la beauté. La prochaine fois tu vas faire des avances à de jeunes gobelines...~
-@4     = ~Hum, en fait, si. Regarde la forme du crâne - c'était certainement une femelle.~
+@4     = ~Hum, en fait, si. Regarde la forme du crâne, c'était certainement une femelle.~
 @5     = ~Comment un voleur serait-il au fait de ce genre de choses ? J'attendrais plutôt cela de la bouche d'un druide ou d'un rôdeur.~
 @6     = ~Très bien, c'était donc une femelle. Mais, Coran, tu as une drôle de conception de la beauté. La prochaine fois tu vas faire des avances à de jeunes gobelines.~
 @7     = ~*soupir* La ferme maintenant !~
@@ -108,9 +108,9 @@ N'est-elle pas une beauté ?~
 @93    = ~Non, Coran, je ne le pensais pas sérieusement. Ce n'est qu'un mot qui m'est venu à l'esprit.~
 @94    = ~Oh, il y a plein de raisons ! Il suffit de penser à la brûlure d'estomac qu'aura le dragon après s'être régalé de toi !~
 @95    = ~J'en doute... Le pouvoir est une maîtresse bien capricieuse, et la courtiser est en fin de compte si peu récompensé ! Elle vous transforme en un calamar gras, arrogant et égoïste, qui enseigne aux autres à gérer leur vie - encore plus vite que ne le fait le mariage.~
-@96    = ~Tu es réellement un enfant de Bhaal, n'est-ce pas ? Je l'oublie quelquefois, mais après, cela refait surface comme des bulles dans un marais. Je crains que le pouvoir ne te trouve même si tu gardes tes traits d'esprit pour toi et renonces à le rechercher. Je... Je pourrais envisager de quitter ton groupe prochainement, <CHARNAME>. Même si le temps passé ensemble a été amusant, je ne suis pas exagérément à l'aise avec l'idée de voyager avec une personne ayant ton héritage.~
+@96    = ~Tu es réellement un enfant de Bhaal, n'est-ce pas ? Je l'oublie quelquefois, mais après, cela refait surface comme des bulles dans un marais. Je crains que le pouvoir ne te trouve même si tu gardes tes traits d'esprit pour toi et renonces à le rechercher. Je... je pourrais envisager de quitter ton groupe prochainement, <CHARNAME>. Même si le temps passé ensemble a été amusant, je ne suis pas exagérément à l'aise avec l'idée de voyager avec une personne ayant ton héritage.~
 @97    = ~Tu as des visions et des rêves on ne peut plus étranges, <CHARNAME>. Soit tu es réellement destiné à la grandeur, soit tu es tout simplement fou. Je préfèrerais devenir fou que de régner. Le pouvoir est une maîtresse bien capricieuse, et la courtiser est en fin de compte si peu récompensé ! Elle vous transforme en un calamar gras, arrogant et égoïste, qui enseigne aux autres à gérer leur vie - encore plus vite que ne le fait le mariage.~ ~Tu as des visions et des rêves on ne peut plus étranges, <CHARNAME>. Soit tu es réellement destinée à la grandeur, soit tu es tout simplement folle. Je préfèrerais devenir fou que de régner. Le pouvoir est une maîtresse bien capricieuse, et la courtiser est en fin de compte si peu récompensé ! Elle vous transforme en un calamar gras, arrogant et égoïste, qui enseigne aux autres à gérer leur vie - encore plus vite que ne le fait le mariage.~
-@98    = ~Tu sais que ce n'est pas le cas. Tu es le fils de Bhaal. Je l'oublie quelquefois, mais après, cela refait surface comme des bulles dans un marais. Je crains que le pouvoir ne te trouve même si tu gardes tes traits d'esprit pour toi et renonces à le rechercher. Je... Je pourrais envisager de quitter ton groupe prochainement, <CHARNAME>. Même si le temps passé ensemble a été amusant, je ne suis pas exagérément à l'aise avec l'idée de voyager avec une personne ayant ton héritage.~ ~Tu sais que ce n'est pas le cas. Tu es la fille de Bhaal. Je l'oublie quelquefois, mais après, cela refait surface comme des bulles dans un marais. Je crains que le pouvoir ne te trouve même si tu gardes tes traits d'esprit pour toi et renonces à le rechercher. Je... Je pourrais envisager de quitter ton groupe prochainement, <CHARNAME>. Même si le temps passé ensemble a été amusant, je ne suis pas exagérément à l'aise avec l'idée de voyager avec une personne ayant ton héritage.~
+@98    = ~Tu sais que ce n'est pas le cas. Tu es le fils de Bhaal. Je l'oublie quelquefois, mais après, cela refait surface comme des bulles dans un marais. Je crains que le pouvoir ne te trouve même si tu gardes tes traits d'esprit pour toi et renonces à le rechercher. Je... je pourrais envisager de quitter ton groupe prochainement, <CHARNAME>. Même si le temps passé ensemble a été amusant, je ne suis pas exagérément à l'aise avec l'idée de voyager avec une personne ayant ton héritage.~ ~Tu sais que ce n'est pas le cas. Tu es la fille de Bhaal. Je l'oublie quelquefois, mais après, cela refait surface comme des bulles dans un marais. Je crains que le pouvoir ne te trouve même si tu gardes tes traits d'esprit pour toi et renonces à le rechercher. Je... je pourrais envisager de quitter ton groupe prochainement, <CHARNAME>. Même si le temps passé ensemble a été amusant, je ne suis pas exagérément à l'aise avec l'idée de voyager avec une personne ayant ton héritage.~
 @99    = ~Un mot qu'il est étrange de voir articulé paresseusement par un jeune adolescent, <CHARNAME>. Soit tu es réellement destiné à la grandeur, soit tu es tout simplement fou. Je préfèrerais devenir fou que de régner. Le pouvoir est une maîtresse bien capricieuse, et la courtiser est en fin de compte si peu récompensé ! Elle vous transforme en un calamar gras, arrogant et égoïste, qui enseigne aux autres à gérer leur vie - encore plus vite que ne le fait le mariage.~ ~Un mot qu'il est étrange de voir articulé paresseusement par une jeune adolescente, <CHARNAME>. Soit tu es réellement destinée à la grandeur, soit tu es tout simplement folle. Je préfèrerais devenir fou que de régner. Le pouvoir est une maîtresse bien capricieuse, et la courtiser est en fin de compte si peu récompensé ! Elle vous transforme en un calamar gras, arrogant et égoïste, qui enseigne aux autres à gérer leur vie - encore plus vite que ne le fait le mariage.~
 
 //dialogue amical 4 (Pj homme)
@@ -128,7 +128,7 @@ N'est-elle pas une beauté ?~
 @110   = ~Coran, qu'est-ce que tu marmonnes ? Ça n'a aucun sens !~
 @111   = ~Tu veux parler de ce sentiment étrange et doux qui germe en ton âme quand tu sais que tu es amoureux d'une autre et que cette dernière t'aime en retour ? Quand tu ne dois rien prouver ni tenter de la conquérir, mais juste te tenir là et jouir de sa compagnie et de sa grâce, et te sentir fier et triste qu'aucun « et si ? » ne t'ait jamais traversé l'esprit ?~
 @112   = ~Coran, Coran. Tu penses trop aux femmes pour ton propre bien. Peux-tu le faire en silence un moment ? Nous devrions vraiment y aller.~
-@113   = ~Je... J'ai eu quelquefois ce sentiment étrange et doux : je n'avais rien à prouver, ni n'avais à la conquérir. Je jouissais simplement de sa compagnie et de sa grâce. Et je me sentais fier et triste qu'aucun « et si ? » ne m'ait jamais traversé l'esprit. Qu'est-ce là sinon la forme la plus noble de l'amour ? Souhaiter à quelqu'un tout le bonheur du monde, et ne rien attendre en retour ?~
+@113   = ~Je... j'ai eu quelquefois ce sentiment étrange et doux : je n'avais rien à prouver, ni n'avais à la conquérir. Je jouissais simplement de sa compagnie et de sa grâce. Et je me sentais fier et triste qu'aucun « et si ? » ne m'ait jamais traversé l'esprit. Qu'est-ce là sinon la forme la plus noble de l'amour ? Souhaiter à quelqu'un tout le bonheur du monde, et ne rien attendre en retour ?~
 @114   = ~Ça, Coran, c'est de la camaraderie. Pas de l'amour. Est-il tellement inconcevable pour toi d'avoir une amie qui ne partage pas ton lit ?~
 @115   = ~Peut-être es-tu capable de sentiments plus profonds que je ne le pensais.~
 @116   = ~Coran, Coran. Quelle importance que ce soit de l'amour ou pas ? Nous devrions vraiment y aller maintenant.~
@@ -151,7 +151,7 @@ N'est-elle pas une beauté ?~
 
 // épisode de la berceuse (avec Namara, fille de Coran)
 
-@130   = ~<CHARNAME> ? *bâillement* Il est déjà l'heure de se lever ? Dis-moi que tu plaisantes ! Je... Je suis épuisé. Namara s'est un peu agitée durant notre dernier combat, et elle n'arrêtait pas de babiller. *baille* Et elle a essayé de mastiquer l'empennage des flèches... les flèches magiques aussi...~
+@130   = ~<CHARNAME> ? *bâillement* Il est déjà l'heure de se lever ? Dis-moi que tu plaisantes ! Je... je suis épuisé. Namara s'est un peu agitée durant notre dernier combat, et elle n'arrêtait pas de babiller. *baille* Et elle a essayé de mastiquer l'empennage des flèches... les flèches magiques aussi...~
 @131   = ~<CHARNAME> ?~
 @132   = ~Je suis désolé, Coran. Nous devons vraiment nous mettre en route. J'ai attendu le dernier moment pour te réveiller.~ ~Je suis désolée, Coran. Nous devons vraiment nous mettre en route. J'ai attendu le dernier moment pour te réveiller.~
 @133   = ~Je crois qu'un repos plus prolongé ne nous fera pas de mal. Retourne dormir, Coran... Euh... *après* avoir calmé Namara... Et garde-la à l'écart de notre réserve de flèches !~
@@ -165,11 +165,11 @@ N'est-elle pas une beauté ?~
 @140   = ~Oh ! Elle est tellement mignonne ! *glousse* Je veux mon propre bébé !~
 @141   = ~Garde délibérément les yeux fixés sur l'elfe, et il pourra facilement t'arranger ça.~
 
-@142   = ~<CHARNAME> ? Quelle belle vision tu fais... *étouffe un bâillement* Je suis désolé, ma douce Dame. Seras-tu assez charitable pour me dire que je rêve de toi et qu'il n'est pas encore temps de se lever ? Je... Je suis épuisé. Namara s'est un peu agitée durant notre dernier combat, et elle n'arrêtait pas de babiller. Et elle a essayé de mastiquer l'empennage des flèches... les flèches magiques aussi... et...~ [CORANB]
+@142   = ~<CHARNAME> ? Quelle belle vision tu fais... *étouffe un bâillement* Je suis désolé, ma douce Dame. Seras-tu assez charitable pour me dire que je rêve de toi et qu'il n'est pas encore temps de se lever ? Je... je suis épuisé. Namara s'est un peu agitée durant notre dernier combat, et elle n'arrêtait pas de babiller. Et elle a essayé de mastiquer l'empennage des flèches... les flèches magiques aussi... et...~ [CORANB]
 @143   = ~Je crois qu'un repos plus prolongé ne nous fera pas de mal. Retourne dormir, Coran, et laisse-moi essayer de bercer Namara... tant qu'il nous reste des flèches.~
 @144   = ~Bah ! Tu ne m'inspires aucune pitié. Tu as presque laissé cette pauvre Brielbara tout gérer toute seule, et maintenant tu pleurniches en t'apitoyant sur toi-même parce que ce bébé t'a pour ainsi dire forcé à devenir responsable. Les hommes ! Et maintenant TU TE LEVES !~
 @145   = ~<CHARNAME>, ta gentillesse n'est surpassée que par ta beauté. Euh, es-tu certaine de pouvoir bercer Namara, cela dit ? Tu peux t'entraîner sur moi... je veux dire, si tu as un doute.~
-@146   = ~*Vous jetez un coup d'oeil furieux à Coran et prenez Namara dans vos bras. Ignorant son regard vaguement anxieux, vous commencez à chanter une berceuse.*
+@146   = ~*Vous jetez un coup d'œil furieux à Coran et prenez Namara dans vos bras. Ignorant son regard vaguement anxieux, vous commencez à chanter une berceuse.*
 Cent abeilles ont quitté la ruche, 
 Se sont envolées dans la nuit.
 Dans le ciel, elles semblent perdues
@@ -273,7 +273,7 @@ Et je ne sais pourquoi.~
 @211   = ~Est-il vrai que des amies ont payé ton voyage depuis La Nouvelle-Olamn ?~
 @212   = ~L'attention des femmes est un présent précieux, dont je suis plus qu'abondamment doté. Oui, bien sûr.~
 @213   = ~Je trouve l'idée très... séduisante. Vraiment, plutôt que d'arracher l'argent des mains, tu les embrasses et voilà ! Elles ne crient pas : « Au voleur ! », mais sourient et te prient d'en prendre davantage.~
-@214   = ~Hé bien, si vous êtes prêt à changer de profession, je pourrais aisément vous aiguiller dans la bonne direction. Vous avez un certain talent, mais je crains que vous ne mettiez trop de coeur à l'ouvrage - et c'est bien un métier.~
+@214   = ~Eh bien, si vous êtes prêt à changer de profession, je pourrais aisément vous aiguiller dans la bonne direction. Vous avez un certain talent, mais je crains que vous ne mettiez trop de coeur à l'ouvrage - et c'est bien un métier.~
 @215   = ~Un métier ? Bien que j'aie entendu dire que certains se font payer pour goûter des vins et de la nourriture pour les riches. Est-ce toujours aussi plaisant si leurs femmes ont caché du poison dedans ?~
 @216   = ~Il y a tant de fruits aigres parmi elles, vous n'imaginez pas. Supporter les caprices de l'ennuyeuse, de la dominatrice ou l'intarissable bavarde est une pure torture. Pouvez-vous vous représenter cela ? Certaines d'entre elles croient réellement avoir quelque chose à dire que je n'ai pas déjà entendu !~
 @217   = ~Et bien sûr tu ne peux pas te permettre d'avoir la moindre once d'amour ni d'honneur.~
@@ -332,7 +332,7 @@ Si Tu ne m'embrasses pas ?~
 @257   = ~Mais, mais Silke était une actrice ! Une barde ! Pas une prêtresse !~
 @258   = ~Les prêtres de Loviatar, ou Douleurs, comme ils s'appellent eux-mêmes, se déguisent souvent en artistes, Garrick. C'est de cette manière qu'ils espèrent gagner leur accès dans les demeures des puissants afin de les séduire et de les endoctriner.~
 @259   = ~Hum... Coran, vous paraissez terriblement au courant de ce genre de choses.~
-@260   = ~Je... J'ai parlé à un théologien érudit, une fois.~
+@260   = ~Je... j'ai parlé à un théologien érudit, une fois.~
 
 @261   = ~T'ai-je dit que j'ai joué du luth autrefois ?~
 @262   = ~Non, Coran, vous ne l'avez pas fait. Peut-être pourrions-nous tenter un duo pour nos camarades, un jour ou l'autre ? Ce serait glorieux !~
@@ -357,7 +357,7 @@ Si Tu ne m'embrasses pas ?~
 @279   = ~Dis donc, Coran. Ouah, quelle pile de lettres ! As-tu une famille nombreuse et aimante, ou quelque chose du genre ?~
 @280   = ~Ce sont les lettres de quelques amis...~
 @281   = ~Des amies-dames ?~
-@282   = ~Hé bien, tous ne sont pas nécessairement des dames... Je veux dire, parmi mes amis. Il y a deux ou trois lettres d'hommes en extra.~
+@282   = ~Eh bien, tous ne sont pas nécessairement des dames... Je veux dire, parmi mes amis. Il y a deux ou trois lettres d'hommes en extra.~
 @283   = ~Doivent venir des maris, alors ?~
 @284   = ~La plupart.~
 
@@ -372,7 +372,7 @@ Si Tu ne m'embrasses pas ?~
 @293   = ~Soyez béni, noble Sire.~
 
 @294   = ~Jaheira, ô tempétueuse druidesse,de quoi Khalid et toi murmuriez et riiez il y a quelques temps pendant que vous regardiez dans ma direction ? Je prends toujours plaisir à voir le beau visage souriant d'une jeune fille tourné dans ma direction, mais pas nécessairement, ahem, s'il est accompagné de celui du mari.~
-@295   = ~Hé bien, déjà, je faisais remarquer à Khalid quelle mine tu aurais eue en t'effondrant dans l'eau, si le pont sur lequel tu te tenais comme un collecteur de péage n'avait pas été suffisamment large pour laisser passer deux personnes de front.~
+@295   = ~Eh bien, déjà, je faisais remarquer à Khalid quelle mine tu aurais eue en t'effondrant dans l'eau, si le pont sur lequel tu te tenais comme un collecteur de péage n'avait pas été suffisamment large pour laisser passer deux personnes de front.~
 @296   = ~Femme cruelle ! Et s'il ne l'avait pas été, m'aurais-tu réellement jeté à l'eau pour passer, dans l'hypothèse que vous n'ayez pas décidé de me laisser rejoindre votre charmante compagnie ?~
 @297   = ~Oh, oui assurément, vu que c'était le seul moyen de pouvoir passer. Cela dit, si j'étais paranoïaque, comme certain mage fou, je soupçonnerais quelque divinité malicieuse et maladroite d'avoir dessiné nos plans de voyage de telle manière que nous n'avions d'autre choix que de tomber sur toi.~
 @298   = ~Ah, cette divinité bienveillante doit sûrement être une femme.~
@@ -400,7 +400,7 @@ Si Tu ne m'embrasses pas ?~
 @317   = ~Quelque chose comme ça, oui.~
 @318   = ~Je n-ne sais pas ce qu'elles peuvent ressentir, Coran. Je ne v-veux que Jaheira.~
 @319   = ~Je ne mets pas en doute ta fidélité, Khalid. Mais qu'en était-il avant que tu ne rencontres Jaheira ?~
-@320   = ~C-c'était un autre monde, Coran - ma vie a changé à partir du moment où j'ai fait connaissance avec Jaheira, non seulement à cause de notre rencontre, mais à cause de notre... travail commun. Quand j'étais jeune homme à Calimport, j'étais considéré comme un c-compagnon plutôt agréable, bien que je n'aie échangé que des b-baisers avec des dames qui n-ne voulaient rien de plus.~
+@320   = ~C-c'était un autre monde, Coran... ma vie a changé à partir du moment où j'ai fait connaissance avec Jaheira, non seulement à cause de notre rencontre, mais à cause de notre... travail commun. Quand j'étais jeune homme à Calimport, j'étais considéré comme un c-compagnon plutôt agréable, bien que je n'aie échangé que des b-baisers avec des dames qui n-ne voulaient rien de plus.~
 @321   = ~Ne voulaient rien de plus ! Je vois que l'approche timide a ses inconvénients.~
 @322   = ~Mais quand considérez-*vous* qu'une femme est attirée ? Parce que je v-vous ai entendu dire qu'une gueuse de taverne s'était ent-tichée de vous alors qu'elle n-n'avait fait que vous ap-porter votre bière.~
 @323   = ~Oh, mais la façon dont elle m'a regardé...~
@@ -422,7 +422,7 @@ Si Tu ne m'embrasses pas ?~
 @337   = ~Te voici à nouveau tendu comme la corde d'un arc, Kivan. Je t'ai entendu gémir au cours de ta Rêverie. Ne me dis pas que tu ressasses les souvenirs sinistres !~
 @338   = ~Je n'ai pas le choix, Coran, et vous le savez. Je serais ravi de diriger mes pensées vers les jours où je connaissais le bonheur, mais les bons comme les mauvais souvenirs viennent à nous dans la Rêverie.~
 @339   = ~Ah, mellonamin, c'est trop cruel.~
-@340   = ~Je... Je dois regarder quelquefois leurs visages, pour ne pas en oublier un seul.~
+@340   = ~Je... je dois regarder quelquefois leurs visages, pour ne pas en oublier un seul.~
 @341   = ~Les visages des brigands qui t'ont capturé ?~
 @342   = ~Oui. Ces rêves me sont envoyés par Shevarash, j'en suis sûr.~
 @343   = ~Kivan, je ne sais pas quoi dire. Je rejette Shevarash et ses manières horriblement sinistres et obsessionnelles, mais...~
@@ -466,7 +466,7 @@ Si Tu ne m'embrasses pas ?~
 @377   = ~C'est tout à fait impossible, Quayle.~
 @378   = ~Ah bon ? N'as-tu pas observé la réelle étendue de mes pouvoirs intellectuels ? Ne les as-tu pas comparés à ceux de tous les êtres qui ont vécu avant moi ?~
 @379   = ~Pas vraiment.~
-@380   = ~Hé bien, tu sais, j'ai fait la comparaison, et je les ai tous trouvés défaillants.~
+@380   = ~Eh bien, tu sais, j'ai fait la comparaison, et je les ai tous trouvés défaillants.~
 @381   = ~Quand Ao créa le monde, il créa une quantité limitée de toutes choses, ce qui inclut l'intellect. Depuis lors, sa somme est restée constante dans les Royaumes...~
 @382   = ~Et alors ?~
 @383   = ~Vois-tu, gnome, le montant total d'intellect est constant et la population va croissante. La part de chaque individu, par conséquent...~
@@ -496,7 +496,7 @@ Si Tu ne m'embrasses pas ?~
 @403   = ~Coran, chéri, pourquoi n'as-tu pas encore imploré mon pardon ?~
 @404   = ~La dame de mes pensées pourrait-elle me donner la liste de mes crimes ?~
 @405   = ~Tu m'as laissée partir dormir sans me donner de compliment. Tu oublies tes manières, elfe.~
-@406   = ~Je... J'ai beaucoup de choses à penser ces derniers temps. Pardonne-moi mon manque de...~
+@406   = ~Je... j'ai beaucoup de choses à penser ces derniers temps. Pardonne-moi mon manque de...~
 @407   = ~D'esprit ?~
 @408   = ~Oh ? Safana, pourrions-nous poursuivre cette conversation plus tard ? J'ai du linge à laver...~
 @409   = ~Chéri, j'espère que ce sont les exigences de la paternité qui provoquent ton intérêt soudain pour la lessive, et que ce n'est pas parce que tu ferais n'importe quoi plutôt que de me parler. Cela me ferait énormément de peine, et, bon, mon abattement ne requiert pas seulement de la compagnie - il demande à être partagé. De préférence avec la personne qui l'a provoqué.~
@@ -506,7 +506,7 @@ Si Tu ne m'embrasses pas ?~
 @412   = ~Écarte-toi de moi, elfe lèche-bottes !~
 @413   = ~Je ne savais pas que tu haïssais les amandes avec tant de passion, Shar-Teel. Je suis désolé.~
 @414   = ~Par les Neuf Enfers ! Je ne déteste pas les amandes, je déteste que tu me dragues, stupide bâtard !~
-@415   = ~Je ne le faisais pas. Faisons un marché : je presserai deux doigts sur ma joue - comme cela - lorsque j'essaierai de te draguer, et alors tu pourras être aussi furieuse que tu voudras. Mais, lorsque j'essaie seulement de te parler...~
+@415   = ~Je ne le faisais pas. Faisons un marché : je presserai deux doigts sur ma joue, comme cela, lorsque j'essaierai de te draguer, et alors tu pourras être aussi furieuse que tu voudras. Mais, lorsque j'essaie seulement de te parler...~
 @416   = ~La ferme ! Je n'ai pas besoin de tes foutues discussions ni de tes foutues amandes.~
 @417   = ~Je pense que si. Un salaud t'a blessée par le passé, et maintenant tu es en colère en permanence.~
 @418   = ~C'est pas tes foutus oignons. Pas du tout !~
@@ -532,7 +532,7 @@ Si Tu ne m'embrasses pas ?~
 @435   = ~Viconia...~
 @436   = ~Qu'y a-t-il, darthiir ? As-tu fini par succomber à la tentation ? Toi qui tiens la passion et la beauté féminine en si haute estime ?~
 @437   = ~En fait, j'allais te demander d'arrêter de me traquer. C'est la tombée de la nuit, n'est-ce pas, Viconia ?~
-@438   = ~Oui, l'obscurité - toujours une alliée dans les affaires intimes, et une raison de plus pour moi de soupçonner tes motivations.~
+@438   = ~Oui, l'obscurité... toujours une alliée dans les affaires intimes, et une raison de plus pour moi de soupçonner tes motivations.~
 @439   = ~Et c'est aussi durant cette période que les prêtresses de Shar cherchent à commettre un acte pervers pour plaire à leur déesse.~
 @440   = ~Es-tu intéressé par une discussion théologique avec moi, ou bien, comme tous les jaluken, as-tu un besoin maladif de ma compagnie ?~
 @441   = ~En toute honnêteté, ni l'un ni l'autre ne piquent ma curiosité. Je veux rester entier et ne pas être sexuellement agressé. Trouve-toi une autre victime pour ton rituel de Nuit Tombante, drow.~

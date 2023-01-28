@@ -1,6 +1,6 @@
 // reconnaît Tazok dans le dernier combat
 //@0 = ~Tazok !~
-//@1 = ~Hé bien... Nous nous rencontrons à nouveau. Pensais-tu que je mourrais aussi facilement que ta donzelle ?~
+//@1 = ~Eh bien... Nous nous rencontrons à nouveau. Pensais-tu que je mourrais aussi facilement que ta donzelle ?~
 //@2 = ~Je vous jetterai dans les Enfers même si je dois vous y suivre !~
 //@3 = ~Tazok ! Vous n'avez nul endroit où fuir cette fois-ci. Mon serment sera enfin accompli. Déhériana, melamin, cette heure sanglante est nôtre !~
 //@4 = ~Hé hé. Ma petite compagnie aura une tête d'elfe avec laquelle jouer ce soir !~
@@ -9,7 +9,7 @@
 
 
 // Kivan/Beldin
-@6 = ~M-merci, aventuriers. Je... J'ai trouvé cette gemme en creusant... je la gardais pour ma femme, mais... vous m'avez rendu ma vie, et je n'ai rien d'autre pour payer votre courage...~
+@6 = ~M-merci, aventuriers. Je... j'ai trouvé cette gemme en creusant... je la gardais pour ma femme, mais... vous m'avez rendu ma vie, et je n'ai rien d'autre pour payer votre courage...~
 @7 = ~Alors elle revient à votre épouse, mon ami. Partez maintenant, avant que ne viennent davantage de « démons ».~
 @8 = ~Mais votre vie est un présent suffisant pour elle. Merci pour la gemme.~
 @9 = ~Etes-vous encore là, lâche ? Hors de ma vue, avant que je ne vous tue moi-même. Ah ! Effrayé par des kobolds !~
@@ -24,7 +24,7 @@
 
 // Joseph
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 742, probablement inutile de traduire ici !
-@13 = ~Mes condoléances, bonne dame. Je... Je sais combien cela fait mal de perdre la personne qu'on aime. Je voudrais pouvoir vous offrir plus que des mots.~
+@13 = ~Mes condoléances, bonne dame. Je... je sais combien cela fait mal de perdre la personne qu'on aime. Je voudrais pouvoir vous offrir plus que des mots.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 743, probablement inutile de traduire ici !
 @14 = ~*sanglots*~
 
@@ -248,7 +248,7 @@ J'ai rencontré une partie des bandits qui ravagent actuellement la côte. Leur 
 @91 = ~Ce ne sont pas des prisonniers, <CHARNAME>. Il est plus probable que ce soient des bandits trop indisciplinés même pour le Frisson !~
 
 // Ender
-@92 = ~Merci, frère de race. Je... Je sais ce que c'est que d'être capturé par Tazok et ses hommes. Avez-vous besoin de soins ?~
+@92 = ~Merci, frère de race. Je... je sais ce que c'est que d'être capturé par Tazok et ses hommes. Avez-vous besoin de soins ?~
 @93 = ~Le pire est passé, mon ami. Tazok m'a oublié depuis quelques jours... à moins qu'il n'ait préparé quelque chose de spécial pour mon exécution et voulu que je sois valide pour cette occasion ? Qui sait, mais dans cette tente j'étais à l'abri de ces brutes... La plupart du temps.~
 @94 = ~Vous avez eu de la chance Ender.~
 @95 = ~Etes-vous... seriez-vous Kivan, par hasard ?~

@@ -29,11 +29,11 @@
 @24 = ~Vraiment ? Alors tu emmènes cette fille avec toi à cause de ses talents ?~
 @25 = ~Oui. C'est un membre de valeur dans ce groupe.~
 @26 = ~Que puis-je dire de plus ? Elle fait bien son travail.~
-@27 = ~Hé bien, elle n'est pas là uniquement à cause de ses compétences, je suppose.~
+@27 = ~Eh bien, elle n'est pas là uniquement à cause de ses compétences, je suppose.~
 @28 = ~Ta sœur, dis-tu ? De l'attachement ? Il va falloir que tu comprennes quand je te dis que les manières des surfacins me semblent complètement stupides.~
-@29 = ~Dans ma maison, mes dalninilen, mes soeurs, comme vous dites, n'avaient certainement aucun attachement pour moi, ni moi pour elles. Nous étions au mieux des rivales, au pire des ennemies jurées.~
+@29 = ~Dans ma maison, mes dalninilen, mes sœurs, comme vous dites, n'avaient certainement aucun attachement pour moi, ni moi pour elles. Nous étions au mieux des rivales, au pire des ennemies jurées.~
 @30 = ~C'était l'Outreterre. Les choses sont différentes ici.~
-@31 = ~Hé bien, Imoen et moi ne sommes pas comme ta fratrie. Nous sommes des amis proches, et loyaux l'un envers l'autre.~ ~Hé bien, Imoen et moi ne sommes pas comme ta fratrie. Nous sommes des amies proches, et loyales l'une envers l'autre.~
+@31 = ~Eh bien, Imoen et moi ne sommes pas comme ta fratrie. Nous sommes des amis proches, et loyaux l'un envers l'autre.~ ~Eh bien, Imoen et moi ne sommes pas comme ta fratrie. Nous sommes des amies proches, et loyales l'une envers l'autre.~
 @32 = ~Ne te fais aucune idée à propos d'une telle compétition. Je ne veux pas que tu fasses de mal à Imoen.~
 @33 = ~Alors tu vois la stupidité de vos manières ? Vraiment, <CHARNAME>, je peux comprendre pourquoi tu pourrais avoir de... la tendresse... pour cette enfant, mais elle est surtout un handicap pour nous tous. Peut-être devrait-elle partir.~
 @34 = ~Peut-être as-tu raison. J'y réfléchirai.~
@@ -138,7 +138,7 @@
 @106 = ~Mais ils existent, rivvil. Je n'aspire pas à les tracer, seulement à les rendre évidents.~
 @107 = ~Tu n'aspires pas seulement à les rendre évidents, mais à les présenter sous l'éclairage de Ton choix.~
 @108 = ~Tu as un esprit affûté, Viconia, et une ambition tout aussi aiguë. Bien que ce ne soit peut-être pas le cas pour les autres, Tes mobiles et machinations les plus subtils m'apparaissent avec évidence.~
-@109 = ~Je... Je ne sais quoi dire de plus. Tu m'as mise au pied du mur, jalil. Bien joué.~
+@109 = ~Je... je ne sais quoi dire de plus. Tu m'as mise au pied du mur, jalil. Bien joué.~
 @110 = ~Ce n'est pas à la victoire que j'aspire ! Bien que Tu séjournes aujourd'hui en surface, Ton esprit fonctionne toujours comme celui d'un drow. Toujours à s'activer, s'activer, s'activer.~
 
 
@@ -236,7 +236,7 @@
 
 //Kivan 2
 @173 = ~Faible darthiir, comment as-tu fait pour rester en vie ? Déhériana est morte...~
-@174 = ~N'ayez pas l'audace de prononcer son nom, pas vous... Je... Je vous l'interdis !~
+@174 = ~N'ayez pas l'audace de prononcer son nom, pas vous... Je... je vous l'interdis !~
 @175 = ~Si tu n'avançais pas si lentement comme un simple d'esprit, en murmurant à chaque pas Déhériana par ci, Déhériana par là, je n'aurais pas posé la question. Mais que peut-on attendre d'un simple darthiir, sinon la sottise ? Alors, pourquoi as-tu abandonné la femme que tu as servie jusqu'à la mort, et n'en as-tu pas été puni ?~
 @176 = ~Je n'étais pas au service de Déhériana, Viconia. Elle était ma femme devant les dieux et les hommes. Je l'aime.~
 @177 = ~Jal ssinssrigg zhah waella. Tout amour est stupide, darthiir.~
