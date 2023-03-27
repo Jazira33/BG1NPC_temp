@@ -348,7 +348,7 @@
 @331  = ~Je ne saurais me targuer de connaître les neuf mille prophéties d'Alaundo par coeur. Mais je m'en rappelle d'une bonne partie.~
 @332  = ~Gorion m'avait récité quelques uns de ces Présages, mais je me suis toujours dit qu'il fallait être un érudit possédant la sagesse de l'âge pour vraiment les apprécier.~
 @333  = ~Je me souviens de celui qui parle du Temps des Troubles selon eux. « L'oiseau blanc disparaîtra du Nord, et un grand mal mourra et renaîtra. » Pourquoi cela concerne le Temps des Troubles, je ne m'en rappelle pas. Je croyais que cela faisait référence à un été particulièrement chaud au Val de Bise, avec toute la neige qui fondrait, et l'hiver qui reviendrait au bout d'un certain temps...~
-@334  = ~J'ai honte de l'avouer, mais je ne m'en souviens que d'un seul, et qui tient plus de l'anecdote, Hathran. Année 1 263, l'Année du Tressym... "Dans la cité de la lune, les Oiseaux de la Dame chanteront..." Je me souviens qu'il s'est murmuré que Dame Alustriel a simplement haussé les épaules, rappelant que les prophéties d'Alaundo était aussi éparpillées que les tressym de cette année-là... qui ont effectivement hanté les toits de Lunargent pendant près de deux semaines.~
+@334  = ~J'ai honte de l'avouer, mais je ne m'en souviens que d'un seul, et qui tient plus de l'anecdote, Hathran. Année 1 263, l'Année du Tressym... « Dans la cité de la lune, les Oiseaux de la Dame chanteront... » Je me souviens qu'il s'est murmuré que Dame Alustriel a simplement haussé les épaules, rappelant que les prophéties d'Alaundo était aussi éparpillées que les tressym de cette année-là... qui ont effectivement hanté les toits de Lunargent pendant près de deux semaines.~
 @335  = ~Non... pas vraiment... Non, attendez ! Quel était ce chant, le jour où j'ai quitté Château-Suif ? Hmmm... une prophétie de mauvaise augure... *Imiter le Chanteur.* "Le Seigneur du Meurtre périra, mais avant sa chute il engendrera une lignée de mortels qui sèmeront le chaos sur leur passage. C'est ce que dit le sage Alaundo."~
 @336  = ~Pardonne-moi si j'ai remué le couteau dans la plaie par inadvertance, <CHARNAME>. *Dynahéir semble confuse sans que vous ne sachiez pourquoi, et s'éloigne sans autre forme de procès.*~
 @337  = ~Par les Trois ! Je Te présente mes plus plates excuses, <CHARNAME>, Ta boutade m'a déstabilisée.~
@@ -442,7 +442,7 @@
 @422  = ~*Murmurer alors qu'elle s'éloigne.* Mais je vous aime...~
 @423  = ~Dynahéir, ne vous y trompez pas. Un jour ou l'autre, vous serez à moi.~
 @424  = ~C'est vrai. Merci de me l'avoir rappelé. Je vais rassembler mes esprits dès mainenant. Je refuse de tomber parce qu'un rêve bizarre m'aura éloigné de mon grimoire à sorts la veille.~
-@425  = ~Je n'ai peut-être pas besoin d'apprendre mes sorts par coeur, mais la concentration me maintient en vie. Je vais rassembler mes esprits dès maintenant.~
+@425  = ~Je n'ai peut-être pas besoin d'apprendre mes sorts par cœur, mais la concentration me maintient en vie. Je vais rassembler mes esprits dès maintenant.~
 @426  = ~Cela s'applique aussi à ceux qui ne font montre d'aucune inclination aux arcanes. Il est dangereux de se laisser distraire par un amusement. Je vais rassembler mes esprits dès maintenant.~
 @427  = ~S'il n'y a rien dans la vie en-dehors des batailles, alors à quoi bon vivre ?~
 @428  = ~Non, <CHARNAME>, je n'ai jamais dit ça. *froidement* Je Te laisse Te souvenir à quel point j'étais consentante.~
@@ -456,7 +456,7 @@
 
 
 //Dynahéir parle de son peuple, et du conflit qui l'oppose à Thay
-@436  = ~...et c'est ainsi que Thay tenta sa première incursion en l'an de grâce 934 dans les Gorges de Gauros, mais fut repoussé.~
+@436  = ~... et c'est ainsi que Thay tenta sa première incursion en l'an de grâce 934 dans les Gorges de Gauros, mais fut repoussé.~
 @437  = ~Oh, Dynahéir, doit-on vraiment parler d'événements aussi anciens ?~
 @438  = ~Et maintenant, quatre cents ans plus tard, ils n'ont toujours pas réussi. Votre pays doit avoir de sacrées tripes pour repousser ces envahisseurs étrangers, Dynahéir.~
 @439  = ~Dynahéir, d'après ce que vous m'avez dit de la Rashéménie... qu'est-ce qui peut autant motiver Thay pour l'envahir ?~
@@ -669,7 +669,7 @@ Que des réprimandes et sortilèges !~
 @629  = ~Oui, c'est tout à fait vrai. Continuons, maintenant. Ainsi, nous pourrons vous fournir de nouvelles histoires à raconter.~
 @630  = ~Mais les choses se sont passées comme elles se sont passées, <CHARNAME>, et il serait futile de vouloir les changer. Il est vrai, toutefois, que j'ai voulu visiter Ta cité.~
 @631  = ~*sourire grimaçant* *Il* était un jeune et fringant magicien demi-elfe...~
-@632  = ~...Il y a environ deux-cents ans.~
+@632  = ~... Il y a environ deux-cents ans.~
 @633  = ~Donc, vous êtes retournée en Sembie et avez terminé vos recherches, cette fois. Et où êtes-vous allée, de là, Dynahéir ?~
 @634  = ~*Vous essuyez la sueur qui perlait sur votre front, et répondez d'un air détaché.* Ah, je vois.~
 @635  = ~A moins que le sang dans Tes veines ne Te tue avant, et ne laisse qu'une coquille vide portant le nom de <CHARNAME>. Mais alors, ce serait la tête de Bhaal qu'il faudrait trancher. J'ose espérer que Tu serais le premier à la réclamer.~
@@ -731,7 +731,7 @@ Que des réprimandes et sortilèges !~
 @688  = ~Ce... ce n'est pas pour moi, que j'avais peur, mais pour vous. Je pensais que... quelque chose vous était arrivé.~
 @689  = ~Je crains que l'aventure ne m'ait rendu encore *plus* nerveux, Dynahéir. Je parie que vous sursautez à chaque fois que vous entendez un chien aboyer !~
 @690  = ~*Elle ébouriffe vos cheveux.* Bon garçon. Assis, maintenant ! Je vais essayer de m'endormir.~
-@691  = ~Moi aussi, j'aimerais bien me coucher... *clin d'oeil* pas tout seul, si possible.~
+@691  = ~Moi aussi, j'aimerais bien me coucher... *clin d'œil* pas tout seul, si possible.~
 @692  = ~*Lui lécher la main.* Tout de suite, maîtresse, tout de suite.~
 @693  = ~*Renifler et ne rien dire.*~
 @694  = ~Tu es venu à mon secours une fois encore, <CHARNAME>. Je ne devrais pas m'habituer à ce que quelqu'un me vienne en aide à la première difficulté. Repose-Toi bien.~
@@ -999,7 +999,7 @@ Elle me traitera en grand dadais !~
 @936  = ~Ca semble... magnifique...~
 @937  = ~Je me demande comment Château-Suif m'apparaîtrait, à présent ?~
 @938  = ~*murmure* Il aurait dû T'apprendre à ne pas être aussi perspicace... mais peut-être cela aurait-il été aussi une erreur. Que les Trois me viennent en aide, j'aime beaucoup ce que je vois... et il est trop tard pour défaire ce que Gorion a fait...~
-@939  = ~Mais Tu n'as pas eu le coeur brisé d'avoir perdu Ton père, et Tu n'as pas souffert de ne l'avoir connu.~
+@939  = ~Mais Tu n'as pas eu le cœur brisé d'avoir perdu Ton père, et Tu n'as pas souffert de ne l'avoir connu.~
 @940  = ~J'ai appris que Borovsk avait été dévastée lorsque je suis revenue de mon premier dajemma... Plus aucun membre de ma famille ne vivait, si ce n'est le garçon qui avait été donné à mes parents, pour l'élever à ma place. Il s'est vaillamment battu au côté de mon père, et fut grièvement blessé... et néanmoins, je ne pouvais me permettre de me rendre à son chevet. Le devoir d'une Hathran est envers tout son peuple... elle est la soeur de chacun d'entre eux...~
 @941  = ~Je suis désolé, Dynahéir... Je suis vraiment désolé. Mais je crois que vous avez retrouvé une partie de votre famille... Minsc... n'est-ce pas lui, votre beau-frère ?~
 @942  = ~Je n'arrive pas à croire que vous n'êtes jamais retournée à Borovsk pour voir vos parents avant que votre village ne soit détruit !~
@@ -1313,8 +1313,8 @@ Trouve cela inintéressant...~
 @1238 = ~S'il est bien une chose que j'ai apprise de mes voyages passés, c'est que la malchance n'est que combinaison d'incompétence et de mauvaise planification.~
 @1239 = ~Autrefois vivait un puissant seigneur de guerre : Helg le Courageux.~
 @1240 = ~Alors au faîte de sa gloire, Helg et ses suivants se trouvaient en train de cavaler. C'est alors qu'ils rencontrèrent une sorcière, qui boitillait sur leur chemin. Le seigneur de guerre arrêta ses chevaux, et dit à la sorcière qu'elle ne devait avoir nulle crainte de lui, ou de ses puissants compagnons...~
-@1241 = ~« Dites-moi de quelle façon je mourrai », commanda Helg. « En récompense, je vous ferai don du cheval de votre convenance. Mais ne vous avisez point de me mentir. » La sorcière leva les yeux et regarda Helg, puis répondit : "Les sorcières ne ressentent nulle crainte devant les puissants seigneurs, et n'ont que faire de leurs cadeaux. Je te le dis en vérité ; c'est par Ton cheval que Ta mort viendra."~
-@1242 = ~Helg resta silencieux un moment. Comme tout seigneur, il aimait son cheval. Il posa pied à terre, et confia ce dernier à ses suivants. "Mon ami et loyal serviteur, dit-il, jamais plus je ne Te monterai."~
+@1241 = ~« Dites-moi de quelle façon je mourrai », commanda Helg. « En récompense, je vous ferai don du cheval de votre convenance. Mais ne vous avisez point de me mentir. » La sorcière leva les yeux et regarda Helg, puis répondit : « Les sorcières ne ressentent nulle crainte devant les puissants seigneurs, et n'ont que faire de leurs cadeaux. Je te le dis en vérité ; c'est par Ton cheval que Ta mort viendra. »~
+@1242 = ~Helg resta silencieux un moment. Comme tout seigneur, il aimait son cheval. Il posa pied à terre, et confia ce dernier à ses suivants. « Mon ami et loyal serviteur, dit-il, jamais plus je ne Te monterai. »~
 @1243 = ~J'imagine que ce ne fut pas aussi simple que ça.~
 @1244 = ~Dynahéir, je suis trop las pour apprécier l'histoire à sa juste valeur. Vous me la raconterez un autre jour.~
 @1245 = ~Je suis tout ouïe, ô femme avisée.~
@@ -1370,7 +1370,7 @@ Trouve cela inintéressant...~
 @1292 = ~Et vous n'approuvez guère, dirait-on.~
 @1293 = ~Parce que nous chérissons chaque minute qui nous est offerte. Cela vaut infiniment mieux que de passer sa courte existence en guerres et en disputes.~
 @1294 = ~En ce monde, mon peuple vit l'hiver de son existence, Dynahéir. Pourquoi, vous autres, humains, ne nous laissez pas en traverser les brumes sans que nous nous trouvions changés et défiés par votre culture bourgeonnante ?~
-@1295 = ~Jamais je n'aurais cru qu'un homme ferait palpiter mon coeur par le simple pouvoir de ses mots.~
+@1295 = ~Jamais je n'aurais cru qu'un homme ferait palpiter mon cœur par le simple pouvoir de ses mots.~
 @1296 = ~C'est le cas ? J'espère que ce n'est pas la peur qui l'accélère...~
 @1297 = ~Vous autre, humains, vous ne vous attendez jamais à trouver de la beauté en moi. Pourquoi ? Parce que ma peau est verte ? Celle des drows est encore plus noire que les marmites de l'auberge de Feldpost, et ils sont bien plus cruels que les orcs. Et pourtant, j'ai vu des hommes s'émerveiller et soupirer à leur vue. Certes, ils les craignent, mais cette peur ajoute à leur fascination. Pourquoi une peau couleur charbon serait plus belle qu'une peau verte ?~
 @1298 = ~S'il palpite... alors laissons-le palpiter.~
@@ -1607,7 +1607,7 @@ La rose à épines est prête à faire des reproches...~
 @1518 = ~*Hume votre gorge.* Ah, oui, c'est effectivement très agréable. Cela change beaucoup de Ton « Eau de Sueur ».~
 @1519 = ~J'aurais bien aimé capturer ceci, aussi.~
 @1520 = ~J'ai bien peur qu'au contraire, je n'ai été que par trop prodigue en compliments sur Ton apparence. *Elle jette un coup d'oeil rapide à son journal et sourit énigmatiquement.*~
-@1521 = ~Il m'a été dit qu'il faisait partie des us des bardes d'éxagérer la cruauté de leurs âmes soeurs. C'est le cas en ce moment-même ; j'ai fait de beaux compliments sur Ton apparence... peut-être même de manière excessive. *Elle jette un coup d'oeil rapide à son journal et sourit énigmatiquement.*~
+@1521 = ~Il m'a été dit qu'il faisait partie des us des bardes d'éxagérer la cruauté de leurs âmes sœurs. C'est le cas en ce moment-même ; j'ai fait de beaux compliments sur Ton apparence... peut-être même de manière excessive. *Elle jette un coup d'oeil rapide à son journal et sourit énigmatiquement.*~
 @1522 = ~J'aurais peut-être dû complimenter Ton intelligence plutôt que Ton apparence. *Elle jette un coup d'oeil rapide à son journal et sourit énigmatiquement.*~
 @1523 = ~Mon humble héros... J'ai bien peur d'avoir nourri Ta vanité. Je viens effectivement de faire de beaux compliments sur Ton apparence... peut-être même de manière excessive. *Elle jette un coup d'oeil rapide à son journal et sourit énigmatiquement.*~
 @1524 = ~Il ne s'agit guère d'une énigme. Cela fait une quinzaine de jours que je travaille sur ce portrait de Toi. Il est fini, maintenant, et il est Tien. Tu me diras plus tard comment Tu le trouves ; j'ai l'esprit tout absorbé par le modèle, maintenant, et non plus par le portrait. *Elle déchire la page, et la met rapidement dans votre sac avant de vous embrasser passionnément, telle une invitation.*~
@@ -1625,7 +1625,7 @@ La rose à épines est prête à faire des reproches...~
 @1533 = ~*Se tenir sur un coude.* Qu'est-ce qui ne va pas, Dynahéir ?~
 @1534 = ~Ce n'est qu'un livre, Dynahéir. En plus, je sais déjà comment ça va finir : les gentils vont gagner, et ils se marieront, et auront une fille qui pourchassera les dragons... *baillement*~
 @1535 = ~*choqué* Dynahéir ! Votre langage !~
-@1536 = ~...sale bête ! Espèce de pestiféré fumeux !~
+@1536 = ~... sale bête ! Espèce de pestiféré fumeux !~
 @1537 = ~Pardonne-moi de T'avoir éveillé. *Elle dépose un baiser sur votre sourcil.* C'est si frustrant !~
 @1538 = ~*Prendre son visage dans vos mains, et y déposer de nombreux baisers.* Voilà qui devrait vous soulager d'un peu de cette frustration, mon aimée.~
 @1539 = ~Il s'agit d'une vieille coutume, dont je n'arrive pas à saisir le sens... Pourquoi voudrait-on prohiber une partie de la connaissance à celui qui souhaite apprendre ?~
@@ -1970,6 +1970,6 @@ Au lieu de voler en rond dans les cimetières ?~
 @1839 = ~*Petit à petit, l'humeur de Dynahéir retourne à la normale, mais il semble qu'une ride d'inquiétude se soit taillée pour toujours sur son front. Vous avez laissé passer votre chance de l'effacer.*~
 @1840 = ~Si fait. Elle m'a fait penser que Tu es bien différent de Ton frère, en ce que Tu aimes Tes compagnons.~
 @1841 = ~Je sais. La loyauté et le sens du devoir sont deux qualités qu'il ne possède, ni ne souhaite cultiver chez ses suivants. Il a même rejeté la seule femme qui l'aime d'un amour sincère. Voilà pourquoi je pense que c'est Toi, et non Sarevok, qui remportera la victoire, en fin de compte.~
-@1842 = ~Et qu'en est-il de cette femme, qui l'a aimé sincèrement ? *Elle lève la main pour tuer dans l'oeuf toute objection de votre part.* Non, ne dis rien. Mais garde-Toi de juger Ton frère jusqu'à ce qu'il ne le demande. Repense bien à ce que Tamoko a dit. Aucun homme qui n'ait inspiré un tel amour dans le coeur d'une femme ne peut être vraiment mauvais, ou au-delà de toute rédemption.~
+@1842 = ~Et qu'en est-il de cette femme, qui l'a aimé sincèrement ? *Elle lève la main pour tuer dans l'œuf toute objection de votre part.* Non, ne dis rien. Mais garde-Toi de juger Ton frère jusqu'à ce qu'il ne le demande. Repense bien à ce que Tamoko a dit. Aucun homme qui n'ait inspiré un tel amour dans le coeur d'une femme ne peut être vraiment mauvais, ou au-delà de toute rédemption.~
 @1843 = ~Complimenter l'être aimé est un merveilleux signe d'amour. Ce qu'une femme avisée ne doit pas craindre.~
 @1844 = ~A moins que je ne me sois trompée ? *Dynahéir soupire.* L'amour n'a que faire de la prudence.~

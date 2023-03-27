@@ -33,7 +33,7 @@
 // Safana - Branwen
 
 @21 = ~J'étais juste en train de discuter avec <CHARNAME>, et j'ai entendu un récit vraiment digne d'intérêt.~
-@22 = ~Une autre de tes "intéressantes" histoires, Safana ? J'espère qu'elle sera un peu plus crédible que celle du naufrage.~
+@22 = ~Une autre de tes « intéressantes » histoires, Safana ? J'espère qu'elle sera un peu plus crédible que celle du naufrage.~
 @23 = ~Je te laisse juge. Il s'agit de l'histoire d'une guerrière-prêtresse avec de fermes convictions, endurcie en un parangon de vertu par des années d'épreuves.~
 @24 = ~J'aime entendre cela. Tempus nous enseigne beaucoup de telles histoires inspirantes pour nous guider dans nos vies quotidiennes.~
 @25 = ~Vraiment ? Eh bien ce récit parle d'une beauté sculpturale qui fait face à un dilemme entre honneur et amour - non, entre opportunisme et indifférence.~
@@ -103,7 +103,7 @@
 @68 = ~Oui, certainement, les arbres sont beaucoup plus beaux qu'un désert monotone ou la haute mer. Mais je suis incapable d'avoir une nuit de sommeil correcte en dormant sur des branches et des pommes de pin.~
 @69 = ~J'aimerais tellement mieux me trouver dans une taverne confortable, à partager un verre de vin et peut-être d'autres plaisirs avec un beau gosse.~
 @70 = ~Tu me dégoûtes. Ce sera un jour de joie quand les druides de l'Ombre auront enfin délivré cette terre des gens de ton espèce.~
-@71 = ~Viens donc me chercher ce jour-là, chérie - Tu me trouveras pelotonnée dans le lit de plumes le plus confortable de la ville.~
+@71 = ~Viens donc me chercher ce jour-là, chérie. Tu me trouveras pelotonnée dans le lit de plumes le plus confortable de la ville.~
 
 //Safana - Garrick
 
@@ -135,7 +135,7 @@ mais il n'en connaît pas encore le prix.~
 @85 = ~Oui, je présume. Mais ce n'est pas cela mon problème. Vous voyez, j'ai du mal à composer quelque chose qui
 puisse exprimer ne serait-ce que l'ombre de mes véritables sentiments envers vous. J'ai perdu ma volonté d'y travailler.~
 @86 = ~Bien sûr, composer de simples chants guerriers n'est pas un problème, mais quand j'essaie d'ouvrir mon coeur, je m'échoue sur les rochers de votre beauté et me trouve absolument seul et torturé par quelque chose dont je ne sais même pas le nom. (Là, j'ai vraiment été éloquent).~
-@87 = ~Mon chou, peut-être devrions-nous plus nous concentrer sur la rime avec "désir" et nous verrons où cela te mènera.~
+@87 = ~Mon chou, peut-être devrions-nous plus nous concentrer sur la rime avec « désir » et nous verrons où cela te mènera.~
 @88 = ~Ah, oui ! Je veux dire, je pense que ce serait une meilleure approche du problème...~
 
 //Safana - Garrick

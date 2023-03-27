@@ -92,8 +92,8 @@ Qu'elle nous guide encore...~
 @64 = ~Cela paraît si beau, Kivan. Quant à la tristesse que je perçois dans votre voix - j'ai un nom pour elle : la nostalgie. Vous avez le mal du pays, voilà tout.~
 @65 = ~Ce n'est pas l'endroit qui me manque, <CHARNAME>. Cependant, me manquent ceux dont les ombres s'attardent encore là-bas. Ma chère Déhériana, mes frères, mon père... Vous avez vos propres fantômes, cela dit, <CHARNAME>, et vous n'avez pas besoin de rencontrer les miens.~
 @66 = ~Khila amin - suivez-moi, nous devrions rattraper les autres.~
-@67 = ~De telles choses vous fascinent ? Connaissez-vous vraiment votre coeur, mon jeune ami ? Attendez de leur devenir intimement familier ; peut-être alors apprendrez-vous à être terrifié par ces mots.~
-      ~De telles choses vous fascinent ? Connaissez-vous vraiment votre coeur, ma jeune amie ? Attendez de leur devenir intimement familier ; peut-être alors apprendrez-vous à être terrifiée par ces mots.~
+@67 = ~De telles choses vous fascinent ? Connaissez-vous vraiment votre cœur, mon jeune ami ? Attendez de leur devenir intimement familier ; peut-être alors apprendrez-vous à être terrifié par ces mots.~
+      ~De telles choses vous fascinent ? Connaissez-vous vraiment votre cœur, ma jeune amie ? Attendez de leur devenir intimement familier ; peut-être alors apprendrez-vous à être terrifiée par ces mots.~
 @68 = ~Ieriyn donnera Y'landrothiel en langue elfique... Les étoiles... Il y a une colline sacrée à Shilmista que nous appelons Daione Dun - la colline des étoiles. Elle s'élève haut au coeur de la forêt des Ombres, et son sommet est si proche du ciel qu'on peut presque y toucher les étoiles.~
 @69 = ~Mon peuple s'y rassemble quelquefois lors d'une nuit étoilée, sous la conduite de notre suzerain, et nous chantons pour Shilmista. Quand le chant cesse, le roi nous asperge de poussière d'étoiles et nous donne sa bénédiction. Le monde se fait scintillant et la voix de Shilmista murmure dans tous les coeurs. C'est comme de se tenir sous la chute d'une myriade d'étoiles. C'est mon plus beau souvenir, et pourtant il me trouble.~
 @70 = ~Ce n'est pas l'endroit qui me manque, <CHARNAME>. Cependant, me manquent ceux dont les ombres s'attardent encore là-bas. Ma chère Déhériana, mes frères, mon père... Vous avez vos propres fantômes, cela dit, <CHARNAME>, et vous n'avez pas besoin de rencontrer les miens. Khila amin - suivez-moi, nous devrions rattraper les autres.~
@@ -139,7 +139,7 @@ Qu'elle nous guide encore...~
 @105 = ~Kivan, par pitié, réfléchissez en silence !~
 @106 = ~Sur le nom de la forêt ? Est-ce que... Est-ce que vous y voyez quelque sens caché ?~
 @107 = ~*soupirer et attendre patiemment que l'elfe poursuive*~
-@108 = ~Oui, en effet. Cela signifie "la forêt des Ombres". C'est là que je suis né et que j'ai grandi, <CHARNAME>. Il y a peu, je réfléchissais...~
+@108 = ~Oui, en effet. Cela signifie « la forêt des Ombres ». C'est là que je suis né et que j'ai grandi, <CHARNAME>. Il y a peu, je réfléchissais...~
 @109 = ~Oui, cela signifie « la forêt des Ombres ». Ces derniers temps, je songe souvent que pour moi elle est réellement remplie d'ombres.~
 @110 = ~Rien de surprenant ! Tout arbre projette une ombre. J'imagine qu'une forêt complète aurait pas mal d'ombres portées.~
 @111 = ~Hummm ?~
@@ -175,7 +175,7 @@ rester, mon prince, rester, mon prince...~
        ~Quand on est jeune, les chansons ne sont jamais loin, et leur sombre signification n'a que peu d'importance. Je nous ai suffisamment retardés avec mes souvenirs, mellonamin... mon amie. Nous devrions y aller et laisser les paroles pour plus tard.~
 @137 = ~Il y a eu une grande guerre à Shilmista il y a quelques années. Une secte vénérant Talona, la déesse humaine qui a mérité son titre de Dame du Poison, avait créé une enclave secrète dans les montagnes des Flocons, à la lisière de Shilmista.~
 @138 = ~Ils étaient prêts à conquérir l'ensemble de la région : la forêt elfique de Shilmista, le campement humain de Carradoon, et la Bibliothèque Edifiante. Nous combattîmes avec bravoure l'armée orque qu'ils assemblèrent, et l'attaque fut repoussée... mais, hélas, la libération de notre patrie nous coûta de nombreuses vies.~
-@139 = ~Mon père, Echtellion, et mes deux frères - Tinuvil et Arenel - étaient parmi ceux qui étaient tombés.~
+@139 = ~Mon père, Echtellion, et mes deux frères, Tinuvil et Arenel, étaient parmi ceux qui étaient tombés.~
 @140 = ~Mes condoléances, Kivan. Le temps et la distance sont les grands guérisseurs des peines de coeur. Est-ce pour cela que vous avez quitté Shilmista ?~
 @141 = ~C'est triste, mais ils étaient tombés vaillamment sur le champ de bataille. Qu'en est-il du reste de votre famille ?~
 @142 = ~Kivan, vous avez dit aussi que vous voudriez prier Déhériana de vous pardonner ?~
@@ -276,7 +276,7 @@ rester, mon prince, rester, mon prince...~
 /* Kivan Bhaal Talk */
 @230 = ~Nos anciens nous ont souvent parlé des monstres et nous ont préparés à affronter le Mal, tôt ou tard. Pourtant, j'ai peine à imaginer que quelqu'un puisse être préparé à affronter les horreurs que vous avez traversées. Sarevok, l'homme qui a tué votre père adoptif et tout fait pour vous tuer également, est votre demi-frère ! Le Mal ne peut être plus proche de vous que cela. Est-ce pour cela que vous êtes si silencieux et si triste ?~
        ~Nos anciens nous ont souvent parlé des monstres et nous ont préparés à affronter le Mal, tôt ou tard. Pourtant, j'ai peine à imaginer que quelqu'un puisse être préparé à affronter les horreurs que vous avez traversées. Sarevok, l'homme qui a tué votre père adoptif et tout fait pour vous tuer également, est votre demi-frère ! Le Mal ne peut être plus proche de vous que cela. Est-ce pour cela que vous êtes si silencieuse et si triste ?~
-@231 = ~Mon demi-frère a tué mon père adoptif - ce qui fait de l'affaire une affaire de famille, Kivan. Je ne veux pas voir les yeux fureteurs d'un rôdeur s'en mêler.~
+@231 = ~Mon demi-frère a tué mon père adoptif, ce qui fait de l'affaire une affaire de famille, Kivan. Je ne veux pas voir les yeux fureteurs d'un rôdeur s'en mêler.~
 @232 = ~Oui, c'est perturbant. J'ai vécu si longtemps en me croyant orphelin et seul au monde... Maintenant j'ai découvert qui est mon véritable père, et que j'ai un demi-frère. Ni l'une ni l'autre de ces découvertes ne m'ont fait plaisir.~
        ~Oui, c'est perturbant. J'ai vécu si longtemps en me croyant orpheline et seule au monde... Maintenant j'ai découvert qui est mon véritable père, et que j'ai un demi-frère. Ni l'une ni l'autre de ces découvertes ne m'ont fait plaisir.~
 @233 = ~Et s'il n'y avait que Sarevok... la lettre mentionnait qu'il y en avait d'autres. J'ai probablement une famille très nombreuse ! Tout entière de l'engeance de Bhaal. Je sens que je n'en ai pas fini avec les surprises désagréables.~
@@ -556,7 +556,7 @@ A la solitaire et majestueuse multitude.~
 @439 = ~Dites-moi, Coran, pourquoi ne restez-vous pas avec Brielbara ? J'avais remarqué que vous n'étiez pas tout à fait insensible à ses charmes, et si j'ai fait fausse route à ce sujet, pourquoi ne pas l'avoir fait par égard pour l'enfant ?~
 @440 = ~Rôdeur, Brielbara m'aurait maudit si j'étais resté. Peut-être pas le premier jour ni le premier mois, mais un jour elle l'aurait fait.~
 @441 = ~Que vous est-il arrivé, pour que vous ayez une si piètre opinion de vous-même ?~
-@442 = ~Un gredin tel que moi est plus libre que n'importe qui - mais doit donner quelque chose. On ne peut construire le bonheur d'une vie avec une amarante pour mari.~
+@442 = ~Un gredin tel que moi est plus libre que n'importe qui, mais doit donner quelque chose. On ne peut construire le bonheur d'une vie avec une amarante pour mari.~
 @443 = ~Vous paraissez presque triste, Coran. Peut-être un jour changerez-vous d'avis et retournerez-vous là-bas. Je vous conseille de ne pas trop tarder.~
 @444 = ~Il y a eu une époque où j'étais assez stupide pour mettre « Je reviendrai bientôt » dans toutes mes lettres. Et même, j'étais sincère. Mais elle a repris ses esprits et s'est installée avec quelqu'un de la même étoffe qu'elle... et elle n'a même pas su combien je me sentais désemparé, à chiffonner son dernier billet dans ma main.~
 @445 = ~« Sois libre, sois heureux et sois aimé », disait-il. J'ai fait des progrès depuis. Je n'écris jamais de lettres, et je ne reviens jamais.~

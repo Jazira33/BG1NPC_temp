@@ -29,8 +29,8 @@
 @25    = ~En vérité, c'est bien ce que je craignais. Ensemble, il nous faudrait soigner nos blessures et extraire ces satanés éclats tant qu'il est encore temps. Si Tempus le veut bien, nous vivrons peut-être tous deux suffisamment longtemps pour nous retrouver totalement purifiés, comme nous l'étions à la naissance.~
 @26    = ~Si tu le dis, mon ami, alors je considère tes paroles comme la pure vérité. En fait, maintenant que tu en parles, je me souviens que malgré toutes mes interrogations je n'ai jamais flanché ni même hésité lorsque l'heure de vérité a sonné et qu'il m'a fallu agir. Merci, <CHARNAME>.~
          ~Si tu le dis, mon amie, alors je considère tes paroles comme la pure vérité. En fait, maintenant que tu en parles, je me souviens que malgré toutes mes interrogations je n'ai jamais flanché ni même hésité lorsque l'heure de vérité a sonné et qu'il m'a fallu agir. Merci, <CHARNAME>.~
-@27    = ~Ah, en effet ! Bien dit, mon ami. Tu viens de soulager mon âme d'un véritable fardeau, et je t'en remercie de tout mon coeur.~
-         ~Ah, en effet ! Bien dit, mon amie. Tu viens de soulager mon âme d'un véritable fardeau, et je t'en remercie de tout mon coeur.~
+@27    = ~Ah, en effet ! Bien dit, mon ami. Tu viens de soulager mon âme d'un véritable fardeau, et je t'en remercie de tout mon cœur.~
+         ~Ah, en effet ! Bien dit, mon amie. Tu viens de soulager mon âme d'un véritable fardeau, et je t'en remercie de tout mon cœur.~
 
 // discussion avec Ajantis (29-31-33-38), Eldoth (35), Safana(36)
 
@@ -132,7 +132,7 @@
 @96    = ~Et pourquoi cela, ma chère ?~
 @97    = ~Vous partagez le même venin. Et même si tu l'enrobes de miel, ne crois pas que je ne m'en rends pas compte.~
 @98    = ~Quelle perspicacité. Mais pourquoi une telle hostilité ? Vous et moi partageons les mêmes convictions, après tout. Nous éliminons les faibles... Vous à la force de vos bras, et moi grâce à mon intelligence et à mon verbe. Il y a plusieurs manières de trier le bon grain de l'ivraie.~
-@99    = ~Dans ce cas, je me demande bien ce que tu ressentirais si je te proposais un duel où nous échangerions nos méthodes de "tri". Qui l'emporterait, selon toi ?~
+@99    = ~Dans ce cas, je me demande bien ce que tu ressentirais si je te proposais un duel où nous échangerions nos méthodes de « tri ». Qui l'emporterait, selon toi ?~
 @100   = ~Mystère, prêtresse combattante. Mystère.~
 
 // discussion avec Eldoth (102-104-106)
@@ -163,29 +163,29 @@
 
 // discussion avec Garrick (119-120-122)
 
-@118   = ~Cher troubadour, tes arpèges réchauffent les coeurs et apaisent les âmes de notre groupe avec efficacité, mais je ne suis pas certaine que les jouer en plein coeur du combat soit le meilleur choix.~
+@118   = ~Cher troubadour, tes arpèges réchauffent les cœurs et apaisent les âmes de notre groupe avec efficacité, mais je ne suis pas certaine que les jouer en plein coeur du combat soit le meilleur choix.~
 @119   = ~Mais c'est à ce moment-là qu'il y en a le plus besoin, n'est-ce pas ? En quelle autre situation les âmes auraient-elles plus besoin de paroles réconfortantes et de courage ? Et y a-t-il meilleur moyen qu'une mélodie pour enflammer les coeurs ?~
 @120   = ~Chaque fois que je joue, je vois un petit sourire sur les lèvres de ceux qui, comme vous, se jettent vaillamment dans la bataille !~
 @121   = ~Peut-être, mais je parie que tu ferais quand même mieux de laisser nos égos se débrouiller seuls et de te lancer en personne dans la bataille avec une lame brillante.~
-@122   = ~Euh, je préfère rester à l'écart de l'action et relater ce qui se passe, voyez-vous ? Après tout je suis un joli-coeur, pas un guerrier.~
+@122   = ~Euh, je préfère rester à l'écart de l'action et relater ce qui se passe, voyez-vous ? Après tout je suis un joli-cœur, pas un guerrier.~
 @123   = ~Ah ! Avec ce genre d'attitude, je subodore que tu n'es ni l'un ni l'autre.~
 
 // discussion avec Garrick (125-126-128-129-131)
 
 @124   = ~Ho là, Garrick ! Chante-nous des actes héroïques et de puissants héros !~
 @125   = ~Ah, il se trouve que j'ai justement quelque chose à votre goût, ma Dame. Cela fait un certain temps que je travaille dessus...~
-@126   = ~"Cheveux de miel et lèvres rubicondes
+@126   = ~« Cheveux de miel et lèvres rubicondes
 Coeur d'or et peau soyeuse
 Ses marteaux redressent les torts du monde
-Et pénètrent mon coeur de manière insidieuse..."~
+Et pénètrent mon coeur de manière insidieuse... »~
 @127   = ~*rougit et le regarde de travers* Ne fais pas l'idiot Garrick ! Je te demande un hymne de combat et tu me roucoules une chanson d'amour ? De toute façon, je préfère les hommes à la musculature plus... imposante. Oh je suis désolée, je ne voulais pas te blesser, cher barde.~
 @128   = ~Oh. Bon, j'ai aussi un hymne de combat. Mais il n'est pas vraiment aussi, euh, inspiré.~
-@129   = ~"Le sang coula rouge ce jour-là, oh oui
+@129   = ~« Le sang coula rouge ce jour-là, oh oui
 Et couvrit la prairie comme des larmes
 Alors que le puissant roi méprisé
 Occit sans illusion ses anciennes amantes
 Et bannit toutes ses peurs anciennes
-Dans un torrent de violence..."~
+Dans un torrent de violence... »~
 @130   = ~C'est très plaisant.~
 @131   = ~Waouh, merci ! Mais je, euh, préfère la première...~
 
@@ -276,7 +276,7 @@ Dans un torrent de violence..."~
 @190   = ~Oh pardon, Kivan. Les estomacs des elfes ne réclament-ils pas pitance de temps en temps ? *Elle lui lance gentiment un morceau de viande séchée.* Mange, rôdeur. Tu as besoin d'énergie pour broyer du noir.~
 @191   = ~*lui rend le morceau de viande* Je n'ai pas faim, Branwen. Les elfes n'ont pas besoin de grand-chose pour se sustenter. *hausse les épaules* Amin n'rangwa edanea... Je ne comprends pas ces humains.~
 @192   = ~Amin n'rangwa edanea... Si ce n'était pas si triste, je trouverais amusant que cette femme qui glorifie les morts inutiles s'occupe à ce point de votre santé, Kivan... *soupire* Ah, ces humains...~
-@193   = ~*murmure* Ah Kivan, quand comprendras-tu donc que du boeuf séché des mains blanches d'une belle dame est un mets très délicat ?~
+@193   = ~*murmure* Ah Kivan, quand comprendras-tu donc que du bœuf séché des mains blanches d'une belle dame est un mets très délicat ?~
 @194   = ~*à voix haute* Dame Branwen, auriez-vous par hasard un autre morceau de ce merveilleux boeuf séché que vous mangez avec tant de grâce ? Je suis un voyageur fourbu, et sur le point de mourir de faim.~
 
 // discussion avec Minsc (196-199) et Montaron (198)
@@ -399,7 +399,7 @@ Dans un torrent de violence..."~
 @270   = ~Oui, oui, conte-moi encore une fois la « gloire » de Cyric et la tienne aussi. Je t'en prie...~
 @271   = ~Tiax n'a pas besoin que quelqu'un d'aussi insignifiant que toi l'invite à le faire, tête de vache. Mais il a pris note de ton enthousiasme et s'en souviendra quand il règnera sur le monde.~
 @272   = ~Bah, par les glaçons d'Aurile. Je me moquais de toi, espèce d'idiot microscopique.~
-@273   = ~Branwen, la taille d'un gnome n'est pas un sujet de moquerie. Le fait que nous - ou MOI, tout du moins - représentions le pinacle de l'évolution indique que notre taille est idéale, comme je l'ai souvent affirmé.~
+@273   = ~Branwen, la taille d'un gnome n'est pas un sujet de moquerie. Le fait que nous... ou MOI, tout du moins, représentions le pinacle de l'évolution indique que notre taille est idéale, comme je l'ai souvent affirmé.~
 @274   = ~Cela dit, il y a des milliers de détails chez cet être pervers qu'un esprit entraîné perçoit *instantanément* et peut utiliser comme insultes ! Et d'un, la taille minuscule de son nez...~
 @275   = ~Microscopique, hein ?! Quand Cyric élèvera Tiax au-dessus de l'horizon dans les profondeurs constellées d'étoiles du ciel, je surgirai au dessus de toi tel un...~
 @276   = ~*se bouche les oreilles et commence à chanter, mais très mal* Lalalalala, c'est un hymne à Tempus, lalalalalala, qu'il te fasse geler tes cacahuètes, lalalalala, et puis qu'il les fasse tomber morceau par morceau...~
@@ -470,7 +470,7 @@ Dans un torrent de violence..."~
 @316   = ~Oh, au diable vos justifications, garce ! Euh... je veux dire, je ne pouvais pas m'empêcher de me demander... eh bien... COMMENT FAITES-VOUS CELA ?~
 @317   = ~Je vois. Es-tu prêt à abandonner tes ignobles pratiques - et tes tout aussi ignobles maîtres - afin d'apprendre le culte de mon Seigneur Tempus ?~
 @318   = ~Ne soyez pas idiote. Il me faut juste une ou deux, euh... indications... globales. Pour les détails, je pourrai bien me débrouiller tout seul après.~
-@319   = ~Très bien. Purifie ton esprit de toute distraction. Ouvre alors ton coeur à l'esprit de Tempus, pour qu'il soit puissant lors de la prochaine bataille. Puis, alors que l'issue du combat est encore incertaine, concentre la volonté de Tempus sur les morts et prie pour qu'ils soient réanimés dans le camp de la justice...~
+@319   = ~Très bien. Purifie ton esprit de toute distraction. Ouvre alors ton cœur à l'esprit de Tempus, pour qu'il soit puissant lors de la prochaine bataille. Puis, alors que l'issue du combat est encore incertaine, concentre la volonté de Tempus sur les morts et prie pour qu'ils soient réanimés dans le camp de la justice...~
 @320   = ~Bah ! On pose une question parfaitement sensée et on obtient une réponse totalement farfelue. Autant demander à ce cher Monty comment faire voler un poisson. En fait... finalement... je crois que je vais le faire !~
 
 // discussion avec Yeslick (322)

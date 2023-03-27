@@ -195,7 +195,7 @@
 @178  = ~Pauvre de moi ! Ma dame Branwen est en train de se muer en une damoiselle fantomatique et insignifiante ! Quand allez-vous donc tomber en pâmoison et vous évanouir, gente dame ?~
 @179  = ~*reste silencieux*~
 @180  = ~Ah, bien dit ! Tu as saisi mon humour subtil !~
-@181  = ~En route, mon ami. Tu as encore une fois soulagé mon coeur de son lourd fardeau, et je t'en remercie chaudement. *cligne de l'oeil* Je crois que ce sera bientôt le moment d'inspecter ton marteau...~
+@181  = ~En route, mon ami. Tu as encore une fois soulagé mon cœur de son lourd fardeau, et je t'en remercie chaudement. *cligne de l'oeil* Je crois que ce sera bientôt le moment d'inspecter ton marteau...~
 @182  = ~Merci, mais je veux maintenant me tourner vers Tempus pour qu'il me guide. Si tu me donnes un moment de répit, j'aimerais bien prier.~
 @183  = ~<CHARNAME> ! Rien de si déshonorant... euh, mais t'attendais-tu vraiment à ce que je tombe en pâmoison ? De toute façon, je n'avais pas l'intention de m'évanouir volontairement... Ah, va au diable ! Tu te moquais de moi !~
 @184  = ~Mon cœur est moins lourd maintenant, mais ne me parle plus jamais comme ça. « Tomber en pâmoison, m'évanouir », par Tempus...~
@@ -274,7 +274,7 @@
 @248  = ~Oui. C'est vraiment ce que je pense.~
 @249  = ~Je ne sais pas. Mais il est possible que nous devenions plus proches... avec le temps.~
 @250  = ~Branwen, tu as lu trop de romans d'amour. Va dormir.~
-@251  = ~C'est bien vrai. Je garderai tes paroles dans mon coeur, <CHARNAME>. Maintenant va dormir, avant que tu ne t'effondres sur mes genoux.~
+@251  = ~C'est bien vrai. Je garderai tes paroles dans mon cœur, <CHARNAME>. Maintenant va dormir, avant que tu ne t'effondres sur mes genoux.~
 @252  = ~Un boucher pourrait parler ainsi, mais certainement pas un combattant ou un héros. J'ai bien peur de t'avoir mal jugé.~
 @253  = ~Devrais-je partir à la recherche des anciens copains de Tranzig ? Ou bien errer sans but sur la Côte des Épées ? Non <CHARNAME>, c'est la main de Tempus qui m'a amenée ici et à moins que tu ne commettes un acte déshonorant ou que tu ne me jettes dehors, mon bras armé et mon chant de combat sont à ton service.~
 @254  = ~Je ne m'attendais pas à cela de ta part, mais j'avoue que cela me réchauffe le coeur et me remplit de joie.~
@@ -337,7 +337,7 @@
 @305  = ~Branwen, je suis assez éloquent avec les dames qui m'intéressent. Tu n'en fais pas partie.~
 @306  = ~Cela ne sera pas nécessaire, Branwen. Je préfère t'admirer avec mes yeux.~
 @307  = ~Je relève le défi. Je te prouverai qu'en matière de tendre passion et de ses usages linguistiques, mon savoir est considérable.~
-@308  = ~Je prendrai cette tâche particulièrement à coeur, <CHARNAME>.~
+@308  = ~Je prendrai cette tâche particulièrement à cœur, <CHARNAME>.~
 @309  = ~L'honnêteté est l'une de tes plus grandes qualités, <CHARNAME>. Ne t'inquiète pas, je te laisserai tranquille.~
 @310  = ~Tu es plus compétent que je ne le pensais en ce qui concerne les méthodes de séduction.~
 @311  = ~J'attends une démonstration... avec impatience.~
@@ -383,7 +383,7 @@
 @345  = ~Les mots me manquent, Branwen, Mais je vais essayer. Hum...~
 @346  = ~Bien sûr ! Bon, où ai-je bien pu mettre mon « Manuel de Compliments Indécents » ?~
 @347  = ~Après réflexion, je trouve cela trop fatigant. Puis-je simplement te baiser la main et t'acheter une douzaine de rhodiolas pourpres à la place ? J'ai... une autre idée en tête.~
-@348  = ~*sourire narquois* J'aimerais beaucoup jeter un coup d'oeil à ce manuel. Mais pardon de t'avoir interrompu, <CHARNAME>.~
+@348  = ~*sourire narquois* J'aimerais beaucoup jeter un coup d'œil à ce manuel. Mais pardon de t'avoir interrompu, <CHARNAME>.~
 @349  = ~Continue, je t'en prie.~
 @350  = ~Tes yeux montrent clairement que tu es née de la mer, mais alors que celle-ci est empreinte de mystères et couverte de brume, ceux-ci révèlent douceur et amour...~
 @351  = ~La chevelure de ma dame est un aimant qui attire les hommes aussi bien sages que naïfs...~
@@ -502,7 +502,7 @@
 @452  = ~Je l'ai remarqué aussi. Est-ce de ma faute ? De notre faute ?~
 @453  = ~Et c'est à cause de notre amour, n'est-ce pas ?~
 @454  = ~Je ne vois pas de quoi tu parles.~
-@455  = ~Considèrerais-tu le fait d'arracher de ta propre poitrine ton coeur battant et saignant comme quelque chose de « mauvais » ? Eh bien c'est pire que « mauvais », <CHARNAME>.~
+@455  = ~Considèrerais-tu le fait d'arracher de ta propre poitrine ton cœur battant et saignant comme quelque chose de « mauvais » ? Eh bien c'est pire que « mauvais », <CHARNAME>.~
 @456  = ~Oui <CHARNAME>, tu as deviné.~
 @457  = ~Je parle d'une force qui amène puissance mais aussi faiblesse. Une force qui inspire et qui réchauffe le coeur, mais qui mène à l'inertie et au déclin si on la place au-dessus de tout le reste. L'amour, <CHARNAME>. Notre amour.~
 @458  = ~Je suis née pour servir Tempus ; Mes lèvres se sont bien plus souvent ouvertes pour un cri de guerre que pour la bouche d'un amant. Mais maintenant je suis rongée par le doute, aussi fréquemment qu'un vieil arbre subit les assauts des insectes et des vers rampant sur tout son corps. Ce sont de dures paroles, <CHARNAME>, mais j'avais peur que tu ne comprennes pas si je m'étais exprimée en termes plus délicats et mesurés.~
@@ -525,7 +525,7 @@
 @472  = ~C'est quelque chose dont Kivan serait capable si une dame s'imaginait pouvoir se substituer à sa chère Déhériana. Dans le cas de Minsc, je présume que ce serait un hamster.~
 @473  = ~Une épée dans le sac de couchage ? C'est dangereux. Quelqu'un pourrait se blesser.~
 @474  = ~Euh Branwen, ne crois-tu pas qu'on pourrait attendre demain soir pour connaître la fin de l'histoire ? J'ai bien peur que mon endurance ne soit pas à la hauteur de celle de Sire Chevalier.~
-@475  = ~Cette histoire réchauffe à coup sûr un noble coeur.~
+@475  = ~Cette histoire réchauffe à coup sûr un noble cœur.~
 @476  = ~Et tu crois que c'est mieux un loup sauvage ?~
 @477  = ~C'est plus doux, au moins. Et plus chaud.~
 @478  = ~Ça dépend. Est-ce que ça marchait pour ce rôdeur ?~
@@ -780,7 +780,7 @@
 
 @690  = ~Et quand je pense que j'aurais pu être ton petit ami... Tant pis pour toi, Branwen.~
 @691  = ~Je n'ai aucune attirance pour les elfes, mais je ne suis pas certaine de ne plus avoir la moindre chance avec toi. Tu as un goût bien particulier pour les femmes déjà en couple.~
-@692  = ~Pas "en couple", fougueuse prêtresse, juste les femmes mariées.~
+@692  = ~Pas « en couple », fougueuse prêtresse, juste les femmes mariées.~
 @693  = ~C'est quasiment la même chose.~
 @694  = ~Ah, j'oublie que les subtilités te passent par dessus la tête. Pourquoi devrais-je solliciter les bonnes grâces de Celanil pour une personne déjà amoureuse et aimée en retour, qui a donc déjà sa bénédiction ? Ce sont les femmes qui se croient définitivement enfermées dans une union sans amour que je recherche, pour leur en offrir. Vous les humains semblez en engendrer continuellement, pour des raisons qui m'échappent totalement.~
 @695  = ~Tu es un elfe charitable, pour sûr...~
@@ -808,7 +808,7 @@
 @711  = ~Quoi ?~
 @712  = ~<CHARNAME> est le mâle alpha de notre meute, mais je ne ressens pas le besoin de m'accoupler avec lui ou de me battre avec toi pour ses faveurs. Et tu n'es pourtant pas plus forte que moi.~
 @713  = ~Écoute ce que j'allais dire, Faldorn : j'ai pris <CHARNAME> comme petit ami surtout parce que mon coeur l'a choisi, et qu'il m'a aimée en retour. Cela n'a pas été le cas pour ton coeur...~
-@714  = ~Cœur ?! Par les glands de Silvanus, le coeur sert à pomper le sang et le faire circuler dans le corps ! Il ne commande absolument rien !~
+@714  = ~Cœur ?! Par les glands de Silvanus, le cœur sert à pomper le sang et le faire circuler dans le corps ! Il ne commande absolument rien !~
 @715  = ~Peut-être es-tu plus humaine que tu ne le montres, Faldorn.~
 @716  = ~Pauvre de moi ! Je finirai comme une misérable citadine, désirant un mâle inférieur à cause des caprices de ce "coeur" !~
 @717  = ~Sois tranquille : il n'y a aucun risque qu'on te confonde un jour avec une citadine, Faldorn. Et, juste au cas où tu déciderais de réaffirmer ta nature sauvage, choisis un autre mâle alpha. Celui-ci est à moi.~
@@ -851,16 +851,16 @@
 @742  = ~Kivan, j'ai besoin de ton avis.~
 @743  = ~Je vous aiderai au mieux, Branwen.~
 @744  = ~Ton épouse... sa présence t'a-t-elle suscité une exaltation lors du combat ?~
-@745  = ~Un homme qui se jette dans la bataille avec dans son coeur un amour plus grand que l'amour qu'il a pour lui-même ne vacillera et n'échouera point, alors qu'un homme qui ne connaît pas cette joie risque, lui, la défaite.~
+@745  = ~Un homme qui se jette dans la bataille avec dans son cœur un amour plus grand que l'amour qu'il a pour lui-même ne vacillera et n'échouera point, alors qu'un homme qui ne connaît pas cette joie risque, lui, la défaite.~
 @746  = ~Pourquoi cette question ?~
-@747  = ~J'ai dans ma tête une pensée tenace et nuisible, qui empoisonne mon amour pour <CHARNAME>. "La passion d'un guerrier ne doit se trouver que sur le champ de bataille", à ce qu'on dit.~
+@747  = ~J'ai dans ma tête une pensée tenace et nuisible, qui empoisonne mon amour pour <CHARNAME>. « La passion d'un guerrier ne doit se trouver que sur le champ de bataille », à ce qu'on dit.~
 @748  = ~Ne la laissez pas empoisonner votre bonheur : votre passion pour <CHARNAME> ainsi que l'ardeur dont vous faites preuve au combat sont toutes deux l'expression de votre véritable coeur.~
 @749  = ~*soupire* Tu as peut-être raison. De toute façon, je serais bien stupide de me laisser dévorer par mes doutes.~
 @750  = ~Si vous aimez la vie, Branwen, ne vous interdisez pas d'aimer un homme pour des histoires de valeur sur le champ de bataille, ou de devoir. Car c'est de cette manière qu'on devient un esclave de la mort.~
 
 // Safana
 
-@751  = ~Il y a de la romance dans l'air. Branwen ma chère, ton coeur a-t-il enfin fondu dans la douce étreinte de <CHARNAME> ? Tant mieux pour toi. Avoir ses faveurs ne me déplairait pas, mais c'est ton chéri maintenant. Tu n'abuseras pas de ton influence, n'est-ce pas ?~
+@751  = ~Il y a de la romance dans l'air. Branwen ma chère, ton cœur a-t-il enfin fondu dans la douce étreinte de <CHARNAME> ? Tant mieux pour toi. Avoir ses faveurs ne me déplairait pas, mais c'est ton chéri maintenant. Tu n'abuseras pas de ton influence, n'est-ce pas ?~
 @752  = ~Crois-tu honnêtement que je me sois éprise de <CHARNAME> juste pour influer sur lui ?~
 @753  = ~Vraiment pas ? Oh, très bien. Tant que tu n'essaies pas de réclamer une plus grande part de notre butin, tout ira bien.~
 

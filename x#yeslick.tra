@@ -105,7 +105,7 @@
         ~Vous n'savez rien de votre lignée, ma fille ?! C'est... c'est une tragédie ! Vous savez comment *parler* le Nain, sans doute ?~
 @88   = ~Oui... un peu. Mon père adoptif m'en a appris un peu, au moins.~
 @89   = ~Euh... non.~
-@90   = ~Par Clangeddin ! Bon - ça ne fait rien, alors. Vous allez d'voir apprendre, <CHARNAME> - et apprendre vite, parce que l'vieux Yeslick va être vot' professeur. S'il y a une chose que j'peux faire avant d'mourir, c'est d'm'assurer que les anciennes coutumes et les sagas et les serments soient pas oubliés. Vous en dîtes quoi ?~
+@90   = ~Par Clangeddin ! Bon... ça ne fait rien, alors. Vous allez d'voir apprendre, <CHARNAME>, et apprendre vite, parce que l'vieux Yeslick va être vot' professeur. S'il y a une chose que j'peux faire avant d'mourir, c'est d'm'assurer que les anciennes coutumes et les sagas et les serments soient pas oubliés. Vous en dîtes quoi ?~
 @91   = ~Je ferai de mon mieux pour apprendre... merci, Yeslick !~
 @92   = ~Wow... bien sûr, j'écouterai.~
 @93   = ~Pas un *autre* tuteur... oh, très bien.~
@@ -118,7 +118,7 @@
 @98   = ~Tu me surprends, vraiment.~
 @99   = ~Oh ? Tu ne me crois pas assez intelligent ou brave pour battre une wiverne ? Je suis déçu, Yeslick. Comment ai-je pu te faire une telle impression ?~
 @100  = ~Oh, non, bien sûr, j'ai aucun doute là-dessus... c'est juste qu'avec ton choix habituel d'cibles, Coran ; j'attendais qu'tu vises le cœur, comme d'habitude.~
-@101  = ~Par la Rose d'Or d'Hanali Celanil ! Yeslick - c'était... une blague ? Et une bonne en plus ! Tu es toi-même plein de surprises, Nain.~
+@101  = ~Par la Rose d'Or d'Hanali Celanil ! Yeslick, c'était... une blague ? Et une bonne en plus ! Tu es toi-même plein de surprises, Nain.~
 
 // Imoen. La traduction des noms du compte est de mon invention. Accord de "leur" ligne 122 à vérifier. Jusqu'à 115 c'est avant le repos du groupe, et le reste au réveil.
 @102 = ~Zzz... hein ? Que... quoi ? Je suis réveillé ! J'ai juste fermé les yeux un instant - oh, c'est toi, Imoen. Qu'est-ce que tu veux à une heure pareille ?~
@@ -168,7 +168,7 @@
 @140  = ~Certains d'entre nous... gamine... *reprend son souffle* veulent admirer le monde... à leur propre rythme, d'accord ?~
 @141  = ~Oh, hum, désolée. J'oubliais que tu étais...~
 @142  = ~Quoi ?~
-@143  = ~Hum... J'oubliais que tu étais - je veux dire, tu es, enfin... vieux.~
+@143  = ~Hum... J'oubliais que tu étais... je veux dire, tu es, enfin... vieux.~
 @144  = ~Je suis pas *vieux*, gamine ! Je suis... dans la fleur de l'âge, au sommet de mon séjour sur cette terre ! Je suis peut-être un tantinet plus... mature et expérimenté que toi, mais si c'est tout ce qui t'intéresse, pour toi TOUT L'MONDE est vieux ! J'prends juste mon temps pour admirer, tu vois ?~
 @145  = ~Bien, assieds-toi un instant et « admire », alors ! Moi, je vais battre mon record de vitesse ! Wheee !~
 @146  = ~Les jeunes d'aujourd'hui... pas capables de garder une pensée pour eux... plus d'respect, nan, aucun. *marmonne*~
@@ -289,7 +289,7 @@
 @235  = ~Nan, nan, z'êtes du bon côté de mon parchemin. Vous êtes un guerrier, mais courtois comme un noble.~
 @236  = ~Et plus noble que nombre d'entre eux.~
 @237  = ~Et bien, merci mille fois, maître nain !~
-@238  = ~Vous comprenez ? Enfin - vous êtes bien meilleur à l'épée que tous ceux que j'ai vus. Plus que ça : je vous ai vu déchiffrer une bataille comme un mage déchiffre un parchemin. Toujours à bondir en avant quand c'est nécessaire, rester en retrait quand c'est sage, utiliser votre arc parfois quand la situation le demande.~
+@238  = ~Vous comprenez ? Enfin, vous êtes bien meilleur à l'épée que tous ceux que j'ai vus. Plus que ça : je vous ai vu déchiffrer une bataille comme un mage déchiffre un parchemin. Toujours à bondir en avant quand c'est nécessaire, rester en retrait quand c'est sage, utiliser votre arc parfois quand la situation le demande.~
 @239  = ~Vous n'avez pas non plus peur de vous jeter dans la mêlée pour protéger les plus faibles de notre petite bande. Quelqu'un tel que vous est un ami d'Clangeddin et de ce qu'il représente. Alors j'vous d'mande - pourquoi ne pas laisser Clangeddin être votre ami et bras droit ?~
 @240  = ~Hum... Je préfère penser que la souplesse que vous m'attribuez en bataille peut s'appliquer à d'autres aspects de la vie, Yeslick... et votre dieu a bien d'autres intérêts. Je ne suis pas sûr de satisfaire entièrement...~
 @241  = ~Il faut vous convaincre ? Alors, par Clangeddin, vous s'rez convaincu ! Khalid, je vous d'mande d'envisager la hache, car elle ne déchire ni n'arrache...~
@@ -348,7 +348,7 @@
 @282  = ~Enfin, cela était prévisible. L'éducation dans ton clapier communautaire a dû connaître des hauts et des bas, sans parler de l'air vicié ! Rien n'est plus efficace pour ralentir le développement mental, sans ajouter que frapper des roches avec des pioches en métal est loin d'être une bonne forme d'exercice intellectuel.~
 @283  = ~Quoi qu'il en soit, je m'adresse à mon dieu, alors si vous le voulez bien...~
 @284  = ~J'admire cependant la manière dont ta race s'est adaptée à ses désavantages naturels. Vraiment, j'ai étudié les sages naines il n'y a pas si longtemps, et j'en ai conclu une chose : elles sont *toutes* écrites pour être facilement comprises et mémorisées !~
-@285  = ~Bien entendu, seul quelqu'un avec mon potentiel intellectuel - et il n'y a que moi, bien sûr - pouvait lire entre les lignes, pour ainsi dire, et je ne vois donc aucune honte pour toi d'admettre que tu n'en savais rien.~
+@285  = ~Bien entendu, seul quelqu'un avec mon potentiel intellectuel, et il n'y a que moi, bien sûr, pouvait lire entre les lignes, pour ainsi dire, et je ne vois donc aucune honte pour toi d'admettre que tu n'en savais rien.~
 @286  = ~Nan mais j'vous jure : si c'était moi qu'avais eu ce baratin, il lui manquerait déjà quelques dents au gnome.~
 @287  = ~*maugrée* Votre tête n'est pas la seule chose qui fait un homme, Quayle. Le courage, la valeur ainsi que la force physique et de la volonté comptent. Le dévouement envers votre dieu aussi... et vous semblez étrangement léger sur ce point.~
 @288  = ~Je me doute bien que c'est ce qu'ils t'ont dit à la crèche mais debout là-dedans ! C'est un fait bien établi que les muscles saillants dévient le sang et les humeurs indispensables au muscle le plus important que tu as - le cerveau !~
@@ -407,7 +407,7 @@
 @333  = ~Tiax se fiche de vos pensées... car Tiax sait que quand IL les dominera tous, les gens du monde entier s'agenouilleront en une prière éternelle et des pensées de Tiax consumeront leur esprit à chaque minute de leur vie éveillée et de leurs rêves !~
 @334  = ~Et je perds mon temps à *parler* au fou, n'est-ce pas ? *soupir*~
 @335  = ~Tiax sait que la parole est inutile, sauf si elle est...~
-@336  = ~Tu ferais aussi bien de te parler à toi même, Yeslick, tu te comprendrais mieux que - hoi, je me parle *DEJA* à moi-même ! Par Clangeddin, la folie est-elle contagieuse ? Eloignez-vus d'moi, gnome, déguerpissez !~
+@336  = ~Tu ferais aussi bien de te parler à toi même, Yeslick, tu te comprendrais mieux que... hoi, je me parle *DÉJÀ* à moi-même ! Par Clangeddin, la folie est-elle contagieuse ? Eloignez-vus d'moi, gnome, déguerpissez !~
 
 //Viconia + Ajantis en 342
 @337  = ~Ne crois pas que je ne te surveille pas avec beaucoup d'attention, drow...~
@@ -460,7 +460,7 @@
 @378  = ~ Ça t'apprendra, vermine-à-gages obsédée par l'or ! Présente tes excuses à Clangeddin ! Maint'nant... si vous voulez bien m'excuser, « camarades », j'ai encore une ou deux histoires à régler. Hors de mon ch'min !~
 @379  = ~Je suis désolé, <CHARNAME>, mais j'peux pas supporter c't'infâme... païen plus longtemps !~
 @380  = ~J'peux pas non plus t'supporter, chien galeux d'esclave !~
-@381  = ~J't'avais dit de pas remettre ça sur l'tapis - maintenant tu vas payer ! CLANGEDDIN !~
+@381  = ~J't'avais dit de pas remettre ça sur l'tapis, maintenant tu vas payer ! CLANGEDDIN !~
 @382  = ~Tu vas crever, grande-gueule !~
 @383  = ~Bien... c'est ce qu'on va faire, alors. Kagain, c'est ici qu'ça s'termine ! CLANGEDDIN !~
 @384  = ~Hah ! Ça lui a servi d'leçon, à ce vieux fou réac' ! Quelqu'un d'AUTRE veut goûter d'ma hache, tant qu'j'y suis ? Nan ? Alors on la ferme et on marche...~

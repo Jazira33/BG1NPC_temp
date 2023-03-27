@@ -20,7 +20,7 @@
 //
 // Viconia
 //
-@0 = ~*La sombre dame de l'Outreterre marche à vos côtés - un mystère incarné. Peut-être que quelques questions bien orientées vous révéleront la vérité sur Viconia... ou créeront davantage de zones d'ombre. Voulez-vous tenter votre chance ?*~ [X#BLANK]
+@0 = ~*La sombre dame de l'Outreterre marche à vos côtés, un mystère incarné. Peut-être que quelques questions bien orientées vous révéleront la vérité sur Viconia... ou créeront davantage de zones d'ombre. Voulez-vous tenter votre chance ?*~ [X#BLANK]
 @1 = ~*Vous décidez que tant que vous n'apprendrez rien de ce que vous ne voulez pas savoir à propos de Viconia, vous n'aurez pas d'ennuis.*~
 @2 = ~Dis-moi, Viconia, peux-tu m'en dire plus à ton sujet ?~
 @3 = ~*Vous posez à Viconia de nombreuses questions personnelles.*~
@@ -870,7 +870,7 @@ Avance et bats-toi sur l'heure !~
 // Translation Retriever: Likely string found in file dialog TotSC En.tra at Id 10201, likeliness 73.3
 @668 = ~Interrogée sur son passé, SAFANA raconte ses liaisons aves des capitaines pirates, des aristocrates et des membres de la famille royale. Ce qu'on peut en retirer de sûr, c'est qu'elle a grandi dans le luxe à Calimport. Son père était un noble influent qui, même s'il lui donnait tout, avait aussi tendance à l'étouffer. Au début de son adolescence, elle s'est enfuie, avec l'aide du quartier-maître, sur le vaisseau pirate « Exzesus », et elle est restée avec cet équipage durant plusieurs années passées à écumer la Côte des Epées. En fin de compte, elle a essayé de manipuler le capitaine, ce qui lui a valu de gros ennuis et l'a forcée à quitter le navire à la Porte de Baldur, à la faveur d'une escale. Elle a encore toutes sortes d'histoires à raconter sur ses diverses escapades, mais il est difficile d'y démêler le faux du vrai.~ [DUMMYSND]
 @669 = ~Les diamants sont toujours un bon choix, cependant j'aime beaucoup les perles. Tu me demandais mon avis au sujet de joyaux, n'est-ce pas chéri ?~ ~Les diamants sont toujours un bon choix, cependant j'aime beaucoup les perles. Tu me demandais mon avis au sujet de joyaux, n'est-ce pas chérie ?~
-@670 = ~Fais ce que tu veux chéri - Moi je fais toujours comme ça.~ ~Fais ce que tu veux chérie - Moi je fais toujours comme ça.~
+@670 = ~Fais ce que tu veux chéri. Moi je fais toujours comme ça.~ ~Fais ce que tu veux chérie. Moi je fais toujours comme ça.~
 @671 = ~Eh bien, puisque tu me le demandes, je pense que cette couleur n'est vraiment pas très seyante sur toi.~
 @672 = ~Oh, je suis certaine qu'un charmant garçon comme toi ne peut pas se tromper.~
 @673 = ~Meurtre et chaos semble être ton style habituel. Je suis certaine que tu trouveras un moyen de les exploiter cette fois-ci également.~
@@ -2420,7 +2420,7 @@ Mais ce qui compte vraiment est ce que l'on a perdu...~
 @1909  = ~Hum, oui.~
 @1910  = ~Honnêtement, je ne vois pas le rapport avec ce que tu dis...~
 @1911  = ~Ah ! C'est donc un rituel d'accouplement ! C'est bien ce que je pensais mais ça avait l'air tellement stupide, même pour des citadins. Une pulvérisation aurait été beaucoup plus efficace.~
-@1912  = ~Noms, peintures sur le visage - tout cela est superficiel et ne change absolument pas la nature des choses.~
+@1912  = ~Noms, peintures sur le visage, tout cela est superficiel et ne change absolument pas la nature des choses.~
 @1913  = ~Je ne vois pas pourquoi les citadins insistent pour s'appeler l'un l'autre par des noms. Cela me fait me sentir différente des autres femelles humaines. c'est complètement stupide - nous sommes tous de la même espèce ! Quel intérêt de prétendre que m'appeler "Faldorn" me différencie des autres ? Et pourquoi pas donner un nom à chaque brin d'herbe ?~
 @1914  = ~Je pensais que les animaux ne se rebellaient pas lorsque les humains prenaient leurs terres parce que leurs meutes n'avait pas de chef. Tu es un puissant prédateur. Tu devrais mener leur contre-attaque contre les cités et les villes !~
 @1915  = ~Brûlons Bérégost, Nashkel, Gullykin, Château-Suif et la Porte de Baldur. Alors cette côte pourra enfin respirer, soignée de cette infection qu'est la civilisation.~
@@ -2926,7 +2926,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2260 = ~Bouh se demande si <CHARNAME> perçoit la belle structure dans ses mouvements : Château-Suif - la Porte de Baldur - Château-Suif...~
 @2261 = ~Ce n'est pas le bon moment pour des conseils ! Bouh aiguise ses dents pour la grande bataille !~
 @2262 = ~Celui qui combat les monstres doit prendre garde, sinon il deviendra un monstre lui-même. La vie n'est-elle pas cent fois trop courte pour commencer à nous ennuyer ?~
-@2263 = ~Celui qui a un « pourquoi » assez fort, peut supporter presque n'importe quel "comment", <CHARNAME>.~
+@2263 = ~Celui qui a un « pourquoi » assez fort, peut supporter presque n'importe quel « comment », <CHARNAME>.~
 @2264 = ~Celui qui veut apprendre à voler un jour doit d'abord apprendre à se tenir debout, marcher, courir, grimper et danser. On ne peut pas voler pour voler.~
 @2265 = ~Ahh ! Minsc discutait avec Bouh du fait qu'il a cru voir un autre hamster géant de l'espace miniature, hier.~
 @2266 = ~Des épées, pas des pensées ! Ou bien des pensées à propos d'épées. Euh, c'est ça, Bouh ?~
@@ -3294,7 +3294,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2502 = ~Faites place à la nouvelle divinité, car c'est ainsi que les choses doivent se produire, et l'ascension de Tiax n'est qu'une question d'heures.. non, de minutes ! Lancez le compte à rebours, esclaves !~
 @2503 = ~Il est écrit que Tiax régnera, même s'il commence à apprécier ta compagnie. Il t'épargnera peut-être sa colère et te nommera ailleurs qu'aux égouts.~
 @2504 = ~Comment Tiax le Grand s'est-il retrouvé dans le giron de Cyric ? Autrefois, Tiax était un gnome misérable et se nommait... Telliax Pierre-Dorée d'Athkatla. Sa grandeur était encore en veille. Tiax vola un jour un objet appartenant à l'un des chefs des Voleurs de l'Ombre et le père de Tiax, apeuré, l'envoya alors sur les routes avec un mécréant voyageur qui révérait Baervan Ermiterrant. Mais la main de Cyric fit en sorte que Tiax se torde la cheville pendant un raid orchestré par des bandits et il fut capturé par les brigands. C'est comme victime sacrificielle que Tiax fit face, pour la première fois, à Cyric. Mais il n'avait pas peur, pas du tout : Tiax le Grand n'allait pas se souiller devant des bandits minables. Tiax alla jusqu'à l'autel et y plaça la tête. Mais le servant de Cyric qui devait lui trancher la gorge vit alors que Tiax était l'Elu, et il recula.~
-@2505 = ~"Celui-ci vivra. Il a de l'esprit ! Le Prince des Mensonges a besoin de serviteurs tels que toi, gnome ! Trouvez-moi un autre esclave à sacrifier, celui-ci est désormais à moi !"~
+@2505 = ~« Celui-ci vivra. Il a de l'esprit ! Le Prince des Mensonges a besoin de serviteurs tels que toi, gnome ! Trouvez-moi un autre esclave à sacrifier, celui-ci est désormais à moi ! »~
 @2506 = ~Et c'est de lui que Tiax apprit tout de Cyric et de sa destinée grandiose. A présent, hum... il semble approprié que Tiax te bénisse en te nommant Gardien des Pantoufles Puissantes de Tiax ! Huit cents pantoufles, toutes à tes ordres, esclave. Tiax est bienveillant, aujourd'hui.~ ~Et c'est de lui que Tiax apprit tout de Cyric et de sa destinée grandiose. A présent, hum... il semble approprié que Tiax te bénisse en te nommant Gardienne des Pantoufles Puissantes de Tiax ! Huit cents pantoufles, toutes à tes ordres, esclave. Tiax est bienveillant, aujourd'hui.~
 @2507 = ~Où est le rapport de progression sur la domination de Féérune, esclave ? Tu es en retard ! Tiax ne tolère pas le retard ! Que les fils de tes sous-vêtements lâchent tous ensemble !~
 @2508 = ~Tiax est le Maître du Monde entier, au nom de Cyric ! Tous s'inclinent devant Tiax ! Incline-toi !~
@@ -3399,7 +3399,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2565  = ~Amis ? *Xan vous jette un sourire plein d'ironie.* ~
 @2566  = ~*Son visage s'assombrit.* Oui... amis... certainement.~
 @2567  = ~J'espère t'être utile, certainement. Nous sommes probablement « alliés », alors.~
-@2568  = ~Le mot "vague" me fait penser à la mort, <CHARNAME>. Je préférerai que tu ne l'emploies pas.~
+@2568  = ~Le mot « vague » me fait penser à la mort, <CHARNAME>. Je préférerai que tu ne l'emploies pas.~
 @2569  = ~Pourquoi poses-tu la question ? Ce soir, demain, le surlendemain... Nous allons mourir, quelle que soit la nature de notre relation.~
 @2570  = ~Parce que je... non, <CHARNAME>, ce n'est ni le l'endroit ni le moment de parler de telles choses.~
 @2571  = ~Je tiens à toi ? *Xan tente d'avoir l'air nonchalant. Mais une douce tristesse emplit ses yeux qui ne vous lâchent pas, et c'est la seule réponse dont vous aviez besoin.*~
@@ -3516,7 +3516,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2682  = ~*Xan ferme les yeux avec reconnaissance, et profite des caresses que vous lui prodiguez.*~
 @2683  = ~<CHARNAME>, je ne doute pas que tu sois belle, mais es-tu certaine que c'est le bon moment pour cela ?~
 @2684  = ~*Xan hausse un sourcil puis secoue la tête.*~
-@2685  = ~*Il soupire et marmonne quelque chose qui ressemble vaguement à "insupportable".*~
+@2685  = ~*Il soupire et marmonne quelque chose qui ressemble vaguement à « insupportable ».*~
 @2686  = ~*Ne prêtant aucune attention au sifflement approbateur de Coran, Xan se détourne et s'éloigne, ses épaules tombent, et les pointes de ses oreilles rougissent. Manifestement, il a cru que vous avez jeté votre dévolu sur Coran.*~
 @2687  = ~*Ses paumes courent le long de vos avant-bras, puis reposent sur vos épaules. Puis sa main gauche commencent à masser la base de votre cou, alors que les doigts de sa main droite poursuivent leur progression le long de votre dos. Ses deux mains se meuvent très lentement, comme s'il avait l'intention d'y consacrer toute son attention jusqu'à la fin de ses jours. Après quelques minutes, en revanche, Xan dépose un baiser sur votre cou et se retire sans un bruit.*~
 @2688  = ~*Xan fait glisser ses mains le long de vos clavicules et appuie légèrement dessus, avec délicatesse. Ses mouvements sont de plus en plus lents, et vous commencez à vous demander ce qui se passe.*~
@@ -3659,7 +3659,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2825  = ~<CHARNAME>, cesse de me distraire ou notre groupe sera anéanti avant la fin de la journée.~
 @2826  = ~*soupir*~
 @2827  = ~*Xan lève les yeux au ciel et met un point d'honneur à s'éloigner de vous autant que possible.*~
-@2828  = ~*Xan marmonne quelque chose d'incompréhensible avant de se détourner, mais vous avez pu distinguer le mot "perdus".*~
+@2828  = ~*Xan marmonne quelque chose d'incompréhensible avant de se détourner, mais vous avez pu distinguer le mot « perdus ».*~
 @2829  = ~*soupir* On dit que les enfants sont les êtres les plus cruels de Toril...~
 @2830  = ~Une fois que tout ceci sera terminé, je reposerai dans une tombe solitaire, peu profonde et sans pierre tombale. Si tu continues ton chemin, ce sera sans moi.~
 @2831  = ~Mais est-ce que tu souhaites continuer à voyager ? L'aventure n'est pas quelque chose de palpitant, <CHARNAME> ; c'est plutôt usant et déprimant. *soupir* Tu en as la parfaite démonstration devant toi.~
@@ -3836,7 +3836,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2959 = ~Sur quoi es-tu en train de fantasmer, nécromancien ? Sur de la nourriture ou sur ta mère ?~
 @2960 = ~M'en acheter un ? Vraiment ? Je n'aurai pas de problème avec Moman ?~
 @2961 = ~Bien sûr, je t'en achèterai un ou deux... Plus, si tu veux.~
-@2962 = ~Ouai, j'en achèterai quelques uns. Aucun avec des cerveaux de singe dedans, d'accord ?~
+@2962 = ~Ouais, j'en achèterai quelques uns. Aucun avec des cerveaux de singe dedans, d'accord ?~
 @2963 = ~Bien sûr. Mais il faudrait que ça en vaille la peine.~
 @2964 = ~Ma « mère » est décédée, merci beaucoup !~
 @2965 = ~Etonnamment sensé de sa part, vraiment. Partir rejoindre Moman de cette manière... si utile de sa part !~
@@ -3844,7 +3844,7 @@ Elle est restée très enfant, et elle a l'air ravie de jouer à être votre pet
 @2967 = ~Ouaip ! On pourra en avoir au dîner, si tu veux.~
 @2968 = ~Non. Ta mère n'approuverait pas.~
 @2969 = ~Non. Nous ne devons pas ennuyer Moman, n'est-ce pas ?~
-@2970 = ~Berk ! Ne soyez pas dégoûtant, <CHARNAME> ! Des cygnes en chocolat - ou des sylphes - feront bien l'affaire.~ ~Berk ! Ne soyez pas dégoûtante, <CHARNAME> ! Des cygnes en chocolat - ou des sylphes - feront bien l'affaire.~
+@2970 = ~Berk ! Ne soyez pas dégoûtant, <CHARNAME> ! Des cygnes en chocolat, ou des sylphes, feront bien l'affaire.~ ~Berk ! Ne soyez pas dégoûtante, <CHARNAME> ! Des cygnes en chocolat, ou des sylphes, feront bien l'affaire.~
 @2971 = ~Pas pour le « dîner », certainement ! Mais en dessert... Des plaisirs aussi puérils sont étonnamment... réjouissants.~
 @2972 = ~Oui, eh bien le plaisir *est* supposé être réjouissant, après tout.~
 @2973 = ~Voilà que *je* suis puéril, maintenant ? Tu me laisses quelquefois perplexe, Xzar.~ ~Voilà que *je* suis puérile, maintenant ? Tu me laisses quelquefois perplexe, Xzar.~
@@ -4194,7 +4194,7 @@ Mais tu es la plus belle que j'ai vue.~
 @3229 = ~Ma douce ?~
 @3230 = ~Alors, Coran... quelle est ta conclusion ? Le ciel nocturne recèle-t-il des étoiles plus belles que <CHARNAME> de Château-Suif ?~
 @3231 = ~Nos yeux se rencontrent beaucoup trop souvent, Coran. *soupir*~
-@3232 = ~Ce que tu viens de faire - regarder le ciel nocturne et soupirer avant de me regarder, cela me paraît si... si familier, Coran. Toute âme est obscure pour autrui et l'on peut se fourvoyer gravement en présumant trop. Alors, ne me laisse pas deviner et dis-moi, à quoi pensais-tu ?~
+@3232 = ~Ce que tu viens de faire, regarder le ciel nocturne et soupirer avant de me regarder, cela me paraît si... si familier, Coran. Toute âme est obscure pour autrui et l'on peut se fourvoyer gravement en présumant trop. Alors, ne me laisse pas deviner et dis-moi, à quoi pensais-tu ?~
 @3233 = ~J'aimerais pouvoir te donner une poignée d'étoiles, afin que tu puisses voir par toi-même que tu es bien plus belle.~
 @3234 = ~*Il embrasse vos épaules et pointe le doigt sur le ciel* Savais-tu qu'il y a une étoile qui porte le nom de <CHARNAME> ? Juste là - la vois-tu, ma douce ?~
 @3235 = ~La plus belle chose à voir, c'est <CHARNAME> qui danse à la lumière des étoiles sous les yeux d'un seul homme. Est-il nécessaire de préciser... que cet homme est moi ?~
@@ -4229,7 +4229,7 @@ Mais tu es la plus belle que j'ai vue.~
 @3264 = ~*Le cou de Coran s'incline en arrière et il sourit.* Me prends-tu pour un homme assez faible pour reculer devant ce doux contact ?~
 @3265 = ~Dois-je interrompre cette torture... d'un baiser de ton choix ?~
 @3266 = ~Essaie quelque chose de plus fort, mon amour. Comme ceci... *Coran frotte son visage contre votre cou et trace une ligne avec sa langue.*~
-@3267 = ~Je te laisserai me chatouiller éternellement, parce que le soleil fond ensemble mes os et mon coeur. Je n'ai plus qu'un désir à présent - t'aimer - et j'apprécie beaucoup d'être en un tel état d'esprit et de corps.~
+@3267 = ~Je te laisserai me chatouiller éternellement, parce que le soleil fond ensemble mes os et mon coeur. Je n'ai plus qu'un désir à présent ; t'aimer, et j'apprécie beaucoup d'être en un tel état d'esprit et de corps.~
 @3268 = ~Es-tu en train de parler de ce liquide épais et doré que par quelque malentendu bizarre on appelle miel, et non "les lèvres de <CHARNAME> ?"~
 @3269 = ~Voilà, c'est ce que j'allais dire ! Ah, tant pis.~
 @3270 = ~Et tes lèvres sont le papillon qui est venu se nourrir de ce miel. Prends garde, mon ami virevoltant, car tu vas probablement t'y coller. *Coran vous embrasse et n'interrompt pas le baiser durant un bon moment.*~
@@ -4259,14 +4259,14 @@ Mais tu es la plus belle que j'ai vue.~
 @3294 = ~Pourquoi ne pas prendre tout droit ?~
 @3295 = ~Oh ! Je n'y avais pas pensé !~
 @3296 = ~Coran, as-tu *jamais* vu un donjon où l'on puisse aller tout droit sans finir par se cogner la tête contre un mur ?~
-@3297 = ~Parce que, Coran, les braves héros prennent toujours un chemin détourné ! Plus de monstres - plus de gloire ! D'accord ?~
+@3297 = ~Parce que, Coran, les braves héros prennent toujours un chemin détourné ! Plus de monstres, plus de gloire ! D'accord ?~
 @3298 = ~J'ai changé d'avis. Allons à droite !~
 @3299 = ~J'ai changé d'avis. Allons à gauche !~
 @3300 = ~Et, depuis que je *la* suis de près, je me cogne contre *elle*... ça ne me pose aucun problème ! Guide-nous, <CHARNAME> !~
 @3301 = ~Tu as le droit de décider ! Allons à dr- Non, ce serait un très mauvais jeu de mots. Allons à gauche !~
 @3302 = ~Tu as raison ! Allons à droite !~
 @3303 = ~Blonde Hanali, pourquoi suis-je tombé amoureux d'une femme qui est capable de rêver de gloire alors qu'elle est prise jusqu'aux genoux dans un tas de fumier ?~
-@3304 = ~Plus de monstres - plus de gloire ! Plus de monstres - plus de gloire ! *soupire* Tu sais, cette règle fonctionnerait aussi bien en extérieur.~
+@3304 = ~Plus de monstres, plus de gloire ! Plus de monstres, plus de gloire ! *soupire* Tu sais, cette règle fonctionnerait aussi bien en extérieur.~
 @3305 = ~Non, pas du tout, mon amour. Tu as l'air très mince. (Ouf... Heureusement que je connais la bonne réponse à *cette* question.)~
 @3306 = ~As-tu jamais deviné pourquoi j'aspirais tant à te voir nue ?~
 @3307 = ~Non, corpulent, c'est quand les courbes sont voilées... tu es assez fortunée pour paraître bien galbée dans ton équipement. Je le jure, je peux dire que tu es une femme, même lorsque tu portes cape et capuchon !~
@@ -4669,7 +4669,7 @@ Vagues et cascade de soie de Shuan.~
 @3605 = ~Ah, « Un Cœur d'Or à Vendre » peut enflammer l'imagination, ne pensez-vous pas ?~
 @3606 = ~*lance une oeillade à Skie* « Le Trépas du Soupirant Délaissé » est le seul chant que je pourrais chanter avec conviction en ce moment.~
 @3607 = ~Je n'ai pas fini de le composer, mais « Allez en Enfer avec Votre Sottise et Votre Suffisance » conviendra on ne peut mieux.~
-@3608 = ~Il y a toujours « Complainte pour un Père » - si toutefois vous voulez un instant d'ironie sur votre situation.~
+@3608 = ~Il y a toujours « Complainte pour un Père », si toutefois vous voulez un instant d'ironie sur votre situation.~
 @3609 = ~Hmm. Il y aurait bien « Les Damnés de la Crypte de Musgrave ». Ca pourrait être suffisamment joyeux, du moins comparé à notre situation actuelle, pour vous plaire.~
 @3610 = ~J'aurais bien une très *vieille* chanson populaire... « Brute Hirsute »... Mais je ne me souviens pas vraiment des paroles.~
 //////////
@@ -4775,14 +4775,14 @@ Vagues et cascade de soie de Shuan.~
 @3666 = ~La vie est merveilleuse. Je voyage avec des amis, et les gens écoutent ma musique. Que pourrais-je souhaiter de plus ?~
 @3667 = ~*rougit* Je rêvais d'amour et, euh, je me suis laissé un peu emporter.~
 @3668 = ~Non, vraiment, tout va bien. Vous en avez ?~
-@3669 = ~Je vais bien ! Laissez-moi vous chanter une chanson pour le prouver ! "La Marche des Héros" !~
+@3669 = ~Je vais bien ! Laissez-moi vous chanter une chanson pour le prouver ! « La Marche des Héros » !~
 @3670 = ~Oh, merci pour cette question. C'est vraiment agréable de savoir que vous vous en souciez, en vérité.~
 @3671 = ~Bien sûr ! Je vais vous chanter « Un Bouquet de Roses », c'est ma chanson préférée !~
 @3672 = ~Euh, êtes-vous sûr ? Je veux dire, j'aimerais chanter, mais ce n'est pas vraiment le moment idéal.~ ~Euh, êtes-vous sûre ? Je veux dire, j'aimerais chanter, mais ce n'est pas vraiment le moment idéal.~
 @3673 = ~J'imagine que « Joe le Bizarre » conviendra. D'accord, tout le monde, commençons !~
 @3674 = ~Je connais une jolie chanson appelée « Amour Glorieux sous le Soleil » mais, euh, certains passages ne sont pas adaptés aux jeunes filles, si vous voyez ce que je veux dire.~
 @3675 = ~Oui, <SIRMAAM> ! Voici « Le Coeur de Lion » !~
-@3676 = ~Voudriez-vous une chanson d'amour ? Oui, j'en étais sûr ! Et "Embrasse-moi doucement, Embrasse-moi profondément" fera parfaitement l'affaire !~
+@3676 = ~Voudriez-vous une chanson d'amour ? Oui, j'en étais sûr ! Et « Embrasse-moi doucement, embrasse-moi profondément » fera parfaitement l'affaire !~
 @3677 = ~Vous avez raison, <SIRMAAM> ! La vie est merveilleuse, et il est temps de le célébrer en chansons !~
 @3678 = ~D'accord, je suppose, mais avons-nous assez de temps ?~
 @3679 = ~Eh bien, certainement ! Voilà un excellent moyen de, euh, faire un peu mieux connaissance...~
@@ -4887,7 +4887,7 @@ Vagues et cascade de soie de Shuan.~
 @3735 = ~Interrogé sur son passé, c'est un KHALID visiblement nerveux qui avoue être né et avoir été élevé en Calimshan. Il ne parle guère de ses parents, mais on sent que son marchand de père n'avait pas une haute opinion de lui et se consacrait davantage à ses demi-frères. Khalid s'est donc instruit dans l'art du combat sous l'égide de la milice de sa ville. Et même s'il reste dans le vague quant aux circonstances de sa rencontre avec Jaheira, il est visible qu'il l'adore. Quand on lui demande comment il se fait qu'il ait connu Gorion, il se borne à dire qu'ils étaient amis de longue date et que beaucoup de leurs amis communs vont pleurer sa perte sur leur harpe.~ [DUMMYSND]
 @3736 = ~Toute cette mort... Cela va-t-il un jour s'arrêter ?~
 @3737 = ~Je ne suis pas blessé. Pas... pas dans ma chair, si c'est ce que vous voulez dire.~
-@3738 = ~Je suppose. Mais dites-moi, <CHARNAME>. Que signifie réellement "aller bien" ?~
+@3738 = ~Je suppose. Mais dites-moi, <CHARNAME>. Que signifie réellement « aller bien » ?~
 @3739 = ~Oui, et j'espère que vous aussi, <CHARNAME>. Cette c-croisade semble vous convenir bien mieux que je ne l'aurais pensé.~
 @3740 = ~*jette un oeil anxieux vers sa femme* Oui. Seulement... les risques que nous courrons... les pertes que nous pourrions subir...~
 @3741 = ~Je suis juste d-désemparé. Se v-venger est une chose. *Vouloir* le faire me... bouleverse.~

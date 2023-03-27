@@ -178,7 +178,7 @@
 
 //Banters avec Coran
 @145 = ~Ne fais pas trop l'arrogant, oreilles pointues ! Tu as peut-être l'avantage pour l'instant, mais quand Tiax régnera, son harem se chiffrera en dizaines de milliers, toutes les plus belles femmes de chaque race seront rassemblées entre ses murs ! Alors Tiax t'enfermera dans son donjon pour le restant de tes jours, et tu ne connaîtras plus jamais l'étreinte d'une belle femme, ainsi tu te maudiras de ne pas avoir plié le genou devant Tiax quand tu en avais la chance !~
-@146 = ~Quand tu dis "toutes les plus belles femmes de chaque race", tu veux dire selon tes critères ou les leurs ? Une femme naine et sa barbe peuvent paraître superbes pour les nains de la forteresse dont elle vient, après tout.~
+@146 = ~Quand tu dis « toutes les plus belles femmes de chaque race », tu veux dire selon tes critères ou les leurs ? Une femme naine et sa barbe peuvent paraître superbes pour les nains de la forteresse dont elle vient, après tout.~
 @147 = ~Il n'y a pas de critères, sinon ceux que détermine Tiax ! Ses femmes et concubines auront les formes les plus plantureuses, leur peau sera douce et sans tache, et leur nez aura la taille la plus gigantesque, avec les plus fournies des touffes de poils dans les narines ! Seulement les spécimens au physique le plus parfait pourront servir Tiax !~
 @148 = ~Des nez gigantesques ? Des poils dans les narines ? Ahhh, mais j'oubliais : les gnomes ont leurs propres critères uniques, n'est-ce pas ?~
 
@@ -246,7 +246,7 @@
 @197 = ~Tiax EXIGE que tu lui témoignes le respect qui lui est dû !~
 @198 = ~Seuls les imbéciles exigent le respect. Les sages le gagnent, et je n'ai encore rien vu de ta part sinon de la folie et des discours dérangés.~
 @199 = ~Tu oses ?! TIAX a la sagesse ABSOLUE, car rien n'OSE échapper à son savoir !~
-@200 = ~Tiax a déjà résolu cette "quête" entière ; il sait précisément où les ennemis de <CHARNAME> rôdent et complotent et planifient, mais il ne partage pas son savoir, car si l'esprit de Tiax devait être révélé à des créatures moins évoluées, elles pourraient se FLETRIR sous l'assaut de sa pure brillance !~
+@200 = ~Tiax a déjà résolu cette « quête » entière ; il sait précisément où les ennemis de <CHARNAME> rôdent et complotent et planifient, mais il ne partage pas son savoir, car si l'esprit de Tiax devait être révélé à des créatures moins évoluées, elles pourraient se FLETRIR sous l'assaut de sa pure brillance !~
 @201 = ~Oh ? Pourrais-tu au moins partager avec nous, pauvres mortels, le nom de la crapule en armure qui a tué Gorion, ô sage Tiax ? Nous ne nous flétrirons certainement pas devant cette parcelle de savoir !~
 @202 = ~Euh... Tiax sait, mais ne partagera PAS cette information ! Ce... euh... n'est pas tant l'information que le POUVOIR qui est derrière elle qui est bouleversant ! Si Tiax prononçait ce nom, avant qu'il ne soit révélé de manière appropriée à ses pions, ils pourraient s'écrouler en poussière face à une telle sagesse prophétique !~
 @203 = ~C'est bien ce que je pensais. Par Silvanus, que je serai contente quand <CHARNAME> se débarrassera de ce gnome ridicule...~
@@ -340,7 +340,7 @@
 
 //Banter avec Shar-Teel
 @276 = ~Malgré sa sagesse infinie, Tiax ne te comprend pas, humaine.~
-@277 = ~Alors "Tiax" devrait arrêter d'y penser et se taire. Les mâles devraient apprendre à être vus et non entendus.~
+@277 = ~Alors « Tiax » devrait arrêter d'y penser et se taire. Les mâles devraient apprendre à être vus et non entendus.~
 @278 = ~Tiax parlera à qui il en a envie, quand il en a envie, et de ce dont il a envie ! Ton système de croyances est complètement erroné et ridicule ! Tiax a réfléchi et réfléchi, et ne peut toujours pas comprendre comment tu peux considérer que les femmes sont supérieures aux hommes !~
 @279 = ~Cyric a forgé Tiax lui-même, champion d'entre ses grands représentants et maître de toutes choses, comme un homme. Cela prouve clairement que les hommes sont supérieurs aux femmes, car si les femmes étaient supérieures aux hommes, Tiax en serait une.~
 @280 = ~En réalité, tu m'aides à prouver combien mon système de croyances est exact, au contraire.~

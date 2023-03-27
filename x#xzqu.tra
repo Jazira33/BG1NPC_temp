@@ -1,6 +1,6 @@
 @0 = ~Voyons ce que vous avez, alors.~
 @1 = ~Une autre fois, peut-être.~
-@2 = ~Eh bien, bonnes gens, puis-je... Quoi ! Qu'avez-vous là ?~
+@2 = ~Eh bien, bonnes gens, puis-je... Quoi ?! Qu'avez-vous là ?~
 @3 = ~Ceci, Sire, est l'essence nécromantiquement préservée de...~
 @4 = ~C'est une boule nécromantique visqueuse ! Tuez le nécromancien, si ce n'est pas encore fait, mais sortez cette ordure de mon établissement.~
 @5 = ~Mais nous avons...~
@@ -154,9 +154,9 @@ Mon compagnon Xzar a tiré le sang d'une dryade des Pics Brumeux. Cette stupide 
 @146 = ~Quoi qu'il en soit, c'est le butin du groupe. Rends-le moi.~
 @147 = ~Je ne pense pas. Vous pourriez le perdre... ou le vendre pour de la nourriture en un moment où, pour ma part, je n'aurai pas même faim.~
 @148 = ~TOUT trésor est la propriété commune de *tout* le groupe. On ne thésaurise *pas*.~
-@149 = ~Hum, hum. Quand - et en quoi - proposes-*tu* de l'enchanter ?~
-@150 = ~Humff ! Le voilà, alors ! Soyez seulement assuré - vraiment assuré - qu'il sera disponible au moment voulu, *cher* <CHARNAME> !~
-       ~Humff ! Le voilà, alors ! Soyez seulement assurée - vraiment assurée - qu'il sera disponible au moment voulu, *chère* <CHARNAME> !~
+@149 = ~Hum, hum. Quand, et en quoi, proposes-*tu* de l'enchanter ?~
+@150 = ~Humff ! Le voilà, alors ! Soyez seulement assuré, vraiment assuré, qu'il sera disponible au moment voulu, *cher* <CHARNAME> !~
+       ~Humff ! Le voilà, alors ! Soyez seulement assurée, vraiment assurée, qu'il sera disponible au moment voulu, *chère* <CHARNAME> !~
 @151 = ~Le « quoi » se manifestera de lui-même. Nous rencontrons tant de délicieuses créatures, telles que celle dont les restes éparpillés souillent ma chaussure en ce moment même.~
 @152 = ~« Quand » dépendra d'un peu plus de silence de votre part : une interruption de vos habituelles questions stupides et remarques inutiles. Honnêtement, <CHARNAME>, la plupart du temps je ferais mieux de parler à mes chaussettes. Particulièrement la gauche, qui est en train de devenir assez humide en ce moment.~
 @153 = ~Alors bouge ton stupide pied. D'accord ?~

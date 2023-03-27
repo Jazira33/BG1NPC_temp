@@ -128,7 +128,7 @@
 @93 = ~Tu l'utilises sur Sarevok et seulement sur Sarevok et *seulement* à distance, de sorte qu'aucun d'entre *nous* n'en soit aspergé.~
 @94 = ~Bon... Garde ça hors de ma vue. Je pourrais être tenté, si Jaheira recommence à me harceler...~
       ~Bon... Garde ça hors de ma vue. Je pourrais être tentée, si Jaheira recommence à me harceler...~
-@95 = ~Bon... Je comprends ton point de vue. Parfois les gloussements d'Imoen me mettent à bout de - N'y PENSE même pas, Xzar. Ne le jette sur *personne* dans ce groupe !~
+@95 = ~Bon... Je comprends ton point de vue. Parfois les gloussements d'Imoen me mettent à bout de... N'y PENSE même pas, Xzar. Ne le jette sur *personne* dans ce groupe !~
 @96 = ~Oh ! Oui ! Je vous le promets ! Je vous le promets !~
 @97 = ~Bon... Garde ça hors de ma vue. Je pourrais être tenté, si Jaheira recommence à me harceler...~
       ~Bon... Garde ça hors de ma vue. Je pourrais être tentée, si Jaheira recommence à me harceler...~
@@ -176,7 +176,7 @@
 
 @120 = ~Zut, mon garçon. Vous avez rassemblé toute la famille et ne m'avez pas invité, MOI, à la fête.~
 @121 = ~Quu.. NON ! Nous sommes tous là. Oui !~
-@122 = ~Oui - maintenant que *je* suis arrivé !~
+@122 = ~Oui, maintenant que *je* suis arrivé !~
 @123 = ~Qui êtes-vous ?~
 @124 = ~Qui... euh... Je... je suis ta PERTE, mon gars !~
 @125 = ~ONCLE LESTER !~
@@ -192,7 +192,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 881, probablement inutile de traduire ici !
 @131 = ~Oyez ! Oyez ! Le clerc fou de Cyric profane la nature ! Il a rendu la vie à des cadavres ambulants et vit au milieu d'eux comme s'ils étaient sa famille ! Craignez-le !~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 882, probablement inutile de traduire ici !
-@132 = ~<CHARNAME>, ce Bassilus - le vivant... - il a l'air un peu bizarre ; presque... dérangé.~
+@132 = ~<CHARNAME>, ce Bassilus, le vivant... il a l'air un peu bizarre ; presque... dérangé.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 883, probablement inutile de traduire ici !
 @133 = ~Oyez ! Oyez ! Voici l'homme qui va le remettre à sa place !~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 884, probablement inutile de traduire ici !

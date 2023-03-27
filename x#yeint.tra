@@ -1,7 +1,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 446, probablement inutile de traduire ici !
 @0     = ~Monstre dérangé... tu as transformé ma maison en chambre de torture ! MEURS, POURRITURE !~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 206, probablement inutile de traduire ici !
-@1     = ~Tu connais au moins le nom d'un d'entre nous, mage - Yeslick Orothiar, moi-même, et ça m'rend malade de savoir que tu vas partager la même tombe que les miens. Prépare-toi pour les Enfers, Davaëorn !~
+@1     = ~Tu connais au moins le nom d'un d'entre nous, mage. Yeslick Orothiar, moi-même, et ça m'rend malade de savoir que tu vas partager la même tombe que les miens. Prépare-toi pour les Enfers, Davaëorn !~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 207, probablement inutile de traduire ici !
 @2     = ~Voyons, voyons... le fou s'est évadé, n'est-ce pas ? Voyons voir de qui la tombe va se remplir !~
 
@@ -81,7 +81,7 @@
 @63    = ~Cet endroit fut mon foyer... J'aimerais y voir le moins d'effusion de sang possible.~
 @64    = ~Mais... si nous les laissons partir maintenant, ils vont engager plus d'assassins et de gardes, et notre travail sera plus risqué - et mon clan ne connaît de repos chaque jour dont ce vaurien profite sans être puni !~
 @65    = ~Oui... oui, notre travail va être plus difficile. Et il est certain que Rieltar va engager tous les chasseurs de primes et moins-que-rien des Royaumes pour nous combattre. Car il est mauvais. Mais pas nous. Et nous gagnerons toujours, vous m'entendez ?~
-@66    = ~Votre clan refuserait que vous sacrifiez votre honneur en leur nom, Yeslick. Ils peuvent - tout comme nous- attendre pour la mort de cet homme.~
+@66    = ~Votre clan refuserait que vous sacrifiez votre honneur en leur nom, Yeslick. Ils peuvent, tout comme nous, attendre pour la mort de cet homme.~
 @67    = ~Ne laissez pas la colère vous perdre, Yeslick !~
 @68    = ~Si vous le combattez, vous serez seul !~
 @69    = ~Par les dieux, vous avez raison ! Qui a besoin de tout ça ? Prépare-toi à mourir, Rieltar !~
@@ -124,7 +124,7 @@
 @106   = ~Je... je suis désolé. Je veux juste empêcher Sarevok d'accomplir la prophétie. Mais l'essence est en moi... je ne sais pas ce qui va se produire.~
          ~Je... je suis désolée. Je veux juste empêcher Sarevok d'accomplir la prophétie. Mais l'essence est en moi... je ne sais pas ce qui va se produire.~
 @107   = ~Je pense que c'est ma destinée, Yeslick, que vous l'aimiez ou non. Et si ça l'est, je ne me défilerai pas.~
-@108   = ~Votre sagesse n'est rien d'autre que de la témérité. Je prendrai ce que je peux - je ne vais pas laisser passer cette chance !~
+@108   = ~Votre sagesse n'est rien d'autre que de la témérité. Je prendrai ce que je peux, je ne vais pas laisser passer cette chance !~
 @109   = ~*soupir* Qu'il en soit ainsi. Rappelez-vous de ceci alors,<CHARNAME>, quand vous commencerez le combat... le vieux Yeslick sera là, il fera ce qu'il y a de mieux pour vous. Peu importe ce que cela peut être...~
 
 //Dans les niveaux inférieurs de la tour de Durlag

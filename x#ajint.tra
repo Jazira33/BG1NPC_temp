@@ -157,7 +157,7 @@
 @115 = ~Nous voici donc à la guilde des voleurs ! Cet endroit pue la trahison et l'anarchie ! Je vous conseille de faire preuve de vigilance, <CHARNAME>, et j'espère que nous partirons aussi vite que possible.~
 @116 = ~Merci pour l'avertissement, Ajantis. Je ne me sens pas très à l'aise, moi non plus.~
 @117 = ~Je suis venu ici parce que j'ai été... invité. Jetons un coup d'oeil, Ajantis.~
-       ~Je suis venue ici parce que j'ai été... invitée. Jetons un coup d'oeil, Ajantis.~
+       ~Je suis venue ici parce que j'ai été... invitée. Jetons un coup d'œil, Ajantis.~
 @118 = ~Ajantis, tu généralises. Tous les voleurs ne sont pas de mauvaises personnes. Tu devrais juger les gens sur leurs actes, pas sur leur profession de choix. S'il n'y avait pas de voleurs, qui désactiverait les pièges qui pourraient nous blesser ? Qui crochèterait les serrures pour libérer les esclaves que nous trouvons ?~
 @119 = ~Je suis d'accord avec vos paroles, <CHARNAME>, et je respecte une personne qui exerce cette profession et choisit le bon chemin. Mais cette personne est en minorité. Cette guilde est une alliance de voleurs sans coeur, assoiffés de pouvoir et sans morale, qui gagnent leur vie sur la base d'actions illégales.~
 @120 = ~Il semble qu'il s'agit du fils de ce vieux fermier. Pauvre petit ! Les ankhegs doivent l'avoir traîné jusqu'ici.~
@@ -246,8 +246,8 @@
 @195 = ~Je tremble à la pensée de ce qui pourrait vous attendre dans le futur. Allons-y et restons vigilants. Je vous assisterai, aussi longtemps que vous resterez sur le droit chemin.~
 @196 = ~L'impatience apparente dans vos paroles m'effraie. Et pourtant, vous avez le pouvoir de rester sur la bonne voie...~
 @197 = ~Allons-y et soyons vigilants. Je combattrai à vos côtés et vous aiderai aussi longtemps que vous resterez sur le droit chemin.~
-@198 = ~Mon coeur saigne d'avoir à y penser, mon amour. Vous avez déjà réalisé des actes maléfiques au cours de nos voyages. J'espérais pouvoir ne pas en tenir compte mais la situation a changé...~
-@199 = ~Mon coeur saigne d'avoir à y penser. Vous avez déjà réalisé des actes maléfiques au cours de vos voyages... Je dois me concentrer sur mes devoirs de paladin. Je garderai mes pensées pour moi, désormais.~
+@198 = ~Mon cœur saigne d'avoir à y penser, mon amour. Vous avez déjà réalisé des actes maléfiques au cours de nos voyages. J'espérais pouvoir ne pas en tenir compte mais la situation a changé...~
+@199 = ~Mon cœur saigne d'avoir à y penser. Vous avez déjà réalisé des actes maléfiques au cours de vos voyages... Je dois me concentrer sur mes devoirs de paladin. Je garderai mes pensées pour moi, désormais.~
 @200 = ~Allons-y et restons vigilants, ma dame. Je combattrai à vos côtés et vous assisterai, aussi longtemps que vous resterez sur le droit chemin.~
 @201 = ~Créature démoniaque ! A présent vous révélez vos véritables intentions ! Levez votre arme, je ne vous laisserai pas aller plus loin !~ [%tutu_var%AJANT31]
 @202 = ~<CHARNAME>, je vais vous suivre en dépit de la réputation qui est la vôtre en ce moment. Le temps nous dira si vos actions s'avèrent meilleures que l'impression que vous donnez pour l'instant. Je compte sur nous pour rester sur la voie de la vertu et de la droiture alors que nous avançons. Allons-y et chassons ces bandits qui envahissent les routes !~

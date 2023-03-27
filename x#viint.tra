@@ -108,7 +108,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 711, probablement inutile de traduire ici !
 @72 = ~Vous ! Vous pensez comme un de ces hommes !~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 734, probablement inutile de traduire ici !
-@73 = ~Fais attention, car Umberlie est une divinité capricieuse et mauvaise - assez semblable à Lolth. Je n'en attendrais pas moins de ses suivants.~
+@73 = ~Fais attention, car Umberlie est une divinité capricieuse et mauvaise, assez semblable à Lolth. Je n'en attendrais pas moins de ses suivants.~
 @74 = ~Deux ans ? Bah, à peine le temps d'un battement de paupières. Et bientôt tes yeux ne cligneront plus.~
 @75 = ~Bien effronté, pour un faible.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 755, probablement inutile de traduire ici !

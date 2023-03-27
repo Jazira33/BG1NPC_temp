@@ -200,7 +200,7 @@
 // BG1 NPC : texte identique dans le fichier x#viint.tra au numéro 15
 @68   = ~N'as-tu pas de coeur, sorcière sombre ? C'est mon enfant qui est piégé là-bas !~
 // BG1 NPC : texte identique dans le fichier x#viint.tra au numéro 16
-@69   = ~Oh, j'ai un coeur. Mais il ne bat que pour moi, et non pour ceux qui sont trop faibles pour prendre soin d'eux-mêmes. Viens, <CHARNAME>, je ne veux pas parler plus longtemps à cette misérable.~
+@69   = ~Oh, j'ai un cœur. Mais il ne bat que pour moi, et non pour ceux qui sont trop faibles pour prendre soin d'eux-mêmes. Viens, <CHARNAME>, je ne veux pas parler plus longtemps à cette misérable.~
 // Kivan
 // BG1 NPC : texte identique dans le fichier x#kiint.tra au numéro 32
 @70   = ~Sur mon honneur de rôdeur, je jure que nous ferons de notre mieux pour faire fuir les worgs, bonne dame.~
@@ -445,7 +445,7 @@
 // BG1 NPC : texte identique dans le fichier x#skint.tra au numéro 61
 @157  = ~Par les dieux ! Ca doit être la *nouvelle* Dame Ecudargent dont Skie n'arrêtait pas de se plaindre. Plus jolie, tout aussi bête, et pourtant plus colérique, si je puis en juger, que celle pour qui je me suis donné tant de mal. *soupir* Il est sans doute trop tard pour changer à ce stade...~
 // BG1 NPC : texte identique dans le fichier x#skint.tra au numéro 62
-@158  = ~Pssst... <CHARNAME>, c'est la nouvelle "épouse" de mon père. Allons nous-en !~
+@158  = ~Pssst... <CHARNAME>, c'est la nouvelle « épouse » de mon père. Allons nous-en !~
 // Coran à un PJ mâle
 // BG1 NPC : texte identique dans le fichier x#coint.tra au numéro 52
 @159  = ~Tu te souviens de ce que je t'ai dit ? Avec les femmes nobles, c'est le culot qui marche. Souris, coquin !~
@@ -1212,7 +1212,7 @@ L'aventurier se réjouit.~
 @428  = ~Un citadin qui parle mal d'un serviteur de la nature ? A mort ! Attends, pourquoi es-tu ici dans cette ville, druidesse ? Serais-tu de ces druides pervertis qui nous enseignent que les villes... Oh, aucune importance pour l'instant. Il faut d'abord tuer ce mage !~
 // Jaheira - Voltine
 // BG1 NPC : texte identique dans le fichier x#jaint.tra au numéro 8
-@429  = ~Au nom de mon groupe, je m'excuse pour cette intrusion. Je jure sur mon voeu de druide que l'intrusion dans la vie privée d'autrui n'est pas une habitude pour moi, ni pour mes compagnons. Peut-être, pour apaiser cette incompréhension, pourrions-nous nous charger de votre Gervisse ?~
+@429  = ~Au nom de mon groupe, je m'excuse pour cette intrusion. Je jure sur mon vœu de druide que l'intrusion dans la vie privée d'autrui n'est pas une habitude pour moi, ni pour mes compagnons. Peut-être, pour apaiser cette incompréhension, pourrions-nous nous charger de votre Gervisse ?~
 // BG1 NPC : texte identique dans le fichier x#jaint.tra au numéro 9
 @430  = ~Hmm, un autre druide, ici, dans la ville. Comme c'est... étrange. Je suppose que vous pourriez essayer de lui parler, je ne vois pas comment les choses pourraient être pires. J'ai essayé de le faire partir, mais en retour, il colporte des rumeurs dégoûtantes à mon sujet. Si vous en débarrassez le quartier, je serai reconnaissante.~
 /* Melicamp, quand il appelle à l'aide */
@@ -2199,8 +2199,8 @@ L'aventurier se réjouit.~
 // Mulahey interpelle le PJ, donc accord possible selon le sexe du PJ
 // Xan - Mulahey (@938)
 // BG1 NPC : texte identique dans le fichier x#xaint.tra au numéro 16
-@786  = ~*soupir* C'est bien maigre consolation de pouvoir dire "ne t'avais-je pas prévenu ?", lorsque l'on est face à la mort.~
-        ~*soupir* C'est bien maigre consolation de pouvoir dire "ne t'avais-je pas prévenue ?", lorsque l'on est face à la mort.~
+@786  = ~*soupir* C'est bien maigre consolation de pouvoir dire « ne t'avais-je pas prévenu ? », lorsque l'on est face à la mort.~
+        ~*soupir* C'est bien maigre consolation de pouvoir dire « ne t'avais-je pas prévenue ? », lorsque l'on est face à la mort.~
 // Kivan - Mulahey
 // BG1 NPC : texte identique dans le fichier x#kiint.tra au numéro 81
 @787  = ~Utinu en lokirim ! Fils de serpents !~

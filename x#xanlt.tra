@@ -460,7 +460,7 @@
 @459  = ~Bien sûr ! Mais comment ai-je pu naïvement espérer que tu m'accordes un seul instant de ton si précieux temps ?!~
 @460  = ~Peut-être as-tu deviné que je voulais être seul avec toi, mais j'étais trop timide pour te poser la question franchement, et j'ai fait une piètre plaisanterie à la place.~
 @461  = ~Je ne sais pas. Mais cesse d'avoir de tels espoir à l'avenir.~
-@462  = ~Toi, Xan, tu as ressenti une émotion qui s'appelle "l'espoir" ? Je crois que je dois t'accorder ton voeu pour célébrer cet événement.~
+@462  = ~Toi, Xan, tu as ressenti une émotion qui s'appelle « l'espoir » ? Je crois que je dois t'accorder ton voeu pour célébrer cet événement.~
 @463  = ~Ah, quel amer plaisir de voir une fois de plus combien mes paroles et mes gestes ne comptent pas !~
 @464  = ~Et combien mes plans sont sans espoir.~
 @465  = ~Xan, cesse cette ballade d'infortune ! Je vais marcher un peu avec toi.~
@@ -575,7 +575,7 @@
 @574  = ~Non, ce n'était pas cela, mais je ne me lasserai pas de prononcer <CHARNAME> : aucune incantation aussi impénétrable soit-elle, ne pourrait être comparée à la magie que ton nom engendre. Mais tu portes en toi un mystère plus profond.~
 @575  = ~Lorsqu'un elfe naît, il reçoit un nom secret, connu seulement par ses parents, et plus tard dans sa vie, par ceux qui sont très proches de lui. Je me suis dit que tu n'en avais sans doute pas, puisque tu as été élevée parmi les N'Tel'Quess.~
 @576  = ~Non, je n'en ai pas... Je ne me souviens pas de ma mère. Gorion m'a toujours appelée <CHARNAME>.~
-@577  = ~C'est très intéressant, cela... mais est-ce que tu m'aimerais moins si je n'avais pas de nom elfique "particulier" ?~
+@577  = ~C'est très intéressant, cela... mais est-ce que tu m'aimerais moins si je n'avais pas de nom elfique « particulier » ?~
 @578  = ~Comment c'est curieux. Quel est le tien, si je puis te le demander ?~
 @579  = ~Merci de me rappeler que je n'appartiens pas à ton univers.~
 @580  = ~Non, non... J'étais juste en train de réfléchir...~
@@ -588,7 +588,7 @@
 @587  = ~Je ne suis pas ivre, <CHARNAME>.~
 @588  = ~Je serai incapable de le deviner, car quelque part, je suis convaincu de le connaître déjà. Tu vas sans doute me trouver ridicule, mais au fond de mon coeur, je t'ai appelée Estel, ce qui signifie "espoir" en Haut Elfique.~
 @589  = ~Tu *es* ridicule, Xan.~
-@590  = ~J'ai un secret à te confier : tu vas sans doute me trouver ridicule, mais au fond de mon cœur, je t'ai appelée Estel, ce qui signifie "espoir" en Haut Elfique.~
+@590  = ~J'ai un secret à te confier : tu vas sans doute me trouver ridicule, mais au fond de mon cœur, je t'ai appelée Estel, ce qui signifie « espoir » en Haut Elfique.~
 @591  = ~Si... si tu le souhaites, je t'en fais cadeau. Pour que tu en fasses ton véritable nom.~
 @592  = ~Merci, Xan. C'est un merveilleux cadeau.~
 @593  = ~Est-ce qu'il te donne un pouvoir particulier sur moi ?~
@@ -705,7 +705,7 @@ Estel de la tranquilité~
 @697  = ~On ne peut jamais être certain dans ces cas-là. Mais mon intuition ne m'a jamais trompé. Je me fais du souci pour ce qui pourrait arriver.~
 @698  = ~"... Durant la période des Avatars, le Seigneur du Meurtre engendrera une lignée de mortels. Elle sera composée de bons et de mauvais éléments, mais tous sèmeront le chaos. Lorsque les bâtards de la Bête auront atteint l'âge adulte, ils dévasteront le territoire de la Côte des Épées. L'un de ces descendants doit s'élever au-dessus des autres et réclamer l'héritage de son père. Cet héritier écrira l'histoire de la Côte des Épées pour les siècles à venir..." ~
 @699  = ~"... Les descendants du Seigneur du Meurtre sont destinés à obtenir leur héritage au prix du sang et de la misère. Leur père espère qu'un seul d'entre eux restera en vie pour recevoir son héritage. Je prévois que les enfants de Bhaal s'entre-tueront dans un massacre sanglant..." ~
-@700  = ~Une description bien éloquente, tu ne penses pas ? "Le chaos se répandra à leur passage." J'ai emprunté le livre à la bibliothèque, puisque les dopplegangers n'en auront plus besoin. Alors, que choisis-tu ? Est-ce que tu préfères tuer tes frères et soeurs, ou simplement répandre la mort et la ruine partout où tu vas ?~
+@700  = ~Une description bien éloquente, tu ne penses pas ? « Le chaos se répandra à leur passage. » J'ai emprunté le livre à la bibliothèque, puisque les dopplegangers n'en auront plus besoin. Alors, que choisis-tu ? Est-ce que tu préfères tuer tes frères et soeurs, ou simplement répandre la mort et la ruine partout où tu vas ?~
 @701  = ~Arrête. Tout de suite.~
 @702  = ~J'imagine qu'une nouvelle nuit torride est donc hors de question ?~
 @703  = ~Xan, ce n'est pas de ma faute ! Tu crois que je prends cela bien ?~
@@ -761,7 +761,7 @@ Estel de la tranquilité~
 @753  = ~L'enfoiré ! Ce n'est pas mon frère, il ne l'a jamais été.~
 @754  = ~Mais il l'est, <CHARNAME>. La voix du sang est la plus forte, et c'est doublement vrai pour le sang divin. Tu ressentiras ce lien tôt ou tard.~
 @755  = ~Sans doute que tu seras obligée de le tuer, j'imagine. L'essence de ton père l'a complètement transformé, perverti, et cela ne nous laisse pas beaucoup de marge de manoeuvre. Je dirais même que son déguisement en "Koveras" laisse penser qu'il est tout simplement fou à lier, mais la lettre de ton père adoptif et d'autres indices laissent penser le contraire. C'est un individu très doué, et un ennemi dangereux. Mais il est quand même ton frère. Je... je ne voudrais pas que tu aies son sang sur tes mains. Cela pourrait blesser ton esprit, lui infliger une blessure dont tu ne te remettrais jamais. Mais évidemment, les mots "pas le choix" te suivent tel un vautour affamé, et cela ne se terminera jamais... Est-ce que j'entendrai un jour les mots "et ils vécurent très heureux" ?~
-@756  = ~"Jusqu'à ce qu'il fut emprisonné dans sa propre épée, et elle s'évapora en un nuage de poussière ?" Ce serait un curieux conte de fées, je pense.~
+@756  = ~« Jusqu'à ce qu'il fut emprisonné dans sa propre épée, et elle s'évapora en un nuage de poussière ? » Ce serait un curieux conte de fées, je pense.~
 @757  = ~Ne pense pas à cela, Xan. Profitons de ce que nous avons.~
 @758  = ~Est-ce que j'entendrai un jour les mots « assez parlé » ?~
 @759  = ~Ce n'est pas quelque chose que l'on entend tous les jours, c'est vrai. Si seulement ce n'était qu'un conte de fées... *soupir* Non, je pense que j'ai assez parlé pour aujourd'hui. Viens là... Je ne veux pas que tu sois dérangée par quoi que ce soit, ce soir.~
@@ -901,7 +901,7 @@ Estel de la tranquilité~
 @893  = ~Mais non ; je m'attribue trop de mérite.~
 @894  = ~Il paraît qu'il n'y a que deux façons de tomber amoureux : le coup de foudre ou la lente fusion de deux êtres. Lequel décrit mes propres émotions ? D'un côté, je n'ai pas souvenir d'un instant où je t'ai connue et pas aimée ; d'un autre côté, mes sentiments pour toi grandissent à chaque jour qui passe.~
 @895  = ~*Il caresse votre joue d'un seul doigt, très tendrement.* Je ne sais pourquoi ni comment, mais je t'aime. Jusqu'à ce que la mort nous sépare.~
-@896  = ~Lors de mes pérégrinations dans les terres humaines, j'ai entendu un vieux proverbe : "travaille comme si tu n'avais pas besoin d'argent, aime comme si tu n'avais jamais été blessée, et danse comme si personne ne te regardait". Je ne pense que l'on puisse dire que l'aventure est un honnête travail, et je ne pense pas pouvoir dire quoi que ce soit de cohérent sur l'amour... mais est-ce que tu veux bien danser avec moi ce soir ? Que ce soit sur un parterre de feuilles mortes ou le parquet poussiéreux d'une taverne, peu m'importe.~
+@896  = ~Lors de mes pérégrinations dans les terres humaines, j'ai entendu un vieux proverbe : « travaille comme si tu n'avais pas besoin d'argent, aime comme si tu n'avais jamais été blessée, et danse comme si personne ne te regardait ». Je ne pense que l'on puisse dire que l'aventure est un honnête travail, et je ne pense pas pouvoir dire quoi que ce soit de cohérent sur l'amour... mais est-ce que tu veux bien danser avec moi ce soir ? Que ce soit sur un parterre de feuilles mortes ou le parquet poussiéreux d'une taverne, peu m'importe.~
 @897  = ~Bien sûr ! Jamais je ne raterais une telle opportunité !~
 @898  = ~Très bien.~
 @899  = ~Je n'ai pas envie de danser, Xan.~
@@ -1096,7 +1096,7 @@ Estel de la tranquilité~
 @1088 = ~Tu vois donc le monde comme une espèce de tigre tapi ? Beau, mais mortel ?~
 @1089 = ~Certes. Je ne crois pas au Bien ou au Mal absolu, <CHARNAME>. Je devrais peut-être plutôt dire que je ne crois pas à l'absolu ? Par la Gaste Grise, je ne crois même pas au Bien ou au Mal. Ils ne peuvent exister en-dehors du petit cadre exigu érigé par nos esprits qui peinent à comprendre l'évident et l'effrayant manque de but en ce monde.~
 @1090 = ~Je vois...~
-@1091 = ~Et voilà exactement pourquoi ce qui est éternel n'est pas "Bon". Ou "Mal", d'ailleurs. Le Bien et le Mal ne peuvent exister en-dehors du petit cadre exigu érigé par nos esprits qui peinent à comprendre l'évident et l'effrayant manque de but en ce monde.~
+@1091 = ~Et voilà exactement pourquoi ce qui est éternel n'est pas « bon ». Ou « mal », d'ailleurs. Le Bien et le Mal ne peuvent exister en-dehors du petit cadre exigu érigé par nos esprits qui peinent à comprendre l'évident et l'effrayant manque de but en ce monde.~
 @1092 = ~Te connaître, rester proche de toi me permet de voir les choses clairement : tu es une petite créature, à la fois belle et bonne, mais le monde lui-même est vaste et gaspilleur.~
 @1093 = ~Un prophète n'a pas d'honneur uniquement dans sa ville natale et dans sa propre maison.~
 @1094 = ~Moins importante ? Chaque fibre de mon esprit qui est capable d'aimer, t'aime.~
@@ -1105,7 +1105,7 @@ Estel de la tranquilité~
 @1097 = ~*mélancoliquement* Tu trouves ma souffrance poétique ? Il y avait sans doute une vieille femme dans Château-Suif qui t'a rempli la tête avec des rêves exaltés de notre Peuple ! Ma pauvre fille, tu es tellement confuse...~
 @1098 = ~Tu aimes donc cette partie de moi qui me cause le plus grand des tourments !~
 @1099 = ~Tu ne vois donc pas que le paladin et le gobelin ont tous deux été créés par Ao ? Tous deux saignent, souffrent et sont condamnés à mourir. Lolth est aussi immortelle que Corellon. Quelle est la différence ? Où se situe-t-elle ? Quel est le dessein idiot qui voudrait que je sois un héros ? Quel est le dessein idiot qui voudrait que je sois le défenseur du Bien, et l'ennemi du Mal ?~
-@1100 = ~Je t'en supplie, n'agis pas de telle façon à ce que la réponse à ces questions devienne : "C'est la volonté de ma chère <CHARNAME>".~
+@1100 = ~Je t'en supplie, n'agis pas de telle façon à ce que la réponse à ces questions devienne : « C'est la volonté de ma chère <CHARNAME> ».~
 @1101 = ~Ah, <CHARNAME>... Qu'allons-nous faire ?~
 @1102 = ~*Il ravale sa salive.* J'ai imaginé beaucoup de réponses, mais je ne m'attendais pas à celle-ci.~
 @1103 = ~Ils disparaîtront. Bientôt. Mais pas aujourd'hui. *soupir* Est-ce qu'il est possible de mourir de bonheur ?~
@@ -1269,7 +1269,7 @@ Estel de la tranquilité~
 @1261 = ~Pas besoin de m'le dire deux fois !~
 @1262 = ~*soupir* J'ai toujours su que je pourrais me reposer sur toi si besoin, <CHARNAME>.~
 @1263 = ~Sache, elfe, que le puissant Tiax te donne la permission de faire la cour à <CHARNAME>.~
-@1264 = ~Eh bien, c'est un honneur, Tiax. Je ne serai pas surpris si vous annonciez que c'était Cyric... non, "le Grand Cyric" qui avait octroyé cette permission.~
+@1264 = ~Eh bien, c'est un honneur, Tiax. Je ne serai pas surpris si vous annonciez que c'était Cyric... non, « le Grand Cyric » qui avait octroyé cette permission.~
 @1265 = ~Oui... comment as-tu deviné ?~
 @1266 = ~*soupir* J'ai dû être maudit et recevoir une vision de Cyric lui-même.~
 @1267 = ~Blasphème ! Tiax fera appel à Cyric pour qu'il te châtie, hérétique !~
@@ -1373,7 +1373,7 @@ Estel de la tranquilité~
 @1365 = ~*large sourire* Je vois. Merci d'avoir été honnête, <CHARNAME>.~
 @1366 = ~Je... vois. Enfers et damnation, mais pourquoi avons-nous fouillé les appartements de Mulahey !~
 @1367 = ~*soupir* Je pensais avoir mérité ta confiance. Mais il semble que je me sois trompée. Choisis tes confidents comme tu l'entends, <CHARNAME>, mais tu as tort : je ne suis pas ton ennemie.~
-@1368 = ~"La femme parfaite ne se trouve que chez plusieurs femmes à la fois." Qui avait dit cela ? N'était-ce pas vous, Coran ?~
+@1368 = ~« La femme parfaite ne se trouve que chez plusieurs femmes à la fois. » Qui avait dit cela ? N'était-ce pas vous, Coran ?~
 @1369 = ~Il existe une part de perfection en chaque femme, oui. Hélas, il existe aussi de nombreuses défauts. *large sourire* Enfin, c'est ce que je croyais avant d'avoir vu Hanali réincarnée.~
 @1370 = ~Les dieux et déesses parcourent les Royaumes uniquement avant les grand cataclysmes, Coran. Je doute que vous ayez le temps de profiter de sa compagnie.~
 @1371 = ~Est-ce que tu parles de quelqu'un un particulier ? <CHARNAME>, par exemple ?~
@@ -1461,7 +1461,7 @@ Estel de la tranquilité~
 @1453 = ~Je suis une Enfant de Bhaal. Comment pourrais-je la revendiquer ?~
 @1454 = ~Merci. Bien que la possibilité de te retrouver à l'intérieur de ma Lame de Lune m'avait tenté à une époque, je préfèrerais mourir en sachant que ce fardeau n'appartient qu'à moi, et moi seul.~
 @1455 = ~Ce... ce n'est pas ce que je voulais dire. Tu pourrais en être plus digne que moi, et tu l'es sans nul doute. Mais tu ne mérites pas les souffrances qu'elle engendre. Aussi égoïste que cela paraisse, je ne veux même pas que tu songes à la laisser revendiquer ton esprit.~
-@1456 = ~Et est-ce que tu as besoin de siècles d'emprisonnement, seule et déchirée, en plus ? <CHARNAME>, à n'importe qui d'autre, j'aurais répondu "je vous en prie", mais à toi... à toi, je ne peux le dire.~
+@1456 = ~Et est-ce que tu as besoin de siècles d'emprisonnement, seule et déchirée, en plus ? <CHARNAME>, à n'importe qui d'autre, j'aurais répondu « je vous en prie », mais à toi... à toi, je ne peux le dire.~
 @1457 = ~Ma chère petite rêveuse... Non, nous ne serons pas éternellement heureux, mais c'est une consolation de te l'entendre dire... Je ne veux pas penser à autre chose.~
 @1458 = ~Mais j'ai assez parlé. Nous parlerons plus tard, quand... et si... nous avons le temps.~
 @1459 = ~*soupir* Ce n'est pas impossible. Elle pourrait même revendiquer ton âme avant Bhaal, qui sait ? Et pardonne-moi, mais je ne veux pas tenter l'expérience.~

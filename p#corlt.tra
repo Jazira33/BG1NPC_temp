@@ -16,8 +16,8 @@ Hier trois gnomes se sont noyés
 Et le dernier a fini dans la soupe.~
 @9 = ~Mâchant sans fin des aiguilles de pin sèches
 Au petit déjeuner, déjeuner et dîner
-Je vous regarde et je pense : "Ma chère,
-Vous ici, par les Enfers ?
+Je vous regarde et je pense : « Ma chère,
+Vous ici, par les Enfers ? »
 Précieuse dame, vous êtes si belle,
 Plus douce que les vents de Kythorn
 Vous devriez honorer les rois de votre grâce,
@@ -27,8 +27,8 @@ Et non courir les routes avec des vagabonds.~
 @12 = ~Coran, c'est très délicat de ta part de me complimenter, mais tu te trompes. Je suis autant une vagabonde que toi et les autres.~
 @13 = ~Mâchant sans fin des aiguilles de pin sèches
 Au petit déjeuner, déjeuner et dîner
-Je vous regarde et je pense : "Ma chère,
-Vous ici, par les Enfers ?
+Je vous regarde et je pense : « Ma chère,
+Vous ici, par les Enfers ? »
 Précieuse dame, vous êtes si belle,
 Plus douce que les vents de Kythorn
 Vous devriez honorer les rois de votre grâce,
@@ -48,7 +48,7 @@ Et non courir les routes avec des vagabonds.~
 @26 = ~Je suis une elfe, Coran, tout comme toi. *faire un clin d'œil* Peut-être un jour pourrons-nous faire un beau duo ! J'écouterai volontiers ta chanson maintenant... pour avoir un point de comparaison.~
 @27 = ~Coran, je suis une elfe moi aussi ! Mais je ne succomberai pas à tes trucs bon marché. Si toi et moi étions les deux derniers elfes au monde, et la survie de notre race en dépendait, alors et seulement alors j'envisagerais sérieusement de te prendre comme partenaire.~
 @28 = ~Non, mais je t'ai entendu le dire à quasiment toutes les femmes pubères que nous avons rencontrées. Mais vas-y, chante donc.~
-@29 = ~J'ai deviné, c'est tout. Tout le monde chante mieux après l'amour. *faire un clin d'oeil* Peut-être que nous pourrons faire un beau duo, un jour ! J'écouterai volontiers ta chanson, à présent... histoire d'avoir un point de comparaison.~
+@29 = ~J'ai deviné, c'est tout. Tout le monde chante mieux après l'amour. *faire un clin d'œil* Peut-être que nous pourrons faire un beau duo, un jour ! J'écouterai volontiers ta chanson, à présent... histoire d'avoir un point de comparaison.~
 @30 = ~Coran, je ne veux discuter de rien avec toi. Je ne veux pas t'entendre chanter non plus.~
 @31 = ~<CHARNAME>, <CHARNAME>, j'espère qu'un de ces jours, tu abandonneras ta grimace pour un sourire. Cela t'irait vraiment bien.~
 @32 = ~Je connais une chanson qu'un homme peut chanter à une compagne d'aventure, si elle se trouve être une belle dame en manque de sourires...~
@@ -140,18 +140,18 @@ Et non courir les routes avec des vagabonds.~
 @119 = ~Je crois que je suis trop jeune pour jouer à ce jeu avec quelqu'un comme toi. Il serait plus sûr pour moi de rester à bonne distance.~
 @120 = ~Ah, Coran... quand tu me regardes comme ça, je ne peux rien te refuser. Je... je t'aime.~
 @121 = ~Me suis-je mépris sur le tremblement de tes paupières quand tu m'as regardé, et l'incertitude, nichée au coin de tes lèvres ? Prouve-moi que j'ai tort, <CHARNAME>. Un doux baiser me convaincra.~
-@122 = ~Me prends-tu pour une totale imbécile ? Je te connais bien assez pour ne pas faire confiance à mon stupide petit coeur, peu importe ce que je ressens pour toi. Je ne finirai pas comme un autre cran à ta ceinture !~
+@122 = ~Me prends-tu pour une totale imbécile ? Je te connais bien assez pour ne pas faire confiance à mon stupide petit cœur, peu importe ce que je ressens pour toi. Je ne finirai pas comme un autre cran à ta ceinture !~
 @123 = ~Je t'ai ouvert mon cœur, n'est-ce pas suffisant ?~
 @124 = ~*embrasser Coran* Est-ce assez doux pour toi ?~
 @125 = ~Je devine que tu es homme à aimer les frissons. Je te propose un jeu dangereux, alors : embrasse-moi, Coran, et je vais soit t'embrasser en retour comme tu ne l'as jamais été auparavant, soit te gifler. Tu ne sauras pas ce que ce sera avant d'avoir essayé.~
 @126 = ~De douces paroles à entendre. Je me demande si ton baiser est aussi doux, <CHARNAME>.~
 @127 = ~Je devine que tu es homme à aimer les frissons. Je te propose un jeu dangereux, alors : embrasse-moi, Coran, et je vais soit t'embrasser en retour comme tu ne l'as jamais été auparavant, soit te gifler. Tu ne sauras pas ce que ce sera avant d'avoir essayé.~
 @128 = ~J'aime la manière dont tu dis « pourrais ». Un doux baiser pour sceller ce pacte, ma Dame ?~
-@129 = ~Les os sont rigides et le coeur est tendre. Un homme survivra à un os cassé, mais ne vivra pas si son coeur est percé par une flèche. Ne pense pas avec tes os, pense avec ton coeur, et alors tu verras que je suis sincère.~
+@129 = ~Les os sont rigides et le cœur est tendre. Un homme survivra à un os cassé, mais ne vivra pas si son coeur est percé par une flèche. Ne pense pas avec tes os, pense avec ton coeur, et alors tu verras que je suis sincère.~
 @130 = ~Attendre et poursuivre sont les deux choses les plus difficiles dans la vie, <CHARNAME>... tout spécialement si tu attends et poursuis un rêve. Jette un oeil au travers des nuages et regarde à quoi ressemble Féérune. Peut-être aimeras-tu ce que tu y vois.~
 @131 = ~Tu sais comment faire durer le suspense. Bravo, <CHARNAME>. Tu es douée à ce jeu, même si tu fais des mines d'innocente. *s'incline* C'est la patte du vrai maître, Ma Dame. Je te donne officiellement mon coeur, à porter dans la bourse à ta ceinture... ou dans ton corsage, ce que je préférerais de loin.~
 @132 = ~C'est une erreur, <CHARNAME>. Quand le coeur est jeune, il apprend rapidement mais peut devenir sauvage sans un professeur. Un homme d'expérience fera un meilleur tuteur qu'un novice.~
-@133 = ~Je ne pense pas que tu sois une imbécile, <CHARNAME>, et ton coeur n'est ni ridicule, ni petit. C'est pourquoi je ne te mens pas ni ne te fait de fausses promesses.~
+@133 = ~Je ne pense pas que tu sois une imbécile, <CHARNAME>, et ton cœur n'est ni ridicule, ni petit. C'est pourquoi je ne te mens pas ni ne te fait de fausses promesses.~
 @134 = ~Tu as ouvert ton coeur et j'y suis entré, tout comme tu es entrée dans le mien. A présent, nous avons juste besoin de fermer les portes, pour garder le reste du monde au dehors. Et quel meilleur cadenas qu'un baiser ?~
 @135 = ~Est-ce qu'un voleur ne devrait pas plutôt *ouvrir* le cadenas ?~
 @136 = ~Est-ce que tu progresses toujours aussi rapidement en terrain inconnu, Coran ?~
@@ -193,7 +193,7 @@ Et non courir les routes avec des vagabonds.~
 @172 = ~Une autre cape, ça peut toujours être utile.~
 @173 = ~Aimer le vide est une manière d'induire le tumulte en son coeur, car il a besoin de substance pour survivre.~
 @174 = ~Une substance qu'on appelle imagination ?~
-@175 = ~Et t'aimer introduit également du vide dans le coeur, car la substance est alors illusoire.~
+@175 = ~Et t'aimer introduit également du vide dans le cœur, car la substance est alors illusoire.~
 @176 = ~Peut-être puis-je emplir une nuit et voir si cela va assouvir mon coeur, car il est en fureur.~
 @177 = ~Je m'avance vers l'ennemi, dès lors ! La bataille épique sera épique, <CHARNAME>. Les bardes la chanteront dans les âges à venir.~
 @178 = ~Je suis certaine que tu ne divulgueras aucun détail aux ménestrels, Coran ? De manière à ne pas brider leur imagination, bien sûr.~
@@ -228,7 +228,7 @@ Et non courir les routes avec des vagabonds.~
 @207 = ~Et tu n'en serais pas mieux loti, elfe. Bonne nuit.~
 @208 = ~Attends ! Ne t'en va pas. J'ai... j'ai changé d'avis. Mon sac de couchage est effectivement froid et vide sans toi.~
 @209 = ~La substance appelée « aventure ».~
-@210 = ~Oh, dans ce cas, mon coeur n'est menacé en rien. J'en ai déjà trouvé beaucoup trop, de celle-là.~
+@210 = ~Oh, dans ce cas, mon cœur n'est menacé en rien. J'en ai déjà trouvé beaucoup trop, de celle-là.~
 @211 = ~Au cas où tu ne l'avais pas remarqué, j'essaie d'*éviter* cela du mieux que je peux. Des aventures, bah !~
 @212 = ~Bien sûr. Tout est une aventure pour toi !~
 @213 = ~Ce n'est pas ce qu'on m'a raconté, <CHARNAME>. Tu n'apprendras jamais la vérité si tu ne veux pas... expérimenter.~
@@ -274,7 +274,7 @@ Et non courir les routes avec des vagabonds.~
 @253 = ~Je t'ai transformé en couard !~
 @254 = ~Coran le Prudent... Est-ce que cela signifie que tu vas te gratter la tête *avant* de grimper des falaises humides par une nuit de tempête ?~
 @255 = ~D'accord. Je te le promets, je serai sur mes gardes, et si un piège existe en effet, peut-être pourrons-nous le déclencher de manière à ce qu'il attrape le chasseur.~
-@256 = ~Viens-tu tout juste de suggérer que je te laisse combattre ceci toute seule ? Merci de tout coeur, mais quelqu'un doit se charger de trouver un moyen de te garder en vie. J'ai déjà joué une ou deux fois au plus malin... Prends cette fois où j'ai joué du luth, par exemple...~
+@256 = ~Viens-tu tout juste de suggérer que je te laisse combattre ceci toute seule ? Merci de tout cœur, mais quelqu'un doit se charger de trouver un moyen de te garder en vie. J'ai déjà joué une ou deux fois au plus malin... Prends cette fois où j'ai joué du luth, par exemple...~
 @257 = ~Coran, je dois te prévenir, tu es dangereusement proche de me faire croire que tes sentiments pour moi sont plus profonds que du simple désir charnel.~
 @258 = ~La cupidité est l'assassin des voleurs. Ta vie est ce qui compte, mais ne t'en fais pas, si tu étais jamais distraite par de l'or, je ferais en sorte que tu ne te fasses pas tuer. J'ai joué une ou deux fois au plus malin... Prends cette fois où j'ai joué du luth, par exemple...~
 @259 = ~Ah, tout a commencé quand j'ai aperçu une dame d'une beauté exquise sur la place du marché de la Porte de Baldur. J'en tombai épris en une seconde, du coup, je n'ai pas fait plus ample connaissance. J'ai découvert plus tard qu'elle appartenait à une puissante et riche famille. Malheureusement, se faire admettre dans sa maison n'était pas chose facile, jusqu'à ce que j'apprenne qu'elle était connaisseuse en arts bardiques et qu'elle accueillait des musiciens sous son toit.~
@@ -355,7 +355,7 @@ Et non courir les routes avec des vagabonds.~
 @334 = ~C'est faux. Un plan bien pensé peut noircir l'honneur d'une reine, même si elle était parfaitement fidèle à son Roi. La politique, Coran...~
 @335 = ~*soupire*~
 @336 = ~*Rien sur *baiser* la géographie, *baiser* la culture, *baiser* l'histoire, *baiser* les maths, *baiser* la biologie des dragons, *baiser* les arts arcaniques, *baiser* la théologie et *baiser* l'alchimie...~
-@337 = ~Par le Coeur d'Hanali, j'aime les femmes décidées !~
+@337 = ~Par le Cœur d'Hanali, j'aime les femmes décidées !~
 @338 = ~*grince des dents* Je... je te parlerai du Téthyr une autre fois. Nous ne pouvons pas couvrir la géographie de tout Féérune en une nuit.~
 @339 = ~Comment quelque chose peut-il se terminer avant même d'avoir commencé ?~
 @340 = ~*soupirer* J'ai fini de parler... tu peux arrêter de me regarder avec cette expression permanente de fascination, à présent.~
@@ -422,7 +422,7 @@ Et non courir les routes avec des vagabonds.~
 @401 = ~Une... une autre fois, d'accord ?~
 @402 = ~Ah, pourquoi pas ?~
 @403 = ~Ce soir, je vais te donner ce qu'une femme ne peut donner qu'une fois à un homme.~
-@404 = ~Je ramasserai cette tendre fleur et la garderai auprès de mon coeur à jamais.~
+@404 = ~Je ramasserai cette tendre fleur et la garderai auprès de mon cœur à jamais.~
 @405 = ~Pas au départ ? Quelle partie de « je te veux » n'as-tu pas compris la dernière fois que je t'ai suppliée d'être intime avec moi ?~
 @406 = ~Je suis désolé. Je n'aurais pas dû dire ça. *soupire* Oh, Hanali... qu'es-tu en train de me faire ?~
 @407 = ~Tu l'es, ma douce... C'est juste que je commençais à douter que tu sois toujours intéressée. *soupire* Je vais garder mes chausses lacées, et mes draps froids. Oh Hanali... qu'es-tu en train de me faire ?~
@@ -628,7 +628,7 @@ Et non courir les routes avec des vagabonds.~
 @607 = ~L'enchantement sur le pendentif était particulier. Il devenait plus chaud au toucher quand Drizzt en personne s'approchait. Ma magicienne ne l'a jamais étudié. Elle l'a simplement utilisé pour l'aider à pourchasser Drizzt, les yeux pleins d'étoiles et soupirant comme une douzaine de clercs d'Ilmater. Je doute qu'Allana se soit même souvenue de mon nom, une fois qu'elle a eu la chose en main.~
 @608 = ~Ah, retour aux tueries, alors. Désignez la cible, m'dame !~
 @609 = ~Tu ne sais pas combien tu as raison ! J'aurais *dû* voler l'arc, pas cet horrible médaillon doré !~
-@610 = ~Ma douce, depuis que je t'ai raconté ma mésaventure avec le luth, j'ai peur que ton coeur ne se soit refroidi à mon égard. J'ai réfléchi à une manière d'apaiser tes doutes et de te prouver ma valeur...~
+@610 = ~Ma douce, depuis que je t'ai raconté ma mésaventure avec le luth, j'ai peur que ton cœur ne se soit refroidi à mon égard. J'ai réfléchi à une manière d'apaiser tes doutes et de te prouver ma valeur...~
 @611 = ~Coran, ça me serait complètement égal si tu étais incapable de différencier un luth d'une flûte. Mais *me* raconter que tu as poursuivi les faveurs d'une autre femme avec tant de ferveur, était une excellente manière de me dégoûter !~
 @612 = ~Oh, ne t'en fais pas. C'est assez que l'*un* d'entre nous puisse jouer de la musique décente.~
 @613 = ~Qu'est-ce que tu racontes ? C'était une histoire drôle, et elle t'a rendu charmant à mes yeux ! Je m'ennuierais avec un amant parfait dans tous les domaines et capable de plus ou moins tout faire !~
@@ -645,7 +645,7 @@ Et non courir les routes avec des vagabonds.~
 @624 = ~Coran, je ne suis pas d'humeur à écouter de la musique. Bonne nuit.~
 @625 = ~Tu es un diamant parmi les perles de verre, <CHARNAME>. Mais j'aimerais restaurer ta confiance en mes capacités de joueur de luth en te gratifiant d'une ballade... et d'une suggestion.~
 @626 = ~J'aimerais restaurer ta confiance en mes capacités de joueur de luth en te gratifiant d'une ballade... et d'une suggestion.~
-@627 = ~Alors tu ne parleras jamais d'amour avec personne, coeur de mon coeur.~
+@627 = ~Alors tu ne parleras jamais d'amour avec personne, cœur de mon cœur.~
 @628 = ~Les dictons sont des choses poussiéreuses que jettent nos anciens. Pourquoi nous ennuyons-nous même à les ramasser ? Réfléchis par toi-même, ma douce, mais si tu veux mon avis, il y a une grande distance entre les deux.~
 @629 = ~Ah, je n'ai jamais voulu qu'on me regrette, une fois parti. Regretter est... tellement gris, comme une sorte de brouillard. S'il te plaît, ne me regrette jamais, ma douce.~
 @630 = ~Bien sûr que non, crétin. J'aurai quelqu'un d'autre pour murmurer de doux n'importe quoi à mon oreille.~
@@ -679,20 +679,20 @@ Enfin une centaine de joyaux
 De la Couronne du Seigneur elfe des mers.~
 @645 = ~Les trois souhaits de l'homme se réalisèrent
 Le roi elfe honora sa parole
-Mais l'humain dit "je ne suis pas stupide
+Mais l'humain dit « je ne suis pas stupide
 C'était la dot, mon bon seigneur
 Je vais emmener ta fille sur la rive,
 La rive du Lac des Dragons azur
 Car je me suis mis à l'aimer, seigneur,
-Elle est la plus belle des dames.~
+Elle est la plus belle des dames ».~
 @646 = ~Le roi des mers se mit à rire
-De tous les idiots, tu es le pire
+« De tous les idiots, tu es le pire
 Tu avais l'amour de ma fille
 Et tu viens de perdre son coeur
 Souviens-toi, humain, que l'amour d'un elfe
 Parmi les souhaits vient le premier.
 Si tu avais d'abord demandé sa main,
-Femme tu aurais en ton foyer.~
+Femme tu aurais en ton foyer ».~
 @647 = ~*Coran vous touche la main* Souviens-toi, ma douce, que quand je te regarde, je n'ai qu'un seul souhait. Bonne nuit.~
 @648 = ~Je suis malade d'amour, <CHARNAME>. J'aurais dû être plus malin, je n'aurais pas dû le laisser m'envahir si complètement, mais je reconnais trop bien les symptômes. Tu regardes ailleurs et je me sens triste, tu souris de quelque chose que j'ai dit et je suis incroyablement heureux. Je meurs de te dire encore et encore combien je t'aime et combien je te veux.~
 @649 = ~Et pourtant je n'entends que « non » de toi, tout le temps.~
@@ -798,7 +798,7 @@ Femme tu aurais en ton foyer.~
 @749 = ~Mon amour pour toi. Quand je regarde en mon coeur, je suis incapable d'apercevoir l'autre rive.~
 @750 = ~Bien sûr. Alors laisse-moi te donner ce qui t'intéresse manifestement.~
 @751 = ~Non, c'est mon amour pour toi que je trouve similaire à l'océan. Quand je regarde en mon coeur, je ne peux pas voir d'autre rive.~
-@752 = ~Ça m'effraie, mais c'est aussi émoustillant. Je peux toujours reconnaître la beauté, la grâce, la finesse et le charme chez d'autres femmes, mais aucune ne m'attire comme elles le faisaient auparavant. Toute la notion de <CHARNAME> et "d'autres femmes" est... une nouveauté.~
+@752 = ~Ça m'effraie, mais c'est aussi émoustillant. Je peux toujours reconnaître la beauté, la grâce, la finesse et le charme chez d'autres femmes, mais aucune ne m'attire comme elles le faisaient auparavant. Toute la notion de <CHARNAME> et « d'autres femmes » est... une nouveauté.~
 @753 = ~*tousser* Ce n'est vraiment pas le bon moment pour discuter de choses aussi intimes. Tout le monde est déjà levé. Remettons ceci à la tombée de la nuit.~
 @754 = ~L'enchantement de la nouveauté ne dure qu'un court moment, Coran. Tu reviendras à la normale bien assez tôt, et je devrai t'arracher à toutes les jupes qui passent. *soupirer*~
 @755 = ~Espérons que cette affliction opportune dure.~
@@ -809,7 +809,7 @@ Femme tu aurais en ton foyer.~
 @760 = ~Non, je n'aime pas les femmes joyeuses, ma douce. Je t'aime, toi. Je peux toujours voir la beauté, la grâce, l'esprit et le charme chez d'autres femmes, mais plus rien de cela ne m'attire désormais... chez elles.~
 @761 = ~Je vois... *rêveusement* J'ai déjà fait cela... Je suis monté dans le premier bateau qui quittait un port aquafondien. C'est ainsi que je suis arrivé à la Porte de Baldur, <CHARNAME>... J'ai... pensé à le faire, récemment, quand j'ai réalisé qu'en mon coeur, <CHARNAME> et l'amour ne faisaient qu'un.~
 @762 = ~Alors pourquoi es-tu toujours ici ?~
-@763 = ~J'ai entendu dire que certaines personnes faisaient cela quand leurs coeurs étaient brisés... et on raconte que le temps guérit les blessures, mais dans notre cas... Coran, qu'ai-je fait de mal, qu'à présent, tu veuilles fuir ?~
+@763 = ~J'ai entendu dire que certaines personnes faisaient cela quand leurs cœurs étaient brisés... et on raconte que le temps guérit les blessures, mais dans notre cas... Coran, qu'ai-je fait de mal, qu'à présent, tu veuilles fuir ?~
 @764 = ~*doucement* Je n'ai pas enchaîné mon coeur au tien, Coran. Va-t'en quand tu le désires, ou reste, mais en tant que compagnon d'armes.~
 @765 = ~*rit* Un petit lutin dansait dans la profondeur de tes yeux. Et je me serais jeté moi-même dans l'océan, si j'étais fatigué de mes propres ruminations et que je voulais plutôt faire des bêtises.~
 @766 = ~En vérité, pour ton sourire, je traverserais la Mer des Glaces Mouvantes à la nage... J'imagine que je deviens fou. Tu vois, j'ai remarqué récemment qu'il y a <CHARNAME> et puis "les autres femmes". Je peux toujours voir la beauté, la grâce, l'esprit et le charme chez ces femmes, mais plus rien de tout cela ne m'attire désormais... chez elles.~
@@ -875,7 +875,7 @@ Femme tu aurais en ton foyer.~
 @826 = ~<CHARNAME> de Château-Suif, fille de Gorion, je t'aime. Mon amour ne faiblira pas, et à toi seule, mon coeur est donné. Peu importe ce qui peut se produire pendant mes marches solitaires, elles se termineront toutes auprès de ton feu de camp. Tes bras, mon aimée, sont ma demeure, et je resterai à tes côtés. Par les étoiles, le soleil, et les douze vents, ainsi moi, Coran Sullussaer, je le jure.~
 @827 = ~Oui, assieds-toi... *s'agenouille à vos côtés* <CHARNAME> de Château-Suif, fille de Gorion, je t'aime. Mon amour ne faiblira pas, et à toi seule, mon coeur est donné. Peu importe ce qui peut se produire pendant mes marches solitaires, elles se termineront toutes auprès de ton feu de camp. Tes bras, mon aimée, sont ma demeure, et je resterai à tes côtés. Par les étoiles, le soleil, et les douze vents, ainsi moi, Coran Sullussaer, je le jure.~
 @828 = ~Tu es sérieuse, n'est-ce pas ?~
-@829 = ~<CHARNAME> de Château-Suif, fille de Gorion, je t'aime. Mon amour ne faiblira pas, et à toi seule, mon coeur est donné. Par les étoiles, le soleil, et les douze vents, ainsi moi, Coran Sullussaer, je le jure.~
+@829 = ~<CHARNAME> de Château-Suif, fille de Gorion, je t'aime. Mon amour ne faiblira pas, et à toi seule, mon cœur est donné. Par les étoiles, le soleil, et les douze vents, ainsi moi, Coran Sullussaer, je le jure.~
 @830 = ~<CHARNAME> de Château-Suif, fille de Gorion, je t'aime. Peu importe ce qui peut se produire pendant mes marches solitaires, elles se termineront toutes auprès de ton feu de camp. Par les étoiles, le soleil, et les douze vents, ainsi moi, Coran Sullussaer, je le jure.~
 @831 = ~<CHARNAME> de Château-Suif, fille de Gorion, je t'aime. Tes bras, mon aimée, sont ma demeure, et je resterai à tes côtés. Par les étoiles, le soleil, et les douze vents, ainsi moi, Coran Sullussaer, je le jure.~
 @832 = ~*siffle doucement* Tiens, en voilà une jolie fille ! J'apprécie les grandes dames, mais parfois, une serveuse de taverne... Elles ont cette beauté particulière, un peu vulgaire, tape à l'oeil. Regarde sa posture, tandis qu'elle marche avec cette pile d'assiettes. Elle aurait pu être reine en son palais.~
@@ -1006,9 +1006,9 @@ Femme tu aurais en ton foyer.~
 @957 = ~Oui ! M'enivrer complètement et convenablement est une excellente manière de débuter une nouvelle phase dans ma vie !~
 @958 = ~*saluer Coran avec le verre* Aux nouveaux départs, Coran. Mais je me pose la question... que ressentiras-tu à coucher avec une femme normale, à présent que tu as goûté à la fille de Bhaal ?~
 @959 = ~*mordiller doucement la pointe de l'oreille de Coran.*~
-@960 = ~*tousse* Ce que j'essaie de dire, ma douce, est que tu as besoin d'un homme que tu n'as pas besoin "d'épuiser" et qui sera heureux de lier sa vie entière à la tienne... si c'est ce que tu désires. Je te dirais d'en faire "des hommes" et pas un "homme". Fais-moi confiance, tu en apprendras bien plus sur l'amour et la vie si tu ne restes pas avec le même vieil amant pour toujours.~
+@960 = ~*tousse* Ce que j'essaie de dire, ma douce, est que tu as besoin d'un homme que tu n'as pas besoin « d'épuiser » et qui sera heureux de lier sa vie entière à la tienne... si c'est ce que tu désires. Je te dirais d'en faire "des hommes" et pas un "homme". Fais-moi confiance, tu en apprendras bien plus sur l'amour et la vie si tu ne restes pas avec le même vieil amant pour toujours.~
 @961 = ~Tu... tu es épris de quelqu'un d'autre, c'est ça ?~
-@962 = ~Oui, on pourrait dire ça, et son nom est Liberté. Ma douce, nous avons encore du feu l'un pour l'autre en nos coeurs, et c'est pourquoi nous devrions nous séparer maintenant, sans attendre qu'il ne s'éteigne ou se métamorphose en haine.~
+@962 = ~Oui, on pourrait dire ça, et son nom est Liberté. Ma douce, nous avons encore du feu l'un pour l'autre en nos cœurs, et c'est pourquoi nous devrions nous séparer maintenant, sans attendre qu'il ne s'éteigne ou se métamorphose en haine.~
 @963 = ~Je pensais que tu m'aimais comme un homme, mais j'avais tort. Tu parles comme un gamin, et je n'ai pas besoin de l'adoration d'un gosse excité. Va, trouve-toi une bonne femme gloussante. Tu es doué pour ça. Je ne t'aime plus.~
 @964 = ~Je quitte toujours la table du festin légèrement affamée, Coran. Restons amis et gardons de doux souvenirs de notre aventure.~
 @965 = ~Tu es désenchanté et tu en tires un discours de deux heures ? On ne gaspille pas autant de mots pour une rupture, Coran !~
@@ -1016,7 +1016,7 @@ Femme tu aurais en ton foyer.~
 @967 = ~Mais je veux que tu me quittes, et je veux te quitter de mon côté. Ma douce, nous avons encore du feu l'un pour l'autre en nos coeurs, c'est donc maintenant que nous devrions nous séparer, sans attendre qu'il s'éteigne ou se transforme en haine.~
 @968 = ~Je pensais que tu m'aimais comme un homme, mais j'avais tort. Tu parles comme un enfant, et je n'ai pas besoin de l'adoration d'un gamin incohérent. Va, trouve-toi une fille gloussante. Tu es bon pour ça. Je ne t'aime plus.~
 @969 = ~Je ne connais pas le futur, lirimaer, mais je sais qu'il est temps pour nous de nous séparer, pour l'instant, alors que nous avons encore du feu l'un pour l'autre en nos coeurs. Cela a toujours été la manière de faire de notre race.~
-@970 = ~Coeur de feu, je n'ai jamais rencontré de femme comme toi, mais je connais un homme qui l'est. Moi. Je n'aurais jamais pensé que cela soit possible, mais nous allons nous amuser de la meilleure manière, assis l'un à côté de l'autre, à partager nos histoires d'aventures et d'amants.~
+@970 = ~Cœur de feu, je n'ai jamais rencontré de femme comme toi, mais je connais un homme qui l'est. Moi. Je n'aurais jamais pensé que cela soit possible, mais nous allons nous amuser de la meilleure manière, assis l'un à côté de l'autre, à partager nos histoires d'aventures et d'amants.~
 @971 = ~*rire* Si j'ai jamais besoin d'un faux mari ou d'un homme pour créer de la jalousie chez un amant distrait, je saurai à qui demander.~
 @972 = ~Réalises-tu, Coran, que tu ne seras jamais capable de te détacher de moi, et que tu ne me laisseras pas me détacher de toi ?~
 @973 = ~Cela ne se produira *pas*, Coran. Je préfère être discrète.~
@@ -1069,7 +1069,7 @@ Femme tu aurais en ton foyer.~
 @1020 = ~Parce que je suis séduisant, doux et que je n'essaierai jamais de te coincer avec ton don.~
 @1021 = ~C'est ce que tu dis maintenant, mais comme nous venons de l'apprendre, tu as l'habitude malheureuse de laisser de jeunes pousses dans ton sillage.~
 @1022 = ~Je réfléchirai à ce que tu as dit.~
-@1023 = ~Oui, et c'était charmant. Je dois confesser que tu m'as fait changer de foi. J'étais adepte de l'école de pensée : "les vierges causent trop de soucis et peu de plaisir, en prime".~
+@1023 = ~Oui, et c'était charmant. Je dois confesser que tu m'as fait changer de foi. J'étais adepte de l'école de pensée : « les vierges causent trop de soucis et peu de plaisir, en prime ».~
 @1024 = ~Je me parle rarement à moi-même, de peur de me convaincre de faire quelque chose de risqué. Donc je vais suivre ton exemple et demeurer silencieux.~
 @1025 = ~Et tu sais parfaitement bien que ce n'est pas vrai. Ainsi, tu sais que ton esprit est un menteur.~
 @1026 = ~Merci, ma chérie.~
@@ -1280,7 +1280,7 @@ Femme tu aurais en ton foyer.~
 @1231 = ~Coran, ce que nous faisons n'est pas un jeu. Cela n'a rien de joyeux !~
 @1232 = ~Exactement, par *une* femme. Et j'avance trop lentement pour accomplir mon objectif : caresser ma millième fille sur mon lit de mort.~
 @1233 = ~*soupir* Oh, pfff...~
-@1234 = ~*faire un clin d'oeil* Ce sera moi, bien sûr.~
+@1234 = ~*faire un clin d'œil* Ce sera moi, bien sûr.~
 @1235 = ~Tu places ta barre trop bas. Moi, je ne me contenterais pas de moins de cinq mille. Peut-être que je devrais me joindre à une armée.~
 @1236 = ~Je... je te hais !~
 @1237 = ~*rêveusement* Tuer un homme est une récompense en soi... Tous les hommes sont des bâtards.~
@@ -1317,7 +1317,7 @@ Femme tu aurais en ton foyer.~
 @1268 = ~Hmmm... Helg... Tu vois, la dernière fois que je l'ai vu, nous attendions un bateau marchand pour naviguer jusqu'à Calimport dans les docks d'Athkatla.~
 @1269 = ~Par malchance, la Magistrate passait par là, et comme j'avais une petite affaire non résolue avec elle... et qu'elle avait une douzaine de gardes de la cité à ses talons, j'ai choisi de prendre le premier navire qui quittait le port.~
 @1270 = ~Il se fait que je transportais le trésor de notre groupe sur moi. Ce n'était pas vraiment grand chose, mais connaissant Helg, je devrai le combattre dès l'instant où je le verrai, et je ne voudrais pas blesser un vieux compagnon d'armes... ou le laisser me couper en rondelles avant d'avoir pu m'expliquer.~
-@1271 = ~Mais tu as l'oeil pour les hommes, ma douce. Helg est un gars super.~
+@1271 = ~Mais tu as l'œil pour les hommes, ma douce. Helg est un gars super.~
 @1272 = ~A moins que tu ne puisses me proposer un meilleur pari. Moi, par exemple, je peux te donner des conseils pour parvenir à séduire l'homme de ton choix... ou un truc du genre.~
 @1273 = ~J'accepte ma part du marché si toi, tu me restes fidèle un an par tué que je fais en plus de toi.~
 @1274 = ~Je ne veux pas jouer à un jeu stupide de ce genre.~
@@ -1498,8 +1498,8 @@ Femme tu aurais en ton foyer.~
 @1449 = ~Je t'ai fait une promesse solennelle, peu importe ce qui se passe, je te reviendrai. Par le soleil et les étoiles et les douze vents, je l'ai promis. Doutes-tu de mes paroles ?~
 @1450 = ~Je me fiche des paroles que tu as prononcées !~
 @1451 = ~Je suis désolée, mon amour. Je ne savais pas que nous serions mis à l'épreuve si... rapidement. Ne traîne pas, à présent. J'attendrai ton retour.~
-@1452 = ~J'ignore à quel point un tel voeu est contraignant... pour un homme comme toi, Coran... Tes humeurs changent comme les nuages dans le ciel. Je... ne sais simplement pas à quoi m'attendre venant de toi.~
-@1453 = ~J'ignore à quel point un tel voeu est contraignant... pour un homme comme toi, Coran... Tes humeurs changent comme les nuages dans le ciel. Je... ne sais simplement pas à quoi m'attendre venant de toi.~
+@1452 = ~J'ignore à quel point un tel vœu est contraignant... pour un homme comme toi, Coran... Tes humeurs changent comme les nuages dans le ciel. Je... ne sais simplement pas à quoi m'attendre venant de toi.~
+@1453 = ~J'ignore à quel point un tel vœu est contraignant... pour un homme comme toi, Coran... Tes humeurs changent comme les nuages dans le ciel. Je... ne sais simplement pas à quoi m'attendre venant de toi.~
 @1454 = ~Merci, <CHARNAME>. Mais que... que voulais-tu dire à propos de Briel et son opinion de moi ?~
 @1455 = ~Coran, tu as engendré Namara avec Brielbara, et tu aimes plutôt bien cet enfant. C'est la bonne chose à faire que de...~
 @1456 = ~Coran, ne rends pas ceci plus difficile que nécessaire. Je... je ne pense pas que tu reviendras.~
@@ -1575,7 +1575,7 @@ Femme tu aurais en ton foyer.~
 @1526 = ~En effet. *Il se tourne, mais ses mains s'arrêtent à un cheveu de vos épaules. Il s'agenouille, lentement, gracieusement, ses mains caressant l'air, autour de votre corps, sans jamais le toucher.~
 @1527 = ~Il a les doigts d'un voleur. Vous ne sentez pas sa caresse, vous n'avez pas vu la dague, mais dans la glace argentée, les vêtements glissent de votre reflet, les lacets et les étoffes tranchées, précisément et rapidement.*~
 @1528 = ~Tu es sans pitié, ma douce. *Il traverse la pièce et saute par dessus le bord de la fenêtre, dans la rue.*~
-@1529 = ~...et je n'ai pensé qu'à toi tout ce temps. Toutes, peu importe à quoi elles ressemblaient, ont évoqué ta douce image en mon coeur. On appelle ça l'amour de substitution, Dame Chance, et je n'ai jamais ressenti cela auparavant. Et je n'ai plus envie, non plus.~
+@1529 = ~... et je n'ai pensé qu'à toi tout ce temps. Toutes, peu importe à quoi elles ressemblaient, ont évoqué ta douce image en mon coeur. On appelle ça l'amour de substitution, Dame Chance, et je n'ai jamais ressenti cela auparavant. Et je n'ai plus envie, non plus.~
 @1530 = ~*Il s'approche de vous, mais ses mains s'arrêtent à un cheveu de vos épaules. Il s'agenouille, doucement, gracieusement, ses mains caressant l'air autour de votre corps, sans jamais le toucher.*~
 @1531 = ~Un argument de poids, Dame Chance. Mais tu n'as nul besoin de menaces pour me garder hors des bras d'autres femmes.~
 @1532 = ~Ma fierté masculine ? Oh, il y a une ou deux choses que je sais plutôt bien faire !~
@@ -1645,7 +1645,7 @@ Femme tu aurais en ton foyer.~
 @1596 = ~Mmm... Je n'en ai jamais goûté de meilleur.~
 @1597 = ~*Vous secouez la tête et quittez la clairière.*~
 @1598 = ~Nous avons les mêmes goûts en matière de vin, Dame Chance. Mais ne sois pas si triste...~
-@1599 = ~Voilà, fais un voeu. *Il trouve une fleur avec cinq pétales parmi les milliers qui n'en ont que quatre.* Si tu la manges, il se réalisera !~
+@1599 = ~Voilà, fais un vœu. *Il trouve une fleur avec cinq pétales parmi les milliers qui n'en ont que quatre.* Si tu la manges, il se réalisera !~
 @1600 = ~Très bien...~
 @1601 = ~N'importe quoi ! *Mais vous prenez la fleur de sa paume humide et la mettez dans votre bouche.~
 @1602 = ~N'importe quoi ! *Vous secouez la tête et quittez la clairière.*~
@@ -1666,7 +1666,7 @@ Femme tu aurais en ton foyer.~
 @1617 = ~Ah, aimaelamin, tu m'as tant manqué ! *Coran vous attrape dans ses bras et vous fait pirouetter.*~
 @1618 = ~*rire* C'est comme si tu n'étais jamais parti !~
 @1619 = ~Repose-moi ! REPOSE-moi ! Et remets-toi en formation, espèce d'impossible, stupide, terrible... *embrasser Coran.*~
-@1620 = ~Tu sais, Coran, comme on dit : « Loin des yeux, loin du coeur » ? Je... je ne...~
+@1620 = ~Tu sais, Coran, comme on dit : « Loin des yeux, loin du cœur » ? Je... je ne...~
 @1621 = ~Ah, je suis désolé, je te parlais dans mes pensées tout au long du chemin jusqu'ici, et j'ai glissé vers l'elfique par inadvertance. Mon coeur chante de te voir, bien aimée. Hmmm... ça sonne plus... naturel en elfique qu'en commun. Peu importe ! *Coran vous saisit dans ses bras et vous fait pirouetter.*~
 @1622 = ~Comment cela s'est-il passé, mon amour ? Tu es indemne ? Et tu n'as pas été séduite par un vagabond irresponsable ? Je veux tout savoir sur chaque instant que j'ai manqué...~
 @1623 = ~N'essaie pas de t'expliquer. Par les neuf Enfers, femme, tu n'as pas cru un seul mot de ce que j'ai dit, n'est-ce pas ? Ah, bon, au diable tout ça !~

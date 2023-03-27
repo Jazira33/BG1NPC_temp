@@ -115,7 +115,7 @@
 @47 = ~Quelques temps. Ma... euh... spéléologie prend du temps...~
 
 //Rill (esclave de bois manteau, vous demande de libérer ses pairs)
-@48 = ~Bien sûr que nous pouvons vous aider à sortir ! Comme on dit - prendre aux riches, donner aux pauvres, et ne pas s'oublier au passage...~
+@48 = ~Bien sûr que nous pouvons vous aider à sortir ! Comme on dit : prendre aux riches, donner aux pauvres, et ne pas s'oublier au passage...~
 
 //Sonner (sonnère, pêcheur en conflit avec tenya)
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 56, probablement inutile de traduire ici !
@@ -145,7 +145,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 179, probablement inutile de traduire ici !
 @58 = ~Pour honorer sa mémoire, l'artiste Alaundalion sculpta une statue à placer sur sa tombe. On disait qu'il était amoureux de la soeur d'Echtellion, et c'est pourquoi, pour lui complaire, il fit ce qu'elle lui commandait en créant une statue très ressemblante, ce qui va contre la tradition elfique - car nous savons tous que les Elfes ont peu de talent pour reproduire fidèlement les traits, vu qu'ils cherchent toujours à capturer l'esprit.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 180, probablement inutile de traduire ici !
-@59 = ~La soeur du roi, la sage Ogneda, s'était éprise de l'oeuvre d'Alaundalion, et elle venait assez souvent honorer son frère et déposer des fleurs aux pieds de la statue. On croit que par la suite Ogneda devint folle, persuadée que la pierre inerte était son frère. La magie qui coulait en elle était forte, et, aidée par sa démence, elle devint une banshee.~
+@59 = ~La soeur du roi, la sage Ogneda, s'était éprise de l'œuvre d'Alaundalion, et elle venait assez souvent honorer son frère et déposer des fleurs aux pieds de la statue. On croit que par la suite Ogneda devint folle, persuadée que la pierre inerte était son frère. La magie qui coulait en elle était forte, et, aidée par sa démence, elle devint une banshee.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 181, probablement inutile de traduire ici !
 @60 = ~Les siècles passèrent, et même les Elfes, en dépit de leurs longues mémoires, n'ont que peu de souvenir désormais du Roi Echtellion et de ses actes. Pourtant la statue demeura, aussi intacte que le jour où elle fut sculptée. Au fil des ans, beaucoup vinrent voir le monument, et s'en retournèrent, émerveillés.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 182, probablement inutile de traduire ici !
@@ -153,7 +153,7 @@
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 183, probablement inutile de traduire ici !
 @62 = ~L'image du Roi depuis longtemps défunt la fascina tant qu'elle voulut savoir tout ce qu'il y avait à savoir sur lui. Elle cousit ensemble toutes les bribes de tradition qu'elle put trouver, mais ce fut une récolte peu satisfaisante. Dans son amour pour le Roi, Inga écrivit ses propres chansons à son sujet, et elle venait tous les jours, au lever du soleil, chanter devant son image de pierre.~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 184, probablement inutile de traduire ici !
-@63 = ~Une nuit, alors qu'elle était au coeur d'une ballade particulièrement émouvante, oh, miracle ! La statue descendit de son piédestal et marcha vers Inga. Echtellion revivait !~
+@63 = ~Une nuit, alors qu'elle était au cœur d'une ballade particulièrement émouvante, oh, miracle ! La statue descendit de son piédestal et marcha vers Inga. Echtellion revivait !~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 185, probablement inutile de traduire ici !
 @64 = ~La petite foule qui s'était amassée autour devint si calme que la chute d'un flocon aurait brisé le silence. La voix d'Echtellion n'était pas devenue rauque malgré l'absence de pratique, et toute l'assemblée prêta l'oreille aux paroles qu'il adressa à Inga Ailehaute :~
 // BG1 NPC : texte identique dans le fichier x#ict3.tra au numéro 186, probablement inutile de traduire ici !

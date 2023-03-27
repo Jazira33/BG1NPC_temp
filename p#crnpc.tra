@@ -26,14 +26,14 @@
 @25   = ~Êtes-vous certain que vous ne plagiez pas cette histoire rashémie sur une fille qui portait toujours ses vêtements froissés et... ah, peu importe, chantez votre chanson.~
 @26   = ~Une demoiselle aimant pour la première fois
 Visita une sorcière toute ridée
-"Si je succombe à l'amour, ah !
+« Si je succombe à l'amour, ah !
 Ma cervelle va s'envoler
-Je vous en prie, dites-moi que c'est faux !"~
+Je vous en prie, dites-moi que c'est faux ! »~
 @27   = ~Et la Sorcière répondit (et c'est ici qu'on chante tous en cœur !)~
-@28   = ~"Oh, si, si c'est vrai,
+@28   = ~« Oh, si, si c'est vrai,
 N'en doute jamais,
 Les filles aimantes sont connues
-Pour emplir leurs têtes de vent !"~
+Pour emplir leurs têtes de vent ! »~
 @29   = ~Ce n'est qu'une broutille, cela dit,
 Quand les zéphyrs enchantés de l'amour vous saisissent.
 On a le temps d'en payer le prix
@@ -74,7 +74,7 @@ Quand on s'écrase comme une génisse.~
 @63   = ~Hé, je plaisantais, mais j'ai compris le message. Cette conversation restera entre nous.~
 @64   = ~Vraiment ? Eh bien, Imoen, je pourrais justement aimer me venger de cette fois où tu as dit à tout le monde que j'avais le béguin pour Dreppin, à Château-Suif.~
 @65   = ~Tu n'es pas sérieuse, si ?~
-@66   = ~Ne t'en fais pas. Et je garderai l'oeil ouvert pour te trouver quelqu'un.~
+@66   = ~Ne t'en fais pas. Et je garderai l'œil ouvert pour te trouver quelqu'un.~
 @67   = ~Eh bien, il y a Minsc. Bien sûr, c'est le garde du corps de Dynahéir, mais c'est là toute l'étendue de leur relation. Un homme grand comme ça ne peut qu'avoir un grand coeur. Et tu aimes bien Bouh. Hmm, peut-être que toi et Bouh...~
 @68   = ~Il y a Xan. Je suis certaine que deux opposés iraient bien ensemble.~
 @69   = ~Il y a toujours Yeslick. Tu sembles plutôt bien t'entendre avec lui. Tu lui poses sans cesse des questions et écoute ses histoires. Et il a un... nom tellement séduisant.~
@@ -110,11 +110,11 @@ Quand on s'écrase comme une génisse.~
 @99   = ~Qu'est-ce qui se passe ici ? Je vous ai laissés, les enfants, seuls pendant une minute et... Coran, je t'ai spécifiquement dit de mettre ta couche à l'autre bout du camp par rapport à <CHARNAME>.~
 @100  = ~Ch-Chérie, peut-être n'est-ce pas notre... notre rôle d'interférer. Je... je viens juste de t-trouver une libellule particulièrement intéressante. Allons-nous... en et allons y jeter un coup d'oeil.~
 @101  = ~Ne vous inquiètez pas, Minsc. Ils ne peuvent se faire du mal, et ils ne seront pas pris par surprise par nos ennemis.~
-@102  = ~Par la hache de Tempus ! Vous pourriez faire moins de bruit, tous les deux. Minsc n'est pas le seul qui ne puisse trouver le sommeil avant le tout dernier "Oh, <CHARNAME>".~
+@102  = ~Par la hache de Tempus ! Vous pourriez faire moins de bruit, tous les deux. Minsc n'est pas le seul qui ne puisse trouver le sommeil avant le tout dernier « Oh, <CHARNAME> ».~
 @103  = ~*glousse* Bien dit, Minsc ! Et je te promets, Coran, que si tu fais mal à ma copine, je l'dirai à Minsc !~
 @104  = ~Cette promiscuité vous fait mériter cette scène humiliante.~
 @105  = ~Cochon prétentieux de mâle !~
-@106  = ~*rit* Tu pensais que tu tenais toujours son coeur dans ton poing ? Mâle stupide !~
+@106  = ~*rit* Tu pensais que tu tenais toujours son cœur dans ton poing ? Mâle stupide !~
 @107  = ~*secoue la tête et crache par terre* Quel crétin !~
 @108  = ~Deviens-tu faible, femme ? Non, pas possible. Oh, je sais ! Tu vas le faire toi-même !~
 @109  = ~La prochaine fois, essaie de m'avertir d'un cri avant de me pousser. Ça ne devrait pas être difficile vu ton amour des hurlements.~
@@ -192,7 +192,7 @@ Quand on s'écrase comme une génisse.~
 @181  = ~Quel dommage.~
 @182  = ~Oh, je peux te parler des nombreuses dames qui m'ont aimé, mais j'ai peur qu'aucune d'entre elles ne soit morte... Es-tu certaine de le vouloir ?~
 @183  = ~Toi, nabot pervers ! Ecarte-toi de moi !~
-@184  = ~Je ne vais pas te donner la carte qui mène à mon coeur, Coran. Un conseil cependant. J'en ai entendu assez sur ces « autres femmes » pour me durer toute une vie.~
+@184  = ~Je ne vais pas te donner la carte qui mène à mon cœur, Coran. Un conseil cependant. J'en ai entendu assez sur ces « autres femmes » pour me durer toute une vie.~
 @185  = ~Hum... oui. Mais tu es un gars plein d'imagination, et les jérémiades ne sont pas ton fort. Alors surprends-moi avec une approche plus créative.~
 @186  = ~*Vous repoussez Coran.* Oh, mets ton ego, et tout le reste, au repos, elfe. Je suis fatiguée de vous deux. Les hommes ne sont bons qu'à deux choses de toute façon : coucher, quand ils ne prennent pas subitement les choses au sérieux, et tuer, mais pas nécessairement dans cet ordre.~
 @187  = ~Il n'y a rien à pardonner... *vous embrasse doucement* Puissiez-vous rencontrer quelqu'un qui vous plaît davantage.~
@@ -275,7 +275,7 @@ Quand on s'écrase comme une génisse.~
 @264  = ~Quoi ?~
 @265  = ~La manière dont vous regardez <CHARNAME>, Coran. Et soupirez comme si votre poitrine était sur le point d'exploser.~
 @266  = ~*amèrement* Je pensais que tu ne voulais pas interférer...~
-@267  = ~Je suis de tout coeur avec vous si vous avez finalement rencontré l'amour véritable... Si vous l'aimez réellement...~
+@267  = ~Je suis de tout cœur avec vous si vous avez finalement rencontré l'amour véritable... Si vous l'aimez réellement...~
 @268  = ~Euh... Kivan, un amour non véritable, ça n'existe pas.~
 @269  = ~Ne pensez-vous pas que vous ne devriez pas tenter de séduire une pauvre orpheline, à peine sortie de ses couches, qui est pourchassée par un ennemi monstrueux pour des raisons inconnues ? Elle est tellement douce, innocente...~
 @270  = ~Kivan, tu réalises que tu me traites injustement de ravisseur d'enfants, n'est-ce pas ? <CHARNAME> est adulte, tu sais.~

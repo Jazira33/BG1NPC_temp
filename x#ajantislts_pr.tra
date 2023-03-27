@@ -45,9 +45,9 @@
 @44 = ~J'en connais quelque chose moi-même, Ajantis.~
 @45 = ~Ajantis, je suis paladin, et je suis consciente de l'existence de ton noble Ordre. Mais merci quand même pour la proposition.~
 @46 = ~Non. Ton Ordre ne m'intéresse pas.~
-@47 = ~Oh, s'il te plaît, arrête ! *Sur un ton sarcastique* « Force oeuvrant pour le bien et la droiture »... C'est plus que je ne puis en supporter. Si c'est ainsi que tu t'exprimes, il vaudrait mieux que nous continuions notre voyage en silence.~
+@47 = ~Oh, s'il te plaît, arrête ! *Sur un ton sarcastique* « Force œuvrant pour le bien et la droiture »... C'est plus que je ne puis en supporter. Si c'est ainsi que tu t'exprimes, il vaudrait mieux que nous continuions notre voyage en silence.~
 @48 = ~Vraiment ? J'en suis ravi. Que savez-vous ?~
-@49 = ~Je sais que l'Ordre du Coeur Radieux est une association distinguée de chevaliers et paladins honorables et loyaux.~
+@49 = ~Je sais que l'Ordre du Cœur Radieux est une association distinguée de chevaliers et paladins honorables et loyaux.~
 @50 = ~Pas grand chose, en fait. Tu peux m'en dire plus, si tu le désires.~
 @51 = ~Ajantis, je suis paladin, et je sais tout ce qu'il y a à savoir sur ce noble Ordre.~
 @52 = ~Suffisamment pour savoir que je ne veux pas en entendre davantage.~
@@ -73,7 +73,7 @@
 @72 = ~Je suis heureux de l'entendre, mais aucun paladin ne mérite votre mépris.~
 @73 = ~Je suis désolé, ma dame, il semble que je vous ennuie avec ma conversation.~
 @74 = ~Non, ça va. Dis-moi ce que tu sais, Ajantis.~
-@75 = ~Ce n'est pas ce que je voulais dire, Ajantis. Simplement, je n'ai pas envie de parler de l'Ordre du Coeur Radieux, c'est tout.~
+@75 = ~Ce n'est pas ce que je voulais dire, Ajantis. Simplement, je n'ai pas envie de parler de l'Ordre du Cœur Radieux, c'est tout.~
 @76 = ~En effet. J'apprécierais que tu limites nos conversations aux tâches en cours, Ajantis.~
 @77 = ~Ne confondez pas notre sens du devoir avec de l'arrogance, ma dame. Nous, paladins, ne sommes que des humains, combattant au nom de l'honneur et de la vertu. Nous affrontons le mal où que nous le trouvions, prêts à donner nos vies, si nécessaire.~
 @78 = ~Si mon comportement vous dérange à ce point, je vais garder mes pensées pour moi, à l'avenir. Par Heaum, j'espère que vous démontrerez plus de tact dans vos actions que dans vos mots. Revenons-en à notre devoir.~
@@ -283,7 +283,7 @@
 @282 = ~Laissez-moi juste ajouter une chose, avant que je ne ferme ma bouche jusqu'à la fin de nos voyages.~
 @283 = ~Ne sous-estimez pas la souffrance qu'inflige l'égoïsme myope aux nations ! Qu'est-il de plus méprisable que de plonger autrui dans le chagrin et la misère pour sa seule élévation personnelle ? Si le mal régnait sur le monde, il n'y aurait plus de pitié, d'idéaux, de justice ! Si le mal régnait sur le monde, il deviendrait chaos, les Gouffres du Démon !~
 @284 = ~Maintenant que je connais votre coeur, je surveillerai vos pas avec attention. Remettons-nous en route.~
-@285 = ~Ce n'est vrai qu'au premier coup d'oeil, dame <CHARNAME>. Il nous revient de faire en sorte que cela ne se produise pas.~
+@285 = ~Ce n'est vrai qu'au premier coup d'œil, dame <CHARNAME>. Il nous revient de faire en sorte que cela ne se produise pas.~
 @286 = ~Je suis d'accord avec toi là-dessus. Mais la réalité me déprime parfois.~
 @287 = ~Tout va bien, Ajantis. J'ai que ce n'était pas *mon* avis.~
 @288 = ~Je ne suis pas du tout d'accord, Ajantis !~
@@ -294,7 +294,7 @@
 @293 = ~Je n'ai perdu ni la foi ni ma motivation, dame <CHARNAME>. Je voulais juste partager mes pensées avec vous et je vous remercie pour votre temps.~
 @294 = ~Comment es-tu devenu paladin, Ajantis ?~
 @295 = ~Pas de soucis. A présent, mettons-nous en route. Il nous reste de nombreuses choses à faire !~
-@296 = ~J'étais... empli de ce désir, par manque d'un meilleur mot, ma dame. Heaum a pris possession de mon coeur dès le premier instant où j'ai contemplé sa gloire, et c'est en Son nom que je fais le bien. Il n'y a simplement pas d'autre manière pour moi d'être.~
+@296 = ~J'étais... empli de ce désir, par manque d'un meilleur mot, ma dame. Heaum a pris possession de mon cœur dès le premier instant où j'ai contemplé sa gloire, et c'est en Son nom que je fais le bien. Il n'y a simplement pas d'autre manière pour moi d'être.~
 @297 = ~J'ai étudié avec diligence à l'église de Heaum et je me suis formé à l'escrime. L'un de mes professeurs était Myrmith Splendon, dont vous avez peut-être entendu parler. Un jour, j'ai fait un rêve : Heaum m'a parlé et m'a dit que j'étais digne de le servir.~
 @298 = ~Je me suis directement rendu au chapitre local de l'Ordre du Coeur Radieux, et à présent, je suis ici.~
 @299 = ~Je t'envie, Ajantis, dans le bon sens du terme. Une voie si claire. Il semble que tu aies trouvé ta place, une fois pour toutes, et je suis certaine que tu réussiras.~
@@ -401,8 +401,8 @@
 @400 = ~C'est génial, Ajantis. Je pense que nous devrions bouger, à présent.~
 @401 = ~Non ma dame, je ne pense pas qu'il ait de connexion. Envin est mort d'une maladie naturelle, pas sous l'impulsion d'un pouvoir maléfique. Mais que le souvenir de sa souffrance pourrait avoir renforcé ma résolution est une idée intéressante. Je dois admettre que je n'y ai jamais pensé, car je n'ai jamais cherché de « raisons » derrière mon désir de devenir paladin.~
 @402 = ~J'ai choisi une voie différente de celle de mes parents, frères et soeurs. Les Ilvastarrs ne sont pas connus pour leurs aptitudes au combat.~
-@403 = ~Voudriez-vous jeter un coup d'oeil au bouclier de ma famille, dame <CHARNAME> ? Voici notre blason : un dragon avec un corps vert métallique et des yeux oranges sur un champ doré. Vous pourriez penser qu'il a appartenu à la famille d'un fier chevalier, et qu'il a été conçu pour terrifier les ennemis des Ilvastarrs sur le champ de bataille. Et pourtant, c'est le résultat des aspirations artistiques de mon arrière-grand-père.~
-@404 = ~Voudriez-vous jeter un oeil sur le blason de ma famille, ici, sur mon surcot : un dragon avec un corps vert métallique et des yeux oranges sur un champ doré. Vous pourriez penser qu'il a appartenu à la famille d'un fier chevalier, et qu'il a été conçu pour terrifier les ennemis des Ilvastarrs sur le champ de bataille. Et pourtant, c'est le résultat des aspirations artistiques de mon arrière-grand-père.~
+@403 = ~Voudriez-vous jeter un coup d'œil au bouclier de ma famille, dame <CHARNAME> ? Voici notre blason : un dragon avec un corps vert métallique et des yeux oranges sur un champ doré. Vous pourriez penser qu'il a appartenu à la famille d'un fier chevalier, et qu'il a été conçu pour terrifier les ennemis des Ilvastarrs sur le champ de bataille. Et pourtant, c'est le résultat des aspirations artistiques de mon arrière-grand-père.~
+@404 = ~Voudriez-vous jeter un œil sur le blason de ma famille, ici, sur mon surcot : un dragon avec un corps vert métallique et des yeux oranges sur un champ doré. Vous pourriez penser qu'il a appartenu à la famille d'un fier chevalier, et qu'il a été conçu pour terrifier les ennemis des Ilvastarrs sur le champ de bataille. Et pourtant, c'est le résultat des aspirations artistiques de mon arrière-grand-père.~
 @405 = ~Mon arrière-grand-père était un homme remarquable, ma dame. La rumeur dit même qu'il était l'un des Seigneurs Masqués d'Eauprofonde.~
 @406 = ~Il devint fatigué de l'arrogance et de l'étroitesse d'esprit des nobles, qui ne se souciaient de rien sinon de leurs propres désirs.~
 @407 = ~Il ouvrit sa maison à diverses idées artistiques et intellectuelles, essayant d'apprendre et de comprendre ce monde autant qu'il le pouvait.~
@@ -488,7 +488,7 @@
 @487 = ~C'est très vrai. Tu sais, il y avait beaucoup d'autres personnes qui m'étaient chères à Château-Suif.~
 @488 = ~Je préfère ne pas bavarder en ce moment, Ajantis.~
 @489 = ~Bien sûr. Parlez-moi d'eux.~
-@490 = ~Eh bien, il y avait Imoen... Nous avons grandi ensemble, comme des soeurs.~
+@490 = ~Eh bien, il y avait Imoen... Nous avons grandi ensemble, comme des sœurs.~
 @491 = ~Eh bien, en y réfléchissant, j'avais peu de contacts avec les enfants de mon âge, à part avec Imoen. Mais il y avait des personnes sympathiques aux alentours : Dreppin, le chef des étables, Fuller, le commandant de la Garde de Château-Suif, et Hull, l'un des gardes. Et puis il y avait Phlydia, une magicienne dont la distraction était proverbiale, et bien sûr, Winthrop, l'aubergiste jovial.~
 @492 = ~J'ai passé beaucoup de temps avec les amis de Gorion. La plupart d'entre eux étaient de vieux mages. Perleflamme Cheveux d'elfe, Téthtoril, Parda et Karan... et tous les moines, bien sûr. Théodon et Jessup, pour en citer quelques uns, ces deux-là sont terribles. Ils n'ont toujours pas remarqué que je n'avais plus deux ans.~
 @493 = ~J'ai eu un peu d'entraînement au combat, même s'il n'était pas aussi structuré que le tien. Jondalar m'a enseigné un truc ou deux pour que je reste en vie au coeur d'une échauffourée, et Obe l'Illusionniste a conjuré toute une bande de monstres, une fois, pour que je m'habitue à me défendre quand les probabilités ne sont pas en ma faveur.~
@@ -812,9 +812,9 @@
 @811 = ~Je ne veux pas que tu me parles ainsi. Nous sommes de bons compagnons et nous combattons ensemble dans un but commun, mais rien de plus.~
 @812 = ~Ma dame, voyez-vous ces corolles qui s'épanouissent le long de notre route ?~
 @813 = ~Tu veux dire celles-là ?~
-@814 = ~Parles-tu des Coeurs de Velours ?~
+@814 = ~Parles-tu des Cœurs de Velours ?~
 @815 = ~Je pense que nous avons des choses plus urgentes à faire que regarder les fleurs, Ajantis.~
-@816 = ~On les appelle Coeurs de Velours, ma dame. Bien que les fleurs ne soient pas plus grandes que l'ongle de mon pouce, leur odeur est particulièrement douce. C'est aussi une fleur utile à connaître : on fabrique une potion de soins avec ses racines. Laissez-moi en cueillir une, que vous puissiez la voir de plus près.~
+@816 = ~On les appelle Cœurs de Velours, ma dame. Bien que les fleurs ne soient pas plus grandes que l'ongle de mon pouce, leur odeur est particulièrement douce. C'est aussi une fleur utile à connaître : on fabrique une potion de soins avec ses racines. Laissez-moi en cueillir une, que vous puissiez la voir de plus près.~
 @817 = ~J'aime beaucoup cette fleur, Ajantis.~
 @818 = ~Eh bien... merci.~
 @819 = ~Ajantis, je ne suis pas d'humeur à écouter un exposé sur la flore de Féérune.~
@@ -1019,7 +1019,7 @@
 @1018 = ~Ne t'en fais pas. Je suis heureuse de l'entendre. Je suis trop fatiguée maintenant, mais une autre nuit, je voudrais que tu viennes à moi.~
 @1019 = ~J'ai pensé à ce que tu as dit récemment, Ajantis, et je pense que cela fait sens. Attendons après le mariage, il n'est pas nécessaire de se presser.~
 @1020 = ~Alors je vous souhaite une bonne nuit, <CHARNAME>. Que votre sommeil soit reposant.~
-@1021 = ~Je vois ceci comme mon devoir de vous donner - esprit, coeur et corps - tout ce dont vous avez besoin pour vous sentir aimée, ma belle <CHARNAME>. Et... en plus, je vous désire.~
+@1021 = ~Je vois ceci comme mon devoir de vous donner - esprit, cœur et corps - tout ce dont vous avez besoin pour vous sentir aimée, ma belle <CHARNAME>. Et... en plus, je vous désire.~
 @1022 = ~Je suis... heureux de l'entendre, mon amour. *Il se penche vers vous et vous donne un tendre baiser.* Alors je vous souhaite une bonne nuit, <CHARNAME>. Que votre sommeil soit reposant.~
 @1023 = ~Vraiment ? Quelle volte-face imprévue. Mon amour, si c'est que vous désirez, j'en suis heureux. Il n'est pas du tout besoin de se presser.~
 @1024 = ~*respire plus profondément* Vous voulez dire ici ? Maintenant ? Je... Oui, bien sûr, mon amour. *Il se penche vers vous et vous donne un baiser tendre, caressant votre joue de ses doigts tremblants.* Laissez-moi... Laissez-moi juste en terminer avec mon équipement... et je serai avec vous dans un moment.~
@@ -1060,7 +1060,7 @@
 @1059 = ~Je suis désolée, Ajantis. J'imagine que c'était trop dur. Essayons à nouveau, je suis certaine que nous finirons par y arriver.~
 @1060 = ~D'un autre côté, tu es un élève impatient, et j'ai pris du plaisir à jouer les professeurs. Avec le temps, j'en suis certaine, cela cessera d'être la seule satisfaction que je retire à coucher avec toi.~
 @1061 = ~Oui, et c'était horrible. Merci, Sire paladin, mais je ne veux plus jamais coucher avec toi.~
-@1062 = ~Permets-moi de citer les anciens sages, garçon maladroit : "Quelle qu'expertise puisse avoir un homme dans les arts, la guerre ou la science, qu'il soit accompli, puissant ou important, s'il est méprisé par les femmes dans l'art de l'amour, c'est un homme mort."~
+@1062 = ~Permets-moi de citer les anciens sages, garçon maladroit : « Quelle qu'expertise puisse avoir un homme dans les arts, la guerre ou la science, qu'il soit accompli, puissant ou important, s'il est méprisé par les femmes dans l'art de l'amour, c'est un homme mort. »~
 @1063 = ~Je ne peux pas croire que vous dites ceci ! J'accepte votre décision, <CHARNAME>, bien qu'elle fasse saigner mon coeur. Par Heaum ! Rompons le profond lien qui nous unit et redevenons de simples compagnons de combat. *soupire* Je resterai à vos côtés et vous soutiendrai durant cette campagne.~
 @1064 = ~Bien que je sois surpris par vos paroles, je suis heureux que vous le voyiez de cette manière, mon amour. *Ajantis vous embrasse sur la joue* Je veux que vous aimiez être avec moi, et je suis désolé si je n'ai pu vous satisfaire cette nuit. A présent, levons-nous. Le devoir nous appelle, comme toujours.~
 @1065 = ~*sourire* On dirait que vous avez aimé ça, mon amour. J'espère que c'était aussi plaisant pour vous que cela l'a été pour moi.~
@@ -1228,7 +1228,7 @@
 @1227 = ~Oui, nous l'avons effectivement résolu de manière différente. Je n'étais pas trop satisfait de ma performance. Saviez-vous qu'au départ, je ne voulais pas que cela ait l'air humoristique, mon amour ? J'avais un poème très différent à l'esprit... Je ne sais pas pourquoi je ne l'ai pas récité alors. Peut-être avais-je peur qu'il ne révèle trop clairement mes sentiments. J'avais peu d'espoir de me retrouver à vos côtés, à l'époque.~
 @1228 = ~S'il vous plaît, laissez-moi vous le réciter maintenant. Il provient des "Stances à la Vue du Dragon D'Or Xzynathernolaguella" de Sire Leontisk.~
 @1229 = ~Ô magnifique créature de grâce et de pouvoir
-Le plus léger de vos pas provoque un séisme en mon coeur
+Le plus léger de vos pas provoque un séisme en mon cœur
 Le plus furtif de vos regards est promesse divine
 Le plus doux de vos souffles embrase les brasiers de l'amour
 

@@ -56,8 +56,8 @@ Amélia est apparemment une créature du Mal qui a réduit Natan en esclavage. N
 @53    = ~Amélia
 
 Amélia est apparemment une succube qui court après des poudres poussiéreuses datant de plusieurs siècles ! Elle a réduit Natan en esclavage afin qu'il les retrouve pour elle. Nous avons accepté de tuer Amélia et de libérer Natan.~
-@54    = ~Je doute qu'elle tienne sa part de marché jusqu'au bout. Du reste, vous ne la tuerez pas réellement - vous ne ferez que la renvoyer dans les Abysses, dont elle est originaire. Les Plans se porteront bien mieux sans une succube capable de voyager discrètement de l'un à l'autre. Tuez-la, mon bon monsieur, je vous en supplie. Je ne peux vous offrir d'argent, mais j'ai trouvé des potions rares dans la cachette du vieux mage - je vous les donnerai, si vous m'apportez la preuve de la mort de cette démone. Un anneau pris à son orteil suffira - je sais qu'on ne peut le lui enlever de son vivant. Hé, ne me regardez pas comme ça ! Je le sais parce que je le sais.~
-         ~Je doute qu'elle tienne sa part de marché jusqu'au bout. Du reste, vous ne la tuerez pas réellement - vous ne ferez que la renvoyer dans les Abysses, dont elle est originaire. Les Plans se porteront bien mieux sans une succube capable de voyager discrètement de l'un à l'autre. Tuez-la, ma bonne dame, je vous en supplie. Je ne peux vous offrir d'argent, mais j'ai trouvé des potions rares dans la cachette du vieux mage - je vous les donnerai, si vous m'apportez la preuve de la mort de cette démone. Un anneau pris à son orteil suffira - je sais qu'on ne peut le lui enlever de son vivant. Hé, ne me regardez pas comme ça ! Je le sais parce que je le sais.~
+@54    = ~Je doute qu'elle tienne sa part de marché jusqu'au bout. Du reste, vous ne la tuerez pas réellement, vous ne ferez que la renvoyer dans les Abysses, dont elle est originaire. Les Plans se porteront bien mieux sans une succube capable de voyager discrètement de l'un à l'autre. Tuez-la, mon bon monsieur, je vous en supplie. Je ne peux vous offrir d'argent, mais j'ai trouvé des potions rares dans la cachette du vieux mage - je vous les donnerai, si vous m'apportez la preuve de la mort de cette démone. Un anneau pris à son orteil suffira - je sais qu'on ne peut le lui enlever de son vivant. Hé, ne me regardez pas comme ça ! Je le sais parce que je le sais.~
+         ~Je doute qu'elle tienne sa part de marché jusqu'au bout. Du reste, vous ne la tuerez pas réellement, vous ne ferez que la renvoyer dans les Abysses, dont elle est originaire. Les Plans se porteront bien mieux sans une succube capable de voyager discrètement de l'un à l'autre. Tuez-la, ma bonne dame, je vous en supplie. Je ne peux vous offrir d'argent, mais j'ai trouvé des potions rares dans la cachette du vieux mage - je vous les donnerai, si vous m'apportez la preuve de la mort de cette démone. Un anneau pris à son orteil suffira - je sais qu'on ne peut le lui enlever de son vivant. Hé, ne me regardez pas comme ça ! Je le sais parce que je le sais.~
 @55    = ~Comment savez-vous si je porte les potions sur moi, ou si je les ai cachées quelque part ? Comment savez-vous qu'Amélia a encore le manuel ?~
 @56    = ~Je suppose que je n'aurai qu'à me fier à ma chance ! Meurs, ordure !~
 @57    = ~Vous avez raison. Mais je ne prendrais pas le risque de tuer un démon sans quelque récompense substantielle pour inspirer ma bravoure...~
@@ -135,7 +135,7 @@ Amélia est apparemment une succube qui court après des poudres poussiéreuses 
 @129   = ~Je doute que vous le puissiez, mais je souhaite quitter ce Plan.~
 @130   = ~*elle sourit vicieusement* C'est un marché.~
 @131   = ~La vérité épouvantable est que tu n'es qu'un sang-mêlé... Le second sang qui coule dans tes veines est sombre et puissant... A présent, je dois partir. Suivez-moi, mes mignons.~
-@132   = ~Viens plus près de moi, coeur tendre.~
+@132   = ~Viens plus près de moi, cœur tendre.~
 @133   = ~Peuh, ennuyeux mortel, sans échine, sans flammes... mais je n'ai pas le temps de jouer. Donne-moi les poudres ! Ah ! Je te reverrai dans les Neuf Enfers, <CHARNAME> !~
 @134   = ~Vous êtes revenus. Vos coeurs se sont-ils attendris pour la supplique de la pauvre Amélia ? M'aiderez-vous ?~
 @135   = ~Oh, cessez cette comédie tout de suite, succube. J'ai ce que vous voulez. Me l'achèterez-vous ?~
@@ -163,7 +163,7 @@ Amélia est apparemment une succube qui court après des poudres poussiéreuses 
 @157   = ~Ne l'écoutez pas, <CHARNAME>, il est jaloux...~
 @158   = ~Non ! Il a raison ! Il y a des récits affreux sur les baisers de succube ! Restez loin de moi, démone, et échangeons nos marchandises.~
 @159   = ~Vos baisers... Ils tuent, n'est-ce pas ? Vous voulez m'assassiner ! Meurs, monstre fourbe !~
-@160   = ~Ne lui prêtez aucune attention, mon coeur...~
+@160   = ~Ne lui prêtez aucune attention, mon cœur...~
 @161   = ~Peuh, ennuyeux mortel, sans échine, sans flammes... tenez, prenez ce collier. Je ne l'ai jamais apprécié, de toute façon.~
 @162   = ~Il n'est rien, ma chère, absolument rien.~
 @163   = ~Je vous en prie, faites-le, mon ami, faites-le... Je vous récompenserai pour m'avoir rapporté ces poudres, car elles sont le secret de ma liberté - je le sens !~ ~Je vous en prie, faites-le, mon amie, faites-le... Je vous récompenserai pour m'avoir rapporté ces poudres, car elles sont le secret de ma liberté - je le sens !~
@@ -179,13 +179,13 @@ Amélia est apparemment une succube qui court après des poudres poussiéreuses 
 @173   = ~D'accord, d'accord, donnez-moi vos stupides roses !~
 @174   = ~Amélia
 
-J'ai rencontré une femme étrange mais extrêmement belle, Amélia. Elle nous a demandé de ramener à la vie des roses fanées et de les donner à Natan - un voleur, qui se cache apparemment quelque part dans les ruines de Flammevin. Amélia a dit que je devrais apporter ces roses au Temple de la Chanson du Matin à Bérégost, afin de les restaurer.~
+J'ai rencontré une femme étrange mais extrêmement belle, Amélia. Elle nous a demandé de ramener à la vie des roses fanées et de les donner à Natan, un voleur, qui se cache apparemment quelque part dans les ruines de Flammevin. Amélia a dit que je devrais apporter ces roses au Temple de la Chanson du Matin à Bérégost, afin de les restaurer.~
 @175   = ~Passez une très bonne journée, Amélia.~
 @176   = ~Merci à vous, généreux étrangers, et merci à vous, Coran, de vous montrer aussi compréhensif. Apportez ces roses au temple de Bérégost ; demandez au prêtre de les ramener à la vie et, une fois dans le donjon, donnez-les à Natan. C'est... c'était un voleur. Je crains, néanmoins, qu'il ne soit en colère parce que j'ai rejeté son amour, et il tentera peut-être de vous raconter des absurdités sur mon compte... Je vous en prie, ne le croyez pas !~
 @177   = ~Votre histoire... elle me paraît très suspecte. Les voleurs ne sont pas du genre à demander des serments...~
 @178   = ~Amélia
 
-J'ai rencontré une femme étrange mais extrêmement belle, Amélia. Elle nous a demandé de ramener à la vie des roses fanées et de les donner à Natan - un voleur, qui se cache apparemment quelque part dans les ruines de Flammevin. Amélia a dit que je devrais apporter ces roses au Temple de la Chanson du Matin à Bérégost, afin de les restaurer.~
+J'ai rencontré une femme étrange mais extrêmement belle, Amélia. Elle nous a demandé de ramener à la vie des roses fanées et de les donner à Natan, un voleur, qui se cache apparemment quelque part dans les ruines de Flammevin. Amélia a dit que je devrais apporter ces roses au Temple de la Chanson du Matin à Bérégost, afin de les restaurer.~
 @179   = ~Quelle sorte d'histoire, exactement ?~
 @180   = ~Si ce chien couard tente de vous déshonorer de quelque manière que ce soit, ma dame, nous l'arrêterons. Vous avez assez souffert. Tenez, donnez-moi ces roses, et je vous promets que je ferai de mon mieux pour vous libérer.~
 @181   = ~Les hommes... Ne m'en parlez pas ! Prêts à inventer n'importe quoi, s'ils pensent qu'on leur a marché sur la queue. Ne vous inquiétez pas, soeur, je veillerai à ce qu'il reçoive vos roses !~
@@ -193,7 +193,7 @@ J'ai rencontré une femme étrange mais extrêmement belle, Amélia. Elle nous a
 @183   = ~Malheur à moi ! Combien de temps devrai-je errer sans secours, désespérée, en larmes... *elle sanglote*~
 @184   = ~Amélia
 
-J'ai rencontré une femme étrange mais extrêmement belle, Amélia. Elle nous a demandé de ramener à la vie des roses fanées et de les donner à Natan - un voleur, qui se cache apparemment quelque part dans les ruines de Flammevin. Son histoire avait l'air bizarre et, de toute façon, je n'avais pas le temps de livrer des fleurs, alors j'ai refusé de l'aider.~
+J'ai rencontré une femme étrange mais extrêmement belle, Amélia. Elle nous a demandé de ramener à la vie des roses fanées et de les donner à Natan, un voleur, qui se cache apparemment quelque part dans les ruines de Flammevin. Son histoire avait l'air bizarre et, de toute façon, je n'avais pas le temps de livrer des fleurs, alors j'ai refusé de l'aider.~
 @185   = ~J'aimerais bien le savoir, mon bon seigneur. Quelque protection m'empêche d'entrer. Si je tente de le faire, je suis téléportée en quelque endroit éloigné de Féérune. J'ai fini au Turmish, la dernière fois... c'est pourquoi je n'ose essayer à nouveau.~ ~J'aimerais bien le savoir, ma bonne dame. Quelque protection m'empêche d'entrer. Si je tente de le faire, je suis téléportée en quelque endroit éloigné de Féérune. J'ai fini au Turmish, la dernière fois... c'est pourquoi je n'ose essayer à nouveau.~
 @186   = ~Voilà qui est assez merveilleux et étrange. Nous vous aiderons, ma chère dame, au mieux de nos capacités.~
 @187   = ~Je n'ai pas de temps à perdre avec des roses et des histoires stupides. Mettons-nous en route, camarades.~
@@ -208,7 +208,7 @@ J'ai rencontré une femme étrange mais extrêmement belle, Amélia. Elle nous a
 @196   = ~Oh, c'est plutôt noble de votre part, mon bon elfe. Soyez assez aimable pour me pardonner d'avoir brisé votre petite communauté.~
 @197   = ~Amélia
 
-J'ai rencontré une femme étrange mais extrêmement belle, Amélia. Elle nous a demandé de ramener à la vie des roses fanées et de les donner à Natan - un voleur, qui se cache apparemment quelque part dans les ruines de Flammevin. Son histoire avait l'air bizarre et, de toute façon, je n'avais pas le temps de livrer des fleurs, alors j'ai refusé de l'aider. Coran, cependant, s'est enfui pour aller l'aider. Comme ça lui ressemble.~
+J'ai rencontré une femme étrange mais extrêmement belle, Amélia. Elle nous a demandé de ramener à la vie des roses fanées et de les donner à Natan, un voleur, qui se cache apparemment quelque part dans les ruines de Flammevin. Son histoire avait l'air bizarre et, de toute façon, je n'avais pas le temps de livrer des fleurs, alors j'ai refusé de l'aider. Coran, cependant, s'est enfui pour aller l'aider. Comme ça lui ressemble.~
 @198   = ~Oh, vous êtes la compagnie la plus noble que j'aie jamais rencontrée ! Coran, mon brave elfe, me prendrez-vous ces affreuses roses ?~
 @199   = ~Ce s'ra un plais... Aie ! Ouille ! Elles ont certainement gardé leurs épines !~
 @200   = ~Mon pauvre héros, êtes-vous blessé ? Ah, je suis si maladroite ! J'ai égratigné l'homme le plus merveilleux que j'aie jamais rencontré... vous devez me trouver épouvantable. Laissez-moi bander votre blessure avec mon mouchoir...~

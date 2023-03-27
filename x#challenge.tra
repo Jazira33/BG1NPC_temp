@@ -48,13 +48,13 @@ Un Défi pour vos soupirants
 Afin qu'ils prouvent leur amour et leur fidélité ?~
 @37   = ~Puis-je connaître les règles d'engagement avant de continuer, Ô Maître des Défis ?~
 @38   = ~Hum, pourriez-vous m'expliquer qui, par les Neuf Enfers, vous êtes, dans un langage courant ?~
-@39   = ~*Après y avoir réfléchi un moment, vous décidez de ne pas lancer de Défi. Votre coeur appartient déjà à Ajantis...*~
-@40   = ~*Après y avoir réfléchi un moment, vous décidez de ne pas lancer de Défi. Votre coeur appartient déjà à Coran...*~
-@41   = ~*Après y avoir réfléchi un moment, vous décidez de ne pas lancer de Défi. Votre coeur appartient déjà à Xan...*~
+@39   = ~*Après y avoir réfléchi un moment, vous décidez de ne pas lancer de Défi. Votre cœur appartient déjà à Ajantis...*~
+@40   = ~*Après y avoir réfléchi un moment, vous décidez de ne pas lancer de Défi. Votre cœur appartient déjà à Coran...*~
+@41   = ~*Après y avoir réfléchi un moment, vous décidez de ne pas lancer de Défi. Votre cœur appartient déjà à Xan...*~
 @42   = ~Attendez ! Qu'en est-il de Xan d'Evereska ?~
 @43   = ~Je voudrais que vous lanciez un Défi à Sire Ajantis Ilvastarr d'Eauprofonde et au bon elfe Coran du Téthyr.~
 @44   = ~Xan d'Evereska ? Oh, ce gentilhomme a décliné, disant, et je le cite : « C'est sans espoir ».~
-@45   = ~Mais si votre coeur lui appartient, Ma Dame, je vous encouragerais à l'annoncer dès à présent, pour que nous puissions éviter les défis.~
+@45   = ~Mais si votre cœur lui appartient, Ma Dame, je vous encouragerais à l'annoncer dès à présent, pour que nous puissions éviter les défis.~
 @46   = ~J'ai préparé des défis d'esprit et de force pour vos soupirants, Ma Dame. Aucun d'entre eux n'est réel, aucun d'entre eux n'est dangereux, car ils ne sont qu'un produit de mon imagination et de la leur. Vous serez engagée dans leur rêve et participerez ou devrez vous tenir à l'écart pour observer, c'est selon. Une fois que vous y serez engagée, cela apparaîtra identique à la réalité.~
 @47   = ~Le total des défis est de quatre, car il y a quatre éléments sur terre, quatre coins du monde, et on m'a payé pour quatre.~
 @48   = ~Après chaque défi, je vous demanderai de faire votre choix. Si votre coeur vous demeure illisible, nous essaierons encore. Si vous ne parvenez pas à donner votre coeur à l'un de ces gentilhommes après les quatre défis, ils ont tous les deux accepté de mettre fin à leur cour. Aucun des deux n'essaiera de vous faire changer d'avis lorsque que les quatre défis seront terminés.~
@@ -69,8 +69,8 @@ Afin qu'ils prouvent leur amour et leur fidélité ?~
 @57   = ~Dame <CHARNAME> a pris sa décision ! Sire Ajantis Ilvastarr d'Eauprofonde, mes chers elfes Xan d'Evereska et Coran du Téthyr, comme le veut notre accord, vous ne chercherez plus les faveurs de <CHARNAME>, désormais.~
 @58   = ~Eh bien, Ma Dame, c'est assez simple. Je gagne ma vie en réglant des problèmes de triangles amoureux. Ajantis et Coran, vos compagnons, veulent que vous décidiez qui vous préférez. Donc, je peux leur proposer des défis à réaliser et, en observant leur déroulement, vous pouvez décider lequel des deux est le plus cher à votre coeur.~
 @59   = ~Pouvez-vous m'expliquer les règles d'engagement avent de continuer, alors ?~
-@60   = ~Après un moment de réflexion, vous décidez de ne pas lancer de Défi. Votre coeur appartient déjà à Ajantis...~
-@61   = ~Après un moment de réflexion, vous décidez de ne pas lancer de Défi. Votre coeur appartient déjà à Coran...~
+@60   = ~Après un moment de réflexion, vous décidez de ne pas lancer de Défi. Votre cœur appartient déjà à Ajantis...~
+@61   = ~Après un moment de réflexion, vous décidez de ne pas lancer de Défi. Votre cœur appartient déjà à Coran...~
 @62   = ~J'ai quatre défis dans ma manche : les hommes peuvent combattre pour que vous puissiez juger de leurs compétences et agilité, les hommes peuvent vous divertir, les hommes peuvent vous présenter un cadeau de cour, et les hommes peuvent vous sauver des griffes d'un dragon. Que choisissez-vous ?~
 @63   = ~Je voudrais voir les hommes combattre.~
 @64   = ~Je voudrais que les hommes me divertissent.~
@@ -112,7 +112,7 @@ Afin qu'ils prouvent leur amour et leur fidélité ?~
 @100  = ~Votre Majesté a l'âme magnanime, mais ils existent certaines personnes qui l'utiliseraient contre vous. Je ne tolérerai pas d'espion dans le palais.~
 @101  = ~Un espion, mon cher Général ? Pour qui espionnerait-il ? Les humains ? C'est un elfe.~
 @102  = ~Ai-je besoin de rappeler à Votre Majesté que certaines personnes demeurent loyales aux Exilés en dépit de leurs viles actions ? Je suis en droit de croire qu'ils ont l'intention de répliquer à la miséricorde de votre Majesté d'une noire trahison. Le fait que les Exilés aient échappé à notre surveillance est preuve de mes inquiétudes.~
-@103  = ~Oh, Elhan, vous êtes peut-être un homme, mais piètre juge du coeur des hommes. Jonel, l'Exilé, reviendra bientôt, éclairé par ses expériences dans le monde des hommes et des femmes mortels. Il apprendra à apprécier les trésors qu'il avait pris pour acquis.~
+@103  = ~Oh, Elhan, vous êtes peut-être un homme, mais piètre juge du cœur des hommes. Jonel, l'Exilé, reviendra bientôt, éclairé par ses expériences dans le monde des hommes et des femmes mortels. Il apprendra à apprécier les trésors qu'il avait pris pour acquis.~
 @104  = ~Et si ce n'est pas le cas ? Et si, alors que nous parlons, il tisse les principes d'une conspiration ? Et si ce... ruffian et sa... dame en faisaient partie ?~
 @105  = ~Et si ce n'est pas le cas ? Et si, alors que nous parlons, il est en train de tisser les principes d'une conspiration ? Et si ce... ruffian et sa dame N'Tel'Quess en faisaient partie ?~
 @106  = ~Ce sont des amants, Elhan, pas des assassins. Et si vos peurs deviennent réalité et que les Exilés sont effectivement en train de préparer un plan contre Suldanessalar, alors je vous ai pour préserver la paix de la Reine, n'est-ce pas ?~
@@ -147,7 +147,7 @@ Afin qu'ils prouvent leur amour et leur fidélité ?~
 @135  = ~*avec ferveur* Je ne pense pas... Je le sens, dans mes os, dans mon coeur.~
 @136  = ~*à voix basse et rapidement, à <CHARNAME>* Ma douce, à mon avis, nous avons deux possibilités : vous prenez vos jambes à votre cou pendant que je divertis le dragon, ou je mets fin à cette farce, et je la combats...~
 @137  = ~Tu veux dire « nous » la combattons ? C'est raisonnable.~
-@138  = ~*de mauvaise humeur* Et puis-je savoir comment, exactement, tu vas la "divertir" ?~
+@138  = ~*de mauvaise humeur* Et puis-je savoir comment, exactement, tu vas la « divertir » ?~
 @139  = ~Laisse-moi essayer d'être juste. Si une femme succombait aux demandes d'un homme puissant pour sauver la vie de son amant, je considérerais que c'est noble, et tancerait son amant s'il la dénigrait pour cela. Donc, je vais accepter ton offre, Coran.~
 @140  = ~Ce gros et gras lézard ne t'aura jamais ! Je la tuerais plutôt !~
 @141  = ~Coran, comment peux-tu suggérer une chose pareille ?! Ça me dégoûte !~

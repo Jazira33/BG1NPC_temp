@@ -150,7 +150,7 @@
 @133  = ~Continue, Xan. Il y a donc un Collège de Magie et des Armes à Evereska, ainsi que des temples et des montagnes. Quoi d'autre ?~
 @134  = ~Tu veux parier, Xan ? Cette bague en argent contre ta Lame de Lune que nous parcourrons bientôt ensemble les rues d'Evereska !~
 @135  = ~Xan, fais saigner ton coeur aussi longtemps que tu le souhaites, mais fais-le en silence !~
-@136  = ~Au moins si je meurs, je n'aurais plus à écouter les insultes. Les miens ne sont pas "gris", <CHARNAME>.~
+@136  = ~Au moins si je meurs, je n'aurais plus à écouter les insultes. Les miens ne sont pas « gris », <CHARNAME>.~
 @137  = ~Lle holma ve' edan... Je vais traduire pour toi : tu sens comme un humain. Ce qui n'est pas étonnant puisque c'en est un qui t'a élevé. J'aimerais maintenant passer les derniers moments de ma vie aussi agréablement que possible, alors éloigne-toi de moi. Je préfère sentir l'odeur de la vase et écouter le bruit de succion que fait la boue alors que l'on s'enfonce dedans.~
         ~Lle holma ve' edan... Je vais traduire pour toi : tu sens comme un humain. Ce qui n'est pas étonnant puisque c'en est un qui t'a élevée. J'aimerais maintenant passer les derniers moments de ma vie aussi agréablement que possible, alors éloigne-toi de moi. Je préfère sentir l'odeur de la vase et écouter le bruit de succion que fait la boue alors que l'on s'enfonce dedans.~
 @138  = ~Moi-même, je trouve que le contraste entre les deux est presque insupportable. *soupir*~
@@ -231,7 +231,7 @@
 @208  = ~Bien sûr que non. Mais une sole au beurre, une petite salade verte et un petit vin rouge toscan n'améliorerait pas votre opinion sur la vie ?~
 @209  = ~Non. Mais c'est l'idée la moins repoussante que vous ayez formulée, alors pourquoi ne pas l'étudier.~
 @210  = ~Non. Si nous tentions l'expérience, j'augmenterais vos souffrances en *vous* bousculant à chaque fois que vous vous arrêteriez pour regarder bêtement un champignon vénéneux.~
-@211  = ~Que voulez-vous maintenant, Ajantis ? Est-ce que vous avez l'intention de me "châtier" ?~
+@211  = ~Que voulez-vous maintenant, Ajantis ? Est-ce que vous avez l'intention de me « châtier » ?~
 @212  = ~Le Mal doit être châtié, tôt ou tard. Avec vos jérémiades incessantes et votre peur de la mort, je suis certain qu'elle viendra vous trouver bientôt.~
 @213  = ~Et vous ? Vous pensez survivre combien de temps ? Est-ce que vous pensez survivre à cette mésaventure que nous vivons ?~
 @214  = ~Cela m'importe peu, de mourir aujourd'hui ou demain. Tant que je continue de me battre pour une juste cause, j'aurai de l'espoir.~
@@ -424,7 +424,7 @@
 @401  = ~Essayez un peu, et vous verrez tous deux beaucoup plus qu'un « soupçon » de mes sorts.~
 @402  = ~*soupir* Je le savais ! Vous n'êtes qu'un allumeur. Partez donc, ô dragueur morbide.~
 @403  = ~Yeslick, toutes choses sont maudites, et c'est la seule vérité qui existe en ce monde. Notre échec est inévitable. Sans doute qu'un être sensé et sain d'esprit est capable de voir combien nos chances sont inexistantes et combien...~
-@404  = ~Est-ce qu'tu vas t'taire ! Ca fait des heures qu'tu nous casses les oreilles ! "Nous sommes tous perdus", pff ! Est-ce qu'tu vas rien faire d'plus que geigner toute la journée - encore - ou est-ce qu'tu vas prendre les choses en main ?~
+@404  = ~Est-ce qu'tu vas t'taire ! Ca fait des heures qu'tu nous casses les oreilles ! « Nous sommes tous perdus », pff ! Est-ce qu'tu vas rien faire d'plus que geigner toute la journée - encore - ou est-ce qu'tu vas prendre les choses en main ?~
 @405  = ~Contrairement à ceux qui ont une tête vide et un tempérament instable, je ne fais qu'accepter le destin qui nous attend. Ni vous ni moi ne pouvons changer cela.~
 @406  = ~Y'a pas une goutte de juste colère en toi, elfe ? Balivernes ! Tu viens dans c'te partie du monde, avec ton épée enflammée : pourquoi te battre alors, puisque tout ceci n'est qu'une course pour les fous, hein ? Hein ?~
 @407  = ~Cela n'est pas une course pour les fous, Yeslick. C'est une course pour les maudits. *soupir* Mais j'imagine que dans votre cas, il y a peu de différence.~

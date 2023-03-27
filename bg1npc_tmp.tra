@@ -127,7 +127,7 @@ Sans doute Imoen ne deviendra jamais un maître joaillier mais le collier est as
 @46    = ~~ [GSLIM01]
 @47    = ~~ [GSLIM02]
 // Fin sons
-@48    = ~Une fiole d'un liquide vert écoeurant~
+@48    = ~Une fiole d'un liquide vert écœurant~
 @49    = ~Une fiole de concentré nauséabond~
 @50    = ~Ha, ha, trop drôle !
   Xzar a une fiole !~
@@ -839,7 +839,7 @@ Inutilisable par :
 // Ensemble de sons présents dans BG II, à conserver tel quel
 @424   = ~Je suis le loup qui vit au milieu des moutons.~ [VAMPFX01]
 @425   = ~Je reviendrai !~ [VAMPFX09]
-@426   = ~Je vais me repaître de votre coeur !~ [VAMPFX05]
+@426   = ~Je vais me repaître de votre cœur !~ [VAMPFX05]
 @427   = ~Soyez honorés d'être à mon menu !~ [VAMPFX06]
 @428   = ~~ [VAMPFX07]
 @429   = ~Voyons quel goût vous avez...~ [VAMPFX02]
